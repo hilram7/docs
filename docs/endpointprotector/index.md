@@ -16,7 +16,6 @@ endpoints such as laptops, desktops, and servers. Endpoint Protector addresses t
 robust suite of features including Device Control, Content Aware Protection, eDiscovery, and
 Enforced Encryption.
 
-
 Device Control empowers organizations to manage and monitor all device activities at the endpoint,
 ensuring that sensitive data remains protected from unauthorized access or transfer. Content Aware
 Protection extends this security by scanning and detecting sensitive content at all potential exit

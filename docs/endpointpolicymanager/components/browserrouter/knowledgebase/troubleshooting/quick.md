@@ -16,7 +16,7 @@ typically inside a GPO.
 
 To understand how / where your license keys might live, please check this video:
 
-[https://kb.endpointpolicymanager.com/kb/article/458-policypak-licensing-onpremise-licensing-methods-compared](https://kb.endpointpolicymanager.com/kb/article/458-policypak-licensing-onpremise-licensing-methods-compared)
+[https://kb.policypak.com/kb/article/458-policypak-licensing-onpremise-licensing-methods-compared](https://kb.policypak.com/kb/article/458-policypak-licensing-onpremise-licensing-methods-compared)
 
 Also, before continuing, reboot the endpoint with the Endpoint Policy Manager CSE / Endpoint Policy
 Manager Browser Router installed upon it.

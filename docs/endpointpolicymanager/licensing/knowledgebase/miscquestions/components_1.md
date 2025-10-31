@@ -70,5 +70,5 @@ To generate license request keys for Endpoint Policy Manager On-Prem suite endpo
 fort additional information.
 
 Once you acquire licenses from our sales team, you can implement them in two ways.
-[See PolicyPak Solution Methods: Group Policy, MDM, UEM Tools, and PolicyPak Cloud compared. for additional information on ](https://kb.policypak.com/kb/article/489-policypak-licensing-onpremise-licensing-methods-compared)
+[See PolicyPak Solution Methods: Group Policy, MDM, UEM Tools, and PolicyPak Cloud compared. for additional information on ](https://docs.netwrix.com/docs/endpointpolicymanager/licensing/knowledgebase/miscquestions/licensingmethods)
 how to import the licenses.

@@ -45,7 +45,7 @@ Perform the following steps to update the database schema:
 2. Depending on the previously selected job, run either the **4-SPSEEK_BulkImport** or **5-SPAA_BulkImport** job to update the schema.
 3. Run the **3-SPAC_SystemScans** job to verify that the issue is resolved.
 
-## Related Articles
+## Related Links
 
 - 0.Collection Job Group — 1-SPSEEK_SystemScans Job · v11.6  
   https://docs.netwrix.com/docs/auditor/10_8

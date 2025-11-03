@@ -70,3 +70,4 @@ The Settings tab has the following features:
 - Delete RDP files after 1 day — If selected, temp files downloaded into the download folder as part
   of Privilege Secure RDP sessions will be removed after 1 day
 - Logout button — Logout of the browser extension
+

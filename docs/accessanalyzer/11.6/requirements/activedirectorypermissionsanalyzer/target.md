@@ -56,3 +56,4 @@ The following firewall ports are needed:
 - TCP 389
 - TCP 135 – 139
 - Randomly allocated high TCP ports
+

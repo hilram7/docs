@@ -187,3 +187,4 @@ function of the .Net Char class.
 - [Script](/docs/directorymanager/11.0/welcome/synchronize/dtmscript/dtmscript.md)
 - [Sample Transform Scripts](/docs/directorymanager/11.0/welcome/synchronize/dtmscript/sampletransformscript.md)
 - [Sample Container Scripts](/docs/directorymanager/11.0/welcome/synchronize/dtmscript/samplecontainerscript.md)
+

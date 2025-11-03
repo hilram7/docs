@@ -53,3 +53,4 @@ The table has the following columns:
   [Activities Page](/docs/privilegesecure/4.2/admin/interface/activities/activities.md) topic for additional information.
 
 The table columns can be resized and sorted in ascending or descending order.
+

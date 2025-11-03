@@ -50,3 +50,4 @@ the ADActivity Data Collector:
 | SA_ADActivity_LDAPEventsView                 | Contains LDAP view                                                       |
 | SA_ADActivity_ProcessEventsDesiredAccessView | Contains detailed process event view with desired access references      |
 | SA_ADActivity_ProcessEventsView              | Contains detailed process event view                                     |
+

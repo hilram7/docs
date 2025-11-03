@@ -185,3 +185,4 @@ The integrated filter makes generating reports quick and easy; simply select the
 and click **Apply Filter**.
 
 ![View system activity regarding data traﬃc and device connections](statistics.webp)
+

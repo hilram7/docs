@@ -48,3 +48,4 @@ Synchronize term set structures between two SharePoint instances via the concept
     - Any changes that would have been made to term sets will be logged to the individual term sets logs, which are visible by clicking the **View Log File** link.
     - Optional advanced options can be found by clicking the **Advanced** button.
 11. Click **Begin Synchronisation**
+

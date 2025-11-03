@@ -24,3 +24,4 @@ Collector drop-down menu.
 script to run after data collection.
 
 See the [VBScript Editor](/docs/accessanalyzer/12.0/admin/datacollector/script/editor.md) topic for additional information.
+

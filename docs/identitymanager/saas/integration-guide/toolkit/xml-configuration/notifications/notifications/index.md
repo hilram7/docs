@@ -25,3 +25,4 @@ sidebar_position: 20
 - [Role Review Notification](/docs/identitymanager/saas/integration-guide/toolkit/xml-configuration/notifications/notifications/rolereviewnotification/index.md)
 
     Reminder notification concerning role review.
+

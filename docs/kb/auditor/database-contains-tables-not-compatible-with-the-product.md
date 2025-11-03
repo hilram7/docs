@@ -49,3 +49,4 @@ Using SQL Management Studio give the Data Processing Account `DB_Owner` rights t
 
 4) Under **Server Roles** you can give **sysadmin** to this account OR alternatively you can go to **User Mapping** and select each Netwrix database individually and add **DB_Owner** permissions.  
    ![User-added image](images/ka04u000000HcT5_0EM700000008DPg.png)
+

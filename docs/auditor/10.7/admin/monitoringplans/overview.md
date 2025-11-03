@@ -81,3 +81,4 @@ the arrows to move the selected snapshots to the **Snapshots available for repor
 finished, click **OK**.
 
 See the [Role-Based Access and Delegation](/docs/auditor/10.7/admin/monitoringplans/delegation.md) topic for additional information.
+

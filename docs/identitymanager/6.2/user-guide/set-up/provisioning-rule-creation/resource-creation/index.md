@@ -124,3 +124,4 @@ Then, you can:
     resource type and the role will be displayed in the user's permissions, but only if the role is
     related to a [Compute a Navigation Property](/docs/identitymanager/6.2/user-guide/set-up/provisioning-rule-creation/navigation-property-computation/index.md).
     Otherwise, only the resource type will be visible.
+

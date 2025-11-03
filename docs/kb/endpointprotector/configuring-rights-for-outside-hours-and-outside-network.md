@@ -35,3 +35,4 @@ This article explains how you configure rights for Outside Hours and Outside Net
 5. For **Content Aware Policies**, select the **Outside Network** and **Outside Hours** policy types as required.
 
 > **IMPORTANT:** When triggered, fallback policies supersede the standard device rights. For fallback policies, **Outside Network Policies** take precedence over **Outside Hours Policies**.
+

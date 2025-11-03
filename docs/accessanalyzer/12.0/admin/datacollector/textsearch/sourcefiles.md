@@ -85,3 +85,4 @@ The Remote Folder Explorer functions are:
 - Delete path – Select a path in the Path box and click **Delete path** to delete the path from the
   search scope
 - Path – Displays the paths that have been added to the search scope
+

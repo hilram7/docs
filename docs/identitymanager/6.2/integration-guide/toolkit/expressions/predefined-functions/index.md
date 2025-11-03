@@ -52,3 +52,4 @@ The following table summarizes existing predefined functions:
 | ParseUniversalDate               | Converts the specified string representation of a date and time to its Coordinated Universal Time (UTC).                                                                                                  | Input string format. | DateTime             |
 | ParseUniversalDateThenAddMinutes | Converts the input string into an UTC DateTime and adds minutes value.                                                                                                                                    | Time zone identifier | Input string format  | Added minutes. | DateTime |
 | FormatLocalDate                  | Converts the specified string into a local DateTime.                                                                                                                                                      | Time zone identifier | Input string format. | DateTime       |
+

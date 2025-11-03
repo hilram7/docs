@@ -70,3 +70,4 @@ Installing a new Agent to monitor Active Directory and File Events Example
 ```
 “SI Agent.exe” /q ENTMGR_IPADDRESS=10.0.21.1 FILE_MONITOR_INSTALL=TRUE AD_MONITOR_INSTALL=TRUE
 ```
+

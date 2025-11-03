@@ -68,3 +68,4 @@ sidebar_position: 30
 - [WorkflowFulfillmentControlRules](/docs/identitymanager/saas/integration-guide/toolkit/xml-configuration/configuration/scaffoldings/accesscontrolrules/jobs/workflowfulfillmentcontrolrules/index.md)
 
     Generates the execution rights to launch Fulfillment workflow for a given profile.
+

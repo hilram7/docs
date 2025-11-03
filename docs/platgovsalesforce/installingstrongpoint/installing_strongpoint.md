@@ -60,3 +60,4 @@ is complete.
 14. Click **I Accept** for the EULA.
 
 **Next Step:** [Run the Getting Started Wizard](/docs/platgovsalesforce/installingstrongpoint/using_getting_started_wizard.md)
+

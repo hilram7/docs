@@ -16,3 +16,4 @@ The Password Security Data Collection contains the following type of scan:
 - WeakPasswordScan – Scans an Active Directory for weak passwords. Returns password information per
   the configurable scan options including clear-text passwords. For additional information on scan
   options, see the[PasswordSecurity: Options](/docs/accessanalyzer/12.0/admin/datacollector/passwordsecurity/options.md) topic.
+

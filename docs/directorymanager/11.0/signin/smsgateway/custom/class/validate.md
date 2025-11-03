@@ -32,3 +32,4 @@ True if all validation checks are passed.
 See Also
 
 - [ShortMessage class](/docs/directorymanager/11.0/signin/smsgateway/custom/class/class.md)
+

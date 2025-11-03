@@ -41,3 +41,4 @@ Operating systems like Ubuntu have released and continue to release patches to a
 Meltdown, Spectre and Ubuntu: What You Need to Know ⸱ Ubuntu — https://ubuntu.com/blog/meltdown-spectre-and-ubuntu-what-you-need-to-know
 
 New Netwrix Endpoint Protector Hardware Appliances ship with the latest patches. For older appliances, please contact Netwrix Support for assistance.
+

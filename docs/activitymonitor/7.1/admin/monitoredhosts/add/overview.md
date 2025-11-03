@@ -30,3 +30,4 @@ following topics for additional information:
 - [SharePoint Online](/docs/activitymonitor/7.1/admin/monitoredhosts/add/sharepointonline.md)
 - [SQL Server](/docs/activitymonitor/7.1/admin/monitoredhosts/add/sqlserver.md)
 - [Windows](/docs/activitymonitor/7.1/admin/monitoredhosts/add/windows.md)
+

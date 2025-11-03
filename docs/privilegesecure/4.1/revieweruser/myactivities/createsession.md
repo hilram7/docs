@@ -56,3 +56,4 @@ icon. Click **Available** to launch the session.
   interchangeably.
 
 Provisioning and active sessions are displayed in the session ribbon, newest sessions to the left.
+

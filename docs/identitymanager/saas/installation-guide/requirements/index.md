@@ -12,3 +12,4 @@ This section identifies hardware and software requirements for each Identity Man
 - [Database](/docs/identitymanager/saas/installation-guide/requirements/database-requirements/index.md)
 - [Server](/docs/identitymanager/saas/installation-guide/requirements/server-requirements/index.md)
 - [Agent](/docs/identitymanager/saas/installation-guide/requirements/agent-requirements/index.md)
+

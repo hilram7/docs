@@ -75,3 +75,4 @@ enter the user credentials.
 The Privilege Secure Console is ready to use. Note that the option to view the recovery codes is no
 longer available after the initial login. From here, create Sessions and Access Policies, manage
 Users and Resources, and review usage data.
+

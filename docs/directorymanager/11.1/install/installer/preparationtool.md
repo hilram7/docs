@@ -78,3 +78,4 @@ below is installed, otherwise uninstall them manually:
 
 After uninstalling the prerequisites, follow the steps given in the Run the Preparation Tool first
 time on a fresh machine section above.
+

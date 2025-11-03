@@ -26,3 +26,4 @@ There are six scaffoldings in Usercube to automatically create jobs in the confi
   mode).
 - [Initialization Job](/docs/identitymanager/6.1/integration-guide/toolkit/xml-configuration/configuration/scaffoldings/jobs/createinitializationjob/index.md)
 - [AccessCertification Job](/docs/identitymanager/6.1/integration-guide/toolkit/xml-configuration/configuration/scaffoldings/jobs/createaccesscertificationjob/index.md)
+

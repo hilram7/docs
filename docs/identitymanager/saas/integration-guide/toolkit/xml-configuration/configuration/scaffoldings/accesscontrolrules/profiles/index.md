@@ -14,3 +14,4 @@ sidebar_position: 50
 - [Profile Administration Access Control Rules](/docs/identitymanager/saas/integration-guide/toolkit/xml-configuration/configuration/scaffoldings/accesscontrolrules/profiles/profileadministrationaccesscontrolrules/index.md)
 
     Gives to a given profile the rights to create, update and delete profiles.
+

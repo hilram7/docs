@@ -64,3 +64,4 @@ For additional information on migrating Netwrix Password Reset using SQL Server 
 ### Related articles
 
 - https://docs.netwrix.com/docs/passwordreset/3_23 (Working with the Database — Moving to SQL Server ⸱ v3.3)
+

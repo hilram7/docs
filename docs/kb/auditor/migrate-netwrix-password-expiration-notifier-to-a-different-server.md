@@ -44,3 +44,4 @@ In Netwrix Auditor versions 9.0 and newer, Netwrix Password Reset is installed a
 Message templates customized via the Netwrix Password Reset UI should be transferred manually — make sure to copy the contents of the **Actions** tab reports highlighted in the screenshot.
 
 ![CslItbePFg.png](images/ka04u00000117hE_0EM4u000007ccac.png)
+

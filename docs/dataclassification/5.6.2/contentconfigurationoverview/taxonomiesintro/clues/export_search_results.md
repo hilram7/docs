@@ -19,3 +19,4 @@ the Queued Reports area. A notification can be sent to an email group upon the c
 processing, when selected:
 
 ![browsetabexport](/images/dataclassification/5.6.2/taxonomies/browsetabexport.webp)
+

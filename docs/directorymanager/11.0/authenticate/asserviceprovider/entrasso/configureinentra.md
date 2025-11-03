@@ -68,3 +68,4 @@ Center:
 16. Back on the **SAML-based sign-on** page, the **Attributes & Claims** card displays the
     attributes used for logging in. Let’s keep the defaults.
 17. On the **SAML Certificates** card, download _Certificate (Base64)_.
+

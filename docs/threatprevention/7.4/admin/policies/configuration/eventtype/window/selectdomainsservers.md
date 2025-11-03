@@ -19,3 +19,4 @@ filter from where you clicked the **Add** (+) button to open this window.
 - When the Included Domains And Servers list is complete, click **OK**.
 
 The selection is displayed in the appropriate box of the Domains/Servers filter.
+

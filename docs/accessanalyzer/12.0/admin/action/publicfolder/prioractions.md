@@ -21,3 +21,4 @@ The options on this page are:
 
 - Select a previously executed action (if available) to rollback
 - Click **Clear rollback record** to remove all actions from the list
+

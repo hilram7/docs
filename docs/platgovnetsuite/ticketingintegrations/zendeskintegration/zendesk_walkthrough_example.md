@@ -134,3 +134,4 @@ There is an options menu available for each added customization. Options include
     ![Add a Customization by Script ID](/images/platgovnetsuite/integrations/jira_example_scriptid.webp)
 
 - **Impact Analysis** and **View ERD** are tools to Zendesk Walkthrough Example.
+

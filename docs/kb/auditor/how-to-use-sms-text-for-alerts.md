@@ -45,3 +45,4 @@ You can configure Netwrix Auditor to send alerts to special SMS-enabled email ad
 - Bell - `cellnumber@txt.bell.ca`
 - Rogers - `cellnumber@pcs.rogers.com`
 - Telus - `msg.telus.com`
+

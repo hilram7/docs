@@ -34,3 +34,4 @@ If you have a third-party Application Whitelisting software installed in your in
 For example, Netwrix Auditor reports might fail because SSRS temp files were locked.
 
 In this scenario, refer to your Whitelisting software documentation for instructions on how to allow specific Netwrix Auditor components to run.
+

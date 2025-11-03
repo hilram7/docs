@@ -40,3 +40,4 @@ follows:
 | On the ServiceNow side  | - ServiceNow version should be any of the following: - Helsinki - Istanbul - Kingston - London **NOTE:** Currently, Jakarta version has only experimental support. - A new user is created and has sufficient permissions to create tickets and update them. The **itil** role is recommended. If you want to reopen closed tickets, you must be granted the right to perform **Write** operations on inactive incidents.                                                                                                                                                                                                                                                |
 
 See the [Integration API](/docs/auditor/10.8/api/overview.md) topic for additional information.
+

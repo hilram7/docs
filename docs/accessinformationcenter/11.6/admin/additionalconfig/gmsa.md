@@ -74,3 +74,4 @@ Click **Save**.
 
 The Access Information Center now connects using the gMSA account. Repeat the steps for each
 required connection using the gMSA.
+

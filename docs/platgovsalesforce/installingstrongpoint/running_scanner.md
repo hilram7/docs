@@ -47,3 +47,4 @@ You can create your own Salesforce view for the scanners:
       ![Viewing running Strongpoint jobs](/images/platgovsalesforce/installing_strongpoint/scanner_view2.webp)
 
 **Next Step:** [Validate the Data ](/docs/platgovsalesforce/installingstrongpoint/validating_data.md)
+

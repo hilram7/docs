@@ -38,3 +38,4 @@ In order to resolve the issue please perform the following steps:
 3. Under **Security -> Logins** find the the Netwrix Data processing account and open it's properties;
 4. Open the **Server Roles** tab and select **sysadmin** role;
 5. Restart the **SQL service**, **SQL Agent Service** and **Reporting** and **Analysis services** if installed.
+

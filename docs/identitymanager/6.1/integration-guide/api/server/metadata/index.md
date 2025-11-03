@@ -727,3 +727,4 @@ Deletes a setting.
 | Code | Description                       | Reference |
 | ---- | --------------------------------- | --------- |
 | 200  | The result of the setting delete. |           |
+

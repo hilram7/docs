@@ -14,3 +14,4 @@ In a Microsoft Entra ID identity stores, you can create the following types of u
 See Also
 
 - [User Management](/docs/directorymanager/11.0/welcome/user/overview.md)
+

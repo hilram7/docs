@@ -67,3 +67,4 @@ Click on a column heading to toggle the sort order based on the column contents.
 records are sorted alphabetically by **User** name.
 
 NetSuite displays 25 records per page. Use the drop down to select other pages of records.
+

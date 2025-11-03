@@ -11,3 +11,4 @@ sidebar_position: 100
 
     Gives access rights to the different navigation elements of the SearchBars of the pages of the
     role model.
+

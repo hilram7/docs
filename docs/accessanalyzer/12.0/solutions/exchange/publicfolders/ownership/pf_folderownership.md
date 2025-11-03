@@ -132,3 +132,4 @@ preconfigured for this job.
 The following analysis task is selected by default:
 
 - Post Process Collection – Applies an index and removes replica duplicates
+

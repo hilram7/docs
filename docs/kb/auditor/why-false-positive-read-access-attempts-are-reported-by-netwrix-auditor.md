@@ -39,3 +39,4 @@ Read access type includes ReadData, ReadAttributes, ReadExtendedAttributes, Read
 ```
 
 What this means is that in some circumstances, just browsing files or clicking through the folder the files are in can trigger reads. In Windows File Explorer, for example, just navigating to a file doesn't always trigger the read but clicking on a file or hovering the mouse over it long enough for the tool tip to pop up, can sometime report as a read.
+

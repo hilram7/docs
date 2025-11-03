@@ -29,3 +29,4 @@ Review the list of the built-in system reports:
   remove.
 - Text Extraction Failures—Provides a list of documents in the core index that failed text
   extraction (granular iFilter error codes). Supports filtering by URL, title and source group.
+

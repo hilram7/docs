@@ -63,3 +63,4 @@ Features**). Uninstall the previous version of Enterprise Auditor File System Sc
 topic for instructions.
 
 The File System Solution can now use the proxy architecture for the latest version of the solution.
+

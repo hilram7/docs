@@ -42,3 +42,4 @@ This article explains how to configure the default sort attribute for search res
 This setting applies to listings on the All Groups, My Groups, and Users pages, as well as searches performed using Advanced Search and the Find dialog box. After applying the setting, results are sorted by the specified attribute in ascending order.
 
 > **NOTE:** If the attribute you select for sorting is not available as a column header in the listing or search results, Netwrix Directory Manager will default to sorting by `displayName`.
+

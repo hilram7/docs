@@ -23,3 +23,4 @@ The following jobs comprise the 3.Computers Job Group:
   blog article for more information about this configuration and the related security risks.
 - [AD_StaleComputers Job](/docs/accessanalyzer/11.6/solutions/activedirectory/computers/ad_stalecomputers.md)
   – Provides details on stale computers that may be candidates for cleanup
+

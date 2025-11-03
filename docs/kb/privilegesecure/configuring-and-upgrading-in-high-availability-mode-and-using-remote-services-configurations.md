@@ -286,3 +286,4 @@ The following steps allow you to manually configure critical HA settings on your
    host  all  all  %PRIMARY_IP%/32  md5
    ```
    Replace the `%PRIMARY_IP%` placeholders with the IP address of your primary server. Save the changes.
+

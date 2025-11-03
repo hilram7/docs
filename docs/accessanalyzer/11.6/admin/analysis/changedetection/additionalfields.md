@@ -20,3 +20,4 @@ Choose any additional fields to be collected with change analysis using the foll
 - Hide system columns – Hide columns
 - Checked – Order the list by selected items
 - Column Name – Name of the field
+

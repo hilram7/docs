@@ -18,3 +18,4 @@ The Deletions dashboard contains the following cards:
 - Latest Events – Tabular format of all deletion events recorded in the specified timeframe
 
 The specified timeframe is set by default to the Last 24 hours, or past day.
+

@@ -44,3 +44,4 @@ indicates the current column and sort order being used for the results.
 -  **Tests Selected**: Number of selected tests.
 
 ![Successful Deployment Logs Report](/images/platgovsalesforce/reports/report_deploy_success.webp)
+

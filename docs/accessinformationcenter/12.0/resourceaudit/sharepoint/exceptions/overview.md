@@ -26,3 +26,4 @@ identified:
 
 The Exceptions report for each exception type level displays filtered exception information. See the
 [Exceptions by Type Report](/docs/accessinformationcenter/12.0/resourceaudit/sharepoint/exceptions/exceptionsbytype.md) topic for the report details.
+

@@ -41,3 +41,4 @@ The default analysis task is:
 
 - AIC Import - Redshift Permissions – Imports Redshift table privileges to the AIC.
 - AIC Import - Databases – Imports Redshift database and schema nodes to the AIC.
+

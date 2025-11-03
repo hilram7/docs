@@ -105,3 +105,4 @@ The following are supported Microsoft® SharePoint® operating systems:
 
 See the [SharePoint Scan Options](/docs/accessanalyzer/12.0/requirements/sharepoint/scanoptions/scanoptions.md) topic for additional
 information.
+

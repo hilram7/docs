@@ -64,3 +64,4 @@ The default values for customizable parameters are:
 | Analysis Task      | Customizable Parameter Name | Default Value | Instruction                                                              |
 | ------------------ | --------------------------- | ------------- | ------------------------------------------------------------------------ |
 | Stale File Details | @stale                      | 365           | Determines days since last modification that files are considered stale. |
+

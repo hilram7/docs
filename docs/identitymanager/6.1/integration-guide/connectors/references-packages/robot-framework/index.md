@@ -16,3 +16,4 @@ Fulfills an external system using a Robot Framework script.
 | Fulfill                 | Usercube-Fulfill-RobotFramework.dll |
 | Has Incremental Mode    | False                               |
 | Publisher               | Usercube                            |
+

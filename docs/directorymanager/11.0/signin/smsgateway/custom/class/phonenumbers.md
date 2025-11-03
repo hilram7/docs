@@ -28,3 +28,4 @@ A list of mobile phone numbers.
 See Also
 
 - [ShortMessage class](/docs/directorymanager/11.0/signin/smsgateway/custom/class/class.md)
+

@@ -65,3 +65,4 @@ This API updates a user's information in the specified identity store.
     "status": 0
 }
 ```
+

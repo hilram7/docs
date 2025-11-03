@@ -35,3 +35,4 @@ Sensitive Data Discovery Auditing, on SharePoint servers.
 
 See the [SharePoint Agent Installation](/docs/accessanalyzer/12.0/install/sharepointagent/overview.md) topic for additional
 information.
+

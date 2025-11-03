@@ -63,3 +63,4 @@ The Rollback Record must be approved before it can be executed.
     ![Review the Rollback log](/images/platgovsalesforce/release_management/rollback_log.webp)
 
 6. Click on the report to open it. Check the **Notes & Attachments** for a rollback validation file.
+

@@ -44,3 +44,4 @@ The dashboard includes the following widgets:
 You can also instruct Netwrix Auditor to forward similar statistics as a health summary email to
 personnel in charge. For that, click Notification settings, then follow the steps described in the
 [Notifications](/docs/auditor/10.7/admin/settings/notifications.md) topic.
+

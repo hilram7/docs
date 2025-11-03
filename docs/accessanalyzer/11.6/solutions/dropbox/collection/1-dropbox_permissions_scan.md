@@ -66,3 +66,4 @@ collect permissions at the file level. When finished with this page, click **Nex
 **Cancel** if no changes were made. Then click **OK** to close the Query Properties window.
 
 If changes were made, the 1-Dropbox_Permissions Scan job has now been customized.
+

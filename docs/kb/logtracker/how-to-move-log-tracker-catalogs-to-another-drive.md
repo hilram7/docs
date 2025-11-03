@@ -58,3 +58,4 @@ Follow the procedure below to move the **Catalogs** folder to another disk. The 
 No other steps are necessary.
 
 Please note that the above procedure assumes that the `E:\` drive has sufficient space to contain the catalogs and that the `E:\` drive is present on the system; please select the correct drive letter.
+

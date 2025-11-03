@@ -65,3 +65,4 @@ app token.
 **Step 6 –** Click **Finish** to confirm the changes.
 
 The application is added to the table on the Access page.
+

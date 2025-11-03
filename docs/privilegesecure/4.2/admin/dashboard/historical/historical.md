@@ -94,3 +94,4 @@ supports partial string matching.
 
 When metadata is searched and a recorded session is opened, we jump to the point of the recording
 where the metadata first appears.
+

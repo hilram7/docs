@@ -47,3 +47,4 @@ This article explains how you can enforce the Group Type as `Distribution` in th
 12. Click **OK** to close the dialog boxes and save your changes.
 
 After saving your changes, the Group Type field will default to `Distribution` in the Self-Service portal, and users will not be able to change it. This ensures that all newly created groups are distribution lists only.
+

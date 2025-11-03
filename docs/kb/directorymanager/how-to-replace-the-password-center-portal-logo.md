@@ -49,3 +49,4 @@ Yes, you can replace the Password Center logo. Follow the steps below.
 ![Password Center portal with updated logo](images/ka0Qk000000CapJ_0EMQk00000Az8kU.png)
 
 > **NOTE:** Adjust the dimensions of your logo as needed to fit the portal layout.
+

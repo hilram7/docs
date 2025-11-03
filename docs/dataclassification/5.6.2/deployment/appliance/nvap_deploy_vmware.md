@@ -26,3 +26,4 @@ sidebar_position: 40
     | Ready to Complete    | Review your virtual machine settings. Click Finish to exit the wizard.                                                                                                                                                                    |
 
 3. Select the newly created virtual machine and click Power On.
+

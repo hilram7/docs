@@ -64,3 +64,4 @@ The Performance Options section allows the user to modulate the efficiency of SD
     should be 1 to 2 times the number of CPU threads available.
 
     :::
+

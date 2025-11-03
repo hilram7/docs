@@ -16,3 +16,4 @@ configurations and customizations can be done by Administrators:
 - [Timeout Parameter](/docs/accessinformationcenter/11.6/admin/additionalconfig/timeoutparameter.md)
 - [Group Managed Service Account (gMSA) Configuration](/docs/accessinformationcenter/11.6/admin/additionalconfig/gmsa.md)
 - [Microsoft Entra ID Single Sign-On](/docs/accessinformationcenter/11.6/admin/additionalconfig/entraidsso.md)
+

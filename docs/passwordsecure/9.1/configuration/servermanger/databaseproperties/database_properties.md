@@ -32,3 +32,4 @@ The following can be defined in the General Settings:
 - **Lock clients if login is incorrect (IP address)** – Lock IP if login is incorrect
 - **Enable real-time update** – Enables/disables real-time update between clients **(default is
   active)**
+

@@ -45,3 +45,4 @@ This article summarizes the network ports used by Netwrix Endpoint Protector Ser
 
 - SSH access (port `22`) should be enabled only when support intervention is required and restricted to trusted sources.
 - All communication between Netwrix Endpoint Protector Server and Clients is encrypted over HTTPS (port `443`).
+

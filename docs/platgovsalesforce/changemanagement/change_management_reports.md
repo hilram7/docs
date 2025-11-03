@@ -29,3 +29,4 @@ Open **Netwrix Dashboard** > **Reports** > **Change Enablement** and select one 
 - **Data Tracking Change Logs**: displays changes on objects set for data tracking.
 - **Change/Approval Policy Changes**: this report is based on Field History Tracking. You can track up to 20 fields from the Policy Record. Salesforce starts tracking field history from the date and time you turn it on a field.
 - **Fast Scan for Permissions Changes**: displays all changes detected in PermissionSet, PermissionSetGroup, and Profiles by the Fast Scan.
+

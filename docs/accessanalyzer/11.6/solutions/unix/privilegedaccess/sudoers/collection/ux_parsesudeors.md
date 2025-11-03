@@ -22,3 +22,4 @@ The query is preconfigured for this job. Never modify the query.
 The query for the UX_ParseSudoers job is:
 
 - ParseSudoers – Parses the sudoers file on the target host
+

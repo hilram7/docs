@@ -29,3 +29,4 @@ Select any desired scan options:
     - NTLM
     - Kerberos
     - Digest
+

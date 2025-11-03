@@ -35,3 +35,4 @@ A service account with one of the following permission configurations is require
 - **Global Administrator**
 - **Exchange Administrator:** Can manage all aspects of the Exchange product.
 - **User Administrators:** (User Account Administrator) Can manage all aspects of users and groups, including resetting passwords for limited administrators.
+

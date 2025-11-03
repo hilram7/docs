@@ -15,3 +15,4 @@ Below are architectural overview diagrams for Netwrix Privilege Secure for Disco
 ![architectureoverview](/images/privilegesecure/4.2/discovery/requirements/architectureoverview.webp)
 
 ![singlenodearchitecture](/images/privilegesecure/4.2/discovery/requirements/singlenodearchitecture.webp)
+

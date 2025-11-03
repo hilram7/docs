@@ -51,3 +51,5 @@ happening in the same browser at the same time. Every other site that uses Java 
 going to fall upward to whatever is latest on the machine. If that's as magical to you as it is to
 me, then sign up for our webinar. We will get you started on your 30-day free trial right away.
 Thanks so much
+
+

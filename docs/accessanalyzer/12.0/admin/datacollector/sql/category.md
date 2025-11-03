@@ -145,3 +145,4 @@ The query categories are:
 - Utilities
 
     - Remove Storage Data – Removes stored data for specific instances on a specific host
+

@@ -46,3 +46,4 @@ To only import new templates, check the **Apply to All** box and select **Skip**
 **Step 7 –** When the Operation Completed message us displayed, click **OK**.
 
 These new policy templates can now be accessed from under the Templates node in the Navigation pane.
+

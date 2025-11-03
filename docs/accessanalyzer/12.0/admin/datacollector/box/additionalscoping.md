@@ -18,3 +18,4 @@ Configure the scan depth level:
   according to the [Box: Exclusions Page](/docs/accessanalyzer/12.0/admin/datacollector/box/exclusions.md) settings. If the scoping depth is set to
   **0** then only root will be scanned. Each increment will add another level of depth from root
   level.
+

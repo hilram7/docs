@@ -258,3 +258,4 @@ to test if your filter statement is working as desired. Save the investigation f
 also add subscriptions or export the report data using the options above the Filters section.
 
 See the [Investigation Reports](/docs/threatmanager/3.0/administration/investigations/reports.md) topic for additional information.
+

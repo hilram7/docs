@@ -240,3 +240,4 @@ To access Audit Database, generate reports and run interactive search queries, y
 account under the 'Specify custom connection parameters in your common database plan settings. See
 the [Fine-Tune Your Plan and Edit Settings](/docs/auditor/10.7/admin/monitoringplans/finetune.md) topic for
 additional information.
+

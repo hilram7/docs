@@ -24,3 +24,4 @@ folders), fetching audit data — and your antivirus may treat this as a suspici
 
 For some antiviruses (for example, Trend Micro) you may need to specify the folders to exclude, that
 is, `C:\Windows\SysWOW64\NwxExeSvc\`. Refer to your antivirus documentation for details.
+

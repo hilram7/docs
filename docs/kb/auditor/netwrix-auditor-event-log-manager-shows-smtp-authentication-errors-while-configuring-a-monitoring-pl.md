@@ -59,3 +59,4 @@ Follow the steps below to resolve the issue:
    - `HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Internet Settings\WinHttp\DefaultSecureProtocols = (DWORD): 0xAA0`
 
 5. Restart both: Netwrix Auditor and the target server(s).
+

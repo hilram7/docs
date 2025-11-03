@@ -88,3 +88,4 @@ environment.
 - During the first launch, you will set up the built-in Administrator account. See the
   [First Launch](/docs/threatprevention/7.4/install/reportingmodule/firstlaunch.md)
   topic for additional information.
+

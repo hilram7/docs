@@ -35,3 +35,4 @@ The Chart Format page has the following options:
 
 Once you have configured the options as required, click **Next** to proceed to the Data Source page.
 See the [Data Source](/docs/accessanalyzer/12.0/admin/report/chartwizard/datasource.md) topic for additional information.
+

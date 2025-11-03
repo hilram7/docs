@@ -44,3 +44,4 @@ configuration, the collector service will automatically use the mappings configu
 level (or global level, if there is no subsite configuration).
 
 Mappings operate on a _Defaults_ basis (described later in this section.)
+

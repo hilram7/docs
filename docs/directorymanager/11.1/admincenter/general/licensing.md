@@ -123,3 +123,4 @@ To remove a license:
 1. In Admin Center, click **Settings** at the bottom of the left navigation pane.
 2. On the **Licensing Settings** tab of the **GroupID Settings** page, click **Delete** for a
    license in the **Actions** column to remove it.
+

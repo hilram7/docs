@@ -59,3 +59,4 @@ default. Select the desired number of questions from the **Users must answer...*
 You can also set a minimum length for each answer. Only alphanumeric characters are counted because
 Password Reset only checks alphanumeric characters. Select the minimum number of alphanumeric
 characters in each answer from the **Answers must contain at least...** drop-down list.
+

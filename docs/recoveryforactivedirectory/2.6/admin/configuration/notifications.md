@@ -46,3 +46,4 @@ The recipients of the notification can be added from the Domains page. See the
 [Add a Domain](domain.md#add-a-domain) topic for additional information.
 
 :::
+

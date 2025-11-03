@@ -154,3 +154,4 @@ The default path for `SAINSTALLDIR` is: `C:\Program Files (x86)\STEALTHbits\Netw
 The FSAA Data Collector references: `%SAINSTALLDIR%\..\Netwrix Enterprise Auditor\FSAA`
 
 That means it will remove the last folder from the `SAINSTALLDIR` path and will add `Netwrix Enterprise Auditor\FSAA` (e.g., if `SAINSTALLDIR` is set to `D:\Temp`, then FSAA Tier 2s will be stored in `D:\Netwrix Enterprise Auditor\FSAA` in per-host folders).
+

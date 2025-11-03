@@ -116,3 +116,4 @@ options that associate with the data in the GPO Setting Changes Recent Events da
 **Filter Criteria**
 
 Specify a filter criteria into the `<enter a value>` textbox.
+

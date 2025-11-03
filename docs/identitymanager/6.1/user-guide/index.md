@@ -114,3 +114,4 @@ correct order.
 > have to complete the **Categorize Resources** activity, and all the activities connected to it
 > upstream . You do not have to complete other activities such as the **Create Roles in the Role
 > Catalog** activity.
+

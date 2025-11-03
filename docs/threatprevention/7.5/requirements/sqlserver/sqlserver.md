@@ -101,3 +101,4 @@ The following permissions are required on the databases:
 Additional permissions are required for the optional Database Maintenance feature in Threat
 Prevention. See the [Database Maintenance Feature Requirements](/docs/threatprevention/7.5/requirements/sqlserver/dbmaintenance.md) topic for
 additional information.
+

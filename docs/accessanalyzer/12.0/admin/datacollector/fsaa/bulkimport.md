@@ -18,3 +18,4 @@ wizard page for the categories of:
 Select the **Import incomplete scan data** checkbox to enable imports of partial scan data. If the
 scan is stopped before successful completion, this option must be checked in order to bulk import
 the data from a partially scanned host.
+

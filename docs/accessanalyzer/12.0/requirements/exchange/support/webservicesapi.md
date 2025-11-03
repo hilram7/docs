@@ -17,3 +17,4 @@ Connection Profile assigned to the 7. Sensitive Data Job Group requires the foll
 (based on default settings):
 
 - Customized Administrator > Exchange Administrator Role
+

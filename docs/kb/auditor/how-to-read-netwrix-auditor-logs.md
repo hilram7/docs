@@ -64,3 +64,4 @@ Ultimately, learning logs requires the ability to watch for patterns. While extr
 ## Sending logs to Technical Support
 
 In most cases, Technical Support will request logs for tickets not resolved on initial contact. If you want to anticipate this and possibly expedite resolution, you can prepare the logs using the steps seen here: https://kb.netwrix.com/4645.
+

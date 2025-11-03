@@ -113,3 +113,4 @@ or denies it. You can check on the status of your request on the
 
 When the request has been processed by the owner, you will be notified via email. See the
 [Access Request Updated Email](/docs/accessinformationcenter/12.0/youraccessportal/requestaccess/updated.md) topic for additional information.
+

@@ -22,3 +22,4 @@ The Usage Statistics Job Group is comprised of:
 - [Box_Users_MostActive Job](/docs/accessanalyzer/12.0/solutions/box/activity/usagestatistics/box_users_mostactive.md) – Identifies long-term trends of activity and
   usage statistics across your Box environment, highlighting conditions such as most active or stale
   folders
+

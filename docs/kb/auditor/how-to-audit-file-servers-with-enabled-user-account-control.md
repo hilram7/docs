@@ -33,3 +33,4 @@ To resolve this issue, do the following:
 
 1. If your target server is not in a domain, create a user that is not a member of the **BUILTINAdministrators** group. Grant all required rights and permissions to the account.
 2. Enable User Account Control for local connections only and disable it for remote connections.
+

@@ -23,3 +23,4 @@ Agent Service Identity radio buttons are:
 This option requires the SharePoint Agent to be installed on the application server. See the
 [SharePoint Agent Installation](/docs/accessanalyzer/12.0/install/sharepointagent/overview.md) topic for additional
 information.
+

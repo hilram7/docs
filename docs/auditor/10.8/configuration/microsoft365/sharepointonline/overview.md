@@ -53,3 +53,4 @@ infrastructure. Pay attention to the "_Data categories_" column in search and re
 "_Document_" object types only). See the
 [Sensitive Data Discovery ](/docs/auditor/10.8/admin/settings/sensitivedatadiscovery.md)topic for additional
 information on how to enable monitoring of sensitive data in Netwrix Auditor.
+

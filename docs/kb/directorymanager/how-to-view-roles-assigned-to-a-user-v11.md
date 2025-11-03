@@ -58,3 +58,4 @@ These roles can be customized or extended with additional custom roles as needed
    - Click **Advanced** to search by additional fields such as name, department, company, or email. Click **Search** and select the desired user.
 8. Once a user is selected, their highest-ranked role for the chosen client is displayed, including the role’s priority number.
 9. Click **Close** to exit the dialog box.
+

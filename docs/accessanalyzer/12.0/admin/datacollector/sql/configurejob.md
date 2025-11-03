@@ -66,3 +66,4 @@ a secondary host) or just the server name if connecting to the server. See the
 
 Additionally, the database instances must be added to the Filter page in the query configuration.
 See the [SQL: Filter](/docs/accessanalyzer/12.0/admin/datacollector/sql/filter.md) topic for additional information.
+

@@ -130,3 +130,4 @@ for additional information on all the Azure vocabulary and scenarios.
 If there are other cases that you might have which are not covered in this document, please email
 support at policypak.com so we can try to express how to license Endpoint Policy Manager with your
 scenario.
+

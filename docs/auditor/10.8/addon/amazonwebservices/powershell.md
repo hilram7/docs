@@ -32,3 +32,4 @@ execution completed successfully. Every time you run a script, Auditor makes a c
 last imported event. The next time you run the script, it will start retrieving new events.
 
 **NOTE:** By default, CloudTrail keeps events for **7** days.
+

@@ -69,3 +69,4 @@ rights and policies may need to be enabled on the targeted host:
             - Access this computer from a network
             - Allow Log on Locally
             - Log on as a batch job
+

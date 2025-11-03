@@ -32,3 +32,4 @@ The Decision row indicates the request was denied. The owner may have provided a
 decision, which will be visible at the bottom. On the
 [Request History Page](/docs/accessinformationcenter/12.0/youraccessportal/requesthistory/requesthistory.md) of the Your Access portal, you will
 see a Denied icon in the Decision column.
+

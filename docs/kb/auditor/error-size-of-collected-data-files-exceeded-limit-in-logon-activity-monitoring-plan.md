@@ -37,3 +37,4 @@ Data collection has failed. Error: The size of collected data files exceeded the
 ## Resolution
 
 Upgrade your Netwrix Auditor instance to `v10.6.12359` and later. Download the executable from [My Products · Netwrix 🤝](https://www.netwrix.com/my_products.html).
+

@@ -54,3 +54,4 @@ Verify all possible reasons mentioned above:
 ![User-added image](./images/ka04u00000116eK_0EM700000004y5W.png)
 
 4. Try to delete the computer from your domain and then add it back.
+

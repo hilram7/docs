@@ -44,3 +44,4 @@ website. Enter the following information:
 **Step 5 –** Click **Okay** to accept changes.
 
 The managed user is added to the resource and shown on the Users tab.
+

@@ -54,3 +54,4 @@ Now you have two Help-desk portals:
 2. [http://prmserver/pm/helpdesk](http://prmserver/pm/helpdesk2) - can be accessed only by Administrators and the special security group you have created.
 
 If you want to add or remove some functionality from the second Help-desk portal, please [contact Netwrix Technical Support](https://www.netwrix.com/support_ticket.html).
+

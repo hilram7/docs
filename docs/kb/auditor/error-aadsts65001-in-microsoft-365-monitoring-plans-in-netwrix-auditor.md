@@ -71,3 +71,4 @@ Edit the affected monitoring plan to use the new app:
 - Microsoft 365 — Permissions for SharePoint Online Auditing ⸱ v10.6
 - Microsoft 365 — Permissions for Teams Auditing ⸱ v10.6
 - [Microsoft Entra Admin Center](https://entra.microsoft.com/#home)
+

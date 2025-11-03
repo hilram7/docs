@@ -101,3 +101,4 @@ changes to the search query.
 ## Delete a query
 
 To delete a query, click the **Delete** icon. The query will be removed from the saved queries list.
+

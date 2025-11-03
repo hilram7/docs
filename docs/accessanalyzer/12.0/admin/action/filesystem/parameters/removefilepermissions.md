@@ -24,3 +24,4 @@ Specify how to change inherited permissions Select from the following options:
 - Copy others – Make them explicit
 - Remove others – Remove all
 - Leave all intact – Delete explicit permissions only
+

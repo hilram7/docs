@@ -19,3 +19,4 @@ The 3.Groups job group is comprised of:
   assigned to them
 - [AWS_StaleGroups Job](/docs/accessanalyzer/12.0/solutions/aws/groups/aws_stalegroups.md) – Highlights groups that have members that are
   considered stale
+

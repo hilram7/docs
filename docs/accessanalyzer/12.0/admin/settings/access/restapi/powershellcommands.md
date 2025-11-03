@@ -43,3 +43,4 @@ Authorization="Bearer $access_token"
 $response = Invoke-WebRequest -Method GET -uri http://localhost:8082/api/v1/data/SA_ADInventory_ComputersView/rows -Headers $headers
 $content = $response.Content | ConvertFrom-Json
 ```
+

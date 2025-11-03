@@ -73,3 +73,4 @@ Add-SbPAMActionLog -ActionQueueActionId $ActionQueueActionId -Type Info -Message
 4. Modify the script block according to your needs. This example is for a find-and-replace, with the ` $findString` and ` $replaceString` containing the original and replacement values, and the ` $filePath` containing the local path for the target file. This is just a basic example and can be modified for different use cases.
 
 5. Save the activity. Ensure that the activity is added to an **Access Policy**. You can now run the activity; it will find/replace strings in the targeted file on the targeted resource.
+

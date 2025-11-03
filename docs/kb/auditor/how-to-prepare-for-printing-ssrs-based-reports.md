@@ -43,3 +43,4 @@ Take the following steps:
 8. Internet Explorer will prompt for installation of the additional components it needs for printing. Click **Yes**. The ActiveX Control automatically downloads and installs.
 
 Then you will be able to print the reports from Internet Explorer and Netwrix Auditor UI.
+

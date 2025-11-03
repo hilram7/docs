@@ -321,3 +321,4 @@ custom settings for all groups is not necessary since a computer is perfectly ca
 correctly without any granular settings deﬁned. It will do this by either inheriting the settings
 from the group it belongs to or, if not possible, the global settings, which are mandatory and exist
 in the system with default values from installation.
+

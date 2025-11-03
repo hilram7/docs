@@ -61,3 +61,4 @@ and the host limit. These are the features that will be installed. Click **Next*
 
 The new license file has been imported. If the license granted access to any additional solutions,
 they will now be accessible from within the Enterprise Auditor Console.
+

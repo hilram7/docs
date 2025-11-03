@@ -60,3 +60,4 @@ To resolve the issue:
    2. On the **Account** tab in the **Account options** list, make sure that **User cannot change password** is NOT selected.
 
    ![User-added image](./images/ka04u00000116eU_0EM700000004xbM.png)
+

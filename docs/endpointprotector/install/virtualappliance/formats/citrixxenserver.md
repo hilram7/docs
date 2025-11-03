@@ -57,3 +57,4 @@ import to be completed.
 ![ Reviewing the conﬁguration and Import progress](xenimportprogress.webp)
 
 The virtual machine is ready to be started.
+

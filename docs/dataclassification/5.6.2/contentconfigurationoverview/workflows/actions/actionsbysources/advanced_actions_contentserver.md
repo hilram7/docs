@@ -26,3 +26,4 @@ Then specify the following action parameters
 | **Value**        | Select where the new field value should be obtained from.                                         | You can use static or crawled value, similarly to SharePoint (as described in the Update Field section). |
 
 ![action_advanced_cs_update_field_thumb_0_0](/images/dataclassification/5.6.2/workflows/advanced_window/action_advanced_cs_update_field_thumb_0_0.webp)
+

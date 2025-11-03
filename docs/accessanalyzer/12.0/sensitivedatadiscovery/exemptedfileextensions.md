@@ -24,3 +24,4 @@ The following file extensions are always exempted from Sensitive Data Discovery 
 - \*.scr
 - \*.cdf-ms
 - \*.svn-base
+

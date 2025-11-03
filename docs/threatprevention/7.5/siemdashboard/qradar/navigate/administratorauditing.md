@@ -39,3 +39,4 @@ interval. Then click **Search** to refresh the card data.
 When a search using a time interval longer than twelve (12) hours is instigated, the database query
 is broken into multiple mini-queries. This will result in a visible reset of the dashboard display
 at the end of each mini-query until all data for the selected time interval has been retrieved.
+

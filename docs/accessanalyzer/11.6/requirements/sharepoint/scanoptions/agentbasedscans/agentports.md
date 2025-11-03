@@ -18,3 +18,4 @@ Enterprise Auditor and the target host:
 | 9876\*  | TCP      | Enterprise Auditor Console server          | `<-->`    | Enterprise Auditor SharePoint Agent server | Enterprise Auditor Agent Communication Channel                         |
 
 \*Configurable value in the SharePoint Access Auditor Data Collector Wizard.
+

@@ -38,3 +38,4 @@ on both devices.
 Settings for synchronization
 
 The configuration is described in the chapter [Settings](/docs/passwordsecure/9.2/configuration/mobiledevices/settings_mobileapp.md)
+

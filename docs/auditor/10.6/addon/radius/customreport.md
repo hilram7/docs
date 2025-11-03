@@ -30,3 +30,4 @@ After running the script, the RADIUS server logons since yesterday custom report
 
 Clicking the saved search tile opens the search with preset filters, which shows RADIUS logon
 activity data for 2 days (yesterday and today).
+

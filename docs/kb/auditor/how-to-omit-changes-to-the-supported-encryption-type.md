@@ -29,3 +29,4 @@ To exclude changes to "Supported Encryption Type" from being reported, perform t
 3. Save this file.
 
 Additional details can be found here: Exclude Data from Active Directory Monitoring Scope
+

@@ -33,3 +33,4 @@ Review the list of the built-in document reports:
   list of content types such as: “css,pdf”).
 - Page Statuses—Provides a list of documents at a given status within the index. Supports filtering
   by URL and source group.
+

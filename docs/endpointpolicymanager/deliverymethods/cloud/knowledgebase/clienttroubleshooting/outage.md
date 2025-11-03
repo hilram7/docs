@@ -43,8 +43,8 @@ The time allotted to this operation may have been a portion of a longer timeout.
 ```
 
 ```
-A security error occurred during sending Sync to http://cloudsvc.policypak.com/Services/Synchronization: 
-The token provider cannot get tokens for target 'http://cloudsvc.policypak.com/Services/Synchronization'. 
+A security error occurred during sending Sync to https://cloudsvc.policypak.com/Services/Synchronization: 
+The token provider cannot get tokens for target 'https://cloudsvc.policypak.com/Services/Synchronization'. 
 Elapsed time: 00:01:00.7012049
 ```
 
@@ -54,3 +54,5 @@ However, existing clients will maintain their already-delivered Policy settings.
 
 Additionally, clients will not disconnect or become un-joined from the Endpoint Policy Manager Cloud
 server.
+
+

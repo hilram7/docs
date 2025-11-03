@@ -64,3 +64,4 @@ Activities available only at the individual host list nodes are:
   – Delete the selected host list
 - [View Query](/docs/accessanalyzer/11.6/admin/hostmanagement/actions/viewquery.md)
   – Opens the Host Discovery Queries window
+

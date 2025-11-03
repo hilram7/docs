@@ -17,3 +17,4 @@ saved.
 To view the status of executed SendMail actions, see the
 [Viewing the Status of SendMail Actions](/docs/accessanalyzer/11.6/admin/action/sendmail/viewstatus.md)
 for additional information.
+

@@ -223,3 +223,4 @@ Copy to clipboard button to copy the Client Secret.
 **Step 7 –** Save this value in a text file.
 
 This is needed for adding an Microsoft Entra ID in the Activity Monitor.
+

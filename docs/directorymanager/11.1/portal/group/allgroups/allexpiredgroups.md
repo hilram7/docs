@@ -19,3 +19,4 @@ Expired groups are locked for all activities until renewed.
 You can [Modify Search Directory](allgroups.md#modify-search-directory) to search expired groups and
 add [Filter All Groups](allgroups.md#filter-all-groups) by clicking **Expired Group Grid Filters**.
 All the expired groups matching the filters will be displayed.
+

@@ -32,3 +32,4 @@ The following analysis tasks are selected by default:
        the job’s Results node
 -   **4. Summarize Single User Groups** – Creates the SA_EX_EmptyGroups_SingleUserSummary table,
        accessible under the job’s Results node
+

@@ -100,3 +100,4 @@ Credentials table.
 **Step 8 –** Click Add to add the credential(s) to the group.
 
 The new credentials are added to the applicable group.
+

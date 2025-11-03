@@ -43,3 +43,4 @@ knowledge_article_id: kA04u00000111GqCAI
    ```
 
 2. Bind the new certificate in **Reporting Service Configuration Manager**
+

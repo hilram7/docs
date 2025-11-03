@@ -48,3 +48,4 @@ Please refer to the following guides for installation and configuration of Netwr
 
 - https://www.netwrix.com/download/documents/NetWrix_Windows_Server_Change_Reporter_Installation_Guide.pdf
 - https://www.netwrix.com/download/documents/NetWrix_Windows_Server_Change_Reporter_Administrator_Guide.pdf
+

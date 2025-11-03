@@ -49,3 +49,4 @@ It is also necessary to enable the Remote Registry Service on the Activity Agent
 
 For integration between the Activity Monitor and Access Analyzer, the credential used by Access
 Analyzer to read the activity log files must have also have this permission.
+

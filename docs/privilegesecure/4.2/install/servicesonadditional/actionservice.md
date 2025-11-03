@@ -138,3 +138,4 @@ ActionService.exe –register -u admin -I [PrivilegeSecureServer:Port]
 **Step 4 –** Exit the command prompt.
 
 The remote Action Service is now registered with Privilege Secure.
+

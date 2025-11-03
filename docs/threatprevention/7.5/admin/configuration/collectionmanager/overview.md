@@ -96,3 +96,4 @@ Threat Prevention has the following pre-configured Collections:
 | Hosts                 | Exchanges Servers                                         |
 | File Paths            | Folders with Sensitive Data. If you                       |
 | File Paths            | Open Shares                                               |
+

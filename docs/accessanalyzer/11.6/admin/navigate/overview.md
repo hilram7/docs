@@ -30,3 +30,4 @@ Enterprise Auditor Data Grids also have specific navigation options that enable 
 group, and search through data. See the
 [Data Grid Functionality](/docs/accessanalyzer/11.6/admin/navigate/datagrid.md)
 topic for additional information.
+

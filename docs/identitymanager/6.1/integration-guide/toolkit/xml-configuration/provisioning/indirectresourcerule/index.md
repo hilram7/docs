@@ -36,3 +36,4 @@ For example:
 | Property   required | __Type__    Int64   __Description__   Resource property for membership. Example: if our entity is a group, the group(s) it belongs to. |
 | ResourceType   required | __Type__    Int64   __Description__   Represents the Id of the ResourceType you want to use the rule on. |
 ```
+

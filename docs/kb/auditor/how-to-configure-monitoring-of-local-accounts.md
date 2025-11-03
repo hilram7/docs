@@ -32,3 +32,4 @@ Netwrix Account Lockout Examiner can be set to monitor local machine event logs 
 [![User-added image](images/ka04u000000HcWP_0EM700000004wxl.png)](https://netwrix.secure.force.com/kb/servlet/rtaImage?eid=ka40g000000kAbY&feoid=00N700000032Pj2&refid=0EM700000004wxl)
 
 **Note:** Make sure that the account used to run the Account Lockout Examiner service has administrative access to the machine you are adding.
+

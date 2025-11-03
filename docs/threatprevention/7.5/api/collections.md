@@ -109,3 +109,4 @@ Remember, the Collection ID and Collection GUID are not the same as those in the
 Use the `Get-SICollection` API call to find the newly created collection and its associated GUID and
 Collection ID by name.
 :::
+

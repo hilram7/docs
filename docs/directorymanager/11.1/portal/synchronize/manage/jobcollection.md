@@ -292,3 +292,4 @@ Step 1 – On Directory ManagerPortal, click **Synchronize** on left pane.
 Step 2 – On the Synchronize portal, click **Job Collections**.
 
 Step 3 – From the list, right-click the required job group and click **Recent Runs**.
+

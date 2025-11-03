@@ -42,3 +42,4 @@ clicking on the record. The previously created application can then be selected 
 
 The link is then displayed in the ribbon. Clicking on the link will now open SAP, whereby the
 parameters for logging in to the application are directly transferred.
+

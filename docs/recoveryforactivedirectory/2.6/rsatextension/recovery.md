@@ -132,3 +132,4 @@ start the recovery.
 **Step 9 –** The Recovery window displays the action status. Click **Close** to exit.
 
 The ADUC object has been successfully recovered from the Recycle Bin.
+

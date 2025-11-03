@@ -21,3 +21,4 @@ following options to add and remove filters:
       topic for additional information
 
 - Clear – Clears any specified filters
+

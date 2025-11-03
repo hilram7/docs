@@ -182,3 +182,4 @@ the created risk, and check the consequences:
   of the
   [exemption policy](/docs/identitymanager/6.1/integration-guide/governance/risks/index.md).
 - Once the entitlement is assigned, a line must appear on the **Identified Risks** page.
+

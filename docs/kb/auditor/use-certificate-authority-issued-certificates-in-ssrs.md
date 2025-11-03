@@ -56,3 +56,4 @@ CA provides you with a security certificate that should be added to the certific
 10. Close the MMC console.
 
 You have successfully imported the certificate to the certificate store on your SSRS server.
+

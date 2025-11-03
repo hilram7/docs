@@ -44,3 +44,4 @@ The templates for native notifications can be adjusted to specific needs through
 [`NotificationTemplate`](/docs/identitymanager/6.1/integration-guide/toolkit/xml-configuration/notifications/notificationtemplate/index.md).
 
 [See how to customize native notifications](/docs/identitymanager/6.1/integration-guide/notifications/how-tos/customize-native-notification/index.md).
+

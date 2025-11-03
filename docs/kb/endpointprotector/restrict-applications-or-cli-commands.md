@@ -43,3 +43,4 @@ Follow the steps below to complete this process:
 6. Target the client machines where the policy should apply.
 
 ![Screenshot showing how to include the denylist in a content aware policy and target client machines](./images/ka0Qk000000ES65_0EMQk00000C52DZ.png)
+

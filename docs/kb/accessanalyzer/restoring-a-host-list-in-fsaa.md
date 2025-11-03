@@ -47,3 +47,4 @@ Import a list of audited hosts via **Add Hosts**. Refer to the following article
 
 - https://docs.netwrix.com/docs/auditor/10_8 (Host Management Activities — Add Hosts · v11.6)
 - https://docs.netwrix.com/docs/auditor/10_8 (Import Hosts Option)
+

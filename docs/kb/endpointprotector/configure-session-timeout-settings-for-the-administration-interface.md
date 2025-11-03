@@ -39,3 +39,4 @@ Netwrix Endpoint Protector Server includes a session timeout feature for the Adm
 
 3. If no activity occurs during the countdown, Netwrix Endpoint Protector displays a message indicating the session will expire. You can choose to log out or continue your session, which resets the session timeout interval.  
    ![Session expiration warning in Endpoint Protector Management Console](./images/ka0Qk000000ESnd_0EMQk00000C7LTp.png)
+

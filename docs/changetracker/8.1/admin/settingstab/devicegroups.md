@@ -104,3 +104,4 @@ So, if the registry value contained **WebServer**, the device would be placed in
 **CustomWebServer** group if it exists, falling back on New Devices if it doesn t.
 
 ![page_guide_31](/images/changetracker/8.1/admin/settings/page_guide_31.webp)
+

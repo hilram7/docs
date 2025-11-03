@@ -14,3 +14,4 @@ Estimated length: 30 minutes
 This learning path grants <Company /> certification as a Sales Professional for this product. It contains the following courses:
 
 * <Company /> Password Security Sales Professional
+

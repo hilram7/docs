@@ -51,3 +51,4 @@ The error indicates the file share Netwrix Auditor is trying to access does not 
    2. Ensure the appropriate users (e.g., the data collection account) or groups have the sufficient permissions to access the files.
 
 4. Verify the file share path. Log in to the Netwrix Auditor server using the data collection account for the File Server monitoring plan and try accessing the affected file server.
+

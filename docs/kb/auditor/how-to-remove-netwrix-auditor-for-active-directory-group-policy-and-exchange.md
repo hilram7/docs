@@ -40,3 +40,4 @@ To completely uninstall **Netwrix Auditor for Active Directory, Group Policy and
    - **for 64-bit OS**: `HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\NetWrix`
 7. To remove all historical data from your SQL Server, remove all NetWrix databases using MS SQL Server Management Studio.
 8. To remove Netwrix Auditor Lightweight Agent from Domain Controllers, refer to this [KB article](http://www.netwrix.com/knowledge_base.html?mode=sol&solution=00000818).
+

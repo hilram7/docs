@@ -23,3 +23,4 @@ will do a new tab will be opend.
 **Example**
 
 ![tab system](/images/passwordsecure/9.1/configuration/web_applicaiton/operation/navigation_bar/installation_with_parameters_173-en.webp)
+

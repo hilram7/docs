@@ -26,3 +26,4 @@ Use the Schedule Wizard to configure the scheduled task. See the
 The details of the scheduled Inventory query are available in the **Schedules** view, including the
 next run date and time. See the [Schedules](/docs/accessanalyzer/12.0/admin/schedule/overview.md) topic for additional
 information.
+

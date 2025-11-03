@@ -41,3 +41,4 @@ Netwrix Auditor for File Servers collects certain events to allow data audit. Th
 4. Since the session **A** was not closed and did not generate a logoff event, the session **B** is perceived to be the same session as session **A** by the OS.
 
    > **NOTE:** If the second person makes any changes on the file server, the corresponding events `4663` and others will contain the initial Logon ID **A** to match the machine **A** logon.
+

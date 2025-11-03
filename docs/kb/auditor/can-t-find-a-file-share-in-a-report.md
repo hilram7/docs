@@ -38,3 +38,4 @@ Another way to monitor hidden shares is as follows:
 3. In the **Scope** section, select **Monitor user-defined hidden shares**.
 
 Note that if a share has no activity during a reporting period it will not be in an activity report. Feel free to perform a test action, wait for the data collection to complete, and check the report again.
+

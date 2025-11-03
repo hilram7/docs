@@ -150,3 +150,4 @@ Date: Fri, 08 Apr 2017 13:56:22 GMT
 **Step 5 –** For input Activity Records, the data source is set to Netwrix API.
 
 ![apiactivitydetails](/images/auditor/10.7/api/apiactivitydetails.webp)
+

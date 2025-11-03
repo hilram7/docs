@@ -27,3 +27,4 @@ Follow the steps to modify a user’s assigned rights.
 **Step 4 –** Click OK to save changes on the Users and Roles window.
 
 User(s) now have the appropriate access rights updated.
+

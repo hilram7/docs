@@ -191,3 +191,4 @@ In addition, if you reconciled an orphaned account with an owner, check the user
 see said account.
 
 ![View Permissions Tab](/images/identitymanager/6.1/user-guide/set-up/provisioning-rule-creation/resource-creation/viewpermissions_v602.webp)
+

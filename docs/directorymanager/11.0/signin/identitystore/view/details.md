@@ -72,3 +72,4 @@ On the **History Details** dialog box, the **Note** box displays your note. Remo
 
 - [Identity Store History](/docs/directorymanager/11.0/signin/identitystore/view/view.md)
 - [Admin Center History](/docs/directorymanager/11.0/signin/concepts/history_1.md)
+

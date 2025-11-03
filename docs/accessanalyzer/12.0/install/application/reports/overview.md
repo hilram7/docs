@@ -97,3 +97,4 @@ The URL that is used may need to be added to the browser’s list of trusted sit
 The home page shows the solutions with published reports available. See the
 [Web Console](/docs/accessanalyzer/12.0/admin/report/view.md#web-console) topic for information on using the Web
 Console.
+

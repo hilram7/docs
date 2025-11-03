@@ -27,3 +27,4 @@ As can be seen, the preset “IT general” is valid for all objects. An excepti
 “password” form because a unique preset has been defined for this form (blue arrow). As a result,
 all records created using the “password” form receive permissions as defined in this preset (incl.
 the sales manager).
+

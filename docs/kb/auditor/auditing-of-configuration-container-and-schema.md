@@ -37,3 +37,4 @@ Please follow these steps to enable object-level auditing:
 
 1. Open the following link and follow the instructions on the page:
    https://docs.netwrix.com/docs/auditor/10_8
+

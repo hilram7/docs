@@ -61,3 +61,4 @@ object/email specified in the **Recipient** box.
 See Also
 
 - [User Properties](/docs/directorymanager/11.0/welcome/user/properties/overview.md)
+

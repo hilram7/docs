@@ -28,3 +28,4 @@ I get a report showing a change with details: “User Account Locked Out” for 
 ---
 
 The domain administrator account cannot be locked out. Windows may generate "false" lockout events triggered by changes that could potentially cause this account lockout based on your account policies. The event is generated as a result of the actions that were performed on the domain administrator account, for example when someone entered the domain administrator’s password incorrectly several times in a row. Netwrix Auditor includes "false" lockout events in reports and alerts since they cannot be differentiated from "real" lockouts.
+

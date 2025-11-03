@@ -51,3 +51,4 @@ One of the following error messages under Event ID 1259 is prompted in Health Lo
 
 - Installation − Install for SharePoint Core Service · v10.6: https://docs.netwrix.com/docs/auditor/10_8
 - Configuring Timeout Values on a Binding ⸱ Microsoft: https://learn.microsoft.com/en-us/dotnet/framework/wcf/feature-details/configuring-timeout-values-on-a-binding
+

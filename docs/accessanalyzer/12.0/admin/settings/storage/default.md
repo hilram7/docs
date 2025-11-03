@@ -54,3 +54,4 @@ relaunch it.
 
 The blue arrow is replaced by the green checkmark, indicating the new default Storage Profile is
 recognized.
+

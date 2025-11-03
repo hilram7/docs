@@ -147,3 +147,5 @@ about everything in Firefox so deploy with those guys, manage it with us guys.
 Shane: Rock on. Hey everybody. We'll see you at the next video.
 
 Jeremy: Next video.
+
+

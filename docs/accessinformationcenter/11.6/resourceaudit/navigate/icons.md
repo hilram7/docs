@@ -77,3 +77,4 @@ The following table contains icons for trustee types:
 | ![Service Account icon](/images/accessinformationcenter/11.6/resourceaudit/navigate/serviceaccount.webp)      | Service Account                            |
 | ![Computer icon](/images/accessinformationcenter/11.6/resourceaudit/navigate/computer.webp)                   | Computer                                   |
 | ![Azure Contact icon](/images/accessinformationcenter/11.6/resourceaudit/navigate/azurecontact.webp)          | Azure Contact                              |
+

@@ -43,3 +43,4 @@ The 6.Activity Job Group is comprised of the following jobs:
   in the environment.
 - [Privileged Accounts Job Group](/docs/accessanalyzer/12.0/solutions/activedirectory/activity/privilegedaccounts/overview.md)– Highlights the activity performed
   by this accounts, to identify potential abuses or unused accounts that can be deprovisioned
+

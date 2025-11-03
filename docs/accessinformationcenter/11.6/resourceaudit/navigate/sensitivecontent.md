@@ -24,3 +24,4 @@ The criterion being audited is identified at the top of the interface as part of
 breadcrumb. See the
 [Sensitive Content Reports](/docs/accessinformationcenter/11.6/resourceaudit/sensitivecontent/overview.md)
 topic for additional information.
+

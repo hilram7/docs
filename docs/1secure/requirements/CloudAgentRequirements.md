@@ -51,3 +51,4 @@ Configuration.xml file, which is located on the agent host at:
 
 You must also open the outbound TCP port 443 on the server where the Netwrix Cloud Agent resides.
 See the [Install Agent](/docs/1secure/install/installagent.md) topic
+

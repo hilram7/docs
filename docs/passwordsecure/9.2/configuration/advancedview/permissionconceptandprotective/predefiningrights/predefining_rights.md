@@ -82,3 +82,4 @@ automatically set **tags**. Their configuration is carried out in the same way a
 This process ensures that a special tag is automatically issued when using a certain template group.
 Example cases can be found in the
 [Working with predefined rights](/docs/passwordsecure/9.2/configuration/advancedview/permissionconceptandprotective/predefiningrights/working_with_predefined_rights.md).
+

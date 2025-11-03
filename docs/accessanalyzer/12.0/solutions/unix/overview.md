@@ -52,3 +52,4 @@ The job groups in the Unix Solution are:
 Each job group within the Unix Solution is designed to run independently. See the
 [Recommended Configurations for the Unix Job Group](/docs/accessanalyzer/12.0/solutions/unix/recommended.md) topic for information on
 frequency and job group settings.
+

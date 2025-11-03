@@ -31,3 +31,4 @@ In order to exclude Contacts access from being reported please add the following
 ```
 */Contacts*
 ```
+

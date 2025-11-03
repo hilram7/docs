@@ -57,3 +57,4 @@ winrm set winrm/config/client/auth @{Basic="true"}
 ```
 
 > **IMPORTANT:** If basic authentication is disabled via GPO in your environment, you can create a separate GPO to enable it for the affected server specified in the error message.
+

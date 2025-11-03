@@ -63,3 +63,4 @@ Or configure the Windows Firewall exception:
 - Enable the **Allow inbound file and printer sharing exception** exception.
 
 ![Firewall Settings: Allow inbound file and printer sharing exception](images/ka04u000000HcUb_0EM7000000051QN.png)
+

@@ -46,3 +46,4 @@ The default analysis task is:
 
 - Insert Instances in SA_SQL_Instances table – Creates the SA_SQL_Instances table accessible under
   the job’s Results node
+

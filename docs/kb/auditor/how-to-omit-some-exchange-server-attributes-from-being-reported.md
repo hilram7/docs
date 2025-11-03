@@ -33,3 +33,4 @@ To omit an Exchange Server attribute from reporting:
    ```
 
    **For example:** `*.msExchSafeSendersHash`
+

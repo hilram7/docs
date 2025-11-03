@@ -89,3 +89,4 @@ However Netwrix Password Reset uses only files without postfix in the name (for 
 - Alternatively, edit the existing default English templates.
 
 To do this, edit the `.txt` files located in the **Templates** subfolder of the Netwrix Password Reset installation directory.
+

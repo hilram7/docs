@@ -34,3 +34,4 @@ Our example generates the following configuration:
 <AccessControlRule Identifier="Administrator_DataQuery_Universe" DisplayName_L1="Administrator_DataQuery_Universe" EntityType="Universe" Profile="Administrator">  <Entry CanExecute="true" Permission="/Universes/UniverseData/Query" /></AccessControlRule>
 
 ```
+

@@ -56,3 +56,5 @@ get the "www.GPanswers.com" icon but not the www.policypak.com icon.
 That's Group Policy Preferences item-level targeting in a nutshell. Hope that helps you out.
 
 Thanks so much, and we'll talk to you soon.
+
+

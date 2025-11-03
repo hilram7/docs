@@ -101,3 +101,4 @@ can validate the audit tags are in place by:
 - Running **Strongpoint** > **Script Management** > **Scripts with No Audit Tags**
 - Open the customization record for script and look at the **Audit Tag** field on the **Detailed
   Metadata** tab.
+

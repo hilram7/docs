@@ -30,3 +30,4 @@ There are 2 options to fix the issue:
 
 1. Remove or reconfigure settings that are conflicting with automatic audit configuration. Details of the error message usually specify which GPO affects this
 2. Disable automatic audit configuration and configure audit settings manually as per the guidance from the Help Center: https://docs.netwrix.com/docs/auditor/10_8
+

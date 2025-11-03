@@ -57,3 +57,5 @@ Windows:
 Netwrix Endpoint Policy Manager (formerly PolicyPak) message:
 
 ![765_5_image-20211223014445-5](/images/endpointpolicymanager/leastprivilege/powershell/765_5_image-20211223014445-5.webp)
+
+

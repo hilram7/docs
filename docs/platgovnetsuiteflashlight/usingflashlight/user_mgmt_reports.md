@@ -50,3 +50,4 @@ also helpful to troubleshoot cases where an employee cannot log into the system 
 being marked as inactive in the system.
 
 ![Inactive_Users](/images/platgovnetsuiteflashlight/using_flashlight/inactiveusers_800x158.webp)
+

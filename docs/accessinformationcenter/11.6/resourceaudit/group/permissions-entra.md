@@ -44,3 +44,4 @@ The following columns display the combined direct and inherited rights:
 The table data grid functions the same way as other table grids. See the
 [Data Grid Features](/docs/accessinformationcenter/11.6/admin/navigate/datagrid.md) topic
 for additional information.
+

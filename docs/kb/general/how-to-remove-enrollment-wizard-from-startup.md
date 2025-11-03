@@ -43,3 +43,4 @@ To prevent the Enrollment wizard from running on startup you need to remove the 
   1. Delete the `Netwrix Password Manager` value to remove the startup entry, or
   2. Edit the value and change its data to point to a non-existing executable path to disable startup behavior without deleting the entry.
 - To apply this change across multiple machines, use Group Policy to delete or modify the registry value remotely.
+

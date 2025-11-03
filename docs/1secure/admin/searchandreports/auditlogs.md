@@ -39,3 +39,4 @@ the left pane to view its All Self Audit Activity report.
 You can apply more filters if required. Select a filter, operator, and value, then click **Search**.
 The report displays data based on the applied filters.
 Y
+

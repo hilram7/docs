@@ -38,3 +38,4 @@ Threat Manager has the following logs:
   AJAX errors or errors that are exposed via the UI.
 - SIEM Service Log – This log contains information relating to emailing threat information from
   Threat Manager.
+

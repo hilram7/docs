@@ -20,3 +20,4 @@ The 2.Users job group is comprised of:
   conform to recommended security practices
 - [AWS_StaleUsers Job](/docs/accessanalyzer/12.0/solutions/aws/users/aws_staleusers.md) – Provides details on the last time each user logged in or
   their access key was used, highlighting those over 60 days or that have never logged in
+

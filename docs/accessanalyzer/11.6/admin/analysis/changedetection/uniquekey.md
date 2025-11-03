@@ -15,3 +15,4 @@ for additional information.
 ![Change Detection Data Analysis Module wizard Unique Key page](/images/accessanalyzer/11.6/admin/analysis/changedetection/uniquekey.webp)
 
 Select one or more fields to form a unique key for the selected table and its columns.
+

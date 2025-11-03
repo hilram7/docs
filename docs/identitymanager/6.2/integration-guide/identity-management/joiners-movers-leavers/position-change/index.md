@@ -203,3 +203,4 @@ entitlements required by the user based on the properties of a valid record.
 When several contexts are valid at the same time for a given identity, conflicts can arise during
 entitlement assignment. They are solved by Identity Manager's engine that establishes a priority
 between valid contexts.
+

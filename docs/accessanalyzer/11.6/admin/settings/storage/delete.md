@@ -26,3 +26,4 @@ Storage Profile from this Enterprise Auditor Console.
 to confirm the changes.
 
 The Storage Profile has now been deleted.
+

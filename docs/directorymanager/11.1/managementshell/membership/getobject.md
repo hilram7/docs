@@ -60,3 +60,4 @@ display names starting with the letter S .
 ```
 Get-Object -SearchContainer "OU=Recruiting,DC=HR,DC=Imanami,DC=US","OU=OutSourcing,DC=HR,DC=Imanami,DC=US" -LdapFilter "(DisplayName = S*)"
 ```
+

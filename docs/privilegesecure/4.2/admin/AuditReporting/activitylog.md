@@ -70,3 +70,4 @@ The Sessions by All Users table lists all user sessions:
     - End — End time of the session
     - Notes — Any notes that were entered when the session was created
     - Ticket Number — Any ticket numbers that were entered when the session was created
+

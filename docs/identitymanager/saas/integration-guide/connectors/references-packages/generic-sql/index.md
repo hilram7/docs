@@ -21,3 +21,4 @@ When creating a connection to a database which is not handled by Identity Manage
 need to fill in the `ProviderDllName` and `ProviderClassFullName` properties of the
 [Sql](/docs/identitymanager/saas/integration-guide/connectors/references-connectors/sql/index.md) connector using the procedure given in the
 example.
+

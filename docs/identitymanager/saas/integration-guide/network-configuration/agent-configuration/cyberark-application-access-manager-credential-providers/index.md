@@ -319,3 +319,4 @@ here will Identity Manager read the corresponding section in `appsettings.agent.
 
 Thus, when a property is listed in both appsettings files, the value from the CyberArk vault takes
 priority over the one from the usual appsettings file.
+

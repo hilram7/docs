@@ -143,3 +143,4 @@ The attribute location will be in the form of a URL. Get this URL from AD FS.
 
 Step 6 – With all configurations completed, click the **Create Provider** button. The identity
 provider, i.e., AD FS, is created and displayed on the SAML Providers page.
+

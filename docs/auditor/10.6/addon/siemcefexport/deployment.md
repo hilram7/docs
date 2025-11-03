@@ -24,3 +24,4 @@ Netwrix suggests the following execution scenarios:
 For security reasons, Netwrix recommends running the script with current user credentials (skipping
 user credentials). Create a special user account with permissions to both Auditor data and event log
 and use it for running the script.
+

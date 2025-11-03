@@ -42,3 +42,4 @@ As shown in the screenshot below, the SSH session’s **"Lock terminal title"** 
 If configured correctly, the session tab displays session expiration countdown messages per the settings in the Netwrix Privilege Secure Connection Profile assigned to the Access Profile granting the user the right to use the SSH Activity.
 
 ![User-added image](images/ka04u000000HcZt_0EM4u000004bUo1.png)
+

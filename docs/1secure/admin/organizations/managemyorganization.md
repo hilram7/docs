@@ -23,3 +23,4 @@ Organization page.
 - You can enable MFA, configure reports branding and adjust other settings for your organization on
   this page.
 - You can also delete your organization and wipe all of the data here.
+

@@ -24,3 +24,4 @@ The Forensics job group is comprised of:
 
     - Includes a Notification analysis task option
     - Requires **Access Auditing** component data collection
+

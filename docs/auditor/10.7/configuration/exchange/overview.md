@@ -136,3 +136,4 @@ Here is the list of actions captured:
 | Task read attempt                                                        | No          | —                                                                                      |
 | Edit task                                                                | Yes         | Message located in \Tasks with subject `<...>` was modified.                           |
 | Delete task                                                              | Yes         | Message with subject `<...>` was moved from folder \Tasks to folder \Deleted Items.    |
+

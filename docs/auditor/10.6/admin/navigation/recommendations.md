@@ -117,3 +117,4 @@ Follow the steps to manage recommendations:
 **Step 4 –** Click **OK** to save your edits.
 
 To refresh the recommendations list, click the **Refresh** button in the left bottom corner.
+

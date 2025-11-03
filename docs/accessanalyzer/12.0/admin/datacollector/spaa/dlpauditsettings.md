@@ -50,3 +50,4 @@ Use the checkboxes to select to **Store Match Hits**:
   reported but the data columns are masked in the database.
 - Limit stored matches per criteria to [number] – Enabled when the Store discovered sensitive data
   checkbox is selected. Limits the number of stored matches per criteria to the specified number.
+

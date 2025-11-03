@@ -14,3 +14,4 @@ on a data row, displays a pivot view of the data.
 The Event Viewer window displays the details for one event at a time, and only includes those
 columns visible within the data grid. The arrow buttons at the bottom of the window allow for
 navigation through the events currently displayed in the data grid.
+

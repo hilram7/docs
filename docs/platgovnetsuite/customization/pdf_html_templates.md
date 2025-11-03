@@ -35,3 +35,4 @@ Open **Customization** > **Forms** > **Advanced PDF / HTML Templates** to creat
 ## PDF / HTML Customization Record for a Saved Search Example
 
 ![Example of an Advanced PDF/HTML Customization Record for a Saved Search](/images/platgovnetsuite/customizations/pdf-html_template3.webp)
+

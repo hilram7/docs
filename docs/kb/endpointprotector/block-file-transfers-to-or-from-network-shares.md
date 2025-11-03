@@ -37,3 +37,4 @@ This article explains how to block file transfers to or from network shares usin
    - This is incorrect and will not block file transfers: `\192.168.10.10\test`
 6. In the **Groups** or **Computers** section, select the computers or groups that the denylist should be applied to.
 7. Save the changes.
+

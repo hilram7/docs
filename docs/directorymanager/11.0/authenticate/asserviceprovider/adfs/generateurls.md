@@ -51,3 +51,4 @@ configured with AD FS, and update it in AD FS.
 
 4. The **Entity ID/Audience** box displays a URL. Click **Copy** to copy it. Then paste it in a
    file, preferably a text file, to save it.
+

@@ -44,3 +44,4 @@ must be assigned a role in the product.
 Review the example below to see how to authenticate in cURL:
 
 - `curl https://172.28.6.15:9699/netwrix/api/v1/activity_records/enum -u Enterprise\NetwrixUser:NetwrixIsCool`
+

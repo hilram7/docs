@@ -39,3 +39,4 @@ Repeat these steps for every Oracle Database instance and then sum up the result
 
 For details on the Oracle Database commands mentioned in this article, refer to:
 https://docs.oracle.com/cd/B19306_01/server.102/b14237/dynviews_1144.htm#REFRN30116
+

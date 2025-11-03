@@ -25,3 +25,4 @@ The Suspicious Activity Job Group is comprised of:
   on a specific day by analyzing the activity for a given user and looking for outliers
 - [Box_WeekendActivity Job](/docs/accessanalyzer/12.0/solutions/box/activity/suspiciousactivity/box_weekendactivity.md) – Identifies Box activity events which have
   occurred on weekends over the last 30 days
+

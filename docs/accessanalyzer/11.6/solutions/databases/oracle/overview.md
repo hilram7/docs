@@ -110,3 +110,4 @@ The job groups/jobs in the Oracle Solution are:
 - [Oracle_SecurityAssessment Job](/docs/accessanalyzer/11.6/solutions/databases/oracle/oracle_securityassessment.md)
   – This job is designed to summarize and categorize the security findings into HIGH, MEDIUM, LOW,
   and NO FINDING categories based on their severity
+

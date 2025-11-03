@@ -253,3 +253,4 @@ This series of steps is actually a very simplified version of the
 This chapter gives the basis of the assignments vocabulary. The next chapter enlightens the reader
 about the inner details of the Evaluate Policy algorithm. See the
 [Evaluate Policy](/docs/identitymanager/saas/integration-guide/role-assignment/evaluate-policy/index.md) topic for additional information.
+

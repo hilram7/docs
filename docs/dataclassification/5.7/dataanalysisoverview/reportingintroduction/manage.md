@@ -68,3 +68,4 @@ Report configuration templates are saved per user.
 3. In the Load Saved Configuration dialog, select the desired template from the **Template Name**
    list.
 4. Click Generate to view the report.
+

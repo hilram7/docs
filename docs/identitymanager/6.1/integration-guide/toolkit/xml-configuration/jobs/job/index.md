@@ -112,3 +112,4 @@ The basic example of a job is equivalent to the following:
 | Level   default value: -1 | __Type__    Int32   __Description__   Grouping level of the tasks within the job. When executing a job, Usercube will launch simultaneously the tasks of a same ```Level```. Level-2 tasks are not launched before all level-1 tasks are achieved. |
 | Task   required | __Type__    Int64   __Description__   Id of the task |
 ````
+

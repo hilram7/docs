@@ -22,3 +22,4 @@ for the resulting table or view.
 The name must start with `SA` to be recognized as a Enterprise Auditor table or view.
 
 After selecting the resulting table or view’s visual representation and name, click **Next**.
+

@@ -63,3 +63,4 @@ directly from the UI inventory:
 ![Screen_Shot_2021-05-31_at_12.30.L36_PM.webp](/images/privilegesecure/4.2/discovery/admin/systemmanagement/1500007539482_screen_shot_2021-05-31_at_12.30.36_pm.webp)
 
 From there it is possible to go directly into the granular sudo edit screen.
+

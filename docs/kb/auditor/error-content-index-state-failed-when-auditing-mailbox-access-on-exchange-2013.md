@@ -41,3 +41,4 @@ See Microsoft documentation for more information: https://technet.microsoft.com/
 Rebuild failed indexes on your Exchange server side. See the Microsoft article "Reseed the search catalog" for more information: https://technet.microsoft.com/EN-US/library/ee633475(v=exchg.150).aspx
 
 After fixing the failed indexes, restart data collection.
+

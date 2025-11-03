@@ -75,3 +75,4 @@ in order to allow the Activity Monitor to report client IP Addresses.
 ```
 CREATE TRIGGER SBAudit_LOGON_Trigger ON ALL SERVER FOR LOGON AS BEGIN declare @str varchar(max)=cast(EVENTDATA() as varchar(max));raiserror(@str,1,1);END
 ```
+

@@ -63,3 +63,4 @@ script in the command line.
 <Job Identifier="AD_Provisioning" DisplayName_L1="AD - Provisioning" DisplayName_L2="AD - Provisioning" Agent="Local">    ...
 <SetInternalUserProfilesTask Identifier="SetInternalUserProfiles" DisplayName_L1="Set Internal User Profiles" >       <TaskEntityType EntityType="Referentiel_User"/>       <TaskResourceType ResourceType="AD_Entry_NominativeUser"/>    </SetInternalUserProfilesTask>  </Job>
 ```
+

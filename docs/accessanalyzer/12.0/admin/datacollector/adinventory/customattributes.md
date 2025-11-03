@@ -90,3 +90,4 @@ imported. Then click **Next**.
 
 The selected attributes are added on the Custom Attributes page of the Active Directory Inventory DC
 Wizard.
+

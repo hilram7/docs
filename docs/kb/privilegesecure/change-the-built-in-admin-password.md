@@ -44,3 +44,4 @@ This article outlines how to change the password of Netwrix Privilege Secure's b
 5. If the password change is successful, you will be immediately logged out of Netwrix Privilege Secure and presented with the log-in page.
 
    IMPORTANT: Previously used passwords cannot be used and will result in an error when attempting to change the password.
+

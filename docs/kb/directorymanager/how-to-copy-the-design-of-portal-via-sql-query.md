@@ -126,3 +126,4 @@ WHERE ClientId = @toClient AND IdentityStoreId = @tostore
 16. Execute the query.  
 
 ![Screenshot of executed SQL query for linked server](images/ka0Qk000000DSzN_0EMQk000004nIXs.png)
+

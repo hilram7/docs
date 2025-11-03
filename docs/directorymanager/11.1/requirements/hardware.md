@@ -30,3 +30,4 @@ Minimum hardware requirements for Directory Manager are:
 - 6 GB or more disk space (for installation only)
 
     Space requirements are relative to the provider's data size growth for Elasticsearch data.
+

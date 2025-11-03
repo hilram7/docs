@@ -117,3 +117,4 @@ This table is comprised of the following columns:
 - Target Path – New location if changed by the operation. Blank if the operation does not result in
   a new path.
 - Process Name – Name of the process which performed the operation
+

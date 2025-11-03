@@ -23,3 +23,4 @@ If the field is still gray:
 2. Check the box for Number of Rows in List Segments.
 
 ![setlinesegments_800x250](/images/platgovnetsuiteflashlight/troubleshooting/setlinesegments_800x250.webp)
+

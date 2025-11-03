@@ -29,3 +29,4 @@ values.
 | ResourceTypeIdentificationConfidenceLevel default value: 0 | **Type** Int32 **Description** Defines the confidence level used to match the resources.                                                                                         |
 | SourceMatchedConfidenceLevel default value: false          | **Type** Boolean **Description** Defines the confidence level used to match the sources.                                                                                         |
 | TargetExpression optional                                  | **Type** String **Description** Defines the C# expression used to classify the resources. See the [Expressions](/docs/identitymanager/saas/integration-guide/toolkit/expressions/index.md) topic for additional information. |
+

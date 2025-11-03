@@ -82,3 +82,4 @@ Step 3 – Create a password according to a set password rule in your company: I
 stored password guidelines for you, you can select them here and simply click on apply.
 
 ![rule](/images/passwordsecure/9.1/enduser/rule.webp)
+

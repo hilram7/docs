@@ -83,3 +83,4 @@ be used instructed by Netwrix Support. It is accessed from the Configuration Con
 - **Property**: select the property to change.
 - **Property ID**: enter the ID supplied by Netwrix Support.
 - **Value**: enter the new value supplied by Netwrix Support. Click **Set value**.
+

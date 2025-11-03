@@ -32,3 +32,4 @@ After adding or modifying a script, click **Save and close**.
 
 See the [Script Example 1: Conversion of Data](/docs/accessanalyzer/12.0/admin/datacollector/script/example1.md) and
 [Script Example 2: Command Query](/docs/accessanalyzer/12.0/admin/datacollector/script/example2.md) topics for additional information.
+

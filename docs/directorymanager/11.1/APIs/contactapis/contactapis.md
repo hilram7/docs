@@ -19,3 +19,4 @@ Directory Manager provides the following APIs to perform contact-specific functi
 The contact object type is not supported in a Microsoft Entra ID based identity store.
 
 :::
+

@@ -12,3 +12,4 @@ email is sent to the user who has the necessary rights and the permission.
 See the [Native Notifications](/docs/identitymanager/saas/integration-guide/notifications/native/index.md) and
 [Profiles & Permissions](/docs/identitymanager/saas/integration-guide/profiles-permissions/index.md) topics for additional
 information.
+

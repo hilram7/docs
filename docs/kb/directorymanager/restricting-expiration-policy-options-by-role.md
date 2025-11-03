@@ -94,3 +94,4 @@ After applying visibility settings, only the selected values will be available. 
 The disabled **Expiration Policy** drop-down list will be displayed in the portal as shown below. The **Expiration Date** field is also read-only and displays the group's expiry date, as calculated based on the expiry policy.
 
 ![Expiration Policy drop-down list and Expiration Date field shown as read-only](images/ka0Qk000000DvYL_0EMQk00000Br3Pd.png)
+

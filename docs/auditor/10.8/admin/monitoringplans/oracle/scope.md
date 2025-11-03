@@ -21,3 +21,4 @@ Follow the steps to exclude data from the Oracle Database monitoring scope:
 (OS user or Database user).
 
 **Step 5 –** Click Add to exclude selected user from being monitored.
+

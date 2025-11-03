@@ -39,3 +39,4 @@ After creating the allowlist, add it to the Content Aware Protection (CAP) polic
 ![Assigning Allowed File allowlist to a CAP policy](./images/ka0Qk000000ETJt_0EMQk00000C8uB1.png)
 
 Once the allowlist is assigned to the policy, the Content Aware Protection policy will inspect but ignore sensitive content in files included in the Allowed File list. Files on the allowlist are not blocked, even if they contain sensitive content.
+

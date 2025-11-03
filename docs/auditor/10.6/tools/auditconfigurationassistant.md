@@ -131,3 +131,4 @@ audit settings. Operation progress will be reported in the bottom of the window.
    those that did not manage to apply — with the yellow warning sign and explanatory text.
 3. You can click **Start over** to get to the [Start Assessment](#start-assessment), fix the issues
    and perform the procedure again, or click **Finish**.
+

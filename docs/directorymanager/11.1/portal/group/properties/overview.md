@@ -73,3 +73,4 @@ The **Delivery Restrictions**, **Attributes**, **Email**, and **Advanced** tabs 
 available for groups in a Microsoft Entra IDbased identity store.
 
 :::
+

@@ -30,3 +30,5 @@ elevate a specific DLL. Just like shown in below screenshot.
 
 Rule to elevate` rundll32.exe` by PATH and COMMAND LINE (when `rundll32.exe `runs a `DLL`, the
 `DLL `path is specified on the command line)
+
+

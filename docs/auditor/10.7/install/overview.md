@@ -85,3 +85,4 @@ Refer to the following sections below for manual installation instructions:
 
 - [Install for SharePoint Core Service](/docs/auditor/10.7/install/sharepointcoreservice.md)
 - [Install for User Activity Core Service](/docs/auditor/10.7/install/useractivitycoreservice.md)
+

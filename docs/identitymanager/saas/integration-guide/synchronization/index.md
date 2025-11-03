@@ -15,3 +15,4 @@ system.
 
 See how to anticipate changes due to synchronization thanks to
 [Thresholds](/docs/identitymanager/saas/integration-guide/synchronization/synchro-thresholds/index.md).
+

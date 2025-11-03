@@ -44,3 +44,4 @@ The configurable options are:
 - Custom:
 
     - Custom Filter – Custom filter for collecting objects
+

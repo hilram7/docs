@@ -106,3 +106,4 @@ Deploy a SaaS XML configuration by proceeding as follows:
     before deploying again.
 
     The token served by Usercube's IDP expires after one hour.
+

@@ -40,3 +40,4 @@ Within local security policy (`SECPOL.MSC`) | Security Settings | Local Policies
 ## Resolution
 
 Disable this setting: **Network access: Do not allow storage of passwords and credentials for network authentication.** If this setting is not configurable, it must be changed at the Group Policy level.
+

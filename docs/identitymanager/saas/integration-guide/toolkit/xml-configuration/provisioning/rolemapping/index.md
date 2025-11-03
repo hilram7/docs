@@ -73,3 +73,4 @@ Represents one of the conditions used to determine the enforcement of the naming
 | Operator default value: 0 | **Type** QueryComparisonOperator **Description** Operator used in the condition for the naming rule enforcement. |
 | Property required         | **Type** Int64 **Description** Property on which the condition for the naming rule enforcement is based.         |
 | Value optional            | **Type** String **Description** Value used in the condition for the naming rule enforcement.                     |
+

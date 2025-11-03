@@ -360,3 +360,4 @@ the right pane.
 Computer**.
 
 VM template server is added to exclusions and ready to use.
+

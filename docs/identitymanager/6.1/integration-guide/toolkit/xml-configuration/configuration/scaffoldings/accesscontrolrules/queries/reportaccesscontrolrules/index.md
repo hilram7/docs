@@ -35,3 +35,4 @@ Our example generates the following configuration:
 <AccessControlRule Identifier="Administrator_ReportQuery" DisplayName_L1="Administrator - Report_ReportQuery" DisplayName_L2="Administrator - Rapport_ReportQuery" EntityType="ReportQuery" Profile="Administrator">  <Entry CanExecute="true" Permission="/Report/GenerateReportFileFromReportQuery/Query" /></AccessControlRule>
 
 ```
+

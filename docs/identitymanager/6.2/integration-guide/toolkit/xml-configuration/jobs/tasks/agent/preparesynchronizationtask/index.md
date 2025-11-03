@@ -124,3 +124,4 @@ database, it renders _incremental_ changes computation moot.
 | Identifier optional          | **Type** String **Description** Unique identifier of the task.                                                                                                                            |
 | Type default value: None     | **Type** PrepareSynchronizationType **Description** Define the type of PrepareSynchronization to launch the correct executable in job.                                                    |
 | WorkingDirectory optional    | **Type** String **Description** Path of the working directory                                                                                                                             |
+

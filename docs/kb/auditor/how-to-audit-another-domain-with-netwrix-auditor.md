@@ -39,3 +39,4 @@ With Netwrix Auditor you can audit domains different from the one where the Netw
 - [How trust relationships work for forests in Active Directory ⸱ Microsoft 🤝](https://learn.microsoft.com/en-us/azure/active-directory-domain-services/concepts-forest-trust)
 - [How to Audit a Non-Trusted Domain](/docs/kb/auditor/how-to-audit-a-non-trusted-domain.md)
 - Monitoring Plans — Data Collecting Account ⸱ v10.6
+

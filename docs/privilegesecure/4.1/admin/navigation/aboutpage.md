@@ -52,3 +52,4 @@ Click About third party components to open the About third party components wind
 ![About third party components window](/images/privilegesecure/4.1/accessmanagement/admin/thirdpartycomponents.webp)
 
 This window displays detailed information about all third party components used by the application.
+

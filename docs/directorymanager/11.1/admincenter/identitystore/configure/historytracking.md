@@ -173,3 +173,4 @@ recorded history data.
 4. On the **History** page, use the toggle button in the top right corner to disable history
    tracking for the identity store.
 5. Click **Save**.
+

@@ -18,3 +18,4 @@ Export data from a PostgreSQL database.
 | Publisher               | Usercube                        |
 | ProviderClassFullName   | Npgsql.NpgsqlFactory            |
 | ProviderDllName         | Npgsql.dll                      |
+

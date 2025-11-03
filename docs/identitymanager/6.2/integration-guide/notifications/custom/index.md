@@ -33,3 +33,4 @@ as part of a job.
 
 The configuration is made through the XML tag
 [Notification](/docs/identitymanager/6.2/integration-guide/toolkit/xml-configuration/notifications/notification/index.md).
+

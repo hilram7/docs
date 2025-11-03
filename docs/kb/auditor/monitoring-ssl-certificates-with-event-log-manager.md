@@ -67,3 +67,4 @@ If you wish to receive Alerts for this data, repeat the filter configuration ste
 3. Click **OK** until you are back to the Event Log Manager homepage and then click **Save**.
 
 The configured Monitoring Plan will now yield reports and alerts for SSL auditing.
+

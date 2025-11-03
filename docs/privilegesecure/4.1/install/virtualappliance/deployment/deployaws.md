@@ -64,3 +64,4 @@ Server instance is granted automatically to the BUILTIN\Administrators group.
 For the first time, this starts automatically. See the steps below for additional information. For
 later runs, you can always run it from the Start menu or launch it by double-clicking the shortcut
 on the desktop.
+

@@ -14,3 +14,4 @@ and delete settings from the UM_Settings table.
 | Property         | Details                                                                                |
 | ---------------- | -------------------------------------------------------------------------------------- |
 | Profile required | **Type** String **Description** Identifier of the profile involved in the scaffolding. |
+

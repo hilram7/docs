@@ -24,3 +24,4 @@ The Filter Wizard manages properties of the search filter. The Filter Wizard pag
 - [EWSPublicFolder FW: Message Conditions](/docs/accessanalyzer/11.6/admin/datacollector/ewspublicfolder/searchfilter/messageconditions.md)
 - [EWSPublicFolder FW: BodyOptions](/docs/accessanalyzer/11.6/admin/datacollector/ewspublicfolder/searchfilter/bodyoptions.md)
 - [EWSPublicFolder FW: Save Filter](/docs/accessanalyzer/11.6/admin/datacollector/ewspublicfolder/searchfilter/savefilter.md)
+

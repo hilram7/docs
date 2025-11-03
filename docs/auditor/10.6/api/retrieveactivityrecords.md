@@ -82,3 +82,4 @@ Records collected in braces {} and a new Continuation mark.
 **Step 5 –** Continue retrieving Activity Records. Send POST requests containing new Continuation
 marks until you receive a 200 OK response with no Activity Records inside the `ActivityRecordList`.
 It means you reached the end of the Audit Database.
+

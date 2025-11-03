@@ -22,3 +22,4 @@ See the [Selection Windows](/docs/threatprevention/7.5/admin/policies/configurat
 
 The selection is displayed in the appropriate box of the AD Objects filter, the LDAP Query filter,
 or the LDAP Result filter.
+

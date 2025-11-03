@@ -19,3 +19,4 @@ accomplish this configuration:
 ![listsegments](/images/platgovnetsuiteflashlight/getting_started/listsegments.webp)
 
 You are now ready to use Flashlight to document your account.
+

@@ -24,3 +24,4 @@ Administrator needs to enable custom record field's Show in List option.
 2. The change is compliant.
 
     ![opp_clearance_case3-2](/images/platgovnetsuite/change_management/opp_clearance_case3-2.webp)
+

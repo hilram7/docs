@@ -111,3 +111,4 @@ Indicates the security type set for the group.
 **Email**
 
 The email address of the group (applies to mail-enabled groups only, such as an Office 365 group).
+

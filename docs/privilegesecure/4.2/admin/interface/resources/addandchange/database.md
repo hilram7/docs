@@ -54,3 +54,4 @@ the database.
 
 The new database is now added. See the [Database Details Page](/docs/privilegesecure/4.2/admin/interface/resources/detailspages/databases/databases.md) for
 additional details.
+

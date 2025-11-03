@@ -61,3 +61,4 @@ The specified **error** can occur when the initial **installation** is completed
 5. Click the **Member Of** tab, and click **Add**.
 6. On the **Select Group** page, type `Administrators`, and then click **OK**.
 7. Click **Apply** and **OK**.
+

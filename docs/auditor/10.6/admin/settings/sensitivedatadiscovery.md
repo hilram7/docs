@@ -188,3 +188,4 @@ single alert will be sent instead of many alerts. This can be helpful when Netwr
 many activity records matching the filters you specified. See the
 [Alerts](/docs/auditor/10.6/admin/alertsettings/overview.md) topic for additional
 information.
+

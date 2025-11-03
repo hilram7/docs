@@ -230,3 +230,4 @@ Endpoint Protector Client cannot directly control the usage of WSL Bash command-
 on Windows.
 
 :::
+

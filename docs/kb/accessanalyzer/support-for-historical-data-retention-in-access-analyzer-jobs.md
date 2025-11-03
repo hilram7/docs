@@ -110,3 +110,4 @@ The following solutions do not yet support any historical data retention:
 - https://docs.netwrix.com/docs/auditor/10_8 — SharePointAccess Data Collector − Activity Date Scope · v11.6
 - https://docs.netwrix.com/docs/auditor/10_8 0.Collection > SQL Job Group − 3-SQL_ActivityScan Job · v11.6
 - https://docs.netwrix.com/docs/auditor/10_8 0.Collection > Azure SQL Job Group − 3-AzureSQL_ActivityScan Job · v11.6
+

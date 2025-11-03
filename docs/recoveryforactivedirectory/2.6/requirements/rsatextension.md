@@ -9,3 +9,4 @@ sidebar_position: 30
 The following prerequisite is required to run the RSAT Extension:
 
 - Remote Server Administration Tools (RSAT) must be installed
+

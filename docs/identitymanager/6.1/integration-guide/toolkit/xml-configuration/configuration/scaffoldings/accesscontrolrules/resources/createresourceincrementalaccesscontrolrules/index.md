@@ -32,3 +32,4 @@ Our example generates the following configuration:
 <AccessControlRule Identifier="Administrator_Resource_Incremental" DisplayName_L1="Administrator Resource Incremental Query" EntityType="Resource" Profile="Administrator">  <Entry CanExecute="true" Permission="/Resources/Incremental/Query" /></AccessControlRule>
 
 ```
+

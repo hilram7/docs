@@ -66,3 +66,4 @@ If there are database access errors, ensure that the user is in the **Settings**
 ### 4. Filesystem Access
 
 If there are file system access errors, ensure that the schedule user has at least Read/Write/Create access to the `C:\windows\tasks` and `C:\windows\system32\tasks` folders.
+

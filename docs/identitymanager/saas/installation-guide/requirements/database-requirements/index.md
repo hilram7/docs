@@ -126,3 +126,4 @@ must be set to 1 in the SQL database.
 
 Let's move on to the requirements for Identity Manager's server. See the
 [Server](/docs/identitymanager/saas/installation-guide/requirements/server-requirements/index.md) topic for additional information.
+

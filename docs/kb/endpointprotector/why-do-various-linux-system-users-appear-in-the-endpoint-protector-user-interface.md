@@ -32,3 +32,4 @@ On Linux endpoints, you will see both standard and system users in the **Endpoin
 The Endpoint Protector client determines the active user by querying a system library, which returns the current user context. The UI reflects the user reported by this library at any given time.
 
 To ensure optimal accuracy and feature support, keep both the Endpoint Protector server and client updated to the latest versions.
+

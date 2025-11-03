@@ -46,3 +46,4 @@ This article describes how to whitelist authentication servers in Netwrix Endpoi
    ![Update policies now in Netwrix Endpoint Protector client](./images/ka0Qk000000Eb4X_0EMQk00000CAON7.png)
 10. Verify that authentication succeeds when DPI is enabled.
 
+

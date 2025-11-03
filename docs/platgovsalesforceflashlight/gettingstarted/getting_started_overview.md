@@ -26,3 +26,4 @@ There are a variety of informational topics to help you see what Flashlight docu
   provide insights into what Flashlight documents in your org.
 
 **Next Step:** [Installing Flashlight](/docs/platgovsalesforceflashlight/gettingstarted/installing_flashlight.md)
+

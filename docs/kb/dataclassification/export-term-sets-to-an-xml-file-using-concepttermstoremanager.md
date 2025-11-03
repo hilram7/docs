@@ -47,3 +47,4 @@ Export a term set structure to an XML file via the conceptTermStoreManager using
 8. Name and save the XML file when the **Save As** window appears.
 
 The resulting XML file will contain the entire Term Set structure, including all custom properties, in the proprietary conceptSearching XML format. This file can be used to load the term set into another term store using the Import facility.
+

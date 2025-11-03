@@ -38,3 +38,4 @@ until the assigned Primary owner replies.
 See the
 [Confirm Ownership Wizard](/docs/accessinformationcenter/11.6/resourceowners/confirmation/confirm.md)
 topic for additional information.
+

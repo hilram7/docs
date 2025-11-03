@@ -12,3 +12,4 @@ information:
 - [Taxonomy Settings Panel](/docs/dataclassification/5.7/contentconfigurationoverview/taxonomies/settings/settingspanel.md)
 - [Global Settings](/docs/dataclassification/5.7/contentconfigurationoverview/taxonomies/settings/globalsettings.md)
 - [Term Settings](/docs/dataclassification/5.7/contentconfigurationoverview/taxonomies/settings/termsettings.md)
+

@@ -55,3 +55,4 @@ page of the entity's resource list.
 
 For more information, see
 [Create Menu Item for Workflow in Resource Entity List](/docs/identitymanager/6.1/integration-guide/ui/how-tos/create-menu-items/index.md).
+

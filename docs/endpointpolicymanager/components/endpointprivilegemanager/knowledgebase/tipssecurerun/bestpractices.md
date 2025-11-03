@@ -61,3 +61,5 @@ each time this is invoked, it is logged in the event log along with the option o
 user's justification for running the process
 
 For more information, see [Self Elevate Mode](/docs/endpointpolicymanager/components/endpointprivilegemanager/videolearningcenter/adminapproval/demo.md)
+
+

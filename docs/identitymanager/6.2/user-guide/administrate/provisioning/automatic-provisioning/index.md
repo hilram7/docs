@@ -60,3 +60,4 @@ In order to verify the process:
    one of their permissions, which involves automated provisioning.
 3. Perform automated provisioning and check in Identity Manager that the change was effectively
    made.
+

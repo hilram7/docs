@@ -16,3 +16,4 @@ Manages users and permissions in Shared Folders.
 | Fulfill                 | NONE                             |
 | Has Incremental Mode    | False                            |
 | Publisher               | Identity Manager                 |
+

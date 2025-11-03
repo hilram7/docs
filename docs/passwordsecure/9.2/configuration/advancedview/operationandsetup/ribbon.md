@@ -52,3 +52,4 @@ in the ribbon.
 Depending on the selected form field, further actions are offered in the Content tab. In the
 Password field, this is, for example, calling the password generator or the screen keyboard, or the
 possibility to copy it to the clipboard.
+

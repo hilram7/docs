@@ -26,3 +26,4 @@ It contains the following integration pages:
 
 The Overview page displays a high-level view of all configured integrations. You can return to the
 Overview page by selecting the **Integrations** header in the navigation pane.
+

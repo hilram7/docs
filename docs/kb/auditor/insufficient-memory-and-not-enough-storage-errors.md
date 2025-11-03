@@ -42,3 +42,4 @@ I get the following errors:
    1. Click **Start / Run**. Type `SystemPropertiesAdvanced.exe` and press **Enter**.
    2. In the **System properties** window click the **Settings** button under **Performance**.
    3. Navigate to the **Advanced** tab and select the **Programs** option under **Adjust for best performance of**. Click **Apply**.
+

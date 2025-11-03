@@ -28,3 +28,4 @@ The following functions are currently available in the **Document module:**
 
 NOTE: The Web Application module **Documents** is based on the client module of the same name
 “Documents”. Both modules differ in scope and design, but the operation is almost identical.
+

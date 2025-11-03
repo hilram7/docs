@@ -23,3 +23,4 @@ Alerting_folder.
 | File           | Description                                                                                                                             | Syntax                                 |
 | -------------- | --------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- |
 | omitoulist.txt | This file defines a list of OUs to exclude from being audited. To specify the OUs and their subOUs, type names each on a separate line. | `Name` For example: `*OU=C,OU=B,OU=A*` |
+

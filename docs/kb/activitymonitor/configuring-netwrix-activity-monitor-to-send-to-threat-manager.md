@@ -45,3 +45,4 @@ The Netwrix Activity Monitor (SAM) can be configured to send events to Netwrix T
 - **Submitted by:** Michael Olig
 - **Product:** Netwrix Activity Monitor, Netwrix Threat Manager
 - **KB Type:** How To
+

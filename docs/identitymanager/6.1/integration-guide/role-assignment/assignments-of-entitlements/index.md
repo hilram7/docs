@@ -201,3 +201,4 @@ together with its nested scalar/navigation assignments, and it is described by t
 
 All consolidated workflow and provisioning states are detailed in the database schema of assigned
 resource types.
+

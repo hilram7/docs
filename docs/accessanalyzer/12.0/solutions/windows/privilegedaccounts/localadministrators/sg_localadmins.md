@@ -68,3 +68,4 @@ domain user that has been added to the **Network access: Restrict clients allowe
 calls to SAM** Local Security Policy.
 
 ![User added to the Local Securtiy Policy](/images/accessanalyzer/12.0/solutions/windows/privilegedaccounts/localadministrators/leastprivilegemodel.webp)
+

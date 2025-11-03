@@ -16,3 +16,4 @@ into the following major components:
 
 Each major component has its own tabbed view. A policy requires at least the General tab and Event
 Type tab to be configured before it properly functions. The Actions tab is optional.
+

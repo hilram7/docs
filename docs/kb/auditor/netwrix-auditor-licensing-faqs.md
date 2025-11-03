@@ -147,3 +147,4 @@ You may choose to no longer audit a data source, and thus not renew the license 
 - [How to Count Number of CPU Cores on Your Oracle Database Deployment](https://docs.netwrix.com/docs/kb/auditor/how-to-count-number-of-cpu-cores-on-your-oracle-database-deployment)
 - [How to Determine the Count of Enabled Microsoft Entra ID Accounts](https://docs.netwrix.com/docs/kb/auditor/determining-the-number-of-enabled-microsoft-entra-id-accounts#instructions)
 - [How to count number of licenses required for auditing a Microsoft Office 365 tenant?](/docs/kb/auditor/how-to-count-number-of-licenses-required-for-auditing-a-microsoft-office-365-tenant.md)
+

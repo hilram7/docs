@@ -77,3 +77,4 @@ For the attributes marked with asterisk (\*) _what_ changed is not reported.
 | Failed Logon      | Logon\*                    | Cause description. The number of matching events if the logon attempt failed several times during a short period of time. |
 | Interactive Logon |                            |                                                                                                                           |
 | Logoff            | Interactive Logon          | A session was disconnected. Session duration (if the corresponding logon was found).                                      |
+

@@ -97,3 +97,4 @@ LDAP Monitoring is not enabled, it must be enabled in the Monitored Domains tab.
 **Step 14 –** Paste the string copied from Threat Manager and press **Enter**.
 
 LDAP monitoring has been configured for Threat Manager.
+

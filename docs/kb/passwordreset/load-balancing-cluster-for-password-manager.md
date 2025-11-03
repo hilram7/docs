@@ -63,3 +63,4 @@ How to setup a load balancing cluster for Netwrix Password Reset
 
 9. Install Web-Applications on every node per procedure 12 of the Netwrix Password Reset Administrators guide:
    - https://www.netwrix.com/download/documents/NetWrix_Password_Manager_Administrator_Guide.pdf
+

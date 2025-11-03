@@ -13,3 +13,4 @@ In Usercube, the JML process is done through workflows or through synchronizatio
 
 [Learn about onboarding and offboarding](/docs/identitymanager/6.1/integration-guide/identity-management/joiners-movers-leavers/on-offboarding/index.md).  
 [Learn about position changes via records](/docs/identitymanager/6.1/integration-guide/identity-management/joiners-movers-leavers/position-change/index.md).
+

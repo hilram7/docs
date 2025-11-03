@@ -36,3 +36,4 @@ encryption techniques and algorithms are currently used:
   app.
 - Password AutoFill support. Passwords are automatically entered in other apps and Safari. (No
   copy/paste or typing)
+

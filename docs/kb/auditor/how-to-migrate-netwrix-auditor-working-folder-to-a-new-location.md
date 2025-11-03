@@ -98,3 +98,4 @@ If migration was completed with any errors, refer to the following steps:
 - [Netwrix Auditor Operations and Health − Health Status Dashboard](https://docs.netwrix.com/docs/auditor/10_8/admin/healthstatus/dashboard/overview)
 - [How to Check the Netwrix Auditor Health Status](/docs/kb/auditor/how-to-check-the-netwrix-auditor-health-status.md)
 - [Open a Ticket · Netwrix 🧭](https://www.netwrix.com/tickets.html#/open-a-ticket)
+

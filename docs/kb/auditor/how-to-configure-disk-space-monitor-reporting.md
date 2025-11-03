@@ -53,3 +53,4 @@ It will work as follows:
 The product task begins to work on a scheduled basis and repeats every 10 minutes, so disks are monitored in real-time.
 When the **Send notifications in real-time** checkbox is checked, the Netwrix Auditor Disk Space Monitor sends notifications on the detected servers with low free disk space if disk capacity change occurs.
 The default summary report schedule is daily at 3:00 AM.
+

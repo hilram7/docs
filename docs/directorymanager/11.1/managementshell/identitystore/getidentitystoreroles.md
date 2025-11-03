@@ -54,3 +54,4 @@ Gity store through the pipeline operator.
 ```
 'customrole1', 'customrole2' | Get-IdentityStoreRoles -IdentityStoreName AdStore1
 ```
+

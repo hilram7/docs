@@ -71,3 +71,4 @@ To comfortably scan 4 file systems using a dedicated proxy server, the optimized
    - Schedule scans during off-peak hours to avoid conflicts with other server processes.
 
 2. Enable logging and review the logs to identify bottlenecks or errors during the scan process. Adjust the query settings based on the findings.
+

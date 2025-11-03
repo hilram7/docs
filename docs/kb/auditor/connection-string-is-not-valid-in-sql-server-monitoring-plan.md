@@ -60,3 +60,4 @@ Review the affected item in your SQL Server monitoring plan:
      ![Named instance example](images/ka04u000000wvzg_0EM4u000008pVow.png)
 
 5. Once the changes are introduced, click **Save & Close**.
+

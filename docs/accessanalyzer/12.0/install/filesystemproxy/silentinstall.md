@@ -83,3 +83,4 @@ msiexec /i FileSystemProxy.msi /qb /l*v install.log SVC_ACCOUNT_TYPE=DOMAIN SVC_
     ```
     msiexec /i FileSystemProxy.msi/qb /l*v install.log SVC_ACCOUNT_TYPE=DOMAIN SVC_USERNAME=DOMAIN\USERNAME SVC_PASSWORD="secret" PRODUCTDIR="E:\STEALTHbits\StealthAUDIT\FSAA"
     ```
+

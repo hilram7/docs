@@ -113,3 +113,4 @@ Validate the job's execution by proceeding as follows:
 3. Find the job named with the string input in the job's `DisplayName_Li` property, and launch it.
 4. Once the job is completed, Microsoft Entra ID objects should be synchronized to the database's
    `UR_Resources` table.
+

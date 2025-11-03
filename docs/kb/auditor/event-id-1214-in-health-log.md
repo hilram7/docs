@@ -48,3 +48,4 @@ The following error occurred when trying to write audit data to the SQL database
 ## Related articles
 
 - Netwrix Auditor Settings − Audit Database · v10.6: https://docs.netwrix.com/docs/auditor/10_8
+

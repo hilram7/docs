@@ -28,3 +28,4 @@ options:
   enables the Folder Conditions page, used to identify specific folders to target. See the
   [Mailbox: Folder Conditions](/docs/accessanalyzer/11.6/admin/action/mailbox/folderconditions.md)
   topic for additional information.
+

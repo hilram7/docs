@@ -61,3 +61,4 @@ The working directory structure should now resemble the following:
 
 Next section shows how to
 [install the Usercube Database](/docs/identitymanager/6.1/installation-guide/production-ready/database/index.md).
+

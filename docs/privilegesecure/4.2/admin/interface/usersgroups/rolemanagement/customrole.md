@@ -33,3 +33,4 @@ Follow the steps below to add a role to the Users & Groups Role Management modu
 Once saved, the next step is to assign Permissions and users to this role. See the
 [Custom Role Details Page](/docs/privilegesecure/4.2/admin/interface/usersgroups/rolemanagement/rolemanagementcustom/rolemanagementcustom.md) topic for additional
 information.
+

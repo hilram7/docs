@@ -42,3 +42,4 @@ Refer to the following steps to edit the reporting schedule:
 1. Launch Event Log Manager, select the monitoring plan, and click **Edit**.
 2. Switch to the **Advanced** tab and edit the **Specify notification delivery time** value.
 3. Click **Save** to save your changes.
+

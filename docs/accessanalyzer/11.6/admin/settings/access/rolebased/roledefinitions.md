@@ -243,3 +243,4 @@ There are two options that control inheritance for Report Viewers when selected:
   all Jobs and Reports to inherit group settings for all child objects by automatically selecting
   the **Include Report Viewers from this object’s parent** option. Any previous configurations are
   overwritten once **Yes** is selected in the confirmation window.
+

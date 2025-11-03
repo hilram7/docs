@@ -45,3 +45,4 @@ It is not the only possible root cause, but it is becoming increasingly more com
 ## Resolution
 
 Review the following Microsoft article that describes how these "mangled" entries are handled by the system, how to find them, and how to fix the duplicates: https://learn.microsoft.com/en-us/archive/technet-wiki/15435.active-directory-duplicate-object-name-resolution (Active Directory: Duplicate Object Name Resolution ⸱ Microsoft 🤝).
+

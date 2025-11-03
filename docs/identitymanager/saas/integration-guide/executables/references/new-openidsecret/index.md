@@ -31,3 +31,4 @@ The output shows the client secret and its hashed version. It must be entered in
 | --- | --- |
 | --log-level   optional | __Type__    LogLevel   __Description__ Level of log information among: ```Verbose```; ```Debug```; ```Information```; ```Warning```; ```Error```; ```Fatal```. |
 ````
+

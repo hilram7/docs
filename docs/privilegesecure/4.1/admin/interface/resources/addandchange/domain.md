@@ -36,3 +36,4 @@ domain to the console.
 The new domain has been on-boarded. See the
 [Domain Details Page](/docs/privilegesecure/4.1/admin/interface/resources/detailspages/domain/domain.md)
 topic for additional information.
+

@@ -46,3 +46,4 @@ Select an item in the table, and use the action buttons at the bottom to identif
 | Decline    | Declines, or rejects, the owner-recommended change.  |
 | Defer      | Defers the owner-recommended change to a later time. |
 | View Notes | Opens the Notes window for the selected item.        |
+

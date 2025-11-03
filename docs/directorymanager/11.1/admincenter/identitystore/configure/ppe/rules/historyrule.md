@@ -40,3 +40,4 @@ number of days.
 
 - Enforce this rule when a password is reset – The History rule is normally not enforced when a
   password is reset. Select the check box to override the default behavior.
+

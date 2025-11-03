@@ -36,3 +36,4 @@ The actual connection of the RADIUS server is simple:
 - **AUTH Port** - The so-called AUTH port of the RADIUS server is specified here.
 - **ACT Port** - The ACCT port of the RADIUS server can also be stored; if required.
 - **Timeout** - The time the RADIUS server has to react; can also be configured.
+

@@ -16,3 +16,4 @@ Manages users and groups in Apache Directory.
 | Fulfill                 | Usercube-Fulfill-Ldap.dll    |
 | Has Incremental Mode    | False                        |
 | Publisher               | Usercube                     |
+

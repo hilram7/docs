@@ -115,3 +115,4 @@ source, except HTML and XML files. Do the following:
 9. Finally, click **Next** to proceed.
 
 ![workflow_step3_example2_thumb_0_0](/images/dataclassification/5.7/admin/workflows/workflow_step3_example2_thumb_0_0.webp)
+

@@ -89,3 +89,4 @@ _from: “Mitigating Pass-the-Hash and Other Credential Theft, version 2” docu
   currently only possible in very specific environments and is not advised for most customers, this
   feature could assist the transition for customers exploring this approach. This feature helps
   prevent credential theft.
+

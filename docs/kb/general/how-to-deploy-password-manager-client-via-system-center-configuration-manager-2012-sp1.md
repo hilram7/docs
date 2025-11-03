@@ -47,3 +47,4 @@ To install Netwrix Password Reset Logon Prompt Extension via System Center Confi
 1. Launch **SCCM 2012 Configuration Manager** and choose **Software Library** node
 2. Right-click on **Packages** and choose **Create package**
 
+

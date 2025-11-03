@@ -31,3 +31,4 @@ is displayed:
 **Step 6 –** Click **OK**.
 
 The SQL Server service account password has been updated and saved.
+

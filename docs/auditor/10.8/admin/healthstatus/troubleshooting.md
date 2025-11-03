@@ -37,3 +37,4 @@ portal as described in the Creating a ticket with Customer portal section.
 4. After that, you will be able to attach the files you need (screenshots, emails, reports, etc.).
 
 ![support_ticket_customer_portal](/images/auditor/10.7/admin/healthstatus/support_ticket_customer_portal.webp)
+

@@ -52,3 +52,4 @@ Enter **Export Object Attachments** in the **Search Salesforce** entry box on th
    Tabs**.
    ![Add Export Object Attachments tab to your menu bar in Lightning](/images/platgovsalesforce/tools/export_object_attach_record_tab_lightning.webp)
 4. Click **Save**.
+

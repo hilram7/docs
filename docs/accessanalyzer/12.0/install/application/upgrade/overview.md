@@ -89,3 +89,4 @@ The following changes in licensing requires the organization needing a new key:
 
 See the [Update License Key](/docs/accessanalyzer/12.0/install/application/updatelicense.md) section for instructions on updating the license
 key.
+

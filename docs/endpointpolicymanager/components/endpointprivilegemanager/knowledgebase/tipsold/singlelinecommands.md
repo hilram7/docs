@@ -19,3 +19,5 @@ An example of elevating the SCCM computer setup can be seen below:
 ![479_2_pplpm-faq2-image002](/images/endpointpolicymanager/leastprivilege/elevate/479_2_pplpm-faq2-image002.webp)
 
 ![479_3_pplpm-faq2-image003](/images/endpointpolicymanager/leastprivilege/elevate/479_3_pplpm-faq2-image003.webp)
+
+

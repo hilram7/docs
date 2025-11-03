@@ -41,3 +41,4 @@ This error occurs due to invalid Netwrix Auditor certificate.
 3. Navigate to **Add or Remove Snap-ins** -> **Certificates** -> **Computer account** -> **Local computer** -> **ok** -> **open** `certificates\Netwrix Auditor for Windows Server` -> **Certificates**.
 4. Remove the **Netwrix Auditor** certificate.
 5. Start the the **Netwrix Auditor for Windows Server** service you stopped on the step 1.
+

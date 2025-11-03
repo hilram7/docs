@@ -55,3 +55,4 @@ Some audit data may be missing in your Activity Summaries and reports.
 ## Related articles
 
 - Monitoring Plans − SharePoint · v10.6
+

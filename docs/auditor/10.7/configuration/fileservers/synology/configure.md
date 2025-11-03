@@ -29,3 +29,4 @@ all audit types should be enabled.
 **NOTE:** Currently, Netwrix Auditor cannot collect activities using a local Synology user. Data
 collection only supported via a domain user with the necessary access privileges to the Synology
 file server.
+

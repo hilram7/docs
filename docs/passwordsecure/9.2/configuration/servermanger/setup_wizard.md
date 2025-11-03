@@ -72,3 +72,4 @@ module that need to be confirmed.
 has actually been carried out. It is absolutely essential to ensure that regular
 [Backup management](/docs/passwordsecure/9.2/configuration/servermanger/mainmenu/backupsettings/backup_management.md) are created
 and the [Certificates](/docs/passwordsecure/9.2/configuration/servermanger/certificates/certificates.md) are backed up.
+

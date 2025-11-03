@@ -22,3 +22,4 @@ additional information about syncing the configured Active Directory domain(s) i
 | Group       | Used specifically for groups that have large memberships which get automatically truncated by the query | Read Access to memberof for all group objects in the domain              |
 | GMSA        | Retrieve all Group Managed Service Accounts                                                             | Read access to all msDS-groupmanagedserviceaccount objects in the domain |
 | Secret      | Retrieve all DPAPI master backup keys (Secret objects)                                                  | Read access to all secret objects in Active Directory                    |
+

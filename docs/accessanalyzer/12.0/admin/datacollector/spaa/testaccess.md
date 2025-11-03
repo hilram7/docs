@@ -34,3 +34,4 @@ The options and sections on the Test Access page are:
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Successful test example](/images/accessanalyzer/12.0/admin/datacollector/spaa/testaccessbadtest.webp) |
 | **Successful Test (Correct Credentials)**                                                                                                               | **Unsuccessful Test (Incorrect Credentials)**                                                                                                            |
+

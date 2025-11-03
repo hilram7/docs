@@ -23,3 +23,5 @@ Or
 %localappdata%\Slack\\\* + File type
 
 ![628_3_image-20210311160348-2](/images/endpointpolicymanager/troubleshooting/leastprivilege/securerun/628_3_image-20210311160348-2.webp)
+
+

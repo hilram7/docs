@@ -125,3 +125,4 @@ if the changes are not saved.
 The deleted users will no longer be able to log into the Access Analyzer application. If a user is
 actively logged into Access Analyzer at the same time of the deletion, the user will need to exit
 the application for the deletion to take effect.
+

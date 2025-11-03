@@ -169,3 +169,4 @@ enabled or not.
 ![schedulelist](/images/passwordpolicyenforcer/10.2/administration/schedulelist.webp)
 
 Use this window to Add, Edit, or Delete schedules for the HIBP Updater.
+

@@ -20,3 +20,4 @@ For cmdlets requiring explicit credentials, a single credential set from the job
 Profile can be referenced using `Get-Credential` or the `$JobCredential` variable, a `PSCredential`
 type object. All credentials from the job’s Connection Profile may be accessed via the
 `$JobCredentials` array.
+

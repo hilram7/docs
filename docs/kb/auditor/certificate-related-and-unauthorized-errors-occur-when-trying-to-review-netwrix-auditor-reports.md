@@ -53,3 +53,4 @@ Here are possible options to resolve the issue:
 - Check if those domains are trusted. If not, add the Netwrix Site to the trusted list.
 
 ![User-added image](images/ka04u000001173i_0EM4u000008LirC.png)
+

@@ -59,3 +59,4 @@ refreshed for hosts in the list and set the credentials to use to conduct the ho
 The new list displays at the bottom of the host lists under the **Host Management** node in the
 Navigation pane. Every host added is included in the host master table at the Host Management node
 as well as in the newly created host list.
+

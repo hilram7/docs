@@ -22,3 +22,4 @@ Here you can examine:
   classifications applied, and the percentage that has not.
 
 ![sharepointdashboard_thumb_0_0](/images/dataclassification/5.7/admin/sources/sharepoint/sharepointdashboard_thumb_0_0.webp)
+

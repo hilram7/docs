@@ -20,7 +20,7 @@ enforced and streamlined with Endpoint Policy Manager. Check out this video to s
 
 Hi, this is Jeremy Moskowitz, Microsoft MVP, Enterprise Mobility and Founder of PolicyPak Software.
 In this video, we're going to learn how to manage and
-[https://dev.policypak.com/lockdown-recordings-portal/](https://dev.policypak.com/lockdown-recordings-portal/)
+[https://policypak.com/lockdown-recordings-portal/](https://policypak.com/lockdown-recordings-portal/)
 IrfanView using PolicyPak.
 
 I've already got IrfanView installed on my computer, and I'm just a regular user here. As you can
@@ -76,7 +76,8 @@ And we are done. That is how incredibly easy it is for you to use PolicyPak to m
 Irfanview as well as tons of other desktop applications.
 
 If you're looking for a trial of PolicyPak, just click on the
-[ https://dev.policypak.com/webinar/](https://dev.policypak.com/webinar/) button on the right.
+[ https://policypak.com/webinar/](https://policypak.com/webinar/) button on the right.
 
 Thanks so much for watching, and get in touch with us if you're looking to get started. Talk to you
 soon.
+

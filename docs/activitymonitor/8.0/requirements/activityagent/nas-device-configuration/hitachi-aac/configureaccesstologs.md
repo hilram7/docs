@@ -28,3 +28,4 @@ to select the users and groups to be audited and add the desired user or group.
 
 Once access has been configured on both the Hitachi device and the Activity Agent server, it is time
 to configure and enable monitoring with the Activity Monitor Console.
+

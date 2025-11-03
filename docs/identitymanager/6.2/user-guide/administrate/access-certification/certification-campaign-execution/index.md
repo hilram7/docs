@@ -117,3 +117,4 @@ the appropriate provisioning orders for deprovisioning unjustified entitlements.
 considered during the next provisioning job.
 
 ![Apply Decisions](/images/identitymanager/saas/user-guide/administrate/access-certification/certification-campaign-execution/certifcampaign_applydecisions_v602.webp)
+

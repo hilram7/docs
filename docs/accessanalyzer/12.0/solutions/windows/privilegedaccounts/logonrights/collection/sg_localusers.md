@@ -40,3 +40,4 @@ The default analysis tasks is:
 
 - Update LocalUsers – Creates an interim processing table in the database for use by downstream
   analysis and report generation
+

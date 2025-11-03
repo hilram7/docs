@@ -26,3 +26,4 @@ Server settings for a Mobile service include:
 - [Mobile Service](/docs/directorymanager/11.0/signin/service/mobileservice/overview.md)
 - [Manage General Server Settings](/docs/directorymanager/11.0/signin/service/mobileservice/server/general.md)
 - [Manage Deployment Settings](/docs/directorymanager/11.0/signin/service/mobileservice/server/deployment.md)
+

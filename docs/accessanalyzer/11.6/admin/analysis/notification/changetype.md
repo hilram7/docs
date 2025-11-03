@@ -20,3 +20,4 @@ The following options are available:
   permissions assignment or someone being added to a group
 - Notify me when something is removed – Used to watch for something being removed, such as a user
   being removed from a group or an application uninstalled
+

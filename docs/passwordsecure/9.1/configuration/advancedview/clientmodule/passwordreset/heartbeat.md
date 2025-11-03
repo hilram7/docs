@@ -74,3 +74,4 @@ The filter can be configured using the filter group **Status of the login data**
 records can be selected.
 
 ![Filter heartbeat status](/images/passwordsecure/9.1/configuration/advanced_view/clientmodule/passwordreset/heartbeat/heartbeat_2-en.webp)
+

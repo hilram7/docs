@@ -111,3 +111,4 @@ RECOMMENDED: If you do not receive the code, recheck your email address and clic
 - [Enable Authentication Types](/docs/directorymanager/11.0/signin/identitystore/configure/authtypes.md)
 - [Authentication Policy for Security Roles](/docs/directorymanager/11.0/signin/securityrole/policy/authentication.md)
 - [Enroll with Authentication Types](/docs/directorymanager/11.0/signin/authpolicy/enroll.md)
+

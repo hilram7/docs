@@ -37,3 +37,4 @@ Assign the **Content Manager** role to the user to be able to view report folder
 ## Related articles
 
 SQL Server Reporting Services − Grant Additional Permissions on Report Server ⸱ v10.6
+

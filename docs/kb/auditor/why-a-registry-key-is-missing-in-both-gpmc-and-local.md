@@ -42,3 +42,4 @@ Registry audit settings are required for some data sources, for example, for Log
    ![User-added image](images/ka0Qk0000001VD3_0EMQk000002dT5q.png)
 
 This will apply the key settings to the GPO, and all computers affected by the GPO.
+

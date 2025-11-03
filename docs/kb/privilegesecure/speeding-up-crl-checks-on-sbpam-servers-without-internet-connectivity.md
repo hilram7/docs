@@ -44,3 +44,4 @@ This timeout setting is governed by a Group Policy. The following steps allow yo
 4. Check the **Define these policy settings** box, and reduce both **Default retrieval timeout settings** to `1`.  
    ![User-added image](images/ka04u000000HdFp_0EM4u0000052lrk.png)
 5. Click **Apply** to save the configuration.
+

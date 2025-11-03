@@ -179,3 +179,4 @@ At this point the failover process has been completed and you should be able to:
 - Lastly, users should be able to search, load, and request access to systems that you have access
   to via the Access > Grant Access page. Once access has been granted, confirm you can RDP/SSH into
   the Windows/Linux machines.
+

@@ -45,3 +45,4 @@ The default analysis tasks are:
   Results node
 - AIC group permissions import – Creates an interim processing table in the database for use by
   downstream analysis and report generation
+

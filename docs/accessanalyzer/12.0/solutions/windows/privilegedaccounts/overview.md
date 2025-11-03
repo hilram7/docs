@@ -24,3 +24,4 @@ The job groups in the Privileged Accounts job group are:
 - [Service Accounts > SG_ServiceAccounts Job](/docs/accessanalyzer/12.0/solutions/windows/privilegedaccounts/sg_serviceaccounts.md) – This job indicates which
   domain accounts are being used to run services on member servers, highlighting password age and
   settings
+

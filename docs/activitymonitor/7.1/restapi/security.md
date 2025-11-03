@@ -79,3 +79,4 @@ Here is how the permissions affect the returned resources:
 | -------------------- | ------------------------------ | -------------------------------------- | --------------------------------------- | ---------------------------------------- | ------ | ----------------------- |
 | Read                 | All agents, all info           | All hosts, all info                    | All domains, all info                   | All                                      | All    | None                    |
 | Access activity data | Only this agent. Limited info. | This agent's hosts only. Limited info. | This agent's domain only. Limited info. | Outputs of this agent's hosts and domain | None   | All files of this agent |
+

@@ -33,3 +33,4 @@ Alternatively, you can enter the IP address. If your Netwrix Auditor server is l
 - The Netwrix Auditor data collecting account has `Read` permissions for the `OU=EMC NAS servers` node in Active Directory.
 
 Otherwise, data collection will fail, reporting an error caused by network path not found.
+

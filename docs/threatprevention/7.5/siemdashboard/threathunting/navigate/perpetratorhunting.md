@@ -23,3 +23,4 @@ The Perpetrator Hunting option contains the following cards:
   specified timeframe
 
 The specified timeframe is set by default to _All Time_.
+

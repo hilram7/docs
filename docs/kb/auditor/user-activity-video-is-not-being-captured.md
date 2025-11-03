@@ -46,3 +46,4 @@ If this option is enabled and videos are still not being captured, proceed with 
   - The support team often encounters environmental errors, such as remote services becoming unavailable.
 - Add the Netwrix Auditor Host Server as an item under your User Activity Monitoring Plan and attempt to capture video.
   - This may provide more insight on issues related to networking or configuration.
+

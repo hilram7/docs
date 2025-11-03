@@ -78,3 +78,4 @@ After creating the monitoring plan:
 3. **[Set up alerts](/docs/auditor/10_8/admin/alertsettings/create/)** for important events
 
 For configuration requirements, see [Azure Files Configuration](/docs/auditor/10.8/configuration/azurefiles/overview.md)
+

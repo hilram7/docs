@@ -19,3 +19,4 @@ This learning path grants <Company /> certification as a Sales Professional for 
 This course will introduce you to the basics of <NIM />, formerly Netwrix Usercube, explain what problems it solves, tell you which customers will be interested in learning more, and explain how to engage with them successfully.
 
 Estimated length: 40 minutes
+

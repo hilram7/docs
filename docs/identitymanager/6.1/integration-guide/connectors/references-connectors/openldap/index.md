@@ -254,3 +254,4 @@ Data protection can be ensured through:
 - a
   [CyberArk Vault](/docs/identitymanager/6.1/integration-guide/network-configuration/agent-configuration/cyberark-application-access-manager-credential-providers/index.md)
   able to store OpenLDAP's `Login`, `Password` and `Server`.
+

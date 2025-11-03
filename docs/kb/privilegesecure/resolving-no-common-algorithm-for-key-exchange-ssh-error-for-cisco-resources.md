@@ -69,3 +69,4 @@ Refer to the following steps to configure the use of the same key exchange algor
 ```
 
 6. You should now be able to negotiate an SSH connection with the target resource using its preferred algorithm.
+

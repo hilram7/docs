@@ -44,3 +44,4 @@ This is a known issue fixed in the release `v10.7.13728`.
 ## Resolution
 
 Upgrade your Netwrix Auditor instance to the build `v10.7.13728` or later. Download the latest version in [My Products · Netwrix](https://www.netwrix.com/my_products.html).
+

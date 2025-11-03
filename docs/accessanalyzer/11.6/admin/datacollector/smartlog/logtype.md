@@ -41,3 +41,4 @@ The SMARTLog Data Collector needs the IIS logs to generate the following columns
 - BytesSent (sc-bytes)
 - BytesRecv (cs-bytes)
 - UserAgent (cs(User-Agent))
+

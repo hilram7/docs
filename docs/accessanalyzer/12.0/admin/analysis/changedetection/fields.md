@@ -20,3 +20,4 @@ Choose which fields change detection analyzes using the following options:
 - Column Name – Name of the field
 - Combine multiple changes into a single change record – Select to combine multiple changes into a
   single change record
+

@@ -101,3 +101,4 @@ from the **Configuration** section of the home page.
 Then, Netwrix Identity Manager (formerly Usercube) recommends following the user guide to start the
 configuration of your IGA project from scratch. See the [User Guide](/docs/identitymanager/saas/user-guide/index.md)
 topic for additional information.
+

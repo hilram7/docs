@@ -119,3 +119,4 @@ When the deployment process is finished:
 3. Once the deployment is successful, open the change request and set the status to **Completed**.
 
     ![Complete the Process](/images/platgovsalesforce/release_management/deployment_tool-5.webp)
+

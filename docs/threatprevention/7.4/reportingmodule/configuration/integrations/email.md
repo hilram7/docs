@@ -81,3 +81,4 @@ address(es). Validate the email was sent by checking that the recipient received
 **Step 6 –** Click **Save Settings** to commit the changes.
 
 Email notifications are now configured.
+

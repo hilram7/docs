@@ -73,3 +73,4 @@ This location is protected by the service account used to run the Access Analyze
 To disable the vault, navigate to the **Settings** > **Application** node and change the Profile
 Security section setting to **Application**. It is a best practice to also stop the Access Analyzer
 Vault Service.
+

@@ -196,3 +196,4 @@ Removed various low level Windows log messages (use new “connector action” l
     - "Successfully changed local user name to ((username)) for SID ((sid))"
     - "Failed to change local user name to ((username)) for SID ((sid))"
     - "Getting list of Admin users"
+

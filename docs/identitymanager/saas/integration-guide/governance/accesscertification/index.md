@@ -241,3 +241,4 @@ This permission also is given by the AccessReviewAdministrationAccessControlRule
 the
 [Access Review Administration Access Control Rules](/docs/identitymanager/saas/integration-guide/toolkit/xml-configuration/configuration/scaffoldings/accesscontrolrules/accessreviews/accessreviewadministrationaccesscontrolrules/index.md)
 topic for additional information.
+

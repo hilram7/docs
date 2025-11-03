@@ -55,3 +55,4 @@ window.
 
 The Actions tab now displays the configured settings for the specified File action. The action
 configuration can be directly edited through this display as well.
+

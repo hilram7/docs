@@ -78,3 +78,4 @@ application begins to process the ownership configuration.
 **Close**. The Add new resource wizard closes.
 
 This resource is now being managed through the Access Reviews application.
+

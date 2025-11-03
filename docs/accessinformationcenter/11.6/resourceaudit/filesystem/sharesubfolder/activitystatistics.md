@@ -56,3 +56,4 @@ occurred per day. Each operation type is shown with a different color, as indica
 See the
 [Activity Report Results Pane Features](/docs/accessinformationcenter/11.6/resourceaudit/navigate/overview.md#activity-report-results-pane-features)
 topic for instructions on filtering the trend graphs.
+

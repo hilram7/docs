@@ -20,3 +20,4 @@ The following keyboard shortcuts are available:
 - **CTRL+ ALT + P** enters the selected password into the active window or field
 - **CTRL+ ALT + R** firstly transfers the user name from the selected record to the active window
   via the enter key. The shortcut will then execute a TAB jump and transfer the password.
+

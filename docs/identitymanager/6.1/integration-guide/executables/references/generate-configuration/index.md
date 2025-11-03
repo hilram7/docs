@@ -88,3 +88,4 @@ as well as the primary keys of these files.
 |                                     |                                                                                                                                                                                                                                                     |
 | ---                                 | ---                                                                                                                                                                                                                                                 |
 | --log-level optional                | **Type** LogLevel **Description** Level of log information among: `Verbose`; `Debug`; `Information`; `Warning`; `Error`; `Fatal`.                                                                                                                   |
+

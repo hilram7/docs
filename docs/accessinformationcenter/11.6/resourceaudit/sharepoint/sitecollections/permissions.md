@@ -61,3 +61,4 @@ Resources pane. See the
 [Resources Pane](/docs/accessinformationcenter/11.6/resourceaudit/navigate/resource.md#resources-pane)
 topic for additional information. This table is comprised of the same columns as the primary report,
 with the exception that it does not have the **Roles** column.
+

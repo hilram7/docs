@@ -22,3 +22,4 @@ To install the Add-On, perform the following steps:
 **Step 6 –** Click **Install**.
 
 **Step 7 –** When done, click **Finish**.
+

@@ -37,3 +37,4 @@ different in both identity stores.
 
 - [Groups](/docs/directorymanager/11.0/welcome/group/create/overview.md)
 - [Dynasty](/docs/directorymanager/11.0/welcome/group/dynasty/overview.md)
+

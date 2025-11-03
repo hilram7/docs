@@ -19,3 +19,4 @@ The job in the Sensitive Data Job Group is:
 - [MySQL_SensitiveDataPermissions Job](/docs/accessanalyzer/11.6/solutions/databases/mysql/sensitivedata/mysql_sensitivedatapermissions.md) -
   Designed to provide information on all types of permissions on database objects containing
   sensitive data across all the targeted MySQL servers based on the selected scan criteria.
+

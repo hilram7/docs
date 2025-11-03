@@ -66,3 +66,4 @@ access to the password.
 The user now has the encrypted password which has been delivered by the server. The user himself
 possesses the **private key** required for decrypting the password and can now view the actual
 password.
+

@@ -32,3 +32,4 @@ license key as that would stop the application from alerting about the expired l
 The license key has been successfully imported. The organization’s license information is available
 on the
 [License Manager Window](/docs/threatprevention/7.4/admin/navigation/licensemanager.md).
+

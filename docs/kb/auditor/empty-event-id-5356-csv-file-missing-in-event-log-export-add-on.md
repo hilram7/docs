@@ -33,3 +33,4 @@ knowledge_article_id: kA04u000000wnpsCAA
 1. Upon the Test Run completion, an empty Event 5536 is created logging the **When** timestamp of the run − this behavior is intended.
 
 2. The path specified in the message is used as a short-term data storage to allow Netwrix Auditor to process data and send an alert. Once completed, the `.csv` file is deleted. The contents of the `.csv` file are logged in Event Log.
+

@@ -22,3 +22,4 @@ Select the hosts or host list to inventory and then click **Refresh Hosts** in t
 ![Refresh Hosts Confirm dialog](/images/accessanalyzer/11.6/admin/hostmanagement/actions/refreshhostsconfirm.webp)
 
 When only particular hosts are selected in a list, a dialog box asks for confirmation of the action.
+

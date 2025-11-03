@@ -34,3 +34,4 @@ To exclude user accounts from data collection and reporting, do the following:
    - `omitstoreuserlist_fs.txt` file to exclude certain users from **SSRS-based Reports** and email **Change Summaries** as well.
 3. Edit the selected file by specifying the accounts you want to exclude. Accounts must be entered one per line in the `domainusername` format. Wildcards (`*` and `?`) are supported.
 4. Save the changes and close the file.
+

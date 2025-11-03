@@ -30,3 +30,4 @@ on its output type.
     Displays a form to select an existing record and update it.- ####
     [WorkflowUpdateSeveralRecordsEntityForm](/docs/identitymanager/6.1/integration-guide/toolkit/xml-configuration/workflows/forms/workflowupdateseveralrecordsentityform/index.md)
     Displays a form to create, update or delete one or several records.
+

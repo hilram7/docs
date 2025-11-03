@@ -28,3 +28,4 @@ sidebar_position: 50
     - Rejected changes can be edited and resubmitted. Click **In Progress** (hover over the status
       bar), make your changes, and click **Pending Approval**.
     - Click **Deploy** to deploy approved changes. When finished, click **Complete**.
+

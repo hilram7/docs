@@ -71,3 +71,4 @@ offboarding Workflow in Usercube :
 <Workflow Identifier="User_Offboarding" DisplayName_L1="D�part d'un collaborateur" VariablesType="Workflow_User">    <Activity Identifier="Request" DisplayName_L1="Request" Template="ActionWithRefine" />    <Activity Identifier="Persist" DisplayName_L1="Commit" Template="Persist" /></Workflow>
 
 ```
+

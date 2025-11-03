@@ -227,3 +227,4 @@ Output Properties window has the following tabs:
 - [Process Exclusions Tab](/docs/activitymonitor/7.1/admin/outputs/processexclusions/processexclusions.md)
 - [Syslog Tab](/docs/activitymonitor/7.1/admin/outputs/syslog/syslog.md), Syslog
   output only
+

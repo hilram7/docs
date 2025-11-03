@@ -71,3 +71,4 @@ Failed to collect Azure Logons audit data due to the following error: The remote
 - https://docs.netwrix.com/docs/auditor/10_8/configuration/microsoft365/exchangeonline/overview
 - https://docs.netwrix.com/docs/auditor/10_8/configuration/microsoft365/teams/overview
 - https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/get-started-premium
+

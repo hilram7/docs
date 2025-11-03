@@ -117,3 +117,4 @@ Refer to the following steps to enable SQL tracing:
 
 - Configure antivirus software to work with SQL Server ⸱ Microsoft &#129125;  
   https://learn.microsoft.com/en-us/troubleshoot/sql/database-engine/security/antivirus-and-sql-server
+

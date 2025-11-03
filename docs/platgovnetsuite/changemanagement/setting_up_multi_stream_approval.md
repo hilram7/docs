@@ -65,3 +65,4 @@ Change Request, where the mandated approvers are included.
    **Sample Change Request - Multi-Stream Approval**.
 3. Select the affected process. For this example it is **Provision Multi-Stream Approval**.
 4. Click **Pending Approval** in the status bar when complete.
+

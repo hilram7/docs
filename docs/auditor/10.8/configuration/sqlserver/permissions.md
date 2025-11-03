@@ -41,3 +41,4 @@ You can use group Managed Service Accounts (gMSA) as data collecting accounts.
 4. Click **Search** next to **Login Name** and specify the user that you want to assign the
    **sysadmin** role to.
 5. Specify the **Server roles** tab and assign the **sysadmin** role to the new login.
+

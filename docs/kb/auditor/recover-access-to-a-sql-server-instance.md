@@ -34,3 +34,4 @@ By default the Local System account on the SQL Server instance has sysadmin righ
 3. SQL Server Management Studio runs; after you click **Connect** you will be connected with sysadmin permissions.
 
 **Note**: SQL Server Management Studio might be installed on a different drive, therefore you should change the path to `Ssms.exe` before running the command.
+

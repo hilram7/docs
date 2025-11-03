@@ -61,3 +61,4 @@ following wizard pages:
 
 There are no configurable settings on the Welcome page. Click **Next** to proceed to the Log Type
 page.
+

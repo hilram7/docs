@@ -96,3 +96,4 @@ knowledge_article_id: kA04u0000000ItqCAE
 **Module:** Netwrix Access Analyzer - Core  
 **Versions:** `6.3+`  
 **Legacy Article ID:** `1111`
+

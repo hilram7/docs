@@ -51,3 +51,4 @@ By default, Netwrix Directory Manager records only critical errors in its logs. 
 ![List of Netwrix Directory Manager services for log configuration](images/ka0Qk000000EPRZ_0EMQk00000BbINr.png)
 
 9. Once complete, Netwrix Directory Manager will capture detailed logs for better system monitoring and troubleshooting.
+

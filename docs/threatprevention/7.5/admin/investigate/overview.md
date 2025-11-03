@@ -24,3 +24,4 @@ topic for additional information. The recent events are displayed in the bottom 
 
 For an understanding of the data displayed in the grid, see the [Investigate Data Grid](/docs/threatprevention/7.5/admin/investigate/datagrid.md)
 topic.
+

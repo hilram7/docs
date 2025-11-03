@@ -41,3 +41,4 @@ End users typically do not have direct access to directory services, such as Act
 
 3. This page lists all groups that the logged-in user is a member of. Click the display name of a group to view its properties.
 4. The actions you can perform for a group depend on your rights and privileges in Netwrix Directory Manager. For example, your rights determine whether you can edit group properties or leave the group.
+

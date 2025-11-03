@@ -23,3 +23,4 @@ a subscription to assign it to the mailbox.
 
 The subscription list is displayed for mailbox objects when Office 365 is configured as the
 messaging provider for the identity store.
+

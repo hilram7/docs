@@ -46,3 +46,4 @@ There are two ways of using domain accounts to authenticate the **Admin** or **H
 - The accounts must be assigned local administrators rights.
 - Use these accounts to log on the **Admin** or **Help-Desk** portals on a non-domain DMZ.
 - When logging on, enter user names without any domain prefix.
+

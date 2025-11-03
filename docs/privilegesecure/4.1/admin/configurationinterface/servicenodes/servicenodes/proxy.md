@@ -14,3 +14,4 @@ The Proxy Service page lists the properties for the selected proxy service:
 
 - Name – Property name
 - Value – Property value
+

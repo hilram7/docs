@@ -80,3 +80,4 @@ Because of its purpose and capabilities, Netwrix Threat Prevention should be ope
 | Date | Comments |
 | --- | --- |
 | October 6, 2021 | Collected practices from various other sources |
+

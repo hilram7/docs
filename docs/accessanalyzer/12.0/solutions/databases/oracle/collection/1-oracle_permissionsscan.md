@@ -72,3 +72,4 @@ The default analysis tasks are:
 - Oracle Permissions Import – Imports Oracle permissions into the AIC
 - Oracle Local Groups Import – Creates the SA_AIC_LocalGroupsImport table accessible under the job’s
   Results node
+

@@ -140,3 +140,4 @@ The contact object type is not supported in a Microsoft Entra ID based identity 
     "elasticHitScore": 0.0
 }
 ```
+

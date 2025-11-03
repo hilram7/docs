@@ -82,3 +82,4 @@ Review a full list of object types Netwrix Auditor can collect on PaloAlto netwo
 | User                                 | - Add / Added (Failed attempt)                                     | - config mgt-config users - config shared local-user-database user                  |
 | - Modified / Modify (Failed attempt) | - config mgt-config users - config shared local-user-database user |                                                                                     |
 | - Removed / Remove (Failed attempt)  | - config mgt-config users - config shared local-user-database user |                                                                                     |
+

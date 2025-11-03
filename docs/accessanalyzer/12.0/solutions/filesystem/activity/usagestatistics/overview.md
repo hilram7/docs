@@ -25,3 +25,4 @@ The Usage Statistics job group is comprised of:
   servers
 
     - Requires **Access Auditing** component data collection
+

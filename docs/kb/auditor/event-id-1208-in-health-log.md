@@ -118,3 +118,4 @@ Refer to the entries below for possible causes and resolutions based on event de
 - [Permissions for SharePoint Auditing](https://docs.netwrix.com/docs/auditor/10_8/configuration/sharepoint/permissions)
 - [SharePoint Ports](https://docs.netwrix.com/docs/auditor/10_8/configuration/sharepoint/ports)
 - [Install for SharePoint Core Service](https://docs.netwrix.com/docs/auditor/10_8/install/sharepointcoreservice)
+

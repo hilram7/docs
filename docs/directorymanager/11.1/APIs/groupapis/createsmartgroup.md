@@ -185,3 +185,4 @@ You have to provide the mandatory information for creating a Smart Group in the
     "status": 0
 }
 ```
+

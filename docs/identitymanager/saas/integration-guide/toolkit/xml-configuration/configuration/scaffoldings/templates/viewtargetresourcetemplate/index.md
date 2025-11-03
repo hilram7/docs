@@ -49,3 +49,4 @@ Our example generates the following configuration:
 <EntityTypeDisplayName Id="303" EntityType="SAB_User" /><EntityTypeDisplayTargetResourceTable Id="345" EntityType="SAB_User" /><TargetResourceReportAccessControlRules Id="369" EntityType="SAB_User" Profile="Administrator" /><TargetResourceReportMenus Id="378" EntityType="SAB_User" /><TargetResourceReport Id="385" EntityType="SAB_User" /><ViewAccessControlRules Id="393" EntityType="SAB_User" Profile="Administrator" />
 
 ```
+

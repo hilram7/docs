@@ -48,3 +48,4 @@ Alternatively you can check the account configured in **Netwrix Auditor**:
 2. In the **General** tab of the left pane, click **Manage** under **Accounts and passwords** section.
 
 > **NOTE:** If the error persists after you've checked all monitoring plans, contact [Netwrix Technical Support](https://www.netwrix.com/open_a_ticket.html).
+

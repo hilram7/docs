@@ -107,3 +107,4 @@ For the last 2 cases this will induce the ResourceType by the SingleRole.
 
 In the example above the ResourceType does not need a TypeRule because the NavigationRule already
 serves as an allocation context. Unlike the previous example.
+

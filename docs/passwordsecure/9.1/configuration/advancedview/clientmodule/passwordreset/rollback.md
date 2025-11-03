@@ -27,3 +27,4 @@ rollback.
 
 The logbook can be used to see if a rollback has been run and if it was successful. After a
 rollback, the password should be checked once again as a precaution.
+

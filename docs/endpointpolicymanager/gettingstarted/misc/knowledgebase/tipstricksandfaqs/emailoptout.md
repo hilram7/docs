@@ -37,3 +37,4 @@ We at Endpoint Policy Manager have a responsibility for ensuring that some commu
 you, and agree to do our best. It's up to you if you wish to actively block these emails.
 
 ![693_1_faq2](/images/endpointpolicymanager/tips/693_1_faq2.webp)
+

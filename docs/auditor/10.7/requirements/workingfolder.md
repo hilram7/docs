@@ -21,3 +21,4 @@ If you want to change the working folder default location, run the specially des
 the
 [How to Migrate Netwrix Auditor Working Folder to a New Location](https://helpcenter.netwrix.com/bundle/z-kb-articles-salesforce/page/kA00g000000PcOLCA0.html)
 Knowledge Base article for additional information.
+

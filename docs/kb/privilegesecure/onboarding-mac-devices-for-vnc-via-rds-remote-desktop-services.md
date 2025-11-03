@@ -107,3 +107,4 @@ C:\npslaunchers\nps_realvnc.exe %token% %sessionid%
    ![Picture20.png](images/ka0Qk0000006Ukz_0EMQk000002d6As.png)
 4. A VNC connection will now be established to the resource, and the session will be recorded by the NPS proxy service.  
    ![Picture21.png](images/ka0Qk0000006Ukz_0EMQk000002d6ij.png)
+

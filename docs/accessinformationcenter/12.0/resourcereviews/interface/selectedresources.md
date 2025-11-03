@@ -20,3 +20,4 @@ The table displays:
 
 Use the **Remove** button to remove a resource from this review. Click **OK** to close the window
 and complete the review creation.
+

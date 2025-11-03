@@ -77,3 +77,4 @@ Events are logged in a text file. When the file size reaches 100 MB, Directory M
 in the same directory by replacing the file extension with the suffix .Log.X and then creating a new
 text file with the original name. X in .Log.X is a number from 1 to 10 representing the archiving
 order; where ‘1’ denotes the most recent file.
+

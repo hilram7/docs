@@ -76,3 +76,4 @@ This will stop all Netwrix Services and prevent complications during the upgrade
 ### Related articles
 
 [How to Upgrade Netwrix Auditor](/docs/kb/auditor/how-to-upgrade-netwrix-auditor.md)
+

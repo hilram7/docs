@@ -81,3 +81,4 @@ Each sub-tab displays a table with the following columns:
 - Name - The name of the group. Click the link to view group details.
 - Domain - Name of the domain. This may be either the domain DNS name or domain controller hostname.
 - Tags - The tag present on the perpetrator, file, or host associated with the event
+

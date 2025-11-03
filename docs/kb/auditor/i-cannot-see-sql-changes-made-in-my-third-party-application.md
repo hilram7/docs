@@ -28,3 +28,4 @@ I made some changes in my ERP system (which uses a managed SQL Server) like addi
 ---
 
 Your application has its own internal DB structure, and all changes you make are only related to internal logic of this application, like access to objects of this application only, and don't affect any real SQL Server instance properties and as such changes are not tracked.
+

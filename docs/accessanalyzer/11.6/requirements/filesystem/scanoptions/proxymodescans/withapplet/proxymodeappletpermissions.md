@@ -80,3 +80,4 @@ must be configured via the File System Access Auditing Data Collector Wizard pri
 scan. See the
 [FSAA Applet Certificate Management Overview](/docs/accessanalyzer/11.6/admin/datacollector/fsaa/certificatemanagement/certificatemanagement.md)
 topic for additional information.
+

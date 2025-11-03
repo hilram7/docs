@@ -62,3 +62,4 @@ The request is not supported. (Exception from HRESULT: 0x80070032)
   1. In the main Netwrix Auditor screen, select **Monitoring plans** under the **Configuration** tab.
   2. Select the affected Windows Server monitoring plan and click **Edit**.
   3. Review the list of affected data sources — in the right pane, click **Edit data source**, and check the **Enable network traffic compression** checkbox for each item. Click **Save** to save changes.
+

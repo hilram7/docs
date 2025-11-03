@@ -88,3 +88,4 @@ CsvExportTool.exe -details combine -filters "testreportcsv" -csv "c:\testfolder\
 
 - Administration — Advanced Mode ⸱ v10.6  
   https://docs.netwrix.com/docs/auditor/10_8
+

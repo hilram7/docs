@@ -58,3 +58,4 @@ This error means that there is not enough rights to run this cmdlet: please chec
 ## More information
 
 This guide from Microsoft will help you remotely connecting to Exchange Server using Powershell: https://docs.microsoft.com/en-us/powershell/exchange/connect-to-exchange-servers-using-remote-powershell?view=exchange-ps
+

@@ -49,3 +49,4 @@ Refer to [Netwrix Auditor Installation and Configuration Guide](http://www.netwr
      - Configure Netwrix Auditor to run data collection more frequently and decrease the value of the `CleanAutoBackupLogs` parameter. If the task runs frequently enough to prevent the Security event log from being overfilled, you can disable the automatic archiving option (the disk will not be overfilled, but this can lead to audit data loss). To adjust the data collection schedule, in Netwrix Auditor, navigate to **Settings -> Data Collection**, click **Modify** next to **Default data collection and Change Summary generation schedule.** In the **Modify Schedule** dialogue select **Advanced** and adjust the schedule as necessary.
 
 **Note:** Before updating the `CleanAutoBackupLogs` parameter, make sure that Netwrix Auditor has enough time to process audit archives for other audited systems before the archives are removed.
+

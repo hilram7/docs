@@ -46,3 +46,4 @@ Set up the direct send method for Netwrix Auditor. Refer to the following articl
 ## Related articles
 
 - Set Up Direct Send for Netwrix Auditor and Netwrix Data Classification
+

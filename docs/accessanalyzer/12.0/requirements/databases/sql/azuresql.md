@@ -60,3 +60,4 @@ script:
 **GRANT CONTROL ON DATABASE**
 
 The user is granted Control permission based on the least privilege access model.
+

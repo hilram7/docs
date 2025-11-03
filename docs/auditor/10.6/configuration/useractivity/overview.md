@@ -112,3 +112,4 @@ agreement and specify the installation folder.
 where Netwrix Auditor is installed) and the server TCP port.
 
 Netwrix Auditor agent is installed and ready to audit user activity.
+

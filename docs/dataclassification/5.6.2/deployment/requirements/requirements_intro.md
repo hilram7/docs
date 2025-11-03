@@ -12,3 +12,4 @@ deploy Netwrix Data Classification.
 - [Hardware Requirements](/docs/dataclassification/5.6.2/deployment/requirements/hardware_requirements.md)
 - [Software Requirements](/docs/dataclassification/5.6.2/deployment/requirements/software_requirements.md)
 - [Accounts and Required Permissions](/docs/dataclassification/5.6.2/deployment/requirements/account_reqs.md)
+

@@ -122,3 +122,4 @@ Having configured the app, you can upload its application certificate.
 2. Select the **Microsoft Entra ID > Overview** section for the required SharePoint Online
    organization.
 3. Locate the **Tenant ID** and copy it to a safe location.
+

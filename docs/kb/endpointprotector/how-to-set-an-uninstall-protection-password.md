@@ -35,3 +35,4 @@ Follow the steps below to configure these settings:
      
 4. Save the changes.
 5. After Netwrix Endpoint Protector clients update their settings, users will be required to enter this password to uninstall the client.
+

@@ -17,3 +17,4 @@ You can configure your IT Infrastructure for monitoring in one of the following 
 
 - Automatically when creating a monitoring plan. This is a recommended method.
 - Manually.
+

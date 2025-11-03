@@ -53,3 +53,5 @@ entered (though if the app changes names often you might omit using the Path).
 The more rule types you use the more secure it becomes, but keeping it usable is always the goal.
 Generally only use Hash by itself because its pretty secure, and then some combination of the others
 as noted above.
+
+

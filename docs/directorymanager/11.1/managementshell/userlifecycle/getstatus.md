@@ -33,3 +33,4 @@ on the number of days left to validate the profile again.
 ```
 Get-Status –Manager "Richard"
 ```
+

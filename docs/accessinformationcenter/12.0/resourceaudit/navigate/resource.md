@@ -69,3 +69,4 @@ The Domain Group icon is used to indicate both Active Directory groups and Entra
 groups. See the [AIC Icons ](/docs/accessinformationcenter/12.0/resourceaudit/navigate/icons.md)topic for additional information.
 
 :::
+

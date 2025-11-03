@@ -52,3 +52,4 @@ items by setting the Regular Threshold to 3, as shown in the example below.
 ![Applying multiple Content Aware Policies](policyinformationthree.webp)
 
 The Block & Report policy takes priority, while the Report Only policy is secondary.
+

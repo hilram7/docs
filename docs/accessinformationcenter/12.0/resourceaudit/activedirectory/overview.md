@@ -27,3 +27,4 @@ The following reports are available at the **Active Directory** node:
 
 - [Domain Summary Report](/docs/accessinformationcenter/12.0/resourceaudit/activedirectory/domainsummary.md)
 - [Exceptions Report](/docs/accessinformationcenter/12.0/resourceaudit/activedirectory/exceptions.md)
+

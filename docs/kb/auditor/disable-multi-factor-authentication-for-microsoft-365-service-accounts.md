@@ -72,3 +72,4 @@ Refer to the following articles for additional information on data-collecting ac
 - Microsoft 365 — Permissions for Exchange Online Auditing ⸱ v10.6 https://docs.netwrix.com/docs/auditor/10_8
 - Microsoft 365 — Permissions for SharePoint Online Auditing ⸱ v10.6 https://docs.netwrix.com/docs/auditor/10_8
 - Microsoft 365 — Permissions for Teams Auditing ⸱ v10.6 https://docs.netwrix.com/docs/auditor/10_8
+

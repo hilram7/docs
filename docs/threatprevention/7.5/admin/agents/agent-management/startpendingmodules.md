@@ -31,3 +31,4 @@ the Agent will have _Active (Modules Pending)_ as status when there are pending 
 The Starting window is displayed.
 
 **Step 3 –** Once the pending modules are started, the status is displayed as _Active_.
+

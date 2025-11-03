@@ -29,3 +29,4 @@ password change is denied by the Minimum Age rule.
 The Minimum Age rule is not enforced during policy testing, but the test log does show the user's
 password age. A log entry is also added if the Minimum Age rule would have rejected the password
 change.
+

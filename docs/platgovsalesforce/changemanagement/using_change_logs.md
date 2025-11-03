@@ -100,3 +100,4 @@ sign by the number in **Change Log History** header, click **View All** to see t
 **Notes & Attachments** contains uploaded files. Click on a file name to open it. Click **Upload
 Files** to add additional files. If there is a **+** sign by the number in the **Notes &
 Attachments** header, click **View All** to see the complete file list.
+

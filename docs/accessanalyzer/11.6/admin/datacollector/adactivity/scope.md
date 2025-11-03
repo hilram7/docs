@@ -38,3 +38,4 @@ the collected data in its SQL database. The table has the following columns:
 
 - Days to Store – Specify the number of days to store the collected data for the event type
 - Enable Collection – When selected, the corresponding event type is collected
+

@@ -12,3 +12,4 @@ These guides will help you perform reporting with practical step-by-step procedu
 - #### [Analyze Usercube's Data with Power BI](/docs/identitymanager/6.1/integration-guide/governance/reporting/how-tos/analyze-powerbi/index.md)
     Prepare Usercube's data and use it in Power BI, with the final goal to generate user-friendly
     reports.
+

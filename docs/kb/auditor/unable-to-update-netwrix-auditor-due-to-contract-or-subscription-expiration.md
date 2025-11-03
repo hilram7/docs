@@ -53,3 +53,4 @@ If you would like to upgrade to the latest product version from a version that i
 
 - Installation — Upgrade to the Latest Version ⸱ v10.6
 - [Upgrade Increments for Netwrix Auditor](/docs/kb/auditor/upgrade-increments-for-netwrix-auditor.md)
+

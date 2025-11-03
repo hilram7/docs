@@ -25,3 +25,4 @@ Port 11016 TCP must be released on the application server.
 
 Make sure that the CORS configuration has been implemented. Further information can be found in
 chapter Installation Web Application
+

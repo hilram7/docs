@@ -46,3 +46,4 @@ Available scoping options vary based on the category selected. Scoping options i
   [ExchangePS: Scope by Public Folders](/docs/accessanalyzer/12.0/admin/datacollector/exchangeps/scopepublicfolders.md) topic for additional information.
 - View entire forest when querying for objects – Select this checkbox to scan the entire forest when
   querying for objects
+

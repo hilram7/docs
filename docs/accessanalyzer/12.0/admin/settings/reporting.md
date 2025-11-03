@@ -134,3 +134,4 @@ Console as an allowed site.
 
 
 The Web Console's URL is added to the Allow list and JavaScript is enabled for the Web Console.
+

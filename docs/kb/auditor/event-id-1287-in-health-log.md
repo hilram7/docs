@@ -41,3 +41,4 @@ The opening or downloading documents, viewing items and lists, or viewing item p
 3. Update the monitoring plan − select the affected monitoring plan, click **Edit**, and click **Update** in the right pane.
 
 > **NOTE:** Verify the audit settings are set to be adjusted automatically − in the SharePoint monitoring plan, click **Edit data source** and check the **Configure audit settings** checkbox. Save the changes.
+

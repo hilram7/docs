@@ -23,3 +23,4 @@ You can perform the following functions on **Requests Inbox** page:
 - [Approve a request](allrequest.md#approve-a-request).
 - [Deny a request](allrequest.md#deny-a-request).
 - [Filter requests](allrequest.md#filter-requests).
+

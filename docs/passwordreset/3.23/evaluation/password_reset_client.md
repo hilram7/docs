@@ -85,3 +85,4 @@ The client works on Windows XP and Server 2003, but the pages do not display cor
 operating systems because Internet Explorer 8 has very limited support for HTML5. Send an e-mail to
 [support@netwrix.com ](mailto:support@anixis.com)if you need to use the Password Reset Client with
 these older operating systems.
+

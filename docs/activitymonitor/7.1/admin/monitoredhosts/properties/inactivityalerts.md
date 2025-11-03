@@ -75,3 +75,4 @@ The configurable options are:
   **Message Template** window.
 - Message body – Body of the message used for the email alert. Click the ellipses (...) to open the
   **Message Template** window.
+

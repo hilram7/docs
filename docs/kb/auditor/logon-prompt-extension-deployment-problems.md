@@ -46,3 +46,4 @@ Follow these steps on the problematic client computer:
    - ` %SystemRoot%\DebugUserMode\Appmgmt.log `
 
 **NOTE:** We recommend that you delete the `AppMgmtDebugLevel` registry value to avoid performance degradation after sending the log files to us.
+

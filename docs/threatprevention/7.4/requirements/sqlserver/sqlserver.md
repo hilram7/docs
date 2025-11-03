@@ -103,3 +103,4 @@ Additional permissions are required for the optional Database Maintenance featur
 Prevention. See the
 [Database Maintenance Feature Requirements](/docs/threatprevention/7.4/requirements/sqlserver/dbmaintenance.md)
 topic for additional information.
+

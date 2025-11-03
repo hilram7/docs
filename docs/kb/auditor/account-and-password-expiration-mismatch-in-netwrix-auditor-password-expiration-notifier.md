@@ -48,3 +48,4 @@ To verify the account expiration date, refer to the following steps:
 ### Related articles
 
 - [How Long Until My Password Expires? ⸱ Microsoft 🙅](https://learn.microsoft.com/en-us/previous-versions/windows/internet-explorer/ie-developer/scripting-articles/ms974598(v=msdn.10)?redirectedfrom=MSDN)
+

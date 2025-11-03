@@ -71,3 +71,4 @@ The content of `SummaryControl` is visible after the workflow's execution:
 | ----------------------------- | -------------------------------------------------------------------------- |
 | Child Element: MainControl    | Set of fields to collect data about the main resource.                     |
 | Child Element: SummaryControl | Set of fields to sum up the collected data after the workflow's execution. |
+

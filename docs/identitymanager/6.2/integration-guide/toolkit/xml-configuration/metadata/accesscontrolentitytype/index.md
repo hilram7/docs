@@ -16,3 +16,4 @@ Property Group for more details.
 | Property                 | Details                                                                                  |
 | ------------------------ | ---------------------------------------------------------------------------------------- |
 | VisibilityGroup optional | **Type** Int64 **Description** The VisibilityGroup that controls access to the property. |
+

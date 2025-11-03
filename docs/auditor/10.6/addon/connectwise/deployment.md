@@ -46,3 +46,4 @@ _C:\Addon\ITSM_CW\Netwrix.ITSM.AlertResponseAction.exe_.
 The add-on supports Transport Layer Security (TLS) 1.2 security protocol. By default, this
 capability is disabled. To enable it, in the **ConnectWiseSettings.xml**, locate the
 **`<EnableTls12>`** parameter and set its value to _TRUE_.
+

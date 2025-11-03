@@ -24,3 +24,4 @@ Configure the desired product to feed data into the Threat Manager Console. Depe
 source, a Threat Manager app token may need to be generated. See the
 [App Tokens Page](/docs/threatmanager/3.0/administration/configuration/integrations/apptoken.md) topic for additional
 information.
+

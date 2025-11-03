@@ -22,3 +22,4 @@ invoke ‘**smallfiles**’ operation then add the config line as below.
 ![CustomDatabasePathWindows](/images/changetracker/8.0/install/deployment/customdatabasepathwindows.webp)
 
 5. Then start the **Mongod** service, followed by an `iisreset /start`.
+

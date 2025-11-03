@@ -22,3 +22,4 @@ Console.
 **Step 5 –** Click **Apply**.
 
 A new password has been added to a Storage profile.
+

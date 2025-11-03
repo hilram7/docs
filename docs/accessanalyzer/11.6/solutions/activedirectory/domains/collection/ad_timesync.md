@@ -27,3 +27,4 @@ The queries for this job are:
     - See the
       [Registry Data Collector](/docs/accessanalyzer/11.6/admin/datacollector/registry.md)
       topic for additional information.
+

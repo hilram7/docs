@@ -18,3 +18,4 @@ The Select table page has the following options:
 - Show All Tables – All tables within the SQL Server database
 - Show All SA Tables – All Enterprise Auditor tables within the SQL Server database
 - Show only tables for this job
+

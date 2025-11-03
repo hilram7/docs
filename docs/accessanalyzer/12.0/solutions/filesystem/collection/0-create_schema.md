@@ -56,3 +56,4 @@ The following analysis tasks are selected by default:
         reference the 0.Collection job group data
 -   **17. Create Azure Tables** – Creates tables for Azure Files
 -   **18. Data Migration** – Migrates data from an older schema version
+

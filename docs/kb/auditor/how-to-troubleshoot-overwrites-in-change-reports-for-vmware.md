@@ -84,3 +84,4 @@ Perform these steps for every ESX host that is managed with the vCenter specifie
      - `C:ProgramDataNetwrix AuditorShortTermVMAGUID`
 
 Archive these files and provide them within the support ticket to the Technical Support team.
+

@@ -41,3 +41,4 @@ In the Status bar at the bottom of the console is the following information:
   [Trace Logs](/docs/activitymonitor/7.1/troubleshooting/tracelogs.md)
   topic for additional information.
 - Collect Logs – Collects Trace Logs produced by Trace level
+

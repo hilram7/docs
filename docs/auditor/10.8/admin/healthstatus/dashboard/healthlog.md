@@ -90,3 +90,4 @@ Follow the steps to filter events.
 ![healthlogfilters_thumb_0_0](/images/auditor/10.7/admin/healthstatus/dashboard/healthlogfilters_thumb_0_0.webp)
 
 The applied filters will be listed on the top of the screen under the window title.
+

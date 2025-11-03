@@ -37,3 +37,4 @@ within the log file also increase. Change to the desired log level:
 
 Once troubleshooting has finished, it is recommended to return the log level to the least verbose
 level, Error = 0, to prevent the log file from growing too large.
+

@@ -33,3 +33,4 @@ Use this API to delete a group from an identity store.
     "status": 0
 }
 ```
+

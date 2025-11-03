@@ -106,3 +106,4 @@ cluster1::> vserver services web access show -name rest -vserver svm1
 | `svm1`                      | `data `   | `ontapi `      | `vsadmin-readonly` |
 | `svm1`                      | `data `   | `ontapi `      | `vsadmin-volume`   |
 | `5 entries were displayed.` |           |                |                    |
+

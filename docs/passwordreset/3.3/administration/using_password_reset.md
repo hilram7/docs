@@ -172,3 +172,4 @@ control.
 Validation and critical error messages are stored in the HTML templates. You can modify the default
 messages by editing the templates. See the
 [Resource Strings](editing_the_html_templates.md#resource-strings) topic for more information.
+

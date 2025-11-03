@@ -79,3 +79,4 @@ To support password live messages the password policy message must include the [
 declaration in the Password Policy Message.
 
 ![policypropertieswindow](/images/passwordpolicyenforcer/10.2/administration/policypropertieswindow.webp)
+

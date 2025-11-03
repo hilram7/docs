@@ -15,3 +15,4 @@ is specific to Hitachi hosts.
 The Hitachi NAS tab allows users to modify settings that were populated with the information entered
 when the Hitachi host was added. Additionally, the Path pooling interval can be configured. The Path
 pooling interval is set to 15 seconds by default.
+

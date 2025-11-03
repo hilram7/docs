@@ -78,3 +78,4 @@ Follow the steps to install the agent.
 
 **Step 6 –** Keep the **Launch Netwrix Cloud Agent Configuration** tool checkbox selected and click
 Finish to complete the setup.
+

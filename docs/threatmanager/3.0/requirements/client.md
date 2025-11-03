@@ -13,3 +13,4 @@ permits it. The supported browsers are:
 - Apple Safari
 - Microsoft Edge
 - Mozilla Firefox
+

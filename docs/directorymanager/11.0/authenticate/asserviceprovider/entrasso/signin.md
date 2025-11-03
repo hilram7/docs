@@ -40,3 +40,4 @@ With single sign-on, you can now launch any GroupID client without having to sig
    https://myapps.microsoft.com
 2. Click the GroupID app that we created to work with the _Wizard_ portal for single sign-on; it
    will redirect you to your portal.
+

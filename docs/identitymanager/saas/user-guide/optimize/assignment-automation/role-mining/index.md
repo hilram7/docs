@@ -186,3 +186,4 @@ In order to verify the process, access the rule list from the home page.
 ![Home - Access Rules](/images/identitymanager/saas/user-guide/set-up/categorization/classification/home_rules_v602.webp)
 
 Select **Single Roles** and check that the single role rules are created with the right parameters.
+

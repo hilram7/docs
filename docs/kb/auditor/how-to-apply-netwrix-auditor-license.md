@@ -40,3 +40,4 @@ You may have received an email from our licensing team — download the attached
 3. Click **Open**.
 
 The license is now applied to your Netwrix Auditor instance. Verify the information in the **Licenses** section.
+

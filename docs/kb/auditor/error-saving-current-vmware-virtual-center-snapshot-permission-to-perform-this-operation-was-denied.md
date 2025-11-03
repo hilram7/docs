@@ -41,3 +41,4 @@ The **Connect As** account must have at least **Read-only** access at the datace
 2) On the right hand side of the **Add Permissions** window you will have a list of **Assigned Roles**. Select the **Read-Only role**.  
 3) On the left hand side you will see **Users and Groups**. Click the **Add** button.  
 4) Type in the **account name** that you would like to give Read-Only permissions and hit **Okay**.
+

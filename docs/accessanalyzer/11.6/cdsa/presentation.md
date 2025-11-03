@@ -767,3 +767,4 @@ Data is also supplied by the following jobs when they have been executed:
     - 0.Collection > SQL > 1-SQL_PermissionsScan
     - 0.Collection > SQL > 2-SQL_SensitiveDataScan
     - SQL > 5.Sensitive Data > SQL_SensitiveData
+

@@ -50,3 +50,4 @@ appsettings.json
 | Name                    | Details                                                                      |
 | ----------------------- | ---------------------------------------------------------------------------- |
 | --pfx-password required | **Type** String **Description** Password of the `.pfx` archive's to encrypt. |
+

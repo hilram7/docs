@@ -54,3 +54,4 @@ You can also refresh the alerts information by clicking the Refresh button at th
 the general alerts settings page clicking the Alert settings. See the
 [Manage Alerts](/docs/auditor/10.6/admin/alertsettings/manage.md) topic for
 additional information.
+

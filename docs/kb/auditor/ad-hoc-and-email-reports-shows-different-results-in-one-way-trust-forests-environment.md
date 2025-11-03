@@ -57,3 +57,4 @@ If you do not see the `CN=Password Settings Container` under the `CN=System` nod
 Once the read permission for the Data Processing Account is set, verify the access by opening the `CN=Password Settings Container` properties with the Data Processing Account. This time you should be able to see `CN=Password Settings Container` under the `CN=System` node and read its properties (see the screenshot below).
 
 ![User-added image](images/ka04u000000HcS1_0EM700000007JfD.png)
+

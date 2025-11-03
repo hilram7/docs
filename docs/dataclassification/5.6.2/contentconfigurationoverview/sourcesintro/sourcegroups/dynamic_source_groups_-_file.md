@@ -21,3 +21,4 @@ The following options can be configured for File Servers Dynamic Source Groups:
 | Classification Template | Search for and select a Classification Template to apply to the source group. |
 | Detection Period | Use the slider to set the interval for detecting new or modified files. To disable detection, set the period to 0 days and 0 hours. |
 | Re-Index Period | Use the slider to set the interval for re-indexing the data source. To disable re-indexing, set the period to 0. |
+

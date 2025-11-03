@@ -99,3 +99,4 @@ created in Carbon Black Cloud.
 **Step 3 –** Test the connection and a successful response should be returned.
 
 ![Screen_Shot_2021-03-02_at_7.24.L15_PM.webp](/images/privilegesecure/4.2/discovery/integrations/edr/360061787514_screen_shot_2021-03-02_at_7.24.15_pm.webp)
+

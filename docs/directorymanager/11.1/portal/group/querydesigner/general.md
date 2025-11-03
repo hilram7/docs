@@ -44,3 +44,4 @@ Discards settings and closes the dialog box.
 **LDAP Query**
 
 View the provider query in the LDAP Query box.
+

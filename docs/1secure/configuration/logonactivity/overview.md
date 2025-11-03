@@ -15,3 +15,4 @@ You can configure your IT infrastructure for monitoring Logon Activity in one of
       [Configure Advanced Audit Policies](/docs/1secure/configuration/logonactivity/advancedaudit.md)
     - [Configure Security Event Log Size and Retention Settings](/docs/1secure/configuration/logonactivity/securitylogsize.md)
     - [Configure Windows Firewall Inbound Connection Rules](/docs/1secure/configuration/logonactivity/firewallrules.md)
+

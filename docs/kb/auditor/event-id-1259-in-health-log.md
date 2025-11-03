@@ -41,3 +41,4 @@ Restart the data collection:
 2. Select ` %SharePoint_plan% `  
 3. Click **Edit**  
 4. Click **Update**
+

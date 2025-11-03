@@ -314,3 +314,4 @@ attributes and operators are available to create a default filter criteria.
 9. Click **OK** on the **Query Designer** tab.
 10. On the **Edit Security Role** page, click **Update Security Role**.
 11. On the **Security Roles** page, click **Save**.
+

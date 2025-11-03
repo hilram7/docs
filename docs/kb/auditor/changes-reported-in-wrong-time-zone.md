@@ -42,3 +42,4 @@ If Netwrix Auditor and SQL Server Reporting Services do not share the same serve
 > **NOTE:** You must restart SSRS service in order for the time zone change to take effect.
 
 Custom search-based reports and queries are not affected by the SSRS time zone. Learn more about custom search-based reports in the Reports – Custom Search-Based Reports ⸱ v10.6 article. To learn more about changing SSRS time zone, refer to the [Change Time Zones and Clock Settings on a Report Server · Microsoft 🤝](https://learn.microsoft.com/en-us/sql/reporting-services/subscriptions/change-time-zones-and-clock-settings-on-a-report-server?view=sql-server-ver16) article.
+

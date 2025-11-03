@@ -65,3 +65,4 @@ You can filter the records in the Audit History table on the Auditing interface.
     that period
 
   Click **Apply** after making a selection.
+

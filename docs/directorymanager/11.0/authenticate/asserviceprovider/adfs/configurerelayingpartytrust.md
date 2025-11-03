@@ -70,3 +70,4 @@ have to specify the claim rules for authentication.
     The next step is to configure the AD FS provider in GroupID. See the
     [Configure the AD FS Provider In GroupID](/docs/directorymanager/11.0/authenticate/asserviceprovider/adfs/configureadfsindirectorymanager.md)
     topic.
+

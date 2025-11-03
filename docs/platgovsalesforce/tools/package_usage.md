@@ -39,3 +39,4 @@ To open the Package Usage tool:
 4. Click **Run Scanner** to ensure you have the latest data.
 
 You can filter by package, usage and user. Use **Export Details** to generate a **.xlsx** file.
+

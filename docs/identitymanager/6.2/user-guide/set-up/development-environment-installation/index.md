@@ -42,3 +42,4 @@ configuration screens.
 
 Once the development environment is ready, integrators can start to
 [Create the Workforce Repository](/docs/identitymanager/6.2/user-guide/set-up/initial-identities-loading/index.md).
+

@@ -195,3 +195,4 @@ If a resource is not classified (or not correctly), then:
   resource type.
 - If the resource is not correlated, check the validity of the classification rules.
 - Check the resource's data quality.
+

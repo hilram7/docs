@@ -26,3 +26,4 @@ folder.
 | omitobjlist_gp.txt  | The file contains a list of the Group Policy Object (GPO) names to be excluded from change reports. | `<object name>` For example, to exclude changes to the Default Domain Policy GPO, add the following line: `Default Domain Policy`.                      |
 | omitproplist_gp.txt | The file contains a list of the Group Policy Object settings to be excluded from change reports.    | `<settingname>` For example, to exclude data on changes made to the Maximum password length setting, add the following line: `Maximum password length`. |
 | omituserlist_gp     | The file contains a list of user names to be excluded from change reports.                          | `<domain\user>` For example, to exclude changes made by the user “usertest” in the domain “domaintest”, add the following line: `domaintest\usertest`.  |
+

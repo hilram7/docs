@@ -124,3 +124,4 @@ See [SharePoint Delegated Permissions](apppermissions.md#sharepoint-delegated-pe
 of the [Microsoft Entra ID Permissions](/docs/directorymanager/11.1/configureentraid/register/apppermissions.md) topic for the required permission name.
 
 This completes the registration process of Directory Manager in Microsoft Entra ID.
+

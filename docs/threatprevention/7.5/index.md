@@ -38,3 +38,4 @@ Organizations can use Threat Prevention to:
 - Automatically block the riskiest actions before damage occurs
 - Speed up investigations and reduce response time
 - Strengthen overall security posture and streamline compliance
+

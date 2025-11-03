@@ -39,3 +39,4 @@ Flashlight provides your organization these key benefits:
 See the
 [Netwrix Flashlight by Strongpoint for NetSuite Bug Fix List](https://helpcenter.netwrix.com/bundle/platgovnetsuiteflashlight_ReleaseNotes/resource/Netwrix_platgovnetsuiteFlashlight_BugFix.pdf)
 PDF for a list of bugs fixed in this version.
+

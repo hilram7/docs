@@ -149,3 +149,4 @@ The following articles may be of assistance:
 - Microsoft
   [Set or change the server collation](https://learn.microsoft.com/en-us/sql/relational-databases/collations/set-or-change-the-server-collation)
   article
+

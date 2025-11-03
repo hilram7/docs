@@ -50,3 +50,4 @@ for Active Directory, it is recommended to enable this setting.
 **Step 4 –** Click **Save**.
 
 A data retention policy has been defined in the system.
+

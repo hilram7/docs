@@ -28,3 +28,4 @@ the UPN suffix.
 
 - [Create a Microsoft Entra ID User](/docs/directorymanager/11.0/welcome/user/create/azure/user.md)
 - [Create a Microsoft Entra ID Mailbox](/docs/directorymanager/11.0/welcome/user/create/azure/mailbox.md)
+

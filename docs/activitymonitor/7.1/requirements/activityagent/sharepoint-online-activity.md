@@ -263,3 +263,4 @@ It may take up to 60 minutes for the change to take effect. The Activity Monitor
 Online auditing enabled as needed to receive events. See the Microsoft
 [Turn auditing on or off](https://learn.microsoft.com/en-us/microsoft-365/compliance/audit-log-enable-disable?view=o365-worldwide)
 article for additional information on enabling or disabling auditing.
+

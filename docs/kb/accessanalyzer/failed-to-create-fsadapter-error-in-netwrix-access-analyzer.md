@@ -54,3 +54,4 @@ Update both Netwrix Access Analyzer and the Sensitive Data Discovery Add-On to t
 
 1. Sensitive Data Discovery Add-On Installation — Upgrade Sensitive Data Discovery Add-on · v11.6
 2. Installation & Configuration Overview − Netwrix Access Analyzer Console Upgrade · v11.6
+

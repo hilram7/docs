@@ -15,3 +15,4 @@ sidebar_position: 40
 - [Menu Item](/docs/identitymanager/saas/integration-guide/toolkit/xml-configuration/user-interface/menuitem/index.md)
 - [Search Bar](/docs/identitymanager/saas/integration-guide/toolkit/xml-configuration/user-interface/searchbar/index.md)
 - [Tile](/docs/identitymanager/saas/integration-guide/toolkit/xml-configuration/user-interface/tile/index.md)
+

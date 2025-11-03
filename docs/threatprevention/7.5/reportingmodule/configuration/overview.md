@@ -20,3 +20,4 @@ It contains the following options:
   information.
 - System Settings – Provides access to system logs, user access controls, licensing, and more. See
   the [System Settings Interface](/docs/threatprevention/7.5/reportingmodule/configuration/systemsettings/interface.md) topic for additional information.
+

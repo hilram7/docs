@@ -27,3 +27,4 @@ This example retrieves the log settings of the connected identity store.
 ```
 Get-LogSettings
 ```
+

@@ -70,3 +70,4 @@ You can now either add more devices to the Baseline Members Group or just assign
 to an existing group of devices, then choose your schedule and results delivery options.
 
 ![baselinereportsandqueryschedules](/images/changetracker/8.1/baseline/baselinereportsandqueryschedules.webp)
+

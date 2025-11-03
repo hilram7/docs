@@ -620,3 +620,4 @@ Returns all the resource types mappings according to its id and the provided que
 | Code | Description                | Reference |
 | ---- | -------------------------- | --------- |
 | 200  | The resource type mapping. |           |
+

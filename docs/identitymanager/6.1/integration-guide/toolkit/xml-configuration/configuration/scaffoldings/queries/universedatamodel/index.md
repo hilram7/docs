@@ -336,3 +336,4 @@ When
 we see the following:
 
 ![Universe (Mixed Example)](/images/identitymanager/6.1/integration-guide/toolkit/xml-configuration/configuration/scaffoldings/queries/universedatamodel/universe_mixedexample.webp)
+

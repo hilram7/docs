@@ -41,3 +41,4 @@ How does Inactive User Tracker (IUT) work?
 6. Inactivity time is calculated using `createTimestamp`, `lastLogon` or `lastLogonTimestamp` and the local machine date/time to determine the number of days.  
 7. If the user matches the inactivity criteria specified, they will be added to the list of inactive users and acted upon according to the configuration.  
 8. Steps 4 to 7 are repeated for each user in the list.
+

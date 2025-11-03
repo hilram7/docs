@@ -156,3 +156,4 @@ For options displayed in the Operator drop-down menu, see the
 You can subscribe to Activity reports to receive them automatically via email, or have them uploaded
 to a specified folder in SharePoint Online. See the [Subscriptions](/docs/1secure/admin/searchandreports/subscriptions.md) topic for
 additional information.
+

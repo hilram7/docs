@@ -20,3 +20,4 @@ The jobs in the Usage Statistics Job Group are:
 - [SP_MostActiveUsers Job](/docs/accessanalyzer/11.6/solutions/sharepoint/activity/usagestatistics/sp_mostactiveusers.md)
   – Identifies the most active users from the last 30 days on all monitored SharePoint servers with
   a view of Reads, Updates, Deletes, and Permission changes performed by a user
+

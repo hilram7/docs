@@ -25,3 +25,4 @@ There are six scaffoldings in Identity Manager to automatically create jobs in t
 - A job for a specific connector (Complete/Incremental mode).
 - [Create Initialization Job](/docs/identitymanager/6.2/integration-guide/toolkit/xml-configuration/configuration/scaffoldings/jobs/createinitializationjob/index.md)
 - [Create Access Certification Job](/docs/identitymanager/6.2/integration-guide/toolkit/xml-configuration/configuration/scaffoldings/jobs/createaccesscertificationjob/index.md)
+

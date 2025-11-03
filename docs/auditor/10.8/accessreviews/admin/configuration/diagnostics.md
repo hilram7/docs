@@ -30,3 +30,4 @@ provide debug logs.
 The downloaded logs have the debug logging information and can be sent to
 [Netwrix Support](https://www.netwrix.com/support.html). When your issue is resolved, do not forget
 to turn off Debug logs.
+

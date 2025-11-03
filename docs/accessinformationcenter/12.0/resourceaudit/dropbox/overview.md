@@ -21,3 +21,4 @@ Dropbox reports fall into the following categories:
 The following report is available at the **Dropbox** node:
 
 - [Sensitive Content Summary Report](/docs/accessinformationcenter/12.0/resourceaudit/dropbox/sensitivecontentsummary.md)
+

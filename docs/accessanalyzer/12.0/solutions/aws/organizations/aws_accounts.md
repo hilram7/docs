@@ -39,3 +39,4 @@ following preconfigured report:
 | Report   | Description                                                               | Default Tags | Report Element                                                                                                                                                                                            |
 | -------- | ------------------------------------------------------------------------- | ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Accounts | This report provides details on the IAM Accounts in the AWS Organization. | None         | This report is comprised of the following elements: <ul><li>Stacked Bar Chart – Displays top accounts by org</li><li>Table – Shows accounts by Org</li><li>Table – Provides details on accounts</li></ul> |
+

@@ -20,3 +20,4 @@ The required credentials for Web Services (JWT) are:
   StealthDEFEND. See the
   [FS_DEFEND_SDD Job](/docs/accessanalyzer/11.6/admin/jobs/instantjobs/fs_defend_sdd.md)
   topic for additional information.
+

@@ -18,3 +18,4 @@ browser extension used in Edge, for example).
 | Edge              | Last three Stable releases | Stable      |
 | Firefox           | ESR                        | Stable      |
 | Safari            | Latest                     | Latest      |
+

@@ -16,3 +16,4 @@ below. Then you will provide this account in the monitoring plan wizard.
 
 1. The account must be a member of the local Administrators group.
 2. The account requires **Read** permissions on the audited shared folders.
+

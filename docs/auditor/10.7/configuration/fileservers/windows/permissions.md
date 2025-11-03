@@ -33,3 +33,4 @@ For more information on gMSA, see the following:
 
 - Microsoft article:
   [Group Managed Service Accounts Overview](https://docs.microsoft.com/en-us/windows-server/security/group-managed-service-accounts/group-managed-service-accounts-overview)
+

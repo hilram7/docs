@@ -47,3 +47,4 @@ information.
     To verify the policy was applied correctly, execute the following:
 
     `cluster1::>network interface show -fields firewall-policy`
+

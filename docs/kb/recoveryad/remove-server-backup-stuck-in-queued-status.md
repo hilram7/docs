@@ -57,3 +57,4 @@ DELETE FROM ServerBackupHistory WHERE ID = '%targetID%'
 ```
 
 5. Refresh the **Forest** page in Netwrix Recovery for Active Directory to confirm the query is deleted.
+

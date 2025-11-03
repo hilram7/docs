@@ -88,3 +88,4 @@ permissions manually.
 For the passwords concerned, the user with the legal key must be given the right of authorization
 temporarily to correct. If the corresponding user has the entitlement right, he can reset the legal
 key, either automatically when logging in or manually when saving the authorizations.
+

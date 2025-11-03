@@ -63,3 +63,4 @@ Get-SmartGroup -SearchContainer "Distinguished Name of Organizational Unit" -Sma
 | Workstations                        | `9`   |
 | Servers                             | `10`  |
 | Domain Controllers                  | `11`  |
+

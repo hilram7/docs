@@ -33,3 +33,4 @@ Policies page to quickly determine which policy Password Policy Enforcer will en
 particular user.
 
 ![managing_policies](/images/passwordpolicyenforcer/10.2/administration/managing_policies.webp)
+

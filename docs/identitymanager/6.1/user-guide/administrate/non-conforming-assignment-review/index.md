@@ -71,3 +71,4 @@ assignment review:
 [Risks](/docs/identitymanager/6.1/user-guide/optimize/risk-management/index.md) can be
 defined to highlight the most sensitive accounts/permissions, in order to establish a priority order
 in the review of non-conforming assignments.
+

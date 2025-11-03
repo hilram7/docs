@@ -114,3 +114,4 @@ The table configuration allows you to choose how each specific entity will be cr
 | Re-Index Period                      | This value is the number of days/hours/minutes that will pass between Re-Indexing. The Re-Indexing process involves querying the table(s) to find new and changed records.                                                                                                                                                                                                                                                                                                                                           |
 
 ![sqltableconfiguration_thumb_0_0](/images/dataclassification/5.6.2/sources/database/sqltableconfiguration_thumb_0_0.webp)
+

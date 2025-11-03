@@ -127,3 +127,4 @@ filters and values:
   [Account Permissions in vCenter](#account-permissions-in-vcenter) report.
 - Clicking a Role link opens the detailed report on privileges for the account report.
 - Clicking the Defined in link opens the object permissions on vCenter level report.
+

@@ -140,3 +140,4 @@ Example
 ## Logging Configuration
 
 Privilege Secure log levels can be set in the UI for each service.
+

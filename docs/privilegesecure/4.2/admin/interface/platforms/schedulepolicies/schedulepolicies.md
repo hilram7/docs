@@ -44,3 +44,4 @@ The selected schedule policy details display in the main pane:
 - Name — Displays the schedule recurrence information
 - Edit icon — Click the icon to edit the selected schedule policy. See the
   [Edit Schedule Policy](/docs/privilegesecure/4.2/admin/interface/platforms/schedulepolicies/schedulepolicy_1.md) topic for additional information.
+

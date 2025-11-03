@@ -35,3 +35,4 @@ The details that display the main pane vary based on the type of role selected. 
 and the
 [Custom Role Details Page](/docs/privilegesecure/4.1/admin/interface/usersgroups/rolemanagement/rolemanagementcustom/rolemanagementcustom.md)
 topics for additional information.
+

@@ -66,3 +66,4 @@ imported. Then click **Next**.
 **Step 5 –** On the Completion page, click **Finish**. On the Completion page, click **Finish**.
 
 The selected attributes have been added to the attribute list on the Group Details page.
+

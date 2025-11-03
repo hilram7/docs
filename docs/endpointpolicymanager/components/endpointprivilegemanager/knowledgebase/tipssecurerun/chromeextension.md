@@ -58,3 +58,5 @@ case**; under Arguments, we are going to take the first part of the installation
 **Step 6 –** Rename, set ILT if required and click **Finish**.
 
 ![700_7_image-20211111230736-7](/images/endpointpolicymanager/leastprivilege/securerun/700_7_image-20211111230736-7.webp)
+
+

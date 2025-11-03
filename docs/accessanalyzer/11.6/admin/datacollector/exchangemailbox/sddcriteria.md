@@ -40,3 +40,4 @@ The table contains the following types of criteria:
 - Limit stored matches per criteria to [number] – Identifies the number of potentially sensitive
   data matches that are copied to the database. The default is 5 matches. This option is only
   available if the **Store discovered sensitive data** option is selected.
+

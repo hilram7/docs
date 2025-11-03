@@ -87,3 +87,4 @@ You can export Admin Center history to Microsoft Excel, CSV, and XML formats.
 5. Click **Export History**. The file is saved at the download location specified in browser
    settings.
 6. A message is displayed that history data is successfully exported. Click **OK**.
+

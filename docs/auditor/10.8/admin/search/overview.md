@@ -166,3 +166,4 @@ If you do not see the expected information in search results, try the following:
 See next:
 
 - [Use Filters in Advanced Mode](/docs/auditor/10.8/admin/search/filteradvanced.md)
+

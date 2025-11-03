@@ -67,3 +67,4 @@ If no credentials are visible in Report Server Configuration Manager, follow the
    ![UnattendedExecutionAccount node](images/ka04u00000117zS_0EM4u000008MT4S.png)
 
 3. Delete the credentials specified in `<UserName>`, `<Password>`, and `<Domain>` fields.
+

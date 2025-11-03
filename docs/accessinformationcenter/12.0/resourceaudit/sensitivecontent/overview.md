@@ -35,3 +35,4 @@ blank for Access Information Center users with the Reader role.
 
 The Sensitive Content report identifies where potentially sensitive data has been found across the
 scanned targeted environments.
+

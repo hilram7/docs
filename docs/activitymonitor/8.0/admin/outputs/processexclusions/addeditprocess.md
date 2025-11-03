@@ -18,3 +18,4 @@ output Properties window.
 
 Then click OK. The Add or Edit Path window closes, and the path is added to the filtering list for
 the monitored host.
+

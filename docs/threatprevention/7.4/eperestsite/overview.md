@@ -18,3 +18,4 @@ It uses GET and POST APIs for:
 - Check Password (Basic, Digest and Bearer variations)
 
 You can use the Boomerang plugin for the Chrome browser to work with the EPE Rest Site.
+

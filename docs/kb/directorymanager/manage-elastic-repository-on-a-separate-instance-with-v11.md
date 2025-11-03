@@ -66,3 +66,4 @@ in CMD. Let the installation complete.
 6. Complete the remaining configuration steps to finalize the setup.
 
 Once completed, Netwrix Directory Manager 11 will be successfully configured to use an external Elasticsearch instance for its repository.
+

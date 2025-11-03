@@ -66,3 +66,4 @@ application begins to process the ownership changes.
 **Close**. The Update resource wizard closes.
 
 This updates to ownership configuration have been processed.
+

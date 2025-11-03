@@ -23,3 +23,4 @@ Select where to connect for the search and click **Connect** to add the domain o
 
 Click **Add** to add the OUs highlighted in the top box to the scope. Click **Remove** to remove the
 selected OU.
+

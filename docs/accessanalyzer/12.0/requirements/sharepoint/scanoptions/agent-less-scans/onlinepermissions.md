@@ -66,3 +66,4 @@ The SharePoint agent-less scan architecture uses modern authentication in the ta
     - Sites.Read.All – Read items in all site collections
     - TermStore.Read.All – Read managed metadata
     - User.Read.All – Read user profiles
+

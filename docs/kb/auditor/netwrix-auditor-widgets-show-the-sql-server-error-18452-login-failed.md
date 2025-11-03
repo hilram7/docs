@@ -51,3 +51,4 @@ Review the possible resolution scenarios:
    4. Enable the **SQL Server and Windows Authentication mode** checkbox.
 2. For cause 2. Make sure that you are logged in to the correct domain.
 3. For cause 3. Verify that this SQL login exists.
+

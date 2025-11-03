@@ -51,3 +51,4 @@ For a clean installation of Netwrix Auditor 8.5 or newer, follow these steps:
 5. Start the other services and tasks you previously disabled.
 
 6. Copy the rest of the files from the old `ActivityRecords` folder to the new one. If you are prompted to overwrite any files, skip those files instead.
+

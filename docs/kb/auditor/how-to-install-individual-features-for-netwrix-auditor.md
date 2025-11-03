@@ -36,3 +36,4 @@ When you run the **Netwrix Auditor** installation wizard, you can check the Wind
 7. Here you will find setup msi files for each of the features (adcrfull, fscrfull, iutfull, etc).
 8. Run the specific MSI for the feature you need to install.
 9. After you have installed the feature(s) you want, you can close the **Netwrix Auditor** installation wizard.
+

@@ -159,3 +159,4 @@ script in the command line.
   <MaintainIndexesTask Identifier="MicrosoftEntraID_Synchronize_Complete_Scaffolding_MaintainIndexes" DisplayName_L1="SQL Index and Statistics Maintenance" DisplayName_L2="Maintenance des index SQL et des statistiques" Level="11" />
 </Job>
 ```
+

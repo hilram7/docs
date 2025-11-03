@@ -32,3 +32,4 @@ User Remediation allows end users to justify or remediate blocked actions when a
 3. Select **Block and Remediate** from the available actions.  
    ![Block and Remediate option in Content Aware Protection Policy](./images/ka0Qk000000FKT3_0EMQk00000CAP34.png)
 4. Click **Save** to confirm the changes. This will enable the User Remediation feature the next time the endpoint connects to the Netwrix Endpoint Protector Server.
+

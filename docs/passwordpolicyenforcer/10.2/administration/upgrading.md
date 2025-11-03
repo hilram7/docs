@@ -345,3 +345,4 @@ The Password Policy Enforcer installer detects existing V6.x installations of th
 Enforcer Mailer and upgrades them to 10.2. See the
 [Installing the Mailer](/docs/passwordpolicyenforcer/10.2/administration/mailer/mailer.md#installing-the-mailer)
 topic for additional information.
+

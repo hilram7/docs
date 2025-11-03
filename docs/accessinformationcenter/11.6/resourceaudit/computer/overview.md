@@ -42,3 +42,4 @@ display local time stamps. Activity information is represented in two ways:
   selected resource within the selected date range. See the
   [Activity Details Report](/docs/accessinformationcenter/11.6/resourceaudit/computer/activitydetails.md) topic
   for additional information.
+

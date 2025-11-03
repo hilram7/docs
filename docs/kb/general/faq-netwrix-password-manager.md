@@ -98,3 +98,4 @@ A17: Computers do not get enrolled, users do. Data is stored locally on the Pass
 ### Q18: What about the Freeware Edition?
 
 A18: Please note that the Freeware version of Netwrix Password Manager is no longer distributed and is now considered outdated and non-functional.
+

@@ -36,3 +36,4 @@ In the Get .admx policy definitions from section of the page, select from the fo
   store/target host
 - This archive – Select this option to get .admx policy definitions from an archive and click the
   ellipsis to open the Select Archive File window. Then select an archive.
+

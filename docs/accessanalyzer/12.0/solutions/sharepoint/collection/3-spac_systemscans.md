@@ -25,3 +25,4 @@ Do not modify the query. The query is preconfigured for this job.
 The query for the 3-SPAC_SystemScans Job is:
 
 - System Scan – Scans for SharePoint activity
+

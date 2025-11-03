@@ -72,3 +72,4 @@ Please try both of the following resolutions. Start with resetting the hosts, an
 7. After the maintenance finishes, click through the following dialogs: **Continue > Finish > Next**.
 8. Ensure that **Import incomplete scan data** is enabled, then click **Finish**.
 9. Try running the **FileSystem** collection again.
+

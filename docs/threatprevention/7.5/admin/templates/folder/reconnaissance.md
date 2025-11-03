@@ -19,3 +19,4 @@ The Reconnaissance folder contains the following templates:
 | LDAP: Managed Service Accounts Recon                            | This policy can be configured to detect attempts to discover managed service accounts. It looks for LDAP queries of cn=msDS-ManagedServiceAccount      | <ul><li>NEW 5.1 TEMPLATES</li><li>LDAP</li><li>Reconnaissance</li><li>Privileged Accounts</li><li>Managed Service Accounts</li></ul> |
 | LDAP: Service Accounts Recon               | If intruders attack a service that uses a highly privileged System account, they might be able to conduct further exploits under that account's context. Many organizations use common cosmetic naming conventions to denote service accounts or maintain a list of service accounts. This policy can be configured to detect attempts to discover service accounts.               | <ul><li>NEW 5.1 TEMPLATES</li><li>LDAP</li><li>Reconnaissance</li><li>Service Accounts</li></ul>        |
 
+

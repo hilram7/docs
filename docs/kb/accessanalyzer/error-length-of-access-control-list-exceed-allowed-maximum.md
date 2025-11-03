@@ -47,3 +47,4 @@ To prevent the error from immediately terminating the scan when the ACL maximum 
 2. Follow the steps in this document to perform the upgrade process: Netwrix Access Analyzer Console Upgrade — https://docs.netwrix.com/docs/auditor/10_8
 
 > **IMPORTANT:** This hotfix changes the exception handling so that instead of terminating the scan, a warning is logged about the user not being scanned.
+

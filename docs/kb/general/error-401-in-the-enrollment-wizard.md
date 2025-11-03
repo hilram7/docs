@@ -51,3 +51,4 @@ As a workaround, you can force the browser to send credentials to the Internet z
 ![User-added image](./images/ka04u00000116cL_0EM700000004yGP.png)
 
 These settings can also be applied via Group Policy.
+

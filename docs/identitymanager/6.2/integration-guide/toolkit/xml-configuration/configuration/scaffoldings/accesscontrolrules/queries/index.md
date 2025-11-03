@@ -23,3 +23,4 @@ sidebar_position: 60
 
     Generates an access control rule which gives a profile the permission to access the query page
     and run queries.
+

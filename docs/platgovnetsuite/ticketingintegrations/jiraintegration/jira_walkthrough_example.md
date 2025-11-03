@@ -231,3 +231,4 @@ If you open the Change Request in NetSuite:
 - If the Jira status is **Done**, the Change Request shows as **Completed**.
 
     ![The completed change request](/images/platgovnetsuite/integrations/jira_example_completed.webp)
+

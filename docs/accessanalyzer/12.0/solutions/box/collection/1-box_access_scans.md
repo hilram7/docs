@@ -80,3 +80,4 @@ first scan and only in one of the scan jobs.
 click **Cancel** if no changes were made. Then click **OK** to close the Query Properties window.
 
 The 1-Box_Access Scans Job will execute according to the connection settings configuration.
+

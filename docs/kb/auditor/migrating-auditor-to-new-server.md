@@ -147,3 +147,4 @@ Monitor the system over the next few days to confirm the migration has been comp
 - [How to Apply Netwrix Auditor License](/docs/kb/auditor/how-to-apply-netwrix-auditor-license.md)
 - [Migrate PEN to a Different Server](/docs/kb/auditor/migrate-netwrix-password-expiration-notifier-to-a-different-server.md)
 - [How to Migrate Netwrix Inactive Users Tracker to Other Servers](/docs/kb/auditor/how-to-migrate-netwrix-inactive-users-tracker-to-other-servers.md)
+

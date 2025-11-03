@@ -110,3 +110,4 @@ foreach ($item in $Who)
 2. Use the domain admin account to log on to domain controller, open **Users and Computers** snap-in and check that test AD user account is now in the quarantine OU.
 
 > NOTE. You may need to wait several minutes until moving to the quarantine OU completes. After verifying this course of action in your lab, you can implement it in the production environment, skipping Step 4 (simulation of suspicious actions).
+

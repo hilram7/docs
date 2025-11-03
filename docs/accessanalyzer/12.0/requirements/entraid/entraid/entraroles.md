@@ -199,3 +199,4 @@ application from the list and click **Select**.
 
 The registered application has now been configured with all the necessary permissions for Entra
 roles scans.
+

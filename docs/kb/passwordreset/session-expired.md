@@ -38,3 +38,4 @@ This error can also occur when there are issues with cookies, for example when t
 3. If this does not help, check if there is an incorrect redirection in IIS.
 
 Please refer to the [KB823](https://kb.netwrix.com/823) for instructions on how to set up redirection for Netwrix Password Reset.
+

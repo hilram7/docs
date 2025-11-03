@@ -32,3 +32,4 @@ following preconfigured report:
 | Report                      | Description                                                  | Default Tags | Report Elements                                                                                                                                                                                           |
 | --------------------------- | ------------------------------------------------------------ | ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Teams Sensitive Data Report | This report analyzes sensitive data activity in Teams sites. | None         | This report is comprised of two elements: <ul><li>Bar Chart – Provides information on the top Teams users by sensitive file interaction count</li><li>Table – Provides details on user activity</li></ul> |
+

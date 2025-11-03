@@ -102,3 +102,4 @@ The Privileged Access tag is included in the following reports:
 - Unix > 2.Privileged Access > Sudoers > UX_Sudoers > Sudo Rights by Host
 - Active Directory > 1.Groups > AD_SensitiveSecurityGroups > Sensitive Security Group Membership
 - Shadow Access (when added)
+

@@ -32,3 +32,4 @@ The jobs in the 1.Users and Roles Job Group are:
 - [SQL_SysAdmins Job](/docs/accessanalyzer/11.6/solutions/databases/sql/usersroles/sql_sysadmins.md)
   – This job group is designed to provide insight into all the users who have SQL or Azure SQL
   server administration roles across all the targeted SQL or Azure SQL servers
+

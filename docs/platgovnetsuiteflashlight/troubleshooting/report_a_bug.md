@@ -16,3 +16,4 @@ within Flashlight:
 2. Click on **Submit a Ticket** and follow the prompts.
 
 ![Report a Bug](/images/platgovnetsuiteflashlight/troubleshooting/report_bug_800x556.webp)
+

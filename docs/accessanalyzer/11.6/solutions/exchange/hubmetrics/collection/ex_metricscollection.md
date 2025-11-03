@@ -165,3 +165,4 @@ been cleared in Step 2).
 
 The selected purge of data and tables has taken place, and the analysis tasks have been reset to the
 default state.
+

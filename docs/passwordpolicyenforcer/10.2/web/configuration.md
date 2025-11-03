@@ -86,3 +86,4 @@ Follow the steps below to install a new license key.
 **Step 2 –** Click **Get license from clipboard**.
 
 **Step 3 –** Click **Apply**.
+

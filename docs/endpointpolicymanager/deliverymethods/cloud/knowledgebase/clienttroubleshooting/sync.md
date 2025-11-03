@@ -36,10 +36,10 @@ in the HTTPS case. This could also be caused by a mismatch of the security bindi
 client and the server.
 
 A security error occurred during sending Sync to
-[http://cloudsvc.policypak.com/Services/Synchronization](http://cloudsvc.policypak.com/Services/Synchronization):
+[https://cloudsvc.policypak.com/Services/Synchronization](http://cloudsvc.policypak.com/Services/Synchronization):
 
 The token provider cannot get tokens for target
-'[http://cloudsvc.policypak.com/Services/Synchronization](http://cloudsvc.policypak.com/Services/Synchronization)'.
+'[https://cloudsvc.policypak.com/Services/Synchronization](http://cloudsvc.policypak.com/Services/Synchronization)'.
 
 To resolve this issue, you need to edit the registry on any computers experiencing this issue to add
 a DWORD = "SchUseStrongCrypto" with a value of "1", under the following two registry keys:
@@ -77,3 +77,5 @@ Windows Registry Editor Version 5.00
 ```
 "SchUseStrongCrypto"=dword:00000001
 ```
+
+

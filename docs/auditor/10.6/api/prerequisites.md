@@ -41,3 +41,4 @@ You cannot use Netwrix Auditor Integration API without configuring the Audit Dat
 
 Refer to the [Audit Database](/docs/auditor/10.6/admin/settings/auditdatabase.md)
 topic for detailed instructions on how to configure SQL Server settings.
+

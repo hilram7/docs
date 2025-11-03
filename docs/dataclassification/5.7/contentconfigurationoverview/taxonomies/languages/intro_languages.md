@@ -15,3 +15,4 @@ capabilities and out-of-the-box classification rules varies for different langua
 Documents in any language can be indexed and classified thanks to Unicode support and statistical
 content analysis techniques. This includes Chinese, Greek, Japanese, Russian and other non-Latin
 based languages.
+

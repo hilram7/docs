@@ -59,3 +59,4 @@ If you do not have access to another AIC Administrator account, perform the foll
 4. You will then be prompted to enter a new password for the AIC Built-in Administrator.
 
 > **NOTE:** Prior to v11.6, a password reset will not be prompted. It is recommended that you change the password or disable this account.
+

@@ -30,3 +30,4 @@ activity detected for the user before and after the abnormality occurred.
 - Top 5 Hosts By Activity – Displays the top 5 hosts by activity
 - Top 5 Clients By Activity – Displays the top 5 clients by activity
 - Event Types – Displays the event types detected for the abnormal behavior
+

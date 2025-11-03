@@ -69,3 +69,4 @@ The Suspicious Activity job group is comprised of:
   – Designed to report on activity events that occur over the weekend from targeted file servers
 
     - Requires **Access Auditing** component data collection
+

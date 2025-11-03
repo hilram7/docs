@@ -50,3 +50,4 @@ Step 8 - On **Configure Networking screen \> Connection**, choose **Default Swit
 ![Finish](summary.png)
 
 **Step 11 -** Click **Finish** and end the process.
+

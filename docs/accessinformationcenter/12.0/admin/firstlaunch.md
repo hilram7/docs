@@ -50,3 +50,4 @@ after login.
 
 See the [Navigation](/docs/accessinformationcenter/12.0/admin/navigate/navigate.md) topic for information on each of the interfaces and portals
 accessible from the Home page.
+

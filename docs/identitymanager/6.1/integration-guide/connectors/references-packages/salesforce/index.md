@@ -16,3 +16,4 @@ Manages Salesforce entities.
 | Fulfill                 | Usercube-Fulfill-Scim.dll        |
 | Has Incremental Mode    | True                             |
 | Publisher               | Usercube                         |
+

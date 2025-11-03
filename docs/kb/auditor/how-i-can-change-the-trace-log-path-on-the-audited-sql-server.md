@@ -33,3 +33,4 @@ Syntax: `SQLServerInstance|UNC path`
 For example: `serverinstance|C:\Program Files\Microsoft SQL Server\MSSQL\LOG`
 
 **NOTE**: Replace `SQLServer` with the SQL server machine name. Replace `Instance` with the SQL server instance name.
+

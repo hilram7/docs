@@ -71,3 +71,4 @@ located OK.
 - if libstdc++ does not exist anywhere within your server estate, then it will be necessary to get
   the binary from the Manufacturer repo or contact
   [Netwrix Support](https://www.netwrix.com/support.html)
+

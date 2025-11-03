@@ -15,3 +15,4 @@ settings. The corresponding menu items can be found there.
 
 After activating the Syslog interface via the corresponding option, it is possible to configure the
 Syslog server. If desired, the entire logbook can also be transferred via another option.
+

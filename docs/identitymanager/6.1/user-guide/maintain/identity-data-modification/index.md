@@ -45,3 +45,4 @@ Modify identity data by proceeding as follows, according to the changes to be ma
 - or
   [update data on a massive scale](/docs/identitymanager/6.1/user-guide/maintain/identity-data-modification/mass-update/index.md)
   by uploading an external file into Usercube, as an incremental version of the identity repository.
+

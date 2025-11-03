@@ -55,3 +55,4 @@ By default, the **Synchronize**, **Reports**, and **Entitlements** tabs appear o
 12. Once configured, users without the required access level will no longer see the **Reports**, **Entitlements**, and **Synchronize** tabs in the portal.
 
 ![Portal navigation bar with hidden tabs](images/ka0Qk000000EMez_0EMQk00000BbJYP.png)
+

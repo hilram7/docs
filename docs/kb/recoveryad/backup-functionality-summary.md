@@ -48,3 +48,4 @@ After a domain is added, an initial backup is performed and a null cookie is pas
 - The DirSync control must run by using a user account that has the Replicating Directory Changes permission on the domain naming context.
 
 - A DirSync control search cannot be confined to a specific area of Active Directory. Because all changes made to an Active Directory partition are returned from a DirSync control search, access to object data that is not wanted may occur.
+

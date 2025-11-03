@@ -63,3 +63,4 @@ The following error appears when trying to complete an investigation:
   4. Once the database has been deleted, restart Netwrix Auditor Archive Service and Netwrix Auditor Management Service.
   5. In the main Netwrix Auditor screen, click **Settings**.
   6. In the left pane, select the **Investigations** tab. Configure an investigation scope and run the investigation to recreate the `Netwrix_ImportDB` database.
+

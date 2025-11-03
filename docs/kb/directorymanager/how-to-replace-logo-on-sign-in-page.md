@@ -38,3 +38,4 @@ Yes, this can be done by replacing the image file in the Netwrix Directory Manag
 > **NOTE:** Take a backup of the original file.
 
 ![Final Result Screenshot](images/ka0Qk000000DGa1_0EMQk000004nK9n.png)
+

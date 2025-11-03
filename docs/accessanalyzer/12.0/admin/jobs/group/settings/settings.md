@@ -45,3 +45,4 @@ Profile must have the appropriate level of permissions in order for the data col
 successful. See the
 [Permissions by Data Collector (Matrix)](/docs/accessanalyzer/12.0/admin/datacollector/permissionmatrix.md) topic for
 information on the recommended permissions needed on the targeted hosts in order to collect data.
+

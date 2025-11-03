@@ -78,3 +78,4 @@ following effects:
 - The user can only have their rights removed by other database administrators.
 - The user can unlock other users on the Server Manager.
 - The user can also remove other users from the rights if they have the owner right.
+

@@ -48,3 +48,4 @@ And to map it in the `Entitlements` entity type mapping:
 That is all you need to do. With the next synchronization, all the entitlements will have their
 `type` and then the special treatment can be done for those with the `Profile` type when
 provisioning users' entitlements.
+

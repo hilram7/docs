@@ -39,3 +39,4 @@ Follow the steps to add a custom SIEM template to the Privilege Secure Console.
 **Step 4 –** Click **Save** to create the new custom SIEM template.
 
 The new custom SIEM template is added to the SIEM templates list.
+

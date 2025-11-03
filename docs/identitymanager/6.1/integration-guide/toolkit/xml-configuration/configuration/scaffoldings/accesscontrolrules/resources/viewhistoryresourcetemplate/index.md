@@ -33,3 +33,4 @@ Our example generates the following configuration:
 <AccessControlRule Identifier="Administrator_Directory_User_View_History_Directory_User" DisplayName_L1="Administrator_Directory_User_View_History_Directory_User" EntityType="Directory_User" Profile="Administrator">  <Entry CanExecute="true" Permission="/Custom/Resources/Directory_User/ViewHistory" /></AccessControlRule>
 
 ```
+

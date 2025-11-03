@@ -51,3 +51,4 @@ The exported Cloud Agent event log will appear on your Desktop.
 3. Right-click on **Netwrix Cloud Agent** and select **Save All Events As**.
 4. Name the file and click **Save**.
 5. Once the file is saved, right-click it and zip the file.
+

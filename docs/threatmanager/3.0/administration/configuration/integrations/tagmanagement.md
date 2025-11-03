@@ -162,3 +162,4 @@ results.
 the tag from the selected object(s).
 
 The tag is removed from the selected objects.
+

@@ -22,3 +22,4 @@ analyze your information using the full power of Excel. You can then update your
 Salesforce tools like Import Wizard and Data Loader to save time and effort.
 
 ![finder](/images/platgovsalesforce/tools/finder.webp)
+

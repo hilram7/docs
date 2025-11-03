@@ -116,3 +116,4 @@ adapted if desired.
 
 NOTE: The **organisational structure** module is based on the Web Application module of the same
 name. Both modules have a different scope and design but are almost identical to use.
+

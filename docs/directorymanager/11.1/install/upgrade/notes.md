@@ -149,3 +149,4 @@ be auto created for identity stores that have Entitlement settings defined.
 
 Step 19 – You cannot run the Configuration Tool and the Upgrade wizard more than once using the same
 database (for upgrade to Directory Manager version 11.0.23315.04).
+

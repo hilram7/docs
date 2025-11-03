@@ -125,3 +125,4 @@ Let's take two roles `B` and `C`.
 - `C` grants `AD2` and `AD3`.
 
 This time, if only `AD2` is found for a given user, no deduction can be made.
+

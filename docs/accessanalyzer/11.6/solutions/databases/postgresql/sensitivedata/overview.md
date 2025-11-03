@@ -19,3 +19,4 @@ The job in the Sensitive Data Job Group is:
 - [PgSQL_SensitiveDataPermissions Job](/docs/accessanalyzer/11.6/solutions/databases/postgresql/sensitivedata/pgsql_sensitivedatapermissions.md) -
   Designed to provide information on all types of permissions on database objects containing
   sensitive data across all the targeted PostgreSQL servers based on the selected scan criteria.
+

@@ -52,3 +52,4 @@ If you suspect that the software you downloaded may have been modified or obtain
 
 1. If you have a relationship with Netwrix, [open a ticket](https://www.netwrix.com/tickets.html#/open-a-ticket) with our support team.
 2. Otherwise, contact our product security team at psirt@netwrix.com.
+

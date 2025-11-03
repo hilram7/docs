@@ -120,3 +120,4 @@ information.
 
 See the [Microsoft 365](/docs/auditor/10.8/configuration/microsoft365/overview.md) topic for additional
 information.
+

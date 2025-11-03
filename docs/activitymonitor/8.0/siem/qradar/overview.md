@@ -83,3 +83,4 @@ sent correctly between the hosts, and diagnose any possible network issues.
 
 The  Stealthbits File Activity Monitor App for QRadar can now display activity data from either the
  Stealthbits Activity Monitor or StealthINTERCEPT.
+

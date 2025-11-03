@@ -18,3 +18,4 @@ Follow the steps to save a step to the My Steps list.
 **Step 2 –** Click Save to My Steps.
 
 The step is saved to the My Steps list and can be added to other playbooks as needed.
+

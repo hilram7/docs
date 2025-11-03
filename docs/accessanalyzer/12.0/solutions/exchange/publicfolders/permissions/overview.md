@@ -16,3 +16,4 @@ The jobs in the Permissions job group are:
   focuses on public folder permissions
 - [PF_Entitlements Job](/docs/accessanalyzer/12.0/solutions/exchange/publicfolders/permissions/pf_entitlements.md) – Comprised of analyses and reports that provide
   visibility into permissions applied to each public folder within the Exchange environment
+

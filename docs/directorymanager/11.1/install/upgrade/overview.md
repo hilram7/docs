@@ -61,3 +61,4 @@ Two log files are created on upgrade:
 - File name: directorymanager11_Upgrade.log  
   Path: `C:\ProgramData\Imanami\GroupID 11.0\Upgrade Tool\`  
   (This file contains debug logs.)
+

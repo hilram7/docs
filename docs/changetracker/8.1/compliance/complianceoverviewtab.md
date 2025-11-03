@@ -48,3 +48,4 @@ template through the UI, this can be updated, or the current format preserved if
 
 For report template modifications or new formats, please contact
 [Netwrix Support](https://www.netwrix.com/support.html).
+

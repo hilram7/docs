@@ -45,3 +45,4 @@ the character S using the credentials of current user logged-on to the identity 
 ```
 Get-GroupMember -Identity "CN=Enrollment,OU=Local Recruiting,OU=Recruiting,DC=HR,DC=Imanami,DC=US" -LdapFilter "(displayname=S*)"
 ```
+

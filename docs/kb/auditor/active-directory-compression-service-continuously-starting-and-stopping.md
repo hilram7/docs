@@ -32,3 +32,4 @@ Windows generates these events as they are hard coded into the Windows System.
 
 ## Resolution
 This notification is expected behavior. If you see these information messages, it means that the Active Directory collection works correctly. Unfortunately, these notifications cannot be stopped as they are hard coded into the Windows System, and it is Windows that generates these events.
+

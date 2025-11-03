@@ -48,3 +48,4 @@ Activity**: **All**, **Yes**, or **No**.
 1. Select a **User**.
 2. Click **Export to Excel**. The **StrongpointUserActivityHistoryDetail (#).xlsx** file is saved to
    your default download directory.
+

@@ -14,3 +14,4 @@ support this functionality.
 
 When a term is located in multiple branches of the taxonomy (a polyhierarchical taxonomy) – the
 Related tab will also display each of the locations to allow you to jump to the specific branch.
+

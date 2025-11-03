@@ -23,3 +23,4 @@ it.
 **Step 4 –** Click **OK** to save changes on this window.
 
 The deleted user(s) have no access to the Administration Console.
+

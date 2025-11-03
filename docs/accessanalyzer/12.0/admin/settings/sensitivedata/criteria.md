@@ -47,3 +47,4 @@ search criteria.
 
 The selected Search Criteria are now inherited by Sensitive Data scan jobs that are set to use
 global sensitive data criteria settings.
+

@@ -59,3 +59,4 @@ Netwrix Privilege Secure logs can also be viewed, and downloaded, via the Netwri
 
 - **Web Service -** `PAM-Web<date>.log`  
   The central web service is responsible for database access and communication out to each service component (i.e., licensing, email, action, and proxy). If you experience login failures, this log should be reviewed. Also, if the proxy or action service logs show a failure communicating with the web service, this log should be reviewed for more information.
+

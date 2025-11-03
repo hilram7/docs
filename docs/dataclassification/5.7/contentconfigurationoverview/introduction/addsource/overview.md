@@ -86,3 +86,4 @@ To configure advanced settings, your user account will need advanced privileges.
 | Re-Index Period          | Specifies how often the source should be checked for changes. Netwrix recommends using default values. Default is **7 days**.                                                                                                                               |
 | Priority                 | Netwrix recommends using default values.                                                                                                                                                                                                                    |
 | Document Type            | Specify a value that will be used to restrict queries when utilising the search index.                                                                                                                                                                      |
+

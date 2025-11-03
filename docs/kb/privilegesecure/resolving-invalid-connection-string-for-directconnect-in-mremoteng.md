@@ -36,3 +36,4 @@ To resolve the issue, you have two options:
 
 1. Delete the credential saved in **Remote Desktop Connection**. After you delete that credential, the valid `DirectConnect` string will work as expected in mRemoteNG.
 2. Fill in a password for each `DirectConnect` connection saved in mRemoteNG. This resolves the issue without deleting any credentials from **Remote Desktop Connection**.
+

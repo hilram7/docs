@@ -60,3 +60,4 @@ You can modify what classifies as Sensitive Data by configuring criteria in the 
 - Sensitive Data Discovery Add-On: https://docs.netwrix.com/docs/auditor/10_8/admin/settings/sensitivedatadiscovery
 - Sensitive Data: https://docs.netwrix.com/docs/auditor/10_8
 - Sensitive Data Criteria Editor: https://docs.netwrix.com/docs/auditor/10_8/admin/settings/sensitivedatadiscovery
+

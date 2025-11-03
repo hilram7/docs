@@ -17,3 +17,4 @@ Stop Review window opens to confirm the action.
 their Pending Reviews list.
 
 Click **Yes** to stop the review. Click **No** to cancel the action. The Stop Review window closes.
+

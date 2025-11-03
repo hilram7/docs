@@ -86,3 +86,4 @@ Follow the steps to get all events for account deletion:
 All_Changes.user All_Changes.object All_Changes.object_attrs
 
 **Step 3 –** Press the Last 24 hours button and choose All time time range.
+

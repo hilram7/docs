@@ -62,3 +62,4 @@ Get-Group | Select Name, @{Name="Owner"; Expression={ (Get-User -Identity $_.Man
 - `SmartFilter`
 
 These attributes can be added to the `Select` statement in the cmdlet to gather more detailed information for each group.
+

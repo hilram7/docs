@@ -17,3 +17,4 @@ sidebar_position: 50
 - #### [ScimResourceTypeMapping](/docs/identitymanager/6.1/integration-guide/toolkit/xml-configuration/connectors/resourcetypemappings/scimresourcetypemapping/index.md)
 - #### [ServiceNowResourceTypeMapping](/docs/identitymanager/6.1/integration-guide/toolkit/xml-configuration/connectors/resourcetypemappings/servicenowresourcetypemapping/index.md)
 - #### [SharePointResourceTypeMapping](/docs/identitymanager/6.1/integration-guide/toolkit/xml-configuration/connectors/resourcetypemappings/sharepointresourcetypemapping/index.md)
+

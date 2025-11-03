@@ -42,3 +42,4 @@ here.
 
 The column editor can be used to arrange and display the data in the table according to their
 importance.
+

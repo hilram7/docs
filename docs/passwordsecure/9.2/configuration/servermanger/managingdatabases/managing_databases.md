@@ -95,3 +95,4 @@ Importing
 
 A backup can be restored here. This can be done via a file or from the history. The procedure is
 described under Backup management
+

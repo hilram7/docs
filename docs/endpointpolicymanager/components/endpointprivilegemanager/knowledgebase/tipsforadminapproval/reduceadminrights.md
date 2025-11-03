@@ -36,3 +36,5 @@ As a result, even when IE is launched / told to Run as Admin, it will not , and 
 Standard.
 
 ![464_6_img-006](/images/endpointpolicymanager/leastprivilege/464_6_img-006.webp)
+
+

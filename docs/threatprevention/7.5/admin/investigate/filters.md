@@ -114,3 +114,4 @@ Click the arrow on the filter category header ribbon to expand or collapse the c
 also clear all filters by clicking the Reset Filters button on the ribbon between the filter
 categories and the data grid. Filtered views can also be saved. See the
 [Saved Investigations](/docs/threatprevention/7.5/admin/investigate/saved.md) topic for additional information.
+

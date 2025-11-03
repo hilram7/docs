@@ -112,3 +112,4 @@ Identity Manager provides a few variables to be used in the PowerShell script.
 ## Fulfill
 
 There are no fulfill capabilities for this connector.
+

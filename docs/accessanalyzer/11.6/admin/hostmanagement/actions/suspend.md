@@ -22,3 +22,4 @@ resume the inventory.
 ![Resume Host Inventory](/images/accessanalyzer/11.6/admin/hostmanagement/actions/resumehostinventory.webp)
 
 Click **Resume Host Inventory** to resume the inventory queries.
+

@@ -103,3 +103,4 @@ PingOne. See the [Sign In Using PingOne](/docs/directorymanager/11.1/authenticat
    PingOne.
 5. Enter other details of the user, such as first name, last name, and the email address.
 6. Click **Save** to create the user.
+

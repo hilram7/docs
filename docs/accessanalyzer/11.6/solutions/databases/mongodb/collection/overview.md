@@ -20,3 +20,4 @@ The jobs in the 0.Collection Job Group are:
 - [MongoDB_SensitiveDataScan Job](/docs/accessanalyzer/11.6/solutions/databases/mongodb/collection/mongodb_sensitivedatascan.md)
   — Discovers sensitive data in MongoDB databases based on pre-defined or user-defined search
   criteria
+

@@ -97,3 +97,4 @@ Create a Connection Profile and set the following information on the User Creden
 See the
 [Application](/docs/accessanalyzer/11.6/admin/settings/application/overview.md)
 topic for additional information.
+

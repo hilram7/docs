@@ -70,3 +70,4 @@ recommend selecting **Proceed without a Key Pair** and then clicking **Launch In
 appear as Initializing.
 
 ![Initiating Instance](instancestarting.webp)
+

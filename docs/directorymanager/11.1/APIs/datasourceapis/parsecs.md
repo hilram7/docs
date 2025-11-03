@@ -36,3 +36,4 @@ This API parses the connection string given in one line format.
     "WindowsAuthentication": "true"
 }
 ```
+

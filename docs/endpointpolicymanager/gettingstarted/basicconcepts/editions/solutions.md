@@ -157,7 +157,7 @@ of using Group Policy.
 :::note
 For a video overview of using Endpoint Policy Manager with SCCM and similar tools (such as
 KACE) visit:
-[http://www.policypak.com/video/deploying-endpointpolicymanager-directives-without-group-policy-endpointpolicymanager-exporter-utility.html](http://www.policypak.com/video/deploying-endpointpolicymanager-directives-without-group-policy-endpointpolicymanager-exporter-utility.html)
+[https://www.policypak.com/video/deploying-endpointpolicymanager-directives-without-group-policy-endpointpolicymanager-exporter-utility.html](http://www.policypak.com/video/deploying-endpointpolicymanager-directives-without-group-policy-endpointpolicymanager-exporter-utility.html)
 :::
 
 
@@ -197,3 +197,5 @@ use it with Endpoint Policy Manager SaaS/Cloud.
 
 For more answers about licensing Endpoint Policy Manager with virtualized systems, see:
 [Knowledge Base](/docs/endpointpolicymanager/) > All Things Licensing.
+
+

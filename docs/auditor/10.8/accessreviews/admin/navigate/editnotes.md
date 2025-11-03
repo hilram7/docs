@@ -18,3 +18,4 @@ note.
 **Step 3 –** Click OK when finished. The Edit Notes window closes.
 
 The user name and a date timestamp will appear at the beginning of each note added.
+

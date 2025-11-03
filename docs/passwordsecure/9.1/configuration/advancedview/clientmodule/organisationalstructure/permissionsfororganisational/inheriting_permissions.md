@@ -39,3 +39,4 @@ Both mechanisms are not protected by user rights. The **authorize** right for th
 organisational structure is required to activate the inheritance or overwrite functions.
 
 :::
+

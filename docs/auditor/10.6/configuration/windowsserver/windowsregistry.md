@@ -85,3 +85,4 @@ Repeat the same steps for the `HKEY_LOCAL_MACHINE\SYSTEM` key.
 
 Using Group Policy for configuring registry audit is not recommended, as registry DACL settings may
 be lost.
+

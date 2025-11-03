@@ -46,3 +46,4 @@ Get the Change Request **Approved**. 4. Click **Save** 5. Check the **Inactive**
 
 ![inactivebox](/images/platgovnetsuite/change_management/inactivebox.webp)6.
 Click **Save**
+

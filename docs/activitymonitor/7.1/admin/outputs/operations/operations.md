@@ -343,3 +343,4 @@ Properties window closes.
 
 See[Suppress Windows Explorer Activity](/docs/activitymonitor/7.1/admin/outputs/operations/suppress.md)
 topic for more information.
+

@@ -32,3 +32,4 @@ The details page has the following tabs:
 - [Accounts Tab for Secret Vault](/docs/privilegesecure/4.2/admin/interface/resources/detailspages/secretvault/accountssecretvault/accountssecretvault.md)
 - [Sessions Tab for Secret Vault](/docs/privilegesecure/4.2/admin/interface/resources/detailspages/secretvault/sessionssecretvault.md)
 - [History Tab for Secret Vault](/docs/privilegesecure/4.2/admin/interface/resources/detailspages/secretvault/historysecretvault.md)
+

@@ -62,3 +62,4 @@ Results** list.
 
 Click the left-arrow to move the selected objects from the Selected Results list to the **Search
 Results** list.
+

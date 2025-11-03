@@ -22,3 +22,4 @@ The table has the following columns:
   [Host Details Page](/docs/privilegesecure/4.2/admin/interface/resources/detailspages/host/host.md).
 
 The table columns can be resized and sorted in ascending or descending order.
+

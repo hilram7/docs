@@ -36,3 +36,4 @@ filter groups. The **Allow negation of filters** option can also be selected.
 2. Structure
 
 The structure can be operated in precisely the same way as on the client.
+

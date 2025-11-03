@@ -31,3 +31,4 @@ Use the following options to determine which data to adult:
   also be used.
 
     If **Differences from standard** is selected, all properties are selected and cannot be altered.
+

@@ -40,3 +40,4 @@ items in a risk rule triggers the associated risk.
 | Property required     | **Type** Int64 **Description** Property (scalar or navigation) that represents the risk-triggering entitlement.          |
 | Resource optional     | **Type** Int64 **Description** Identifier of the resource assigned to `Property`, if navigation, that triggers the risk. |
 | ResourceType required | **Type** Int64 **Description** Identifier of the resource type targeted by the risk analysis.                            |
+

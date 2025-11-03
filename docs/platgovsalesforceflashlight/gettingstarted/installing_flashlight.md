@@ -26,3 +26,4 @@ installation is complete.
 :::
 
 **Next Step:** [Using the Getting Started Wizard](/docs/platgovsalesforceflashlight/gettingstarted/using_getting_started_wizard.md)
+

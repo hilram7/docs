@@ -119,3 +119,4 @@ executed by the worker container - Rescan, Remove Admin, Set/Remove Persistent, 
 How to check the status of the worker service from the command line:
 
 - `sudo docker service ps s1_worker`
+

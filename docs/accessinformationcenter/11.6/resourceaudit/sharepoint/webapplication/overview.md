@@ -11,3 +11,4 @@ provide information for SharePoint on-premise farms:
 
 - [Effective Policy Report](/docs/accessinformationcenter/11.6/resourceaudit/sharepoint/webapplication/effectivepolicy.md)
 - [Policy Report](/docs/accessinformationcenter/11.6/resourceaudit/sharepoint/webapplication/policy.md)
+

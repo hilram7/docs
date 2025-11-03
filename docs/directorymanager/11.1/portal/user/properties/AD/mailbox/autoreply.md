@@ -52,3 +52,4 @@ Send a reply once to each sender outside my organization with the following mess
 
 In the text box, type the content that should be sent as the reply to the senders who do not belong
 to your organization.
+

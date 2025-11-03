@@ -17,3 +17,4 @@ Use the Windows Ctrl + left-click function to select multiple hosts from the dat
 Activities pane, click **Save Selected To List**. The Host List Wizard opens with the selected hosts
 in the Host list box on the Manual Host Entry page. See the [Add Hosts](/docs/accessanalyzer/12.0/admin/hostmanagement/actions/add.md) topic for
 information on creating a host list.
+

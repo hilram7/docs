@@ -189,3 +189,4 @@ When you update data in the source file, you must also reload the file for chang
 
 - [Display Type Categories](/docs/directorymanager/11.0/signin/applications/portal/categories/categories.md)
 - [Define Custom Display Types](/docs/directorymanager/11.0/signin/applications/portal/categories/custom.md)
+

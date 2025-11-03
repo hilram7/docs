@@ -52,3 +52,4 @@ You can also find configuration examples for several types of workflow:
     [Configure a Homonym Detection](/docs/identitymanager/6.1/integration-guide/workflows/how-to/configure-homonym-test/index.md)
     How to configure the homonym search that checks if a resource already exists in the system,
     preventing duplicates.
+

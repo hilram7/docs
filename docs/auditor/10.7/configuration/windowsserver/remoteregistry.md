@@ -26,3 +26,4 @@ status on Windows Server 2012 and above.
 **NOTE:** The Remote Registry service should be enabled on the target server.
 
 5. Locate the Windows Management Instrumentation service and repeat these steps.
+

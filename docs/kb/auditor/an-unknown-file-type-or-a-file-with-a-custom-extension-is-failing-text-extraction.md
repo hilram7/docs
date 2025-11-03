@@ -29,3 +29,4 @@ In some cases **internal** files may have the **wrong extension**, but are a kno
 4. Create a new **entry**, mapping the **extension** (such as `".rpt"`) to the correct content type (such as `HTML`)
 5. **Restart** the **Collector service**
 6. **Re-process** any affected **files**
+

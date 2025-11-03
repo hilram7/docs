@@ -32,3 +32,4 @@ Maintenance window is displayed. Click the **Archive DB** tab.
 To query archived event data, use the Investigate interface. See the
 [Investigate Interface](/docs/threatprevention/7.4/admin/investigate/overview.md)
 topic for additional information.
+

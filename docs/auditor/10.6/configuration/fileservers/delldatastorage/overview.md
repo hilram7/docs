@@ -93,3 +93,4 @@ VNX/VNXe/Unity/Celerra GPO support, refer to documentation provided by Dell.
 
 **Step 4 –**
 [Configure Audit Settings for CIFS File Shares on Dell Data Storage](/docs/auditor/10.6/configuration/fileservers/delldatastorage/cifss.md)
+

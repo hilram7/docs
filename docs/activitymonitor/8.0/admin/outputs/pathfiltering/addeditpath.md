@@ -34,3 +34,4 @@ Wildcard filtering can be configured using the following wildcard characters:
 | \*       | matches zero or more characters (except for "\" or "/")      |
 | ?        | matches any single character (except for "\" or "/")         |
 | \*\*     | matches zero or more characters (useful for directory trees) |
+

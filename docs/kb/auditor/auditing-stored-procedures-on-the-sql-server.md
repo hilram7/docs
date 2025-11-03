@@ -56,3 +56,4 @@ View.Date Modified.*
 **You can copy the lines above to the file.**
 
 Starting from the next scheduled collection Netwrix Auditor for SQL Server will collect data about changes made to the **"Date Modified"** attribute for stored procedure objects.
+

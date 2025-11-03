@@ -47,3 +47,4 @@ This article outlines the steps required to move an installed PostgreSQL data di
 > **IMPORTANT:** After moving the database to a new location, add the **Network Service** account to the new folder's Access Control List (ACL).
 
 7. Verify that you can log in to Netwrix Privilege Secure as usual, navigate the UI, and provision sessions. If everything functions normally, the process is complete.
+

@@ -61,3 +61,4 @@ The number of enabled user accounts can be determined one of the following two w
 5. Select **Enabled**, and set the number (e.g., 30000).
 6. Click **Apply** > **OK**.
 7. Close the Group Policy Editor.
+

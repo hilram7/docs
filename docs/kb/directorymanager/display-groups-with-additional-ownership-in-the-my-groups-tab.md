@@ -42,3 +42,4 @@ Use these steps to configure the **My Groups** tab in Netwrix Directory Manager 
 7. Individual users can adjust their own settings in the application portal to view groups they own as both primary and additional owner. After changing this setting, remember to click **Save**.
 
    ![User-level setting to display groups as primary and additional owner](images/ka0Qk000000EZ4L_0EMQk00000Bsr5p.png)
+

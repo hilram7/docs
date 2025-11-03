@@ -76,3 +76,4 @@ Follow the resolution for the corresponding error you encounter:
 - https://docs.netwrix.com/docs/auditor/10_8 (Monitoring Plans − SharePoint · v10.6)
 - https://docs.netwrix.com/docs/auditor/10_8 (Configuration − SharePoint · v10.6)
 - https://learn.microsoft.com/en-us/dotnet/framework/wcf/feature-details/configuring-timeout-values-on-a-binding (Extend the timeout on a binding − learn more in Configuring Timeout Values on a Binding ⸱ Microsoft 🐍)
+

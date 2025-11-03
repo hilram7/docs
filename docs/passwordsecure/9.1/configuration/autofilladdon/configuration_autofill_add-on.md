@@ -41,3 +41,4 @@ the icon in the system tray to open the context menu.
 
 - The desktop notifications display various information, such as when data is entered
 - Start with Windows includes the Autofill Add-on in the autostart menu
+

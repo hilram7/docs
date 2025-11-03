@@ -48,3 +48,4 @@ See Also
 - [Configure Relaying Party Trust in AD FS](/docs/directorymanager/11.0/authenticate/asserviceprovider/adfs/configurerelayingpartytrust.md)
 - [Configure the AD FS Provider In GroupID](/docs/directorymanager/11.0/authenticate/asserviceprovider/adfs/configureadfsindirectorymanager.md)
 - [Sign In Using AD FS](/docs/directorymanager/11.0/authenticate/asserviceprovider/adfs/signin.md)
+

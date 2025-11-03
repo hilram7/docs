@@ -39,3 +39,4 @@ The **Maximum password age** settings mismatch in the default domain GPO and PPE
 ## Resolution
 
 Configure the **Maximum password age** setting in the default domain GPO and in Netwrix Password Policy Enforcer (PPE) so both use the same value.
+

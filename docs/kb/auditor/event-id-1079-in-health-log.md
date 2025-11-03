@@ -42,3 +42,4 @@ No data loss has occurred. The next Activity Summary should contain the missing 
 1. In the main **Netwrix Auditor** menu, select **Monitoring Plans**.
 2. In the left pane, select your SharePoint monitoring plan and click **Edit**.
 3. In the right pane, click **Update**.
+

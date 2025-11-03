@@ -60,3 +60,4 @@ additional information:
     - [History Tab](/docs/privilegesecure/4.2/admin/interface/usersgroups/usergroupapplication/history.md)
     - [Authentication Tab](/docs/privilegesecure/4.2/admin/interface/usersgroups/usergroupapplication/authentication.md)
     - [Properties Tab](/docs/privilegesecure/4.2/admin/interface/usersgroups/usergroupapplication/properties.md)
+

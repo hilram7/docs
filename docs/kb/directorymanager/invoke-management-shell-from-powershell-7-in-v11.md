@@ -66,3 +66,4 @@ Connect-IdentityStore -mode "2" -IdentityStoreID "IDENTITYSTOREID HERE" -Credent
 ```
 
 3. Once the script completes, a remote session will be established. This allows you to run Netwrix Directory Manager cmdlets in PowerShell 7 without logging directly into the Netwrix Directory Manager server.
+

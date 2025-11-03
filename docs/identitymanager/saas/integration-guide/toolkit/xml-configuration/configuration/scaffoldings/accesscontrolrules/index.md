@@ -19,3 +19,4 @@ Scaffoldings for access control give some permissions, by allowing the correspon
 - [Simulations](/docs/identitymanager/saas/integration-guide/toolkit/xml-configuration/configuration/scaffoldings/accesscontrolrules/simulations/index.md)
 - [User Interfaces](/docs/identitymanager/saas/integration-guide/toolkit/xml-configuration/configuration/scaffoldings/accesscontrolrules/userinterfaces/index.md)
 - [Workflows](/docs/identitymanager/saas/integration-guide/toolkit/xml-configuration/configuration/scaffoldings/accesscontrolrules/workflows/index.md)
+

@@ -52,3 +52,4 @@ Click **Strongpoint** > **Strongpoint Overview** to open the dashboard, providin
 overview of your reminders, automated documentation summary and easy access to all the features.
 
 ![Strongpoint Overview Dashboard](/images/platgovnetsuite/dashboard_overview.webp)
+

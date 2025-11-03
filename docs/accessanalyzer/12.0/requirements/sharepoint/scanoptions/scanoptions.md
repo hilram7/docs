@@ -58,3 +58,4 @@ See the following topics for additional information:
 
     - [SharePoint Agent-Less Permissions](/docs/accessanalyzer/12.0/requirements/sharepoint/scanoptions/agent-less-scans/agentlesspermissions.md)
     - [SharePoint Agent-Less Ports](/docs/accessanalyzer/12.0/requirements/sharepoint/scanoptions/agent-less-scans/agentlessports.md)
+

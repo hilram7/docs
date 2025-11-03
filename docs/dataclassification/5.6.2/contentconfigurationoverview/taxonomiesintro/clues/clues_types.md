@@ -461,3 +461,4 @@ threshold then the hierarchical score will be applied.
 
 This can be useful when you only want to apply a score if two or more conditions to match, or
 perhaps to only apply a small static score if a word appears X times within a document.
+

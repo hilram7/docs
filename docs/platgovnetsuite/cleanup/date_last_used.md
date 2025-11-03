@@ -92,3 +92,4 @@ Key columns in the search results:
   it reaches 6 months.
 
 ![Unused Workflow Customizations Search Results](/images/platgovnetsuite/clean_up/unused_workflow_results.webp)
+

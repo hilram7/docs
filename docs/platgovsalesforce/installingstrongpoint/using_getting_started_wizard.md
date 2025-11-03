@@ -61,3 +61,4 @@ Once you have set up your credentials, you need to configure the remote site set
 5. Click **Next**.
 
 **Next Step:** [Set Up the Initial Scan](/docs/platgovsalesforce/installingstrongpoint/setting_up_initial_scan.md)
+

@@ -193,3 +193,4 @@ rules.
 
 Learn more on the rules of
 [Categorize Resources](/docs/identitymanager/6.2/user-guide/set-up/categorization/index.md).
+

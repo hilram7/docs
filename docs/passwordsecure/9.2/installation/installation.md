@@ -77,3 +77,4 @@ smaller installations or test environments.
 - Port 11011 TCP for communication with the application server (outgoing)
 - Port 11018 TCP (outgoing)
 - Port 52120 TCP with the add-on (outgoing)
+

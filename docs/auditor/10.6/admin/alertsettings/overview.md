@@ -43,3 +43,4 @@ To apply tags to an alert, navigate to alert settings and locate the Apply tags 
 General tab. See the
 [Create Alerts](/docs/auditor/10.6/admin/alertsettings/create/create.md) topic to receive
 information about tags applying.
+

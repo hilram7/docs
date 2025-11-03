@@ -271,3 +271,4 @@ SQL application from the drop down. See
 [Register an Azure SQL Application](#register-an-azure-sqlapplication) for steps required to
 register an Azure SQL application in the Azure portal. A preview window will appear on the
 right-hand side of the window.
+

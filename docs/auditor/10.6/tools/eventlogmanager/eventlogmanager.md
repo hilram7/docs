@@ -236,3 +236,4 @@ below. Then you will provide this account in the monitoring plan wizard.
 **On the target server:**
 
 The account must have be a member of the local Administrators group.
+

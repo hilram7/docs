@@ -129,3 +129,4 @@ Netwrix Threat Manager, or SIEM products. Add a new output for the same host to 
 tab in the Activity Monitor console to be used by the other product. See the
 [Send Active Directory Event Data from Netwrix Threat Prevention to Netwrix Access Analyzer](/docs/threatprevention/7.5/admin/configuration/accessanalyzerconfiguration.md)
 topic for additional information.
+

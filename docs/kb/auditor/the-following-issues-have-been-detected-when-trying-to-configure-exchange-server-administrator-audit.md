@@ -39,3 +39,4 @@ The AdminAuditLogParameter needs to be set to *
 ```powershell
 Set-AdminAuditLogConfig -AdminAuditLogEnabled $true -AdminAuditLogAgeLimit 30 -AdminAuditLogCmdlets * -AdminAuditLogParameters *
 ```
+

@@ -69,3 +69,4 @@ This job group does not collect data. No target host is required.
 **Schedule Frequency**
 
 This job group can be scheduled to run as desired.
+

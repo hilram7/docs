@@ -158,3 +158,4 @@ information.
 
 Enables hiding menu items you do not use, to improve navigation. Refer to
 [Managing Menus](/docs/platgovnetsuite/installation/managing_menus.md) for more information.
+

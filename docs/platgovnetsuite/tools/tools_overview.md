@@ -14,3 +14,4 @@ The **Strongpoint** > **Tools** menu accesses:
   formulas to simply your Customization development.
 - [Standard Field Impact Analysis](/docs/platgovnetsuite/tools/standard_field_impact_analysis.md): runs an Impact Analysis to
   determine dependencies.
+

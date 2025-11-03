@@ -33,3 +33,4 @@ Roles) granted to the trustee:
 - Write – Right to add or modify SharePoint resources
 - Delete – Right to delete SharePoint resources
 - Manage – Equivalent to full control over SharePoint resources
+

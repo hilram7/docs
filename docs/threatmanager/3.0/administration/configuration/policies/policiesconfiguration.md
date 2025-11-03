@@ -197,3 +197,4 @@ following columns:
 - Message – A description of the activity that occurred
 - User – The user associated with the activity
 - Host – The host associated with the activity
+

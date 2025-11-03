@@ -19,3 +19,4 @@ sidebar_position: 100
 
 Most failed requests contain error in the response body (except those with empty body, e.g., 404,
 405). [Error Details](/docs/auditor/10.6/api/errordetails.md)
+

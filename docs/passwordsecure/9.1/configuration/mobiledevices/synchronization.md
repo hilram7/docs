@@ -39,3 +39,4 @@ on both devices.
 
 The configuration is described in the chapter
 [Settings](/docs/passwordsecure/9.1/configuration/mobiledevices/settings_mobileapp.md)
+

@@ -113,3 +113,4 @@ After completing the **Steps for Microsoft Entra ID**, perform the following ste
     ![Netwrix Privilege Secure login screen with OpenID Connect option](images/ka0Qk000000DtGP_0EM4u000004bUkO.png)
 
     When using the OpenID Connect log-in option, the user will be redirected to sign in to Microsoft Entra ID. Upon successful authentication, the user will be redirected to the Netwrix Privilege Secure UI as their signed-in user.
+

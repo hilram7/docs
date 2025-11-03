@@ -14,3 +14,4 @@ access requests.
 Click **Sign in** to open the Access Information Center login page. Within the Owner portal,
 navigate to the Access Requests page to process the request. See the
 [Pending Access Requests](/docs/accessinformationcenter/12.0/owneroverview/owners/pendingrequests/pendingrequests.md) topic for additional information.
+

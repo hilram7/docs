@@ -21,3 +21,4 @@ The 2.Content Job Group is comprised of:
   ownership of folders in the Box environment. The staleness threshold can be customized within the
   **Folder Metrics Details** analysis. Largest and smallest folder size thresholds can be configured
   in a similar way in their respective analysis tasks.
+

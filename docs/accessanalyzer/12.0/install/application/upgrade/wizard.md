@@ -179,3 +179,4 @@ file located within the Jobs directory: `…\STEALTHbits\StealthAUDIT\Jobs`.
 
 The ZIP file name reflects the date and time of the upgrade. For example, the file name for an
 upgrade performed on June 4, 2023 at approximately 6 PM would be: `20230604180542.zip`.
+

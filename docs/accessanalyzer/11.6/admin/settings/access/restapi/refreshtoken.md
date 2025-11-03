@@ -53,3 +53,4 @@ article for additional information on successful and unsuccessful responses to r
 tokens.
 
 The refresh token expires after 7 days.
+

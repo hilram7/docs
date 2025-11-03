@@ -83,3 +83,4 @@ license count so that only heartbeat users will be calculated.
 **NOTE:** You must run Netwrix.CallHome.MSPTool.exe every time you update MSP.xml.
 
 The appearance of the license will be reflected in the MSP portal.
+

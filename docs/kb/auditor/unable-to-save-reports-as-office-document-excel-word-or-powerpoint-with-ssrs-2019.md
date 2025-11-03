@@ -44,3 +44,4 @@ To resolve the issue, you need to grant the the execution account (not the accou
 1. On the computer that hosts your SQL Server instance, open **Registry Editor**.
 2. Navigate to `HKEY_LOCAL_MACHINE\Software\Microsoft\Avalon.Graphics`.
 3. Assign the **Read** permission to all occurrences of the **Avalon.Graphics** key in the registry.
+

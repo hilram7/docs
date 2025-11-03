@@ -137,3 +137,5 @@ under the Forwarded Events log.
 ![381_28_image-20191023214431-15](/images/endpointpolicymanager/leastprivilege/381_28_image-20191023214431-15.webp)
 
 ![381_30_image-20191023214431-16_950x303](/images/endpointpolicymanager/leastprivilege/381_30_image-20191023214431-16_950x303.webp)
+
+

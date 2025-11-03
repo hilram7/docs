@@ -102,3 +102,4 @@ permissions:
 - Companies – Company Maintenance – Add(all), Inquire(all)
 - Companies – Manage Attachments – Add(all), Inquire(all)
 - Service Desk – Service Tickets – Add(all), Inquire(all)
+

@@ -62,3 +62,4 @@ The same options can also be found in the settings. A tab is only displayed if i
 both in the rights and also in the settings. This makes it possible to specify (for example via the
 administrator) whether a user is permitted to view the tab or not. The user can then define
 themselves which tabs they want to be displayed.
+

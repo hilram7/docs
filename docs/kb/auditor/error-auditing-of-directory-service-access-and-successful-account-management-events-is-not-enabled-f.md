@@ -58,3 +58,4 @@ Refer to the Netwrix Auditor Installation and Configuration Guide for more infor
 2. Navigate to the following node: Versions 6.5 and Below - `HKEY_LOCAL_MACHINESOFTWARE(Wow6432Node)NetwrixAD Change Reporter` and set the `IgnoreAuditCheckResultError` registry key to `1`. If this key does not exist please create it.
 
 Note: In Netwrix Auditor 7.0 the registry location is `HKEY_LOCAL_MACHINESOFTWARE(Wow6432Node)Netwrix AuditorAD Change Reporter`
+

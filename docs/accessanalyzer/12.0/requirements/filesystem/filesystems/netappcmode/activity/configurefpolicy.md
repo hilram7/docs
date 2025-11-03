@@ -940,3 +940,4 @@ useful in two scenarios:
 - You want to configure FPolicy manually using your custom names, but also want to leverage the
   "Enable and Connect FPolicy" feature of the Activity Monitor, so that the product ensures that
   FPolicy stays enabled and connected at all times.
+

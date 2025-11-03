@@ -159,3 +159,4 @@ The following online detection methods are available:
 | None | No online detection |
 | Ping | Use ICMP ping to detect if device is online |
 | TcpConnect | Use TCP connection to detect if device is online |
+

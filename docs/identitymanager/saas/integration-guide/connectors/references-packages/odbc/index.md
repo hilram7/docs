@@ -18,3 +18,4 @@ Exports data from a generic ODBC compatible database.
 | Publisher               | Identity Manager             |
 | ProviderClassFullName   | System.Data.Odbc.OdbcFactory |
 | ProviderDllName         | System.Data.Odbc.dll         |
+

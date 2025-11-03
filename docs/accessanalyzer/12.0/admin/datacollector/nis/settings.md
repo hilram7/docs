@@ -20,3 +20,4 @@ Configure the NIS domain and sample NIS server:
   from the Access Analyzer Console. Then, click **Test**.
 - Test – The data collector attempts to connect to the specified server and access information from
   the specified domain. It returns a message indicating success or failure.
+

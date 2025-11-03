@@ -39,3 +39,4 @@ Netwrix Password Reset has two options for user notifications:
 ## Resolution
 
 Please make sure Netwrix Password Reset is configured correctly. Also please make sure that notifications are not considered as spam.
+

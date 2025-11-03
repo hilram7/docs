@@ -51,3 +51,4 @@ Step 3 – To use another certificate, do the following:
 
 The new certificate is displayed in the Signing Certificate box on the Settings page and also on the
 Create Application page.
+

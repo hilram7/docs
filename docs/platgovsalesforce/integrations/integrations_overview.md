@@ -32,3 +32,4 @@ logs during an audit. This provides the following benefits to your users:
 ![Jira Integration](/images/platgovsalesforce/integrations/jira_overview.webp)
 
 **Next Step:** [ Set Up the Jira Integration](/docs/platgovsalesforce/integrations/jiraintegration/jira_integration.md)
+

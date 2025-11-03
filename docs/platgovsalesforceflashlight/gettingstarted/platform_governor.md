@@ -24,3 +24,4 @@ You can set or edit the organization limits through the **Setup** menu.
 4. Click **Edit** next to **Strongpoint Apex Method Daily**
 5. Change the **Value Number** as needed.
 6. Click **Save**
+

@@ -27,3 +27,4 @@ Load Query and Save Query work together – once you have your filters set-up as
 can save these for re-use in the future.
 
 ![page_guide_7](/images/changetracker/8.0/admin/tabs/page_guide_7.webp)
+

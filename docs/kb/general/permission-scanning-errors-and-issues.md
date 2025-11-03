@@ -42,3 +42,4 @@ A network share caused the FSAA system scan to run for extended periods before u
 4. We discovered that the FSAA system scan was able to progress past the network share that was causing it to previously hang. We suggested allowing for the scan to run again, monitor the job and if you experience a hang time with the FSAA system scan again please generate a process dump on the FSAA proxy host using the steps provided in the documentation below.
 
 https://helpcenter.netwrix.com/bundle/z-kb-articles-salesforce/page/kA04u0000000InUCAU.html
+

@@ -190,3 +190,4 @@ In order to validate the process:
   with indicators on the number of workers per type or per organization for example (through
   Usercube' predefined reports, the Query module or Power BI), in order to ensure that Usercube's
   content sticks to reality.
+

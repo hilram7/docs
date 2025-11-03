@@ -35,3 +35,4 @@ Complete the following fields:
 | Detection Period        | Specify how often you will detect new site collections. Default period is 1 day and 0 hour(s).                                                                                                                                                              |
 
 After configuring the settings, click the **Save** button.
+

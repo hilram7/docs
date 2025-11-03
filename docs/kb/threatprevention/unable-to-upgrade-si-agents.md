@@ -82,3 +82,4 @@ https://cacerts.digicert.com/DigiCertTrustedG4CodeSigningRSA4096SHA3842021CA1.cr
 9. Repeat the steps for all certificates.
 
 > TIP: Force GPO update in remote servers using the GPO Management console or scripts.
+

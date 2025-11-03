@@ -310,3 +310,4 @@ In some future date, should a new major N release ships, then and only then does
 
 Staying current with both server and agent versions ensures optimal performance, full feature compatibility, and robust security. Netwrix is committed to supporting your transition to newer versions and helping you ensure your Endpoint Protector environment stays secure, up-to-date, and fully supported.
 <br/>If you have questions about updates or need assistance with your upgrade process, please contact the Netwrix support team.
+

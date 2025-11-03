@@ -60,3 +60,4 @@ This article explains how to view, create, and manage system administrators and 
    ![Administrators Groups](https://helpcenter-be.netwrix.com/bundle/EndpointProtector_5.9.4.2/page/Content/Resources/Images/EndpointProtector/Admin/SystemConfiguration/AdministratorsGroups.png?_LANG=enus)
 
 > **NOTE:** The **Read Only** role cannot be combined with any other roles. The **Support** section is always available to all administrators, regardless of assigned roles.
+

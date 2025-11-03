@@ -37,3 +37,4 @@ If you are experiencing problems with Easylock, you can attempt to back up your 
 6. Replace the `Easylock.exe` file on the USB drive with the extracted version.
 
 After completing these steps, you may be able to restore access to Easylock and secure your data.
+

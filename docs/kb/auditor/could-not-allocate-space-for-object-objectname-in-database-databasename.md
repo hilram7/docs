@@ -90,3 +90,4 @@ To recreate the database, follow these steps:
 - [Hardware Requirements](https://docs.netwrix.com/docs/auditor/10_8/requirements/console)
 - [Netwrix Auditor Settings – Investigations (v10.6) feature](https://docs.netwrix.com/docs/auditor/10_8/admin/settings/investigations)
 - [SQL Server Express Database Size Reached 10GB](/docs/kb/auditor/sql-server-express-database-size-reached-10gb.md)
+

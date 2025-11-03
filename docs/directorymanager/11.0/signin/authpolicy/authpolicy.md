@@ -36,3 +36,4 @@ NOTE: Account unlock is not supported in a Microsoft Entra ID identity store.
 - [Second Way Authentication - SWA](/docs/directorymanager/11.0/signin/identitystore/configure/secondwayauthentication.md)
 - [Enroll with Authentication Types](/docs/directorymanager/11.0/signin/authpolicy/enroll.md)
 - [Authenticate with Authentication Types](/docs/directorymanager/11.0/signin/authpolicy/authenticate.md)
+

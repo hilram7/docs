@@ -44,3 +44,4 @@ preconfigured for this job.
 The following analysis task is selected by default:
 
 - Strip Replicas from Reports – Removes duplicates from reports
+

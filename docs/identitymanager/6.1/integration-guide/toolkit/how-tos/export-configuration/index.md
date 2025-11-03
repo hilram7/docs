@@ -106,3 +106,4 @@ Export a SaaS configuration by proceeding as follows:
     before exporting again.
 
     The token served by Usercube's IDP expires after one hour.
+

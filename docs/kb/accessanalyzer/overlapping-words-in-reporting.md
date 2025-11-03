@@ -43,3 +43,4 @@ The problem is the Scripting for IE is disabled.
 - Versions: 6.3 and Older
 - Resolved In: 7.0
 - Salesforce Article ID: 000001028
+

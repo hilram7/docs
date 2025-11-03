@@ -20,3 +20,4 @@ button to open this window.
 
 Select the desired attributes and click **OK**. The selection is displayed in the appropriate box of
 the AD Attributes filter or the LDAP Attributes filter.
+

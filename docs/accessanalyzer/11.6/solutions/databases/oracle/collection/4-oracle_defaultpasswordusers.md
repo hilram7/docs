@@ -53,3 +53,4 @@ added in the following ways:
 Cancel if no changes were made. Then click OK to close the Query Properties window.
 
 The 4-Oracle_DefaultPasswordUsers Job is now ready to run with the customized settings.
+

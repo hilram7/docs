@@ -69,3 +69,4 @@ job collections. On the navigation pane on the left side, you will see the follo
 - [Manage a Job Collection ](/docs/directorymanager/11.1/portal/synchronize/manage/jobcollection.md)
 - [Job Templates](/docs/directorymanager/11.1/portal/synchronize/manage/jobtemplate.md)
 - [Job Collection Template](/docs/directorymanager/11.1/portal/synchronize/manage/jobcollectiontemplate.md)
+

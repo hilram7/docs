@@ -41,3 +41,4 @@ For Windows Server 2016 and newer, refer to the following steps:
 
 1. Open **Settings** > **Apps** > **(Manage) Optional features** > **Add a feature** > type **Japanese Supplemental Fonts** > check the checkbox and click **Install**.
 2. In case no online option is possible, refer to the following step in the Microsoft article: [Cannot configure a language pack for Windows Server 2019 — Use LPKSetup](https://learn.microsoft.com/en-US/troubleshoot/windows-server/shell-experience/cannot-configure-language-pack-windows-server-desktop-experience#method-2-use-lpksetup).
+

@@ -98,3 +98,4 @@ Click **Containers/Apps** in the left pane to view the containers.
 Select a container and click **Inspect** to view its details.
 
 ![container_details](/images/directorymanager/11.1/admincenter/portal/container_details.webp)
+

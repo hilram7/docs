@@ -45,3 +45,4 @@ Change the system locale to English (United States). To do that:
    - Navigate to **Control Panel** > **Region** > **Administrative** tab.
    - Click **Copy settings ...** and tick *Welcome screen and system accounts*.
 4. Reboot Netwrix Auditor Server.
+

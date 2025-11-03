@@ -51,3 +51,4 @@ because the product is unable to detect the forest where the audited SharePoint 
 
 - [Event ID 1204 in Health Log](/docs/kb/auditor/event-id-1204-in-health-log.md)
 - [Event ID 1205 in Health Log](/docs/kb/auditor/event-id-1205-in-health-log.md)
+

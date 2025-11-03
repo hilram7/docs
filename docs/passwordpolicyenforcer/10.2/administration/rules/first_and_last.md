@@ -29,3 +29,4 @@ Last Character rules use custom character set definitions from the Character rul
 Character rules are disabled.
 
 :::
+

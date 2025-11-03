@@ -16,3 +16,4 @@ drop-down filters. Alternatively, click through on the Device Scores bar from th
 predefine the score range.
 
 The score for each device is linked to the full Cloud Compliance report.
+

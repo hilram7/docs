@@ -35,3 +35,4 @@ options.
 ![Get full list](/images/changetracker/8.0/admin/settings/page_guide_25.webp)
 
 ![page_guide_26](/images/changetracker/8.0/admin/settings/page_guide_26.webp)
+

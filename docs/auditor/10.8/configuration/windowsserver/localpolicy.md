@@ -46,3 +46,4 @@ Windows Administrative Tools > Local Security Policy.
 Local audit policy is configured.
 
 ![Local Security Policy snap-in](/images/1secure/configuration/computer/manualconfig_ws_local_audit_policies2016.webp)
+

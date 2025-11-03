@@ -234,3 +234,4 @@ A dialog box is displayed, prompting you to confirm the deletion of the user.
 **Step 5 –** Click **Yes**.
 
 The user is deleted.
+

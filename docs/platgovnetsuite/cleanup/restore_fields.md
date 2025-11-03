@@ -48,3 +48,4 @@ There is not a direct restore tool for fields, however you can get your archived
 15. Click **Refresh** until the import process is completed.
 
     ![jobstatus-1](/images/platgovnetsuite/clean_up/jobstatus-1.webp)
+

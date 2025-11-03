@@ -52,3 +52,4 @@ This example stops all the daily running GUS jobs.
 ```
 Get-Schedule -JobType GUS -TriggerType RunDaily -MatchingCriteria And | Select-Object -Property Name | Stop-Schedule
 ```
+

@@ -29,3 +29,4 @@ The right of the page shows details of the RDP file settings and has the followi
   Privilege Secure Console. The default idle timeout is 10 minutes.
 - Save button (only visible when editing) — Saves changes
 - Cancel button (only visible when editing) — Discards changes
+

@@ -231,3 +231,4 @@ Administrator user name and password.
 **or**
 
 click **Next** to launch the Upgrade wizard for upgrading Directory Manager.
+

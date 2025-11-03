@@ -48,3 +48,4 @@ On a high level, the add-on works as follows:
   time, and other details.
 - Using the Integration API, the add-on sends the activity records to the Netwrix Auditor Server,
   which writes them to the Long-Term Archive and the Audit Database.
+

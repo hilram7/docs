@@ -75,3 +75,4 @@ Step 16 – Back on the SAML-based sign-on page, the Attributes & Claims card di
 used for logging in. Let’s keep the defaults.
 
 Step 17 – On the SAML Certificates card, download _Certificate (Base64)_.
+

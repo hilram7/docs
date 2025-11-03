@@ -10,3 +10,5 @@ Yes, Netwrix Endpoint Policy Manager (formerly PolicyPak) Application Manager an
 Manager Browser Router are only compatible with Firefox ESR.  Firefox RR is not compatible.
 [See this blog article](https://www.policypak.com/pp-blog/endpointpolicymanager-will-soon-only-support-firefox-esr)
 for more details.
+
+

@@ -54,3 +54,4 @@ When a protection policy is selected, the following tabs are displayed for the s
 - [Resources Tab for Protection Policies](/docs/privilegesecure/4.1/admin/interface/protectionpolicies/resources/resources.md)
 - [Allowed Members Tab for Protection Policies](/docs/privilegesecure/4.1/admin/interface/protectionpolicies/allowedmembers.md)
 - [Schedule Tab for Protection Policies](/docs/privilegesecure/4.1/admin/interface/protectionpolicies/schedule.md)
+

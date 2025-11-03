@@ -25,3 +25,4 @@ for a complete list of Metadata sorted by **Type** and by **Category**.
 | Configuration          | Data Quality settings such as Duplicate Rules, Matching Rules, and Validation Rules. Other general settings. |
 
 ![Metadata Categories documented by Strongpoint](/images/platgovsalesforce/metadata_categories.webp)
+

@@ -24,3 +24,4 @@ change and get the necessary approvals for the change to be compliant.
 6. Enter the **Resolution Description**.
 7. Once all changes are made, select **Closed** for the Status.
 8. Save the **Change Log**.
+

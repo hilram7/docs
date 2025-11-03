@@ -21,3 +21,4 @@ The Azure SQL database used to store the data is isolated from direct access. We
 that prevent database access to the API backend services running in Microsoft Entra ID.
 
 All API access happens on behalf of specific user accounts in Microsoft Entra ID.
+

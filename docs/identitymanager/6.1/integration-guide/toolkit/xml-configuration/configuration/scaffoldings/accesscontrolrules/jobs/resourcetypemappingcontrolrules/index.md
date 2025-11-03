@@ -33,3 +33,4 @@ Our example generates the following configuration:
 <AccessControlRule Identifier="Administrator_ResourceTypeMapping" DisplayName_L1="Administrator_ResourceTypeMapping" DisplayName_L2="Administrator_ResourceTypeMapping" EntityType="ResourceTypeMapping" Profile="Administrator">  <Entry CanExecute="true" Permission="/Connectors/ProvisionerResourceTypeMapping/Query" /></AccessControlRule>
 
 ```
+

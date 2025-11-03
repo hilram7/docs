@@ -75,3 +75,4 @@ for a secure connection. Click **OK** to close the Options page.
 **Step 6 –** Step 13 – Then click **OK** to close the LDAP template form wizard.
 
 The job now connects securely with TLS/SSL.
+

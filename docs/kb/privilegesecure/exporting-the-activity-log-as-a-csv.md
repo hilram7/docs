@@ -128,3 +128,4 @@ Write-Host "Export complete found $($Data.Length) records"
 
 6. Your activity data will then be output to a file called `out.csv`.  
    ![User-added image](images/ka04u000000HdD5_0EM4u000005yZ88.png)
+

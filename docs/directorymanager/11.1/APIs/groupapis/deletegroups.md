@@ -68,3 +68,4 @@ The Delete Groups API deletes multiple groups from an identity store.
     "status": 0
 }
 ```
+

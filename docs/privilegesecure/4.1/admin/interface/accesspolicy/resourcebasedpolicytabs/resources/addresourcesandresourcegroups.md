@@ -64,3 +64,4 @@ back to the Available Resources / Resource Groups table.
 
 The new resource(s) and resource group(s) are added to the access policy and are shown in the
 [Resources Tab for Resource Based Access Policies](/docs/privilegesecure/4.1/admin/interface/accesspolicy/resourcebasedpolicytabs/resources/resources.md).
+

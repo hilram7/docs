@@ -43,3 +43,4 @@ MOF file has been successfully parsed
 Storing data in the repository...
 Done!
 ```
+

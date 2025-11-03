@@ -117,3 +117,5 @@ webstore): [https://chrome.google.com/webstore/category/extensions?hl=en-US](ht
 
 **Step 7 –** Related.. If you see ONLY Chrome, and not any FORCED extensions,
 [Endpoint Policy Manager Browser Router removes other Chrome ‘force installed' extensions. How can I work around this?](/docs/endpointpolicymanager/components/browserrouter/knowledgebase/troubleshooting/forceinstall.md)
+
+

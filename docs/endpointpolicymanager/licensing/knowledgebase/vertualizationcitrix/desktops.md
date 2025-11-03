@@ -19,3 +19,4 @@ This depends on what kind of virtual desktops they are:
   From a licensing perspective, there is no difference between the two. If there's a computer
   account in Active Directory, and it's active, it counts your Endpoint Policy Manager licensing. In
   this case you may use it with Endpoint Policy Manager SaaS / Cloud.
+

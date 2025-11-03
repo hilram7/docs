@@ -20,3 +20,4 @@ This tab contains the following options:
 
 - Click **View all variables for this job** to open the `JobVariables.TSV` file containing any
   variables for the current job
+

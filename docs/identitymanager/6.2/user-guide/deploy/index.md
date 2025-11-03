@@ -43,3 +43,4 @@ sidebar_position: 50
 - [Implement Identity Manager](/docs/identitymanager/6.2/user-guide/deploy/implementation/index.md)
 
     How to actually implement Identity Manager solution.
+

@@ -51,3 +51,4 @@ Exception has been thrown by the target of an invocation.
 - Сonnection Issue when TLS 1.2 Is Required
 - [How to set up a multifunction device or application to send email using Microsoft 365 or Office 365 ⸱ Microsoft 🫝](https://learn.microsoft.com/en-us/exchange/mail-flow-best-practices/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-microsoft-365-or-office-365)
 - Tools − Netwrix Password Reset ⸱ v10.6
+

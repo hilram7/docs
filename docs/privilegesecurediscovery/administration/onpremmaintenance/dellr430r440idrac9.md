@@ -105,3 +105,4 @@ If there is any access issue:
 
 Dell’s reference article:
 [https://www.dell.com/support/article/en-us/sln306877/dell-poweredge-how-to-configure-the-idrac9-and-the-lifecycle-controller-network-ip?lang=en](https://www.dell.com/support/article/en-us/sln306877/dell-poweredge-how-to-configure-the-idrac9-and-the-lifecycle-controller-network-ip?lang=en)
+

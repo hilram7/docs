@@ -62,3 +62,4 @@ Verify that Core Service is installed globally.
 ## Related Articles
 
 - https://docs.netwrix.com/docs/auditor/10_8 (SharePoint — Permissions for SharePoint Auditing · v10.6)
+

@@ -31,3 +31,4 @@ Refer to the following topics to access Microsoft teams:
 
 - [Using Basic Authentication with MS Teams](/docs/auditor/10.6/configuration/microsoft365/teams/permissions/basicauth.md)
 - [Using Modern Authentication with MS Teams](/docs/auditor/10.6/configuration/microsoft365/teams/permissions/modernauth/modernauth.md)
+

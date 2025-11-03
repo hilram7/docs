@@ -199,3 +199,4 @@ nor a [Connection](/docs/identitymanager/saas/integration-guide/toolkit/xml-conf
 
 Still, data protection can be ensured through an
 [Connection](/docs/identitymanager/saas/integration-guide/toolkit/xml-configuration/connectors/connection/index.md) safe.
+

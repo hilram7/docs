@@ -144,3 +144,4 @@ logged in user, although this can be changed if required.
 
 If Non-Windows Authentication is enabled then additional information must be entered to define the
 non-Windows user.
+

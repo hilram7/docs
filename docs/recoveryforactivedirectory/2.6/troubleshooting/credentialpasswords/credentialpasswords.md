@@ -34,3 +34,4 @@ The backup service account for a domain controller is used to write the backup f
 controller to a network share of the destination server. It can be updated on the Forest page in the
 Recovery Console. See the [Update Domain Controller Backup Account Password](/docs/recoveryforactivedirectory/2.6/troubleshooting/credentialpasswords/serverbackupaccount.md)
 topic for additional information.
+

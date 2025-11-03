@@ -76,3 +76,4 @@ After each user has logged into the database and has been successfully migrated,
 complete.
 
 ![migration finished](/images/passwordsecure/9.2/configuration/server_manager/ecc_migration/migration-finished-en.webp)
+

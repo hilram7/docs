@@ -38,3 +38,4 @@ sidebar_position: 80
 #### Browser Extension
 
 - Passwords can now also be copied to the clipboard if no URL is stored.
+

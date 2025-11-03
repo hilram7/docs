@@ -115,3 +115,4 @@ There are three tag types that can be used to assist in the cleanup:
   term “E.ON” is a useful one for people interested in energy companies. However, this term would
   not normally be created because a full stop normally acts as a term separator. However, if we
   create an INDEX TERM for this pattern then it will be detected and indexed as required.
+

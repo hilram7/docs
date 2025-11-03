@@ -18,3 +18,4 @@ The ADActivity Data Collector Category page contains three query categories:
   troubleshooting. When this option is selected, the next wizard page is the Summary page. See the
   [Clear ADActivity Tables](/docs/accessanalyzer/11.6/admin/datacollector/adactivity/cleartables.md)
   topic for more information.
+

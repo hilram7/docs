@@ -16,3 +16,4 @@ Opens tickets in ServiceNow for the manual provisioning.
 | Fulfill                 | Usercube-Fulfill-ToServiceNowTicket.dll and Usercube-ServiceNowTicket-UpdateFulfillmentState.dll |
 | Has Incremental Mode    | False                                                                                            |
 | Publisher               | Usercube                                                                                         |
+

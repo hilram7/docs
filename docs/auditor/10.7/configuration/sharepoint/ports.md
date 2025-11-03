@@ -22,3 +22,4 @@ inbound connections to local 137 UDP port.
 | 137 138 445 | UDP      | Netwrix Auditor Server | Windows Server running FrontEnd Server   | Network Traffic Compression Service installation                 |
 | 139 445     | TCP      | Netwrix Auditor Server | Windows Server running FrontEnd Server   | Network Traffic Compression Service installation                 |
 | Custom port | TCP      | Netwrix Auditor Server | Central Administration – FrontEnd Server | HTTP/ HTTPS Used to connect to SharePoint Central Administration |
+

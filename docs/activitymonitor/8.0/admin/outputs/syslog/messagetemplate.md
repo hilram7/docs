@@ -207,3 +207,4 @@ the Syslog message template:
 | SharePoint                                              | %WEB_APPLICATION_NAME%         | Title of the SharePoint Web Application                                                                                                    |
 | SharePoint SharePoint Online                            | %WEB_TITLE%                    | Title of the Site Collection                                                                                                               |
 | SharePoint Online                                       | %WORKLOAD%                     | Office 356 service where the activity occurred                                                                                             |
+

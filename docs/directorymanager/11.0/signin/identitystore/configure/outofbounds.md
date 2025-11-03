@@ -163,3 +163,4 @@ Smart Group Update schedule responsible for updating the respective group.
 
 - [Manage Dynasty Settings](/docs/directorymanager/11.0/signin/identitystore/configure/dynastysettings.md)
 - [Smart Group Update Schedule](/docs/directorymanager/11.0/signin/schedule/smartgroupupdate.md)
+

@@ -51,3 +51,4 @@ Alternative (less secure):
 - **Dev Ticket:** 38299
 - **Resolved In Version:** N/A for Netwrix, requires settings change on Win2019 box or NetApp device
 - **KB Type:** Known Issue
+

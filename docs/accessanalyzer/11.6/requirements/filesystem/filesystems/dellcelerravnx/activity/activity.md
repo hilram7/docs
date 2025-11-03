@@ -63,3 +63,4 @@ Instructions for each item of the checklist are detailed within the following se
       window within the Activity Monitor Console
 
 Checklist Item 5: Configure Dell CEE to Forward Events to the Activity Agent
+

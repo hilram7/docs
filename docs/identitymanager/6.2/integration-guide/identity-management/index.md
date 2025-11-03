@@ -36,3 +36,4 @@ Additional interesting parts of identity management are:
 See the [Synchronization](/docs/identitymanager/6.2/integration-guide/synchronization/index.md) topic for additional information.
 
 See the [Provisioning](/docs/identitymanager/6.2/integration-guide/provisioning/index.md) topic for additional information.
+

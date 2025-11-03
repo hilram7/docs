@@ -32,3 +32,4 @@ A simple Wizard UI walks you through the process so anyone can be building their
 baseline configuration and comparing other devices within a few minutes.
 
 ![baselineoverview](/images/changetracker/8.1/baseline/baselineoverview.webp)
+

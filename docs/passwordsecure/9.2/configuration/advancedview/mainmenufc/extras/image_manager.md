@@ -73,3 +73,4 @@ The following conditions must be met for icons/logos to be uploaded and saved ac
 - The maximum size of an image file is 100 MB.
 - Supported formats are png, jpg, bmp, ico, .svg
 - Several search values can be separated by a comma (“Netflix.de, Netflix.com”).
+

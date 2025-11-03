@@ -16,3 +16,4 @@ The table has the following columns:
 - Members — List of accounts with group membership
 
 The table columns can be resized and sorted in ascending or descending order.
+

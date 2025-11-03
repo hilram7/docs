@@ -82,3 +82,4 @@ sidebar_position: 10
 - [Script](/docs/directorymanager/11.0/welcome/synchronize/dtmscript/dtmscript.md)
 - [Visual Basic .NET for GroupID](/docs/directorymanager/11.0/welcome/synchronize/dtmscript/visualbasicnetbasic.md)
 - [Sample Transform Scripts](/docs/directorymanager/11.0/welcome/synchronize/dtmscript/sampletransformscript.md)
+

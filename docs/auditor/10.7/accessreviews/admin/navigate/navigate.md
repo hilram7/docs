@@ -62,3 +62,4 @@ who has access to it:
 | Resource Owners     | Manage resource ownership by assigning owners to resources and requesting ownership confirmation.                                 | **Resource Owners** tab                                        | Administrator role Security Team role |
 | Entitlement Reviews | Create and manage reviews.                                                                                                        | **Entitlement Reviews** tab                                    | Administrator role Security Team role |
 | My Reviews          | View and process pending reviews. Also view historical reviews.                                                                   | **My Reviews** tab Direct from login for owners without a role | Assigned Resource Owners              |
+

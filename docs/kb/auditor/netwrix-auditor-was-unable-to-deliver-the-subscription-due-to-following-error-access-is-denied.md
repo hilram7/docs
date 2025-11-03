@@ -36,3 +36,4 @@ When you select the **Upload to a file share** option in the **create\edit subsc
 - For Search-based and Risk Assessment reports, Netwrix uses a Local System account, regardless of which account was specified for LTA.
 
 As a result, with different types of subscriptions and a custom LTA account, you must give access to the share to two accounts at once: the computer account of the Netwrix server and the LTA account.
+

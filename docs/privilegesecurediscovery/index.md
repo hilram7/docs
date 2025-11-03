@@ -16,3 +16,4 @@ accounts and manage them with a single click. Users then self-administer privile
 access to only the right resource, at the right moment and for the length of time they need to
 complete their job. This approach eliminates standing privileges, effectively preventing lateral
 movement attacks, and significantly reducing an organization’s attack surface.
+

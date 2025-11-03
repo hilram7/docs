@@ -32,3 +32,4 @@ can be downloaded that contains only data for the selected enumeration.
 ![Group by loading data](/images/accessanalyzer/12.0/admin/report/interactivegrids/groupbyloadingdata.webp)
 
 When grouping data, interactive grids display the percentage of data that has loaded on the page.
+

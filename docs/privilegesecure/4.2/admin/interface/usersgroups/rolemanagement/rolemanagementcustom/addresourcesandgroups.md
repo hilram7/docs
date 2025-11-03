@@ -47,3 +47,4 @@ Groups table.
 **Step 5 –** Click **Add** to add one or more Resources or Resource Groups.
 
 The new resource(s) and resource group(s) are added to the custom role.
+

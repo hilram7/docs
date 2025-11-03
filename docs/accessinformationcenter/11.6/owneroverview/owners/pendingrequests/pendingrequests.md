@@ -58,3 +58,4 @@ The buttons at the bottom enable you to perform the following actions:
 
 Once a request has been processed , it is moved from the Pending Request page to the
 [Access Request History](/docs/accessinformationcenter/11.6/owneroverview/owners/requesthistory.md).
+

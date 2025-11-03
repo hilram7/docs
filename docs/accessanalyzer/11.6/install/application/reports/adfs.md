@@ -137,3 +137,4 @@ Reports URL for ADFS:
 **Step 3 –** Click **Apply**. Exit the window.
 
 The Published Reports URL is now configured for ADFS.
+

@@ -54,3 +54,4 @@ It can happen due to several reasons but the most common reasons for this error 
    - Make sure you are able to browse to the Netwrix Password Reset Self-service portal without any warnings. Please refer to [this article](https://kb.netwrix.com/610) if there are warnings.
    - Make sure that SSL settings for PM virtual directory are set to **Ignore client certificates**  
    ![User-added image](./images/ka04u00000116c4_0EM7000000050oO.png)
+

@@ -22,3 +22,4 @@ To manually run the standard field impact analysis tool:
 3. Click **Run**.
 4. Customizations using standard fields are listed in the results.
    ![impactanalysisresults](/images/platgovnetsuite/tools/impactanalysisresults.webp)
+

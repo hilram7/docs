@@ -44,3 +44,4 @@ You can specify default values for the following GroupID metadata:
 
     The new certificate is displayed in the **Signing Certificate** box on the **Settings** page and
     also on the **Create Application** page.
+

@@ -31,3 +31,4 @@ Using Directory Manager portal, you can create:
     - A Dynasty is a Smart Group that creates and manages other Smart Groups using information in
       the directory. Dynasties help you manage large distribution lists by creating hierarchical
       group structures that represent your organization’s hierarchy.
+

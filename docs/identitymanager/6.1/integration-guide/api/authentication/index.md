@@ -30,3 +30,4 @@ for the Usercube application hosted on `usercube.mycompany.com` must use
 endpoints.
 
 The scope to access to the Usercube API is `usercube_api`.
+

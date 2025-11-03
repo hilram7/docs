@@ -22,3 +22,4 @@ Schedule these jobs to run with the 0.Collection job group.
   within the environment being compromised
 - [AD_ServiceAccountAuth Job](/docs/accessanalyzer/12.0/solutions/activedirectory/activity/privilegedaccounts/ad_serviceaccountauth.md) – Shows the last time a service account,
   identified by the presence of a servicePrincipalName, was active within the environment
+

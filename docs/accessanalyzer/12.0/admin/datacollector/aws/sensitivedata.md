@@ -56,3 +56,4 @@ Configure the following options:
 - Number of SDD scan processes [number] – Increases the number of SDD scanner processes that spawn
   as part of a scan, increasing parallel scanning. The value should not exceed 2x the number of CPU
   threads available.
+

@@ -226,3 +226,4 @@ database.
 were made. Then click **OK** to close the Query Properties window.
 
 If changes were made, the **1-SEEK System Scans** Job has now been customized.
+

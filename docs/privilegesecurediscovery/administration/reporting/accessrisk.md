@@ -75,3 +75,4 @@ standing privilege.
 ## Appendix
 
 This feature requires at least version 2.12.0.
+

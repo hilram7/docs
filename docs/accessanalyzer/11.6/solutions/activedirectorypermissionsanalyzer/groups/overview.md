@@ -18,3 +18,4 @@ The jobs in the 2.Groups Job Group are:
   targeted domains
 - [AD_GroupPermissions Job](/docs/accessanalyzer/11.6/solutions/activedirectorypermissionsanalyzer/groups/ad_grouppermissions.md)
   – Reports on all Active Directory permissions applied to group objects within the targeted domains
+

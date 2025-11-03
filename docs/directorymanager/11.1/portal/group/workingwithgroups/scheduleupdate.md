@@ -170,3 +170,4 @@ A member of administrator role has created a Smart Group named QDGroup1.
       modify the query of the group.
     - Similarly, if the group has been created using the user object and in your role policy the
       user object is not available, upon group update an error will be displayed.
+

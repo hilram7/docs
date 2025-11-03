@@ -128,3 +128,4 @@ In this way, you can create a chain of links between identity stores.
 
 - [Identity Stores](/docs/directorymanager/11.0/signin/identitystore/overview.md)
 - [Manage Identity Store Links](/docs/directorymanager/11.0/signin/identitystore/link/manage.md)
+

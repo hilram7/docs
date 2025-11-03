@@ -229,3 +229,4 @@ The process of assignment automation is the following:
     > membership to all workers in Marseilles, while there are also workers from other departments.
 
 4. Repeat.
+

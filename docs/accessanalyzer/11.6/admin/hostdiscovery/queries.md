@@ -52,3 +52,4 @@ Follow the steps to view the hidden columns in the table:
 ![Host Discovery Queries table with column added](/images/accessanalyzer/11.6/admin/hostdiscovery/querieshiddencolumnadded.webp)
 
 The header is now present in the table.
+

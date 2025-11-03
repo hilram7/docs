@@ -383,3 +383,4 @@ better control of the data inside the network. These policies are available for 
 or Linux computers.
 
 ![HIPAA policies can be created and used on their own or in combination with regular policies](hipaapolicies.webp)
+

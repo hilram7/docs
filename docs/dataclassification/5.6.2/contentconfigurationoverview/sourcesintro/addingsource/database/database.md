@@ -37,3 +37,4 @@ Complete the following fields:
 After the source configuration is completed, you will be prompted to lauch SQL crawling
 configuration wizard.
 [See Database Configuration Wizard for more information.](/docs/dataclassification/5.6.2/contentconfigurationoverview/sourcesintro/addingsource/database/database_config_wizard.md)
+

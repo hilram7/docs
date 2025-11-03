@@ -23,3 +23,4 @@ Follow the steps to exclude data from the Event Log monitoring scope:
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
 | OmitErrorsList.txt | Contains a list of data collection errors and warnings to be excluded from the Netwrix Auditor System Health event log. | `Error text`                                             |
 | omitServerList.txt | Contains a list of server names or servers IP addresses to be excluded from processing.                                 | `ip address` or `server name` For example: `192.168.3.*` |
+

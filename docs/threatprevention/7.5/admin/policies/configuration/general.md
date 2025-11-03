@@ -79,3 +79,4 @@ The schedule can be set or modified in one of the following ways:
 - Click a time-block in the All row to toggle between active and inactive for an entire column (for
   all days of the week).
 - Click the name of a day to toggle between active and inactive for an entire row (for a full day).
+

@@ -220,3 +220,4 @@ section contains special considerations when leveraging virtualization.
 
     - In the server requirements, when separate disks are required for the servers, that should
       translate to separate data stores on the VM host machine.
+

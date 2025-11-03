@@ -47,3 +47,4 @@ In order to troubleshoot the issue please perform the following steps:
 4. Try to connect to services remotely while logged in as the service account (`services.msc`)
    - This can be done by opening **Services** and right-clicking **Services (Local)** then select "Connect to Another Computer"
 5. Try to re-install the agent on the target server with the `UACoreSvcSetup.msi` found in the install path on the Netwrix Host (default path: `C:\Program Files (x86)\Netwrix Auditor\User Activity Video Recording`)
+

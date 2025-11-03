@@ -39,3 +39,4 @@ Select the desired review instance from the drop-down menu on the Review Details
 **CAUTION:** This will delete all historical data associated to the selected review instance.
 
 Click **Yes** to complete the deletion. Click **No** to cancel it. The Delete Review window closes.
+

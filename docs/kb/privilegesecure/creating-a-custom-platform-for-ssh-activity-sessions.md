@@ -48,3 +48,4 @@ Platforms in SbPAM can be customized to meet specific SSH Activity Session workf
 5. Navigate to the **Access Policy** page, create a new resource-based Access Policy that includes SbPAM users, the new Activity created above, and the new Resource manually added above.
 
 6. Navigate to **My Activities** as an SbPAM user in the Access Policy, and you will be able to launch an SSH Activity Session for the Palo Alto resource.
+

@@ -117,3 +117,4 @@ dialog, open the **Auditing** tab.
         ![manualconfig_objectlevel_winserver2016](/images/1secure/configuration/ad/manualconfig_objectlevel_winserver2016.webp)
 
     6. Click **Ok**.
+

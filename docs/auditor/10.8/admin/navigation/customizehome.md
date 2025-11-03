@@ -74,3 +74,4 @@ Follow the steps to restore the default Home Screen view.
 **Step 2 –** Click Restore default.
 
 Your configuration and data will be preserved during this operation.
+

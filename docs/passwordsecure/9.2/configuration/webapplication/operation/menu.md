@@ -91,3 +91,4 @@ will be described in the next section:
 The functions of the
 [Password Reset](/docs/passwordsecure/9.2/configuration/advancedview/clientmodule/passwordreset/password_reset.md) can be found
 here.
+

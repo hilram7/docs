@@ -28,3 +28,4 @@ the sources.
 | --banking-sql-path required  | **Type** String **Description** Specifies the path to the folder containing the `BankingSystemTables.sql` file. **Example** Set path to `C:/SDK/DemoApps/Banking`: `--connection-string "data source=.;Database=BankingSystem;"`.         |
 | --connection-string required | **Type** String **Description** Specifies the connection string of the `BankingSystem` database. **Example** Set the connection string's data source to the local machine: `--connection-string "data source=.;Database=BankingSystem;"`. |
 | --sources-path required      | **Type** String **Description** Specifies the path to the banking sources folder. **Example** Set path to `C:/SDK/DemoApps/Sources`: `--sources-path C:/SDK/DemoApps/Sources`.                                                            |
+

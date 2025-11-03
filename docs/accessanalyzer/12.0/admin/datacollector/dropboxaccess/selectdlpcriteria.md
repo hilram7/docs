@@ -23,3 +23,4 @@ Use the **Edit** button to access the Criteria Editor where user-defined criteri
 customized. See the
 [Sensitive Data Criteria Editor](/docs/accessanalyzer/12.0/sensitivedatadiscovery/criteriaeditor/overview.md) topic
 for additional information.
+

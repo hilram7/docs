@@ -48,3 +48,4 @@ on the type of host selected:
   — NetApp devices, Dell devices, and Nasuni Edge Appliances only
 - [Windows Tab](/docs/activitymonitor/7.1/admin/monitoredhosts/properties/windows.md)
   — Windows hosts only
+

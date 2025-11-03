@@ -63,3 +63,4 @@ want to deploy the Endpoint Protector client and then click Next;
 package upload.
 
 ![Initiating the Endpoint Protector Package MSI upload](reviewpage.webp)
+

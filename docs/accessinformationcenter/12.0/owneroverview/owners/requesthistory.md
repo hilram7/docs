@@ -75,3 +75,4 @@ The buttons at the bottom enable you to perform the following actions:
 | Button     | Description                                                                                                                                                           |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | View Notes | Opens the View Notes window for the selected request. Clicking on the Notes icon in the table will also open the View Notes window. Click **OK** to close the window. |
+

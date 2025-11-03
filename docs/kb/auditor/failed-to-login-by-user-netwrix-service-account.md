@@ -51,3 +51,4 @@ Check **sysadmin** role to give full access to the netwrix service account
 
 <!-- Image not available: ka04u000000HcSZ_0EM700000006XVD.png -->
 *Screenshot: Check sysadmin role for the service account*
+

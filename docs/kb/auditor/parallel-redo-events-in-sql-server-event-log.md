@@ -68,3 +68,4 @@ Disable the AUTO_CLOSE option for the affected database:
 
 - Set the AUTO_CLOSE Database Option to OFF ⸱ Microsoft 🤝  
   https://learn.microsoft.com/en-us/sql/relational-databases/policy-based-management/set-the-auto-close-database-option-to-off?view=sql-server-ver16#for-more-information
+

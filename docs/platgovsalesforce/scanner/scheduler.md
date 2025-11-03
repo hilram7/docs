@@ -22,3 +22,4 @@ To use the scheduler tool:
    button, automation is turned on and saved by toggling **Disabled**/**Enabled**.
 3. Select the **Frequency** , **Day** and **Time**. Your selections are automatically saved.
 4. Click any menu item to close the **Scheduler**.
+

@@ -43,3 +43,4 @@ The link you are using to connect to the Virtual Center server or ESX(i) host is
 Where `VirtualCenterServer` is the network name or IP address of the Virtual Center server or ESX(i) host you are connecting to.
 
 **Note**: The port number is not needed!
+

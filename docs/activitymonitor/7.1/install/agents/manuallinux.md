@@ -121,3 +121,4 @@ Agent Properties.
 
 **Step 9 –** Specify Linux account credentials (to be able to install, upgrade, and uninstall
 agent). Click **Test** to verify. Then press **OK** to save changes.
+

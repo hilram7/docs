@@ -26,3 +26,4 @@ Review the following for additional information:
 | Store trimmed classifications to improve reclassification performance?        | Enable to store trimmed classifications to SQL database (trimmed due to the maximum number of classifications being hit for a document). This improves classification performance, however, this may lead to additional data in the SQL database.                                                                                                                                                                                                          |
 
 Proceed with adding taxonomies.
+

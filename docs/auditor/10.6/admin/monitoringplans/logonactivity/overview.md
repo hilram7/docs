@@ -48,3 +48,4 @@ Complete the following fields:
 See the
 [Permissions for Logon Activity Auditing ](/docs/auditor/10.6/configuration/logonactivity/permissions.md)
 topic for additional information.
+

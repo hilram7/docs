@@ -46,3 +46,4 @@ You can configure your IT Infrastructure for monitoring in one of the following
           Open **Administrative Tools** > **Services**, right-click the **Secondary Logon** service
           and on the **General** tab make sure that Startup type for this service is other than
           _Disabled_.
+

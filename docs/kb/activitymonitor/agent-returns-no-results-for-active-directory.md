@@ -52,3 +52,4 @@ Endpoint protection is hiding the `LSASS.exe` process from `SIWindowsAgent.exe` 
 
 * [Installation — Antivirus Software Considerations](https://docs.netwrix.com/docs/threatprevention/7_5/install/overview#antivirus-software-considerations)
 * [Configuring Additional LSA Protection](https://docs.microsoft.com/en-us/windows-server/security/credentials-protection-and-management/configuring-additional-lsa-protection)
+

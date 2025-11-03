@@ -24,3 +24,4 @@ The options on the Category page are:
 
     - Drop AWS DC Tables – Removes AWS data collector data and tables from the Access Analyzer
       database. See the [Drop AWS Tables](/docs/accessanalyzer/12.0/admin/datacollector/aws/droptables.md) topic for additional information.
+

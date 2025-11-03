@@ -47,3 +47,4 @@ Site collection %URL% cannot be found.
 - Cause #2
   1. In SharePoint Central Administration, navigate to **Application Management** > **Configure Quotas and Locks**.
   2. Select **%affected_collection%** and change the status to **Not locked**.
+

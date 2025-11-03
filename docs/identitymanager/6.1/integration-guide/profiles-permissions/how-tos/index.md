@@ -13,3 +13,4 @@ These guides will help you set up profiles and permissions with practical step-b
     automatically.- ####
     [Restrict Users' Rights](/docs/identitymanager/6.1/integration-guide/profiles-permissions/how-tos/rightsrestriction/index.md)
     Define rules to limit users' access rights.
+

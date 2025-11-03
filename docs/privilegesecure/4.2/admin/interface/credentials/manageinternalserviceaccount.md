@@ -54,3 +54,4 @@ The selected account will now display the following options.
 - Information icon — Opens the View Password window to view the password and copy it to the
   clipboard. The window stays open for 20 seconds. See the [View Password Window](/docs/privilegesecure/4.2/admin/interface/credentials/viewpassword.md)
   topic for additional information.
+

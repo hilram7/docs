@@ -1920,3 +1920,4 @@ Deletes the specified policy.
 Permission: `Policy change`
 
 **Response: 204**
+

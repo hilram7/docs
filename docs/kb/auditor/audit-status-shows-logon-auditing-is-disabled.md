@@ -78,3 +78,4 @@ In order to do this:
 4. In the Account Lockout Examiner console go to **File - Settings** and click **OK** to apply registry changes.
 
 ![User-added image](images/ka04u000000HcRc_0EM700000004wxM.png)
+

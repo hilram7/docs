@@ -28,3 +28,4 @@ permissions?**
 NOTE: Inheritance from organisational structures is defined by default in the system. This can be
 configured in the settings. The relevant setting is “Inherit permissions for new objects (without
 permission template)”.
+

@@ -31,3 +31,5 @@ In Windows Explorer, if you check the NTFS permissions of the folder, it should 
 the screen shot below:
 
 ![1321_3_5273a796cdc192f102e32fc389f6bbfc](/images/endpointpolicymanager/troubleshooting/leastprivilege/1321_3_5273a796cdc192f102e32fc389f6bbfc.webp)
+
+

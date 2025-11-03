@@ -195,3 +195,4 @@ Directory Manager provides three security types:
 - Public - to allow all users to access the group. Users can join or leave the group at will and do
   not require any permissions to do so. The administrator can configure email notifications to be
   sent to the group owner when a user joins or leaves the group.
+

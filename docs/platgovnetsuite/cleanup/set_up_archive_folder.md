@@ -46,3 +46,4 @@ To assign the internal ID to a deployed script:
     ![scripts-3](/images/platgovnetsuite/clean_up/scripts-3.webp)
 
 The archiving function on Change Requests is now set up and ready to use.
+

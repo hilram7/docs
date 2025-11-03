@@ -44,3 +44,4 @@ To disable the policy, please perform the following steps:
 1. Select **Start -> Run** and type `rsop.msc`.
 2. In the Resultant Set of Policy dialog, navigate to **Computer Configuration -> Windows Settings -> Security Settings -> Local Policies -> Security Options**.
 3. Select the policy on the right and change the Source GPO accordingly.
+

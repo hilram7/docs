@@ -34,3 +34,4 @@ display local time stamps. Activity information is represented in two ways:
   of Reads, Writes, Deletes, and Manages.
 - Activity Details – Details reports show the specific operation events that occurred for the
   selected resource within the selected date range
+

@@ -68,3 +68,4 @@ multiple user roles. All users belonging to the selected role(s) can view the re
 The duplicated investigation is saved to the selected folder, and the folder expands in the
 navigation pane to display the saved item. You can access the investigation from the navigation
 pane.
+

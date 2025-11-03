@@ -83,3 +83,4 @@ already exist.
 You will then be offered the option of creating this previously non-existent tag.
 
 ![Mobileapp - select/create tag](/images/passwordsecure/9.2/configuration/mobiledevices/passwords/select-tag-ma-en.webp)
+

@@ -27,3 +27,4 @@ The overview section shows information for the following:
   topic for additional information.
 
 The table shows information on the selected activity session.
+

@@ -26,3 +26,4 @@ This sales-focused course is specifically tailored for Managed Service Providers
 * Recognize prospects for <N1S /> DSPM and be prepared to conduct a discovery session
 
 Estimated length: 1.5 hours
+

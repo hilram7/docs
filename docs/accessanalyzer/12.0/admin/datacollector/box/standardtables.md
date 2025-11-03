@@ -38,3 +38,4 @@ Data Collector:
 | SA_Box_ExternalUsersView  | Displays external user activity which has occurred over the past 30 days                                     |
 | SA_Box_GroupMembersView   | Displays all of the users, which groups they are members of, and the access type on the group                |
 | SA_Box_ResourceEventsView | Displays all of the events, which users created it, the source of that event, and the name and type of event |
+

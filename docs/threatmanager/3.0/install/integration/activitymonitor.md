@@ -20,3 +20,4 @@ Threat Manager and then use that app token to configure the domain’s output to
 The Threat Manager DC Sync threat is sourced by the Activity Monitor's Replication AD monitoring
 configuration. It is necessary for it to be configured to exclude domain controllers on the Host
 (From) filter.
+

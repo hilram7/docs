@@ -35,3 +35,4 @@ When you review `.zip` files in the Netwrix Data Classification interface you ma
 ## Resolution
 
 To extract text from a `.zip` file Netwrix Data Classification uses **ifilters**. For `.zip` files, [this filter pack](https://download.microsoft.com/download/0/A/2/0A28BBFA-CBFA-4C03-A739-30CCA5E21659/FilterPack64bit.exe) must be installed on the NDC server (or each server in a DQS cluster).
+

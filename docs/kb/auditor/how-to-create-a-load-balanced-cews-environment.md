@@ -75,3 +75,4 @@ Set-SPEnterpriseSearchContentEnrichmentConfiguration -SearchApplication $ssa -Co
 - Ensure that the service account used for the shared `conceptDB` has the necessary permissions on all servers.
 - Confirm that the application pools and identities are consistent across servers to avoid permission or configuration mismatches.
 - Verify connectivity from SharePoint (or other consumers) to the load balancer endpoint after configuration.
+

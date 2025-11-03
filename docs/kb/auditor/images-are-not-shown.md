@@ -41,3 +41,4 @@ To address the issue, enable the **Static content** feature within IIS.
 
 1. Navigate to **Server Manager - Roles - Web server**, find the Role services in the right pane, click **Add role services**.  
 2. Enable **Static content** under **Common HTTP Features**.
+

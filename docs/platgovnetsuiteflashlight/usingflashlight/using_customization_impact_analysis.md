@@ -26,3 +26,4 @@ To access the Customization Quick Search:
 
 4. Click on **View** to navigate to the customization record to understand the impact and the
    dependencies for each customizations.
+

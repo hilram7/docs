@@ -16,3 +16,4 @@ The configurable options are:
   example of the style shows in the Sample box at the bottom of the wizard.
 - Hide and Lock Previous Responses – Select the checkbox to prevent users from changing their survey
   responses once they exit the survey
+

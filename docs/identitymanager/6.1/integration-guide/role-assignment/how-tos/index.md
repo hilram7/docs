@@ -15,3 +15,4 @@ These guides will help you configure role assignment with practical step-by-step
     Assign several single roles via the assignment of one composite role.- ####
     [Configure Indirect Permissions ](/docs/identitymanager/6.1/integration-guide/role-assignment/how-tos/configureindirectpermissions/index.md)
     Define indirect resource rules to use indirect permissions in Usercube.
+

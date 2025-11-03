@@ -76,3 +76,4 @@ Policy Exit Points allow you to monitor and control the transfer of sensitive da
 - **Adobe Flash:** Select Adobe Flash Player from the Web Browser category to block sites using Adobe Flash Active X.
 - **OneDrive for Business:** Enable Deep Packet Inspection (DPI) to distinguish from OneDrive.
 - **Block CD/DVD Burning:** Available only for Windows, for both built-in and third-party burning features.
+

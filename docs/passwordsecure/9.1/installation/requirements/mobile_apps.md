@@ -18,3 +18,4 @@ rooted).
 | iOS (Apple)      | 17.7.1  | 18.1        |
 | iPadOS (Apple)   | 17.7.1  | 18.1        |
 | Android (Google) | 13      | 15          |
+

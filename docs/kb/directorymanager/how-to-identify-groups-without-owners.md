@@ -49,3 +49,4 @@ This article shows how to use the Reports module in Netwrix Directory Manager 11
    ![Report Generation wizard with LDAP query field](images/ka0Qk000000Dxof_0EMQk00000BSXh5.png)
 
 6. Complete the wizard. The generated report will show groups that do not have a primary owner or additional owners.
+

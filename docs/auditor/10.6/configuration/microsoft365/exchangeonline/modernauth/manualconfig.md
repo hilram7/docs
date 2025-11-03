@@ -160,3 +160,4 @@ Where `path_to_certificate` is the full path to the certificate file.
 You can also install the certificate with the '.cer' extension to the Microsoft Entra ID Portal or
 Netwrix Auditor will set it automatically during establishing a PowerShell connection with Exchange
 Online.
+

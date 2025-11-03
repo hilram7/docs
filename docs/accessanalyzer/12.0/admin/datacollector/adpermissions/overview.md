@@ -42,3 +42,4 @@ category selected:
 - [ADPermissions: Options](/docs/accessanalyzer/12.0/admin/datacollector/adpermissions/options.md)
 - [ADPermissions: Results](/docs/accessanalyzer/12.0/admin/datacollector/adpermissions/results.md)
 - [ADPermissions: Summary](/docs/accessanalyzer/12.0/admin/datacollector/adpermissions/summary.md)
+

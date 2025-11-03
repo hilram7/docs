@@ -105,3 +105,4 @@ these groups:
 - Windows — Contains all resources with **Windows** assigned as the Platform. This value is
   determined during initial onboarding of the resource, or can be configured manually on the
   Resource after it has been onboarded.
+

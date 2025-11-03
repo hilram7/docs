@@ -125,3 +125,4 @@ section on the **Create New Provider** page.
 
 6. With all configurations completed, click the **Create Provider** button. The identity provider,
    i.e., AD FS, is created and displayed on the **SAML Providers** page.
+

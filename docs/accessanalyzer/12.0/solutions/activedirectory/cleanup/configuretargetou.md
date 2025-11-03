@@ -27,3 +27,4 @@ OU field, enter or browse to the desired target OU. To create the target OU loca
 **Step 5 –** Navigate to the Summary page and click **Finish**.
 
 The target OU is now set for the action task.
+

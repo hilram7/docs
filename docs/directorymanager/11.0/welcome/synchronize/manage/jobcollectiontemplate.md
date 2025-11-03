@@ -141,3 +141,4 @@ that match the criteria set in the **Search Filters** section.
 - [Create a Job Collection ](/docs/directorymanager/11.0/welcome/synchronize/create/create_1.md)
 - [Manage a Job Collection ](/docs/directorymanager/11.0/welcome/synchronize/manage/jobcollection.md)
 - [Synchronize Schedule](/docs/directorymanager/11.0/signin/schedule/synchronize.md)
+

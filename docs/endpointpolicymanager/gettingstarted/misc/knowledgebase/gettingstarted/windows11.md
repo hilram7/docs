@@ -128,3 +128,4 @@ No particular Windows 11 changes or incompatibilities.
 If you were to use an older CSE you shouldn't see any incompatibilities or any differences.
 
 That being said, we always recommend you use the latest CSE, as fixes and updates occur regularly.
+

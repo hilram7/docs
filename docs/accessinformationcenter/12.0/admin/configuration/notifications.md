@@ -140,3 +140,4 @@ After the settings are saved, a re-authentication is required to continue using 
 Information Center. Assigned resource owners now receive weekly reminders of pending events. The
 **Notifications were last sent on** field will populate with the date timestamp for when the last
 set of reminders were sent.
+

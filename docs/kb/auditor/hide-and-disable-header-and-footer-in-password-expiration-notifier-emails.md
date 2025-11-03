@@ -53,3 +53,4 @@ To further customize Netwrix Password Reset emails, refer to the following artic
 
 - [Customize Notifications and Reports in Netwrix Password Reset](/docs/kb/auditor/customize-notifications-and-reports-in-password-expiration-notifier.md)
 - [Netwrix Password Reset Email Header and Footer Reset After Upgrade](/docs/kb/auditor/password-expiration-notifier-email-header-and-footer-reset-after-upgrade.md)
+

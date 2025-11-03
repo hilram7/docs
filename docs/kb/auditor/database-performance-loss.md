@@ -34,3 +34,4 @@ This is a standard overhead inherent in any change auditing systems. This overhe
 ## Recommendation
 
 To reduce the SQL Server performance impact, specify the exact databases where you want to track data changes, with exact tables for these databases.
+

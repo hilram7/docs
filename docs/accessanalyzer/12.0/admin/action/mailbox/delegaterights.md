@@ -46,3 +46,4 @@ Set delegate rights using the following options:
   folders of the selected folders
 - Delegate can see my private items – Select the checkbox to allow a delegate to access your
   personal items of the selected folders
+

@@ -168,3 +168,4 @@ the following job groups and jobs:
   – Provides an overview of the SharePoint environment, providing a high level view into what makes
   up your SharePoint environment and the types of security risks and toxic permissions found during
   scans
+

@@ -14,3 +14,4 @@ sidebar_position: 60
 - [Entity Type](/docs/identitymanager/6.2/integration-guide/toolkit/xml-configuration/metadata/entitytype/index.md)
 - [Language](/docs/identitymanager/6.2/integration-guide/toolkit/xml-configuration/metadata/language/index.md)
 - [Settings](/docs/identitymanager/6.2/integration-guide/toolkit/xml-configuration/metadata/settings/index.md)
+

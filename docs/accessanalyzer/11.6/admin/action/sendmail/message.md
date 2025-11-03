@@ -83,3 +83,4 @@ window displays after clicking the **Preview** button.
 
 - Blue arrow buttons – Click to view other recipients
 - Send – Sends a single message to the addresses in the Recipients field
+

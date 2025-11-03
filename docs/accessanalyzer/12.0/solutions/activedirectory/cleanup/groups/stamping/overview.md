@@ -17,3 +17,4 @@ The jobs in the 2. Group Stamping Job Group are:
   groups are being used to assign permissions
 - [AD_GroupStamping Job](/docs/accessanalyzer/12.0/solutions/activedirectory/cleanup/groups/stamping/ad_groupstamping.md) – Updates the Note attribute for all security groups
   to show where the group is provisioned inside of the environment
+

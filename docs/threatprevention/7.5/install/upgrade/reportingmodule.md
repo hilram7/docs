@@ -71,3 +71,4 @@ starting at Step 2.
 
 Threat Manager Reporting is upgraded from 2.8 to 3.0. Remember to clear your web browser's cache
 after the upgrade.
+

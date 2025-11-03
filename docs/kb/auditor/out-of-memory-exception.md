@@ -34,3 +34,4 @@ The issue is that the Netwrix server may be running out of memory, or a newer bu
 
 1. Increase the memory on the Netwrix server.
 2. Contact **Netwrix technical support** to check for a newer version.
+

@@ -16,3 +16,4 @@ you will provide this account in the monitoring plan wizard.
   **Administrators** or **Domain Admins** group
 - Otherwise, if the server is not a domain controller, the account must belong to the **Local
   Administrators** group.
+

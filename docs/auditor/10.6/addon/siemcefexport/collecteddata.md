@@ -16,3 +16,4 @@ CEF-formatted string:
 `CEF:0|Netwrix|Active Directory|1.0|Added|Added user|0|shost=enterprisedc.enterprise.local cat=user suser=enterprise\\administrator filePath=\\local\\enterprise\\users\\newuser start=Mar 28 2017 14:01:48`
 
 Now you can feed your SIEM solutions with data collected by Auditor.
+

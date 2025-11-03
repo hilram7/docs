@@ -47,3 +47,4 @@ Email delivery to recipient %recepient% failed.
 ## Related articles
 
 - https://docs.netwrix.com/docs/auditor/10_8 Auditor Settings − Notifications · v10.6)
+

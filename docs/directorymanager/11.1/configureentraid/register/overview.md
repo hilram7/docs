@@ -29,3 +29,4 @@ Directory Manager requires:
     [Microsoft Entra built-in roles](https://learn.microsoft.com/en-us/entra/identity/role-based-access-control/permissions-reference#microsoft-entra-built-in-roles).
     
     :::
+

@@ -48,3 +48,4 @@ If the prior resolution did not help, follow these steps:
 1. In Netwrix Access Analyzer, navigate to the **Reporting** node.
 2. Review the path to the **Reports** folder in the **Publish Reports:** field. The default path is `C:\Program Files (x86)\STEALTHbits\StealthAUDIT\Reports`.
 3. In the Netwrix Access Analyzer host, recreate the **Reports** folder.
+

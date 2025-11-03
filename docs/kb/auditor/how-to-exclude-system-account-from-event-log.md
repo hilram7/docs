@@ -32,3 +32,4 @@ You can do that in two ways:
 
 - Set a filter for the `SYSTEM` account to not show in the event logs. Learn more in [Windows Event Viewer — How to Filter Events ⸱ Microsoft 🤝](https://learn.microsoft.com/en-us/host-integration-server/core/how-to-filter-events2)
 - Change the audit policy for the `SYSTEM` account to not get monitored. Learn more in [Windows Event Viewer ⸱ Microsoft 🤝](https://learn.microsoft.com/en-us/host-integration-server/core/windows-event-viewer1)
+

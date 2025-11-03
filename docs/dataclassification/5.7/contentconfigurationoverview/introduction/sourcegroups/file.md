@@ -23,3 +23,4 @@ The following options can be configured for File Servers Dynamic Source Groups:
 | Classification Template          | Search for a Classification Template to apply to Dynamic Source Groups                                                                                                                                                                            |
 | Detection Period                 | The Detection Period set here will apply to all File Servers source groups configured under the URL set in the URL text field. Use the slider to change the Detection Period. To disable detection, set the period to **0** days and **0** hours. |
 | Re-Index Period                  | The Re-Index Period set here will apply to all File Servers source groups configured under the URL set in the URL text field. Use the slider to change the Re-Index Period. To disable re-indexing, set the period to **0**.                      |
+

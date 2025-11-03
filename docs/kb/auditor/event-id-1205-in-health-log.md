@@ -62,3 +62,4 @@ Proceed with one of the following solutions depending on the error:
 
 - Configuration – SharePoint: Configure Audit Log Trimming ⸱ v10.6
 - Configuration – SharePoint: Configure Events Auditing Settings ⸱ v10.6
+

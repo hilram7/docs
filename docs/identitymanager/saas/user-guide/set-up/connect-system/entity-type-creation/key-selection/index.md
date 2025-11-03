@@ -111,3 +111,4 @@ You can find the **Reload** button either on the green warning, or on the connec
 
 After the entity type is created with its scalar properties and keys, you can [Define Navigation Properties](/docs/identitymanager/saas/user-guide/set-up/connect-system/entity-type-creation/navigation-property-definition/index.md) and/or
 [Set Resources' Display Names](/docs/identitymanager/saas/user-guide/set-up/connect-system/entity-type-creation/display-name-setting/index.md).
+

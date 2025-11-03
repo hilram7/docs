@@ -115,3 +115,4 @@ You can specify a mount point as a monitored item. However, consider the followi
   collections - then all actions for these objects will be monitored in a normal way.
 - To monitor the mount points targeted at the subfolder of a file share, provide network path to the
   target subfolder.
+

@@ -241,3 +241,4 @@ In order to verify the process:
    page with their state switching to `Transmitted`.
 
 ![Home Page - Manual Provisioning](/images/identitymanager/6.1/user-guide/administrate/provisioning/manual-provisioning/home_manualprovisioning_v523.webp)
+

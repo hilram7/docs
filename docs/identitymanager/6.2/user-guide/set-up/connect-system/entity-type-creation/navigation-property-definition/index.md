@@ -167,3 +167,4 @@ You’ll find it either in the banner or on the connector dashboard.
 
 Once the entity type is defined—with scalar properties, keys, and navigation properties—you can
 [Set Resources' Display Names](/docs/identitymanager/6.2/user-guide/set-up/connect-system/entity-type-creation/display-name-setting/index.md).
+

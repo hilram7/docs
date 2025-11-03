@@ -22,3 +22,4 @@ It has the following pages:
 - [License Page](/docs/accessinformationcenter/12.0/admin/configuration/license.md) – View license details and upload a new license
 - [Notifications Page](/docs/accessinformationcenter/12.0/admin/configuration/notifications.md) – Configure the SMTP server, email security settings,
   notification options, and owner reminder settings
+

@@ -45,3 +45,4 @@ Wizard, which contains the following wizard pages:
 - [PasswordSecurity: Dictionaries](/docs/accessanalyzer/12.0/admin/datacollector/passwordsecurity/dictionaries.md)
 - [PasswordSecurity: Results](/docs/accessanalyzer/12.0/admin/datacollector/passwordsecurity/results.md)
 - [PasswordSecurity: Summary](/docs/accessanalyzer/12.0/admin/datacollector/passwordsecurity/summary.md)
+

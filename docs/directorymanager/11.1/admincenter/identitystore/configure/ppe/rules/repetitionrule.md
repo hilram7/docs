@@ -30,3 +30,4 @@ characters (SssS).
   Policy Enforcer allows before rejecting a password. For example, the password "password**wxyz**"
   contains a four-character pattern. Password Policy Enforcer rejects this password if the tolerance
   is set to three (or lower), and accept it if the tolerance is set to four (or higher).
+

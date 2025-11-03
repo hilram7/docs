@@ -35,3 +35,4 @@ There are two types of collection modes:
 
     - Default location
     - Specific location – Specify the folder location
+

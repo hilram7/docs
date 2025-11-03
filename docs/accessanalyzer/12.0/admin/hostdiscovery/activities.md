@@ -39,3 +39,4 @@ The options are:
 These options are also available through a pop-up menu accessed by right-clicking on a query.
 **Create Query** and **Suspend Query Queue** are additionally available through a pop-up menu
 accessed by right-clicking on the **Host Discovery** node.
+

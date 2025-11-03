@@ -112,3 +112,4 @@ edited like any other Salesforce data directly in a Platform Governance for Sale
 At the end of the process of updating the customization record(s), the account should be scanned to
 update the documentation for the customization changes. It can be re-scanned for just the specific
 record type that was changed.
+

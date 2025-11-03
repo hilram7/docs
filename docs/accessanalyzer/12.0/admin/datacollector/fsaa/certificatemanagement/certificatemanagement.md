@@ -77,3 +77,4 @@ There are three Certificate Exchange Options provided by the FSAA Data collector
 Additionally, the port used for secure certificate exchange can be configured by selecting the
 Specify certificate exchange port checkbox on the Applet Settings page of the FSAA Data Collector
 Wizard. The default port is 8767.
+

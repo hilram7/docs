@@ -930,3 +930,4 @@ Follow the steps to enable debug logging.
 
 7.  Log in and perform actions in the PingCastle Pro web portal. Check
     C:\\PingCastlePro\\logs\\ to ensure logs are being written.
+

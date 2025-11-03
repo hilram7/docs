@@ -55,3 +55,4 @@ provider, a message informs you that the password must be different from the old
 
 Step 5 – On successful change password, the message,"Password has been reset successfully." is
 displayed. Click **OK**.
+

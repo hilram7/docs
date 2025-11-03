@@ -280,3 +280,4 @@ Data protection can be ensured through:
 - RSA encryption, configured in the appsettings.encrypted.agent.json file
 - An Azure Key Vault safe
 - A CyberArk Vault able to store Okta Login, Password, Account and Server.
+

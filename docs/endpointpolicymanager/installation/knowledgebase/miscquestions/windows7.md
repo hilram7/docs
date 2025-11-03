@@ -19,3 +19,4 @@ For Endpoint Policy Manager to work as expected on Windows 7, Windows 7
 requires [https://www.microsoft.com/en-us/download/details.aspx?id=46148](https://www.microsoft.com/en-us/download/details.aspx?id=46148) for
 64-bit and requires
 32-bit [https://www.microsoft.com/en-pk/download/details.aspx?id=46078](https://www.microsoft.com/en-pk/download/details.aspx?id=46078)
+

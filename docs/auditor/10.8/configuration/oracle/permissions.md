@@ -93,3 +93,4 @@ provide this account in the monitoring plan wizard.
 |                          | - dba_audit_mgmt_clean_events                                                                                                      |
 |                          | - gv_$instance                                                                                                                     |
 |                          | - fga_log$                                                                                                                         |
+

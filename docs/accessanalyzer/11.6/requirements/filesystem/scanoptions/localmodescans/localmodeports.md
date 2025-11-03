@@ -25,3 +25,4 @@ dependent upon how the NetApp communication security option is configured:
 | ------------------------------------------- | -------- | ----- | ----------------------------------- |
 | Enterprise Auditor Console to NetApp Device | TCP      | 80    | HTTP NetApp communication security  |
 | Enterprise Auditor Console to NetApp Device | TCP      | 443   | HTTPS NetApp communication security |
+

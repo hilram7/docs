@@ -47,3 +47,4 @@ knowledge_article_id: kA00g000000H9daCAC
 
 **Q6**: Is a separate license required for the Netwrix Account Lockout Help-Desk Portal?  
 **A6**: No, you do not need a separate license. The Help-Desk portal is a part of Netwrix Account Lockout Examiner, so if you have purchased the product, the web portal goes with it.
+

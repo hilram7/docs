@@ -60,3 +60,4 @@ One of the following causes may lead to this error:
 
 - https://docs.netwrix.com/docs/auditor/10_8 Server – Permissions for Windows Server Auditing ⸱ v10.6)  
 - https://docs.netwrix.com/docs/auditor/10_8 Server – Windows Server Ports ⸱ v10.6)
+

@@ -18,3 +18,4 @@ sent a reminder email. Click **OK** to close the Send Reminders window.
 
 _Remember,_ automatic weekly reminders can be configured on the
 [Notifications Page](/docs/auditor/10.7/accessreviews/admin/configuration/notifications.md) of the Configuration interface.
+

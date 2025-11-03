@@ -16,3 +16,4 @@ Opens manual provisioning tickets in Identity Manager.
 | Fulfill                 | Usercube-Update-FulfillmentStates.dll |
 | Has Incremental Mode    | False                                 |
 | Publisher               | Identity Manager                      |
+

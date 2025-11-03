@@ -25,3 +25,4 @@ You can delete a single workflow or a group of workflows within the scope (Globa
        click **Delete**.
 
     ![workflows_category_list_thumb_0_0](/images/dataclassification/5.7/admin/workflows/workflows_category_list_thumb_0_0.webp)
+

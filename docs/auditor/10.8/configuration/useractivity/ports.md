@@ -27,3 +27,4 @@ allow inbound connections to local 9004 TCP port.
 | 137 through 139      | UDP      | Netwrix Auditor Server | Monitored computer     | Service Control Manager Remote Protocol (RPC) Network Traffic Compression Service installation |
 | 445                  | TCP      | Netwrix Auditor Server | Monitored computer     | SMB 2.0/3.0 Video files copy                                                                   |
 | –                    | ICMP     | Netwrix Auditor Server | Monitored computer     | Network Traffic Compression Service communications                                             |
+

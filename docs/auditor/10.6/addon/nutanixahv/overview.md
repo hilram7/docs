@@ -138,3 +138,4 @@ To upgrade from versions released earlier than August 2020, do the following:
 
 The add-on is compatible with Nutanix AOS 5.15 and Nutanix AOS 5.20, and with Auditor 10.0 and
 later.
+

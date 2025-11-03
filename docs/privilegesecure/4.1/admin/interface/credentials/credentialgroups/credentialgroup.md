@@ -28,3 +28,4 @@ Follow the steps to add credential groups to the Privilege Secure Console.
   topic for additional information.
 
 The new credential group is added to the console and is shown in the Credential Groups list.
+

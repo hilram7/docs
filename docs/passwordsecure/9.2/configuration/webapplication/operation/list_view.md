@@ -21,3 +21,4 @@ The list view differs from that on the client in the following areas:
 
 - List view cannot be individually configured
 - There are – as is usual in a browser – no context menus
+

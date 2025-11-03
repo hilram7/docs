@@ -65,3 +65,4 @@ Usually, the setup of logos/icons in the i**mage management** is done by the in-
 administration. You can learn more about this in the FullClient
 [Image management](/docs/passwordsecure/9.1/configuration/advancedview/mainmenufc/extras/image_manager.md)
 documentation.
+

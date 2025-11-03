@@ -77,3 +77,4 @@ To resolve these errors, follow the steps below.
 ![Finish publishing reports](images/ka0Qk000000EHKL_0EMQk00000BzVN9.png)
 
 > **NOTE:** Additionally, reports will be rebuilt when the related job completes its next run.
+

@@ -58,3 +58,4 @@ For additional information on how to configure your SharePoint Online monitoring
 ## Related Articles
 
 - SharePoint Online Monitoring Plans — Monitoring Scope — v10.6: https://docs.netwrix.com/docs/auditor/10_8
+

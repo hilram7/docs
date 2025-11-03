@@ -49,3 +49,4 @@ sidebar_position: 80
 - [Select User by Identity Query Handler Setting](/docs/identitymanager/saas/integration-guide/toolkit/xml-configuration/metadata/settings/selectuserbyidentityqueryhandlersetting/index.md)
 
     This attribute matches an end-user with a resource from the unified resource repository.
+

@@ -53,3 +53,4 @@ Check the following (target system configuration and that the account used for t
 
 - Data Source Configuration — v10.6
 - Administration — Monitoring Plans — Data Collecting Account — v10.6
+

@@ -34,3 +34,4 @@ taxonomy as a clue in another taxonomy
 Improved: Clues can now be inserted in a taxonomy in bulk
 
 - Other enhancements that improve usability and performance.
+

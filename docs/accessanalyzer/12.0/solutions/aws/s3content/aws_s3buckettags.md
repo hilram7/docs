@@ -37,3 +37,4 @@ the following preconfigured report:
 | Report      | Description                                | Default Tags | Report Element                                                                                                                                                                                                               |
 | ----------- | ------------------------------------------ | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Bucket Tags | This report highlights AWS S3 Bucket Tags. | None         | This report is comprised of the following elements: <ul><li>Stacked Bar Chart – Displays buckets tagged by account</li><li>Table – Shows bucket tagging summary</li><li>Table – Provides details on bucket tagging</li></ul> |
+

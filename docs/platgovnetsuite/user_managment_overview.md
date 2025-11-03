@@ -21,3 +21,4 @@ These reports are available on the User Management Menu:
   troubleshooting and support.
 - **Current Global Permission** identifies users with global permissions, which can cause conflicts.
   Best practice is to not use global permissions on a long-term basis.
+

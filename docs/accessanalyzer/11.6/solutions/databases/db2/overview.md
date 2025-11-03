@@ -75,3 +75,4 @@ The following comprises the Db2 solution:
 - [Sensitive Data Job Group](/docs/accessanalyzer/11.6/solutions/databases/db2/sensitivedata/overview.md)
   — Provides insight into where sensitive data exists and who has access to it across all the
   targeted Db2 databases
+

@@ -22,3 +22,4 @@ Tip for reading the table: For example, on the computer where Netwrix Auditor Se
 | ----------- | -------- | ---------------------- | -------------- | ----------------------------------------------------- |
 | Dell Isilon |          |                        |                |                                                       |
 | 8080        | TCP      | Netwrix Auditor Server | Isilon cluster | HTTPS Used to connect to the Isilon Management Server |
+

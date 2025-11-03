@@ -214,3 +214,4 @@ Step 9 – Click **Create Identity Store**. The Replicate Identity Store message
 
 The identity store is available on the Identity Stores page. You can specify different
 configurations for it.
+

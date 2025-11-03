@@ -38,3 +38,4 @@ The contact object type is not supported in a Microsoft Entra ID based identity 
     "isResyncAble": true
 }
 ```
+

@@ -69,3 +69,4 @@ script provided by the Remediant team. Using a spreadsheet as an input, it is po
 many Linux devices at once in a scripted fashion.
 
 **NOTE:** Linux passwords and usernames are case sensitive.
+

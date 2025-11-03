@@ -100,3 +100,4 @@ _Corp_ organization discovered that the accounts with Contractor job title has a
 field for that account.
 
 ![sqlservermeansgranteddetails](/images/auditor/10.7/admin/reports/types/stateintime/sqlservermeansgranteddetails.webp)
+

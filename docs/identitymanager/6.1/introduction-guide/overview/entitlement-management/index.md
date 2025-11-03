@@ -190,3 +190,4 @@ Let's learn about
 [Learn more on assignment rules](/docs/identitymanager/6.1/user-guide/optimize/assignment-automation/automate-role-assignment/index.md).
 
 [Learn more on resource categorization rules](/docs/identitymanager/6.1/user-guide/set-up/categorization/index.md).
+

@@ -86,3 +86,4 @@ To grant access to additional Solution sets or enable Sensitive Data Discovery i
 Analyzer installation, a new license key is required. To update the Access Analyzer license key
 without installing a new version of the Access Analyzer Console, see the
 [Update License Key](/docs/accessanalyzer/12.0/install/application/updatelicense.md) topic for instructions.
+

@@ -55,3 +55,4 @@ Using the Light view, the user must click on their user account and click on the
 This will open a window where you can use the QR code to scan the database.
 
 ![QR code lightclient](/images/passwordsecure/9.1/configuration/mobiledevices/setup/linking_database/account-lc-3-en.webp)
+

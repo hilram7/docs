@@ -46,3 +46,4 @@ The next page that appears the the starting page for ALE. Here is a brief descri
 Once the fields above are satisfied, click the **Examine** button to begin an examination.
 
 For continued use of ALE, save the executable to a location such as the desktop. If at anytime you wish to begin a new examination, simply re-run the executable.
+

@@ -34,3 +34,4 @@ Follow these steps to edit the schedule:
 3. Right-click the task and click **Properties**.
 4. In the **Triggers** tab, select the **Daily** trigger and click **Edit**.
 5. Define the new schedule and click **OK** > **OK** to save changes.
+

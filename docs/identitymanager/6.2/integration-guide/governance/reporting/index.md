@@ -12,3 +12,4 @@ The Reporting module is used to generate basic reports in CSV using
 
 See the [Generate Reports](/docs/identitymanager/6.2/user-guide/administrate/reporting/index.md) topic for
 additional information on generating reports.
+

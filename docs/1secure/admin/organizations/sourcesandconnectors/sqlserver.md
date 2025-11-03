@@ -97,3 +97,4 @@ generate logon reports on SQL Server data. See the
 **Step 11 –** Click **Finish**.
 
 The SQL Server data source and connector have been configured.
+

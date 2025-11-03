@@ -68,3 +68,4 @@ Select a subject from the Available subjects list, then click the **Right Arrow*
 the Selected Subjects list. Remove a subject from the Selected Subjects list by selecting a subject
 and clicking the **Left Arrow**. Change the priority of the subjects in the Selected Subjects list
 by using the **Up and Down Arrows**.
+

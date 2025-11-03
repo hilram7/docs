@@ -27,3 +27,4 @@ Complete glossary of System Settings special attributes and a description of eac
 | SessionTimeoutWarning                   | 30 seconds (0 to disable)                                 | Warning before a User Session is terminated                                                                                                                                 |
 | SyslogUseLocalTime                      | False                                                     | Syslog is sent with UTC time by default, but this setting will send syslogs with local times gathered from the devices the agents run on.                                   |
 | TextSearchMethod                        | Text                                                      | Search method used, can be set to ‘regex’ to use more precise regular expression match                                                                                      |
+

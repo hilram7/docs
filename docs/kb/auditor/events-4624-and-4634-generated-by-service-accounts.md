@@ -44,3 +44,4 @@ Security ID: %domain%\%Auditor_service_account%
 ## Answer
 
 Netwrix Auditor service accounts that you specify in monitoring plans access domain controllers in your environment to collect data. The data collection occurs in short spans: a service account connects to a domain controller, collects data, and disconnects. Multiple service accounts can connect to a domain controller at the same time to ensure timely delivery of data, for example via reports or search functionality. This also allows the product to collect data before it is overwritten in environments with a high number of Activity Records — therefore, the high number of logon and logoff events is expected.
+

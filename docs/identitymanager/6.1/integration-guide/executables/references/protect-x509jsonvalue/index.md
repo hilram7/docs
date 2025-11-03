@@ -97,3 +97,4 @@ appsettings.encrypted.agent.json after update
 | Name              | Details                                                    |
 | ----------------- | ---------------------------------------------------------- |
 | --values required | **Type** String **Description** List of values to encrypt. |
+

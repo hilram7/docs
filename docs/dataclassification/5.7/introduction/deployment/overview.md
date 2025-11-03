@@ -15,3 +15,4 @@ In this section:
 - [NDC Server](/docs/dataclassification/5.7/introduction/deployment/ndcserverandclient/ndcserverandclient.md)
 - [Scalability and Performance](/docs/dataclassification/5.7/introduction/deployment/scalabilityandperformance.md)
 - [Data Storages and Sizing](/docs/dataclassification/5.7/introduction/deployment/clouddeployment.md)
+

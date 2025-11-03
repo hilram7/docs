@@ -39,3 +39,4 @@ The **Display the following From address in email notifications** option is enab
   2. In the **Notifications** tab, uncheck the **Display the following From address in email notifications** checkbox, and click **Save**.
 
 - Grant the appropriate **Send As** or **Send on Behalf** permissions to the service account sending emails in Netwrix Password Reset.
+

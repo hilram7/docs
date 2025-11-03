@@ -42,3 +42,4 @@ information.
 **Step 4 –** Click OK in the User Credentials modal, name the Connection Profile, and click Save.
 
 This connection profile can now be assigned to the AWS Solution.
+

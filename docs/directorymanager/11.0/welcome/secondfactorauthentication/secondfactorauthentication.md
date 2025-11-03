@@ -151,3 +151,4 @@ if Windows 10 is installed on it.
 
 - [Enroll Your Identity Store Account](/docs/directorymanager/11.0/welcome/secondfactorauthentication/enrollaccount.md)
 - [Authenticate Your Identity Store Account](/docs/directorymanager/11.0/welcome/secondfactorauthentication/authenticateaccount.md)
+

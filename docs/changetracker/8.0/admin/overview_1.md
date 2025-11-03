@@ -10,3 +10,4 @@ When using Netwrix Change Tracker to monitor devices using an Agentless approach
 define Access Credentials.
 
 ![CredentialsCredentialsAdministration](/images/changetracker/8.0/admin/credentials/credentialscredentialsadministration.webp)
+

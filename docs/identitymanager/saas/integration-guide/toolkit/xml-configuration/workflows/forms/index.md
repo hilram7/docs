@@ -49,3 +49,4 @@ Here is a list of forms:
 - [WorkflowUpdateSeveralRecordsEntityForm](/docs/identitymanager/saas/integration-guide/toolkit/xml-configuration/workflows/forms/workflowupdateseveralrecordsentityform/index.md)
 
     Displays a form to create, update or delete one or several records.
+

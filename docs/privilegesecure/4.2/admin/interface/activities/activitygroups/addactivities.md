@@ -60,3 +60,4 @@ Activities list.
 **Step 6 –** Click Add to add the activities to the activity group.
 
 The activities are added to the activity group.
+

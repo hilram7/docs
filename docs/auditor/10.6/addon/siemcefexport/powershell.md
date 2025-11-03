@@ -38,3 +38,4 @@ destination folder. Note that details (or 'msg' in CEF terms) exceeding 16000 sy
 
 Every time you run the script, Auditor makes a timestamp. The next time you run the script, it will
 start retrieving new Activity Records.
+

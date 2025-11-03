@@ -51,3 +51,4 @@ following pre-configured report.
 | Report                    | Description                                                                                                                                         | Default Tags | Report Elements                                                                                       |
 | ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ----------------------------------------------------------------------------------------------------- |
 | Account Privilege Details | This report highlights account privileges on hosts in the targeted environment. Default privileges present on all Windows hosts have been filtered. | None         | This report is comprised of one element: <ul><li>Table – Provides account privilege details</li></ul> |
+

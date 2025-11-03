@@ -38,3 +38,4 @@ contains the following wizard pages, which change based up on the query category
 - [ADActivity: Scope](/docs/accessanalyzer/12.0/admin/datacollector/adactivity/scope.md)
 - [ADActivity: Results](/docs/accessanalyzer/12.0/admin/datacollector/adactivity/results.md)
 - [ADActivity: Summary](/docs/accessanalyzer/12.0/admin/datacollector/adactivity/summary.md)
+

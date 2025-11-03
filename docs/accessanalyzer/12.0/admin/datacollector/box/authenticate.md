@@ -19,3 +19,4 @@ allow Access Analyzer to report on the Box Enterprise.
 Enter an email address and password for an account with Enterprise Admin credentials in the targeted
 Box environment. Then click **Authorize** to grant access to Box and generate the code. The **Use
 Single Sign On (SSO)** option is an alternative log in method.
+

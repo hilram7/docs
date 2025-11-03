@@ -26,3 +26,4 @@ described in their own subsections.
 - [Logbook](/docs/passwordsecure/9.2/configuration/webapplication/functionalscope/logbook_web_application.md)
 - [Application](/docs/passwordsecure/9.2/configuration/webapplication/functionalscope/application.md)
 - [Documents](/docs/passwordsecure/9.2/configuration/webapplication/functionalscope/documents_web_application.md)
+

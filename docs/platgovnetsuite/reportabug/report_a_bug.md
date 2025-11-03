@@ -35,3 +35,4 @@ on the topic.
 ![Click to leave feedback on the current topic.](/images/platgovnetsuite/troubleshooting/comment_button.webp)
 
 ![Enter your feedback on the current topic.](/images/platgovnetsuite/troubleshooting/comment_form.webp)
+

@@ -16,3 +16,4 @@ on the client. This area can be used independently of the currently selected mod
 - [Backup settings](/docs/passwordsecure/9.1/configuration/servermanger/mainmenu/backupsettings/backup_settings.md)
 - [License settings](/docs/passwordsecure/9.1/configuration/servermanger/mainmenu/license_settings.md)
 - [Advanced settings](/docs/passwordsecure/9.1/configuration/servermanger/mainmenu/advanced_settings.md)
+

@@ -29,3 +29,5 @@ Microsoft SQL Server Management Studio.
 To work around this issue, you can replace the PRODUCT name with a wildcard.
 
 ![845_2_image-20210419165857-2](/images/endpointpolicymanager/troubleshooting/leastprivilege/fileinfodeny/845_2_image-20210419165857-2.webp)
+
+

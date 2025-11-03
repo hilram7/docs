@@ -26,3 +26,4 @@ clicking **Smart Group Grid Filters**. All the smart groups matching the filters
 - [Join/Leave a Group](/docs/directorymanager/11.0/welcome/group/workingwithgroups/groupjoinleave.md)
 - [Working with Groups](/docs/directorymanager/11.0/welcome/group/workingwithgroups/workingwithgroups.md)
 - [Directory Search](/docs/directorymanager/11.0/welcome/generalfeatures/search.md)
+

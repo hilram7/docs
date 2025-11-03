@@ -18,3 +18,4 @@ This report is comprised of the following columns:
 - Email – Email account of the external user
 - Access – Level of access granted to the external users
 - URL – URL path to the resource
+

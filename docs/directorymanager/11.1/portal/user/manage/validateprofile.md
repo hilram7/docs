@@ -126,3 +126,4 @@ When you terminate a direct report, it takes effect immediately if the ‘Workfl
 User’ workflow is disabled. If enabled, a request is sent to the approver. If the approver accepts
 it, the direct report is terminated and if the approver rejects it, the direct report remains with
 the manager, i.e., you.
+

@@ -33,3 +33,4 @@ helpful when configuring scoring settings and reviewing behavior anomalies.
     users are not subject to immediate prosecution unless they do not provoke repetitive alerts. The
     best practice is to review user profile after some time and check if there are any threat
     patterns in user behavior.
+

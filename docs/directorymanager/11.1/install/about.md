@@ -12,3 +12,4 @@ simplified Directory Manager installation, reduced workloads, and diminished ins
 
 Furthermore, Directory Manager configuration and upgrade has been seamlessly integrated into the
 installation experience.
+

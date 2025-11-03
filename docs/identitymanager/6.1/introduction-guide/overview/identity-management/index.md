@@ -136,3 +136,4 @@ Let's learn about
 [Learn more on synchronization](/docs/identitymanager/6.1/integration-guide/synchronization/index.md).
 
 [Learn more on workflows](/docs/identitymanager/6.1/integration-guide/workflows/index.md).
+

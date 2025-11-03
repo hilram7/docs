@@ -75,3 +75,4 @@ Baseline Policy and how, in terms of the Rule Options selected.
 The Rule Options are what makes the Baseline Policy feature in Change Tracker so powerful. A basic
 compare of a Device to a predefined set of configuration rules is OK in some circumstances but rule
 logic is necessary to convey the other requirements needed in a Baseline Policy.
+

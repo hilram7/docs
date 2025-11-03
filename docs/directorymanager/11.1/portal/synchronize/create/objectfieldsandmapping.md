@@ -212,3 +212,4 @@ On the **Object, Fields and Mappings** page, map the a attributes with source fi
     4. Select **Show field reference** check box to view a list of attributes from the schema of the
        source provider.
     5. Click **Next**.
+

@@ -92,3 +92,4 @@ Data on **Who changed** is again got from internal SQL traces. The product itsel
 
 ### 2.1 Triggerless Collection
 Triggerless collection is another method of collecting database content changes, which uses SQL Trace Log instead of triggers. It checks the event called **Audit Schema Object Access** with filter **Permissions** = 1 (SELECT ALL) or 2 (UPDATE ALL) | 8 (INSERT) | 16 (DELETE) on the database logs. Collector gathers new information from SQL trace log every 5 minutes. Event filtration happens on the trace log level i.e. Events that are either omitted from logging or outside of the scope of the collector will not be gathered.
+

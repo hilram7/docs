@@ -80,3 +80,4 @@ Configuration wizard to modify the reports settings. See the
 
 The report is now created. To access the new report, see the [Viewing Generated Reports](/docs/accessanalyzer/12.0/admin/report/view.md)
 topic.
+

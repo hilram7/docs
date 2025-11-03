@@ -126,3 +126,4 @@ sidebar_position: 20
 
     Calculates either for all entities or for a list of entities the expressions and inserts the
     values in the database.
+

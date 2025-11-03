@@ -163,3 +163,4 @@ existing configurations, setting, or file.
 **Step 5 –** After reboot complete, log in and check Privilege Secure services and nodes status:
 
 - s1 status; s1 nodes
+

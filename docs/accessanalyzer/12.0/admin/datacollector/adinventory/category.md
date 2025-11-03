@@ -28,3 +28,4 @@ Inventory Job Group. Therefore, accessing the Active Directory Inventory DC Wiza
 within that job group does not display the Category wizard page.
 
 :::
+

@@ -56,3 +56,4 @@ You must upgrade the program files and ensure that the library requirements (dot
 # Post installation
 
 You should check that the version of the application changed in the about page.
+

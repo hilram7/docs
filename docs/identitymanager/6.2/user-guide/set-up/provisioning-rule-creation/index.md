@@ -66,3 +66,4 @@ rules using simulations in order to anticipate changes. See the
 
 Once provisioning rules are created, integrators can start
 to[Create Roles in the Role Catalog](/docs/identitymanager/6.2/user-guide/set-up/single-roles-catalog-creation/index.md).
+

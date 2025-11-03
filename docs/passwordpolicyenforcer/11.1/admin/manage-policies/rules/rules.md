@@ -257,3 +257,4 @@ being rejected when the comparison parameter is very short. The limit is set to 
 default, so Password Policy Enforcer accepts passwords that contain the parameter value if the
 comparison parameter only contains one or two characters. Contact Netwrix support if you need to
 change the minimum limit.
+

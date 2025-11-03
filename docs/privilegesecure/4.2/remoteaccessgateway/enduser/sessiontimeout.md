@@ -17,3 +17,4 @@ The session timeout setting may differ if it has been customized by your adminis
 ![Session Timeout ](/images/privilegesecure/4.2/accessmanagement/enduser/sessiontimeout.webp)
 
 If the timeout message appears, click **Stay Logged In** to continue using the console.
+

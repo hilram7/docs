@@ -60,3 +60,4 @@ Exclusions are case-insensitive.
     When finished, click **Add**.
 
 5. Finally, click **Save** and close the window.
+

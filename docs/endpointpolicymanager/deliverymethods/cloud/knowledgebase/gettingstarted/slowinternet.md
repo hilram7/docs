@@ -48,3 +48,5 @@ For more details about setting up machines for VDI environments please check the
 [Can I embed the Endpoint Policy ManagerClient Side Extension and/or Endpoint Policy Manager Cloud client into a master image for VDI, MDT, Ghost, Citrix, etc?](/docs/endpointpolicymanager/gettingstarted/misc/knowledgebase/tipstricksandfaqs/embedclient.md)
 
 [How to install the Endpoint Policy Manager Cloud Client for use in an Azure Virtual Desktop image](/docs/endpointpolicymanager/deliverymethods/cloud/knowledgebase/clienttips/azurevirutaldesktop.md)
+
+

@@ -69,3 +69,4 @@ the session host are executed.
 
 
 The new actions are added to the activity.
+

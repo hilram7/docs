@@ -38,3 +38,4 @@ will prompt the user to log in to the Basic view.
 5. Add default applications (optional)
 
 It is advised to create the applications, which shall be stored as passwords, beforehand.
+

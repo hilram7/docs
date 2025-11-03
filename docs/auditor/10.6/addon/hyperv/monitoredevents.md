@@ -17,3 +17,4 @@ Review a full list of the events that can be monitored using the add-on.
 | Private Cloud     | • Create/Delete • Rename                                                                              | • Name                                                                                                                                             |
 | VM Network        | • Create/Delete • Rename                                                                              | • Name                                                                                                                                             |
 | User Role         | • Rename • Add/Remove Members • Add/Remove Scopes • Permissions change                                | • Name • Scope • Permissions • Members                                                                                                             |
+

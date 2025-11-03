@@ -32,3 +32,4 @@ the [View Job XML File](/docs/accessanalyzer/12.0/admin/jobs/job/properties/view
 
 Click **OK** to save configuration changes and close the Job Properties window. Click **Cancel** if
 no changes were made.
+

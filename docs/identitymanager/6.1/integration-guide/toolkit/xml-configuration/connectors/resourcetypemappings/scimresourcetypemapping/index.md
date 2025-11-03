@@ -22,3 +22,4 @@ Any resource type mapping must be configured with the same identifier as the rel
 | --------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Connection required         | **Type** String **Description** Identifier of the corresponding connection.                                                                                                                                    |
 | DefaultObjectClass optional | **Type** String **Description** Default object class used by the provisioner, for example `person`, `organizationalPerson`, `user`, etc. **Note:** multiple default object classes are separated with `<br/>`. |
+

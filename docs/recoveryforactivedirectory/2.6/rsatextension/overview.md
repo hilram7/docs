@@ -21,3 +21,4 @@ for restoring deleted objects. Consider the following:
 
 You must register the RSAT Extension on the Recovery Application Server to add the Rollback and
 Restore options to the ADUC console.
+

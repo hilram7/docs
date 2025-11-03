@@ -48,3 +48,4 @@ There must always be one user who has the “authorize” right to a record, who
 only have temporary permissions.
 
 :::
+

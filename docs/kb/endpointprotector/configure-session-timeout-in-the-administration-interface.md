@@ -33,3 +33,4 @@ This article explains how to configure the session timeout for the Management Us
 2. Scroll down to the **Session Settings** section.  
 3. Set the **Session Timeout (min)** to a value between `5` and `60`.  
 4. Click **Save** to apply the changes.
+

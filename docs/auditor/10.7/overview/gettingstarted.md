@@ -51,3 +51,4 @@ In this section, we will cover:
 | Review Health status dashboard.                                                                                                                    | - [Health Status Dashboard](/docs/auditor/10.7/admin/healthstatus/dashboard/overview.md)                |
 | Schedule Health Summary email delivery.                                                                                                            | - [Health Summary Email](/docs/auditor/10.7/admin/healthstatus/summaryemail.md)                         |
 | If some issues encountered while using the product, review the troubleshooting instructions.                                                       | - [Troubleshooting](/docs/auditor/10.7/admin/healthstatus/troubleshooting.md)                           |
+

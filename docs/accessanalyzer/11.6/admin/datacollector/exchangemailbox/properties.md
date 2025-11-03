@@ -20,3 +20,4 @@ classes filters window.
 The wildcard (`*`) returns all message class filters. Enter the name of the class filter and click
 **Add** to add it to the list. **Delete** will remove the selected class filter from the list. The
 **Load defaults** option will restore the class filter default settings.
+

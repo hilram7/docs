@@ -112,3 +112,4 @@ The following report is available at the exceptions type level:
 | Report                                                      | Description                                                                                      |
 | ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
 | [Exceptions Report by Type](/docs/accessinformationcenter/12.0/resourceaudit/filesystem/exceptions/exceptionsbytype.md) | Provides details on the selected exception type. This report includes a Permission Source table. |
+

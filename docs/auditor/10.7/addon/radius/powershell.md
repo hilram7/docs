@@ -37,3 +37,4 @@ while. Ensure the script execution completed successfully.
 
 Every time you run the script, Auditor makes a timestamp. The next time you run the script, it will
 start retrieving new events.
+

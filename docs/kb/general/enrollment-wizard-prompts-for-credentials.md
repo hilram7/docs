@@ -23,3 +23,4 @@ knowledge_article_id: kA00g000000PbdQCAS
 # Enrollment wizard prompts for credentials
 
 When you install the Netwrix Password Manager client on your computer, you are prompted to register. After registration, you are prompted to enter a username and password to connect to `gina_set_answers_anonymous.asp`.
+

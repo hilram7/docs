@@ -24,3 +24,4 @@ columns.
 
 When the two sources of data are selected, click **Next** to create a joint column within the
 resulting table or view.
+

@@ -41,3 +41,4 @@ produces the following preconfigured reports.
 | Report          | Description                                               | Default Tags | Report Elements                                                                                                                                                                                         |
 | --------------- | --------------------------------------------------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Database Sizing | This report highlights the size of databases in Redshift. | None         | This report is comprised of three elements: <ul><li>Bar Chart – Displays top databases by size (MB)</li><li>Bar Chart – Displays sizes by host (GB)</li><li>Table – Provides database details</li></ul> |
+

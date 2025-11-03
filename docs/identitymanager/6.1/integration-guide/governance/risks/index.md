@@ -184,3 +184,4 @@ examined and then, kept or discarded.
 The risk score computation is performed by the risk score task.
 
 ![Compute Risk Score Task](/images/identitymanager/6.1/integration-guide/governance/risks/risks_riskcomputetask_v522.webp)
+

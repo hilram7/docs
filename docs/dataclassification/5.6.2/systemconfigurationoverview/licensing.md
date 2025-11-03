@@ -19,3 +19,4 @@ load / update a license. You can also view and manage the available license by s
 from the side menu.
 
 ![licensing](/images/dataclassification/5.6.2/configuration/licensing.webp)
+

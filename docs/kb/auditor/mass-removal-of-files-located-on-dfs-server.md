@@ -35,3 +35,4 @@ For the oldest versions, the workflow is as follows:
 1. In the audited infrastructure with multiple DFS servers, if one server undergoes maintenance shutdown while another remains operational, it triggers mass file removal.
 2. This removal consequently activates the **Mass Data Removal from File Servers** alert in Netwrix Auditor.
 3. Netwrix Auditor interprets the disappearance of files from the affected server as a mass creation of file delete Activity Records.
+

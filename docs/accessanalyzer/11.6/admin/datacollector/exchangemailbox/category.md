@@ -21,3 +21,4 @@ The Category page contains a list of objects the query searches for:
 
     - Per mailbox
     - Per folder
+

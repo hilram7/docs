@@ -49,3 +49,4 @@ following wizard pages:
 - [Entra: Scan options](/docs/accessanalyzer/12.0/admin/datacollector/entra/options.md)
 - [Entra: Results](/docs/accessanalyzer/12.0/admin/datacollector/entra/results.md)
 - [Entra: Summary](/docs/accessanalyzer/12.0/admin/datacollector/entra/summary.md)
+

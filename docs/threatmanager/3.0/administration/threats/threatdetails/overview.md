@@ -177,3 +177,4 @@ The History table has the following columns:
 - Time Stamp – Exact date and time when the status was updated.
 - Message – Displays the content of the comments entered by users or the system
 - User – The name of the user who entered the comment
+

@@ -32,3 +32,4 @@ The Policy Reporting dashboard contains the following cards:
   the specified timeframe
 
 The specified timeframe is set by default to the last 24 hours, or past day.
+

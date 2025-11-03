@@ -56,3 +56,4 @@ solutions and associated licensed modules are:
 
 In the Administration Console, all solutions use the same base software. The difference is in the
 Policy Event Types available for use with different solutions.
+

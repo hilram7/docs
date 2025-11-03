@@ -29,3 +29,4 @@ where %Temp% can be replaced with any folder you want to extract the file to.
 | `/i`                | Run installation.                                                                                                            |
 | `/q`                | Specify the user interface (UI) that displays during installation. You can append other options, such as `n` to hide the UI. |
 | `install_all`       | Specify components to be installed: - 0—Install the Netwrix Auditor client only. - 1—Full installation                       |
+

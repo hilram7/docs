@@ -16,3 +16,4 @@ and provide information for both SharePoint on-premise farms and SharePoint Onli
 - [Sensitive Content Report](/docs/accessinformationcenter/12.0/resourceaudit/sharepoint/sitecollections/sensitivecontent.md)
 - [Site Collection Roles Report](/docs/accessinformationcenter/12.0/resourceaudit/sharepoint/sitecollections/sitecollectionroles.md) – Available only at the site collection
   level
+

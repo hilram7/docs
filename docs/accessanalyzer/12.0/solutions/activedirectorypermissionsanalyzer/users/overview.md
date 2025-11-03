@@ -17,3 +17,4 @@ The following jobs comprise the 1.Users Job Group:
   Directory users that are capable of resetting another user’s password within the targeted domains
 - [AD_UserPermissions Job](/docs/accessanalyzer/12.0/solutions/activedirectorypermissionsanalyzer/users/ad_userpermissions.md) – Reports on all Active Directory permissions
   applied to user objects within the targeted domains
+

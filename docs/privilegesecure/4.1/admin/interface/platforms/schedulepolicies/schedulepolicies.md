@@ -49,3 +49,4 @@ The selected schedule policy details display in the main pane:
 - Edit icon — Click the icon to edit the selected schedule policy. See the
   [Edit Schedule Policy](/docs/privilegesecure/4.1/admin/interface/platforms/schedulepolicies/schedulepolicy_1.md)
   topic for additional information.
+

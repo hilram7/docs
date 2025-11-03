@@ -288,3 +288,4 @@ clipboard**.
 - **Users** is the total number of available licenses.
 - **AD Users** is the total number of Active Directory user accounts.
 - **In use pertains** to active AD user accounts, disregarding disabled accounts.
+

@@ -447,3 +447,4 @@ to benefit from the linking.
     the URL from the address bar or from a portal's deployment settings. See the
     [View the Launch URL for an Instance](server/nativeiis.md#view-the-launch-url-for-an-instance)
     topic.
+

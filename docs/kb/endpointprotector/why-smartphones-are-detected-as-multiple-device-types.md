@@ -43,3 +43,4 @@ Depending on the phone’s features and settings, the OS and Netwrix Endpoint Pr
 - **USB Modem**: If internet sharing (tethering) is enabled, the device may also be detected as a USB modem.
 
 To manage access and apply the appropriate policies, review the device types detected in Netwrix Endpoint Protector for each scenario.
+

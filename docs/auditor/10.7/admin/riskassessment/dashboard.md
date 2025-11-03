@@ -69,3 +69,4 @@ file share. For that, in the dashboard window click Subscribe and configure the 
 See the [Create Subscriptions](/docs/auditor/10.7/admin/subscriptions/create.md) topic for additional information.
 
 You can also save current results to a PDF file by using the Export button in the dashboard window.
+

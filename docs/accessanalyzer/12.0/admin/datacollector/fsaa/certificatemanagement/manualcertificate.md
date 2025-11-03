@@ -194,3 +194,4 @@ can be found under Applet Settings in the FSAA Data Collector Wizard. See the
 
 For additional information on how to use the `FSAACertificateManager.exe` tool, run the
 `.\FSAACertificateManager.exe -help` command.
+

@@ -54,3 +54,4 @@ The following examples explain how the exclusion rules work for **Objects**. Sam
 - `dc11.local/OU*` will exclude the OU itself, all objects within it, and also all objects whose path begins with `dc11.local/OU` (like `dc11.local/OU_HQ`).
 
 For additional information on omit lists and excluding data sources, refer to the following article: [How to Use Omit Lists](https://docs.netwrix.com/docs/kb/auditor/how-to-use-omit-lists)
+

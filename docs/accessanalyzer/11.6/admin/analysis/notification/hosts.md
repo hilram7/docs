@@ -24,3 +24,4 @@ or third option is selected, the following options are enabled:
 - Enter hosts manually – Manually enter specific host names. Once the name is entered, click the add
   (**+**) button to add it to the selection box. Ensure the checkbox next to the host name is
   selected to include it in the list of hosts.
+

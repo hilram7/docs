@@ -30,3 +30,4 @@ The configurable options are:
 - User password - Enter the password for the user name
 
 - Connect – Click Connect to validate the connection with SharePoint
+

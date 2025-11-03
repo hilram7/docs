@@ -15,3 +15,4 @@ Click the **Password Reset Options** button to open the window and configure the
 Select options to rotate the account password when the session starts or ends.
 
 When clicking **Okay** button, the password reset policy is applied to an account.
+

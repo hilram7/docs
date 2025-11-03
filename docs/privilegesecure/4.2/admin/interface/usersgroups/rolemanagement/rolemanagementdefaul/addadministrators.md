@@ -49,3 +49,4 @@ functions.
 **Step 5 –** Click **Add** to add the accounts to the role.
 
 The selected users are now Privilege Secure Administrators.
+

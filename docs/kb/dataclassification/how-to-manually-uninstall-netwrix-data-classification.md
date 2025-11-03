@@ -42,3 +42,4 @@ C:\Windows\Microsoft.NET\Framework\v4.0.30319\InstallUtil /u "C:\Program Files\C
 
 3. Delete the folder at `C:\Program Files\ConceptSearching`.
 4. Delete the folder that contains the `conceptSearching index` ("*.cse") files. **Note** that this is included in the above folder location by default, but can be changed from within the SETUP utility.
+

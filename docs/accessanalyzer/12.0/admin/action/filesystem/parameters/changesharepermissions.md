@@ -12,3 +12,4 @@ users are to be changed.
 ![File System Action Module Wizard Change Share Permissions Parameters page](/images/accessanalyzer/12.0/admin/action/filesystem/parameters/changesharepermissions.webp)
 
 Select the desired options for changing the permissions control of the selected group or users.
+

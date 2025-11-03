@@ -20,3 +20,4 @@ The six similar groups are sorted in the order of strength, with the strongest m
 
 Click a group bar or a group in the left pane to view similarity details. The **Similarity Details**
 dialog box displays the common type and common members that both groups have.
+

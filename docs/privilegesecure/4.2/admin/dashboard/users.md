@@ -42,3 +42,4 @@ The table has the following columns:
 - Access Policies — Displays the number of access policies associated with the user or group
 
 The table columns can be resized and sorted in ascending or descending order.
+

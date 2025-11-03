@@ -268,3 +268,4 @@ To view Log Properties, navigate to the Actions menu and select **Properties**.
 ![Log Properties Window](/images/passwordpolicyenforcer/10.2/administration/vieweventlogslogproperties.webp)
 
 The Log Properties window displays. Settings for this log can be configured from this window.
+

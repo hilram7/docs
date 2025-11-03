@@ -355,3 +355,4 @@ The logs sent to AppInsights are configured through the Logger properties. See t
 [Monitoring](/docs/identitymanager/saas/integration-guide/monitoring/index.md) topic for additional information.
 
 :::
+

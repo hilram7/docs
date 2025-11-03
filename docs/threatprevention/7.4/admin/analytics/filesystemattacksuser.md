@@ -237,3 +237,4 @@ Select an incident in the top data grid to view information on the events that t
 This data grid employs features for sorting, filtering, searching, and more. See the
 [ Data Grid Functionality](/docs/threatprevention/7.4/admin/navigation/datagrid.md)
 topic for additional information.
+

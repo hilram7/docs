@@ -24,3 +24,4 @@ The following console sections have associated Activities Panes:
 
 The Guidance section of the Activities Pane will display context sensitive information depending on
 what the currently selected console section is.
+

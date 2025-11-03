@@ -66,3 +66,4 @@ Now you can send GET and POST requests.
 
 Each 8 hours, you will have to run the ‘Authenticate using an API key’ POST request to refresh the token.
 ````
+

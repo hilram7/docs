@@ -22,3 +22,4 @@ selected will be displayed.
   provides an added dimension to prioritize focus on groups. See the
   [Device Groups](/docs/changetracker/8.0/admin/settingstab/devicegroups.md)
   topic for additional information.
+

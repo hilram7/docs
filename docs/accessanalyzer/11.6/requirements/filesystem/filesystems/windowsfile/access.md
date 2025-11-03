@@ -144,3 +144,4 @@ For activity monitoring, the Netwrix Activity Monitor must have a deployed Activ
 servers identified by the 0-FSDFS System Scans Job and populated into the dynamic host list. See the
 [Windows File Server Activity Auditing Configuration](/docs/accessanalyzer/11.6/requirements/filesystem/filesystems/windowsfile/activity.md)
 topic for additional information.
+

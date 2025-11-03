@@ -30,3 +30,4 @@ Some SharePoint events may be lost and not reflected in reports and Change Summa
 - The `ContentDB` database of the designated site collection was manually trimmed.
 - The site collection was restored within 30 minutes after backup. The information on changes made within this period will be lost.
 - The site collection was deleted. The information on changes made to the site collection within 30 minutes before its deletion will be lost.
+

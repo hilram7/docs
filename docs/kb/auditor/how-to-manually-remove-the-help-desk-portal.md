@@ -32,3 +32,4 @@ Yes, for manual uninstallation, do the following.
 3. Delete the **NetWrix** folder from the **Temp** folder of the user under whose credentials the Help-Desk Portal was installed.
 4. Remove the corresponding node from `HKLMSoftware{Wow3264Node}MicrosoftWindowsCurrentVersionUninstall` (Wow6432Node only for x64 OS).
 5. Delete the **ALE** virtual directory from the IIS manager.
+

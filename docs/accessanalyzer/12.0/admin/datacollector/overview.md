@@ -156,3 +156,4 @@ queries, contact [Netwrix Support](https://www.netwrix.com/support.html).
 Click **OK** to save changes and exist the Query Properties window. If no changes were made or
 intended, it is best practice to click **Cancel** to exit the Query Properties window to ensure
 unintended changes are not saved.
+

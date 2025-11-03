@@ -30,3 +30,4 @@ The jobs in the 4.Configuration Job Group are:
   servers on which the identified SQL and Azure SQL server can execute commands. Some of the common
   remote OLE DB providers include IBM DB2, Oracle, Access and Excel. Typically, linked servers are
   used to handle distributed queries in SQL and Azure SQL server.
+

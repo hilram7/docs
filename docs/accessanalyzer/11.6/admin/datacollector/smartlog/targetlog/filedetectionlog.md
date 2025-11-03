@@ -19,3 +19,4 @@ of the following options:
 - Specific Remote Server – If selected, enter the server name in the Server textbox
 
 In the Log files to be processed section, set the filter criteria.
+

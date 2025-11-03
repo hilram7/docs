@@ -95,3 +95,4 @@ settings are required for communication between the agent server and the Enterpr
 | ---------------------------------- | -------- | ---------- | ------------------------------ |
 | Enterprise Auditor to Agent Server | TCP      | 445        | SMB, used for Agent Deployment |
 | Enterprise Auditor to Agent Server | TCP      | Predefined | WMI, used for Agent Deployment |
+

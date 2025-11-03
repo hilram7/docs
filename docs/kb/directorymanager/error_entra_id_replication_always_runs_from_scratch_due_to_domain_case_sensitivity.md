@@ -100,3 +100,4 @@ Because the check is case-sensitive, the system fails to find the existing times
 
 - This issue is environment-specific and not widespread.
 - If Directory Manager 11 Entra ID replication always runs from scratch, check the domain casing in **SVC.IdentityStoreReplication**. Correcting a single character in the domain field (lowercase “d” → uppercase “D”) restores delta replication and reduces runtime from hours to minutes.
+

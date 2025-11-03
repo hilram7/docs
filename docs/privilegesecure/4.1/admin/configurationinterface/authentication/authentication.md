@@ -104,3 +104,4 @@ The following fields apply to the SAML Connector Type:
 - Certificate — Provide your certificate file
 - Logout URI — Displays the simple logout address (not a SAML SLO endpoint), which takes a parameter
   for the post logout redirection
+

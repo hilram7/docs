@@ -83,3 +83,4 @@ created disk image. Click on it to view its details.
 machine type, network settings, and storage.
 
 **Step 15 –** Complete the setup process and verify that the instance is functioning as expected.
+

@@ -35,3 +35,4 @@ within the past three (3) hours. It has the following cards:
 - Active Directory Changes – Breakdown of Active Directory change events recorded in the specified
   timeframe, i.e., last three (3) hours. See the
   [Graph Card Features](/docs/threatprevention/7.5/siemdashboard/qradar/navigate/navigate.md#graph-card-features) topic for additional information.
+

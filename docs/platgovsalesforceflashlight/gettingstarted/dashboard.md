@@ -55,3 +55,4 @@ A shortcut to open the DRD for the entered **Name** or **API Name**.
 ![Shortcut to the DRD tool](/images/platgovsalesforceflashlight/getting_started/dashboard_drd_gen.webp)
 
 **Next Step:**[ Viewing the Status Report](/docs/platgovsalesforceflashlight/gettingstarted/config_and_stats.md)
+

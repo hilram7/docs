@@ -152,3 +152,4 @@ Do not suspend the VMware Player while Endpoint Protector Virtual Appliance is r
 Do not shut down your computer while VMware Player is running.
 
 :::
+

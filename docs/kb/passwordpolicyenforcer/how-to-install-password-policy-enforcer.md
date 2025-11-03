@@ -104,3 +104,4 @@ A distribution point can be a UNC path to a server share or a DFS (Distributed F
 Restart each domain controller to complete the installation. Windows installs Netwrix Password Policy Enforcer during startup, and then immediately restarts the computer a second time to complete the installation.
 
 Netwrix Password Policy Enforcer will not enforce a password policy at this time because no policies are defined. Users can still change their password and will only need to comply with the Windows password policy rules (if enabled).
+

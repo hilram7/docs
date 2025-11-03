@@ -37,3 +37,4 @@ replicate permissions granted on shared files and folders on the servers.
 
 You can enable or restrict a security role from accessing the Insights portal. Use the Criteria tab
 in role properties to specify the Directory Manager clients that role members can or cannot access.
+

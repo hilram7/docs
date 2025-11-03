@@ -39,3 +39,4 @@ To resolve this issue, perform the following steps:
 1. On the target and the host machines, remove all records which contain the `IP address` of the host and the target machines from the following file: `C:\Windows\system32\drivers\etc\hosts`
 2. Flush the `DNS cache` on the host and the target machines by executing the following command: `ipconfig /flushdns`
 3. Use the FQDN-name of the target machine instead of `IP address` or `localhost` when adding it as an item in Netwrix Auditor.
+

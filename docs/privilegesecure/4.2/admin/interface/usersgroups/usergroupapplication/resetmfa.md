@@ -28,3 +28,4 @@ Follow the steps below to reset a user's MFA.
 
 The user's MFA has been reset and they will be prompted to register a new MFA the next time they log
 in to Privilege Secure.
+

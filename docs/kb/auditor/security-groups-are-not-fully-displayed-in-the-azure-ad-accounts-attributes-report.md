@@ -37,3 +37,4 @@ The thing is that when you click the **Expand Group Membership** link in the **A
 Therefore, by using both reports simultaneously, you will be able to check the effective group membership information from the other report (**Azure AD Accounts - Effective Group Membership**) which will have the full list of the groups an account is a member of.
 
 > **IMPORTANT:** If you run Netwrix Auditor from a **remote server (client)**, please verify it has the same version and build as your Auditor Server. They must be exactly the same.
+

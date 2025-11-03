@@ -12,3 +12,4 @@ minutes.![Session time out window](/images/privilegesecure/4.2/accessmanagement/
 the timeout message displays, click Stay Logged In to continue using the console.See the
 [Global Settings Page](/docs/privilegesecure/4.2/admin/configuration/systemsettingspages/globalsettings.md) topic for additional information on
 changing the UI idle timeout settings.
+

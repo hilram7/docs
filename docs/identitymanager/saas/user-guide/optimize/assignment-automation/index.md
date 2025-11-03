@@ -214,3 +214,4 @@ The process of assignment automation is the following:
     > workers from other departments.
 
 4. Repeat.
+

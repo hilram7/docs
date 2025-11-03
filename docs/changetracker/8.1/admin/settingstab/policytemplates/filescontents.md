@@ -35,3 +35,4 @@ tracked.
   useful if only certain elements of a file contents need to be tracked.
 - **RegEx Ignore Case**. If using a Regular Expression this ensures that tracking is case
   insensitive.
+

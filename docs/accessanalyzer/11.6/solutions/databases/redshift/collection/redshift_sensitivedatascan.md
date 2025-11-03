@@ -151,3 +151,4 @@ The default analysis tasks are:
 - Redshift SDD Matches Hits View — Brings the SA_SQL Match Hits View to the Enterprise Auditor
   console
 - Redshift ADD AIC Import —Imports Redshift SDD into the AIC
+

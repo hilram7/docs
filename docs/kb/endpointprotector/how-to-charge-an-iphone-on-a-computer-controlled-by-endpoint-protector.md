@@ -27,3 +27,4 @@ Can you charge an iPhone on a computer controlled by Netwrix Endpoint Protector?
 
 ## Answer
 You can charge your iPhone on a computer with Netwrix Endpoint Protector installed if you have either **Allow access** or **Deny access but allow charging** rights assigned to the device.
+

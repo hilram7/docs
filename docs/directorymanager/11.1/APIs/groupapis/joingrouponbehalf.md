@@ -64,3 +64,4 @@ of whom you are joining the group, and membership type details.
     "status": 0
 }
 ```
+

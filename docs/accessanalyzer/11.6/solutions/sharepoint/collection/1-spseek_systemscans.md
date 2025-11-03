@@ -105,3 +105,4 @@ Do not configure the options on the Results page.
 **Cancel** if no changes were made. Then click **OK** to close the Query Properties window.
 
 If changes were made, the 1-SPSEEK_SystemScans Job has now been customized.
+

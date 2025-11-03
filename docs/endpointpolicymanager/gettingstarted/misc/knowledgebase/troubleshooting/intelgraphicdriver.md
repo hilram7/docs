@@ -32,7 +32,7 @@ Alternatively, you can import and use the Endpoint Policy Manager Admin Template
 with this setting already configured.
 
 ```
-<policy xmlns="http://www.policypak.com/2014/Policies/ATM" xmlns:common="http://www.policypak.com/2014/CommonTypes" xmlns:mmc="http://www.policypak.com/2014/Policies/MMC" xmlns:policies="http://www.policypak.com/2014/Policies/PolicyData" id="{97cfdeb3-1811-402b-a8f3-5baaeca1cd8b}" productId="{E0088A46-AB54-4FBD-A733-303C58244C5E}" scope="machine" timestamp="1736976809">
+<policy xmlns="https://www.policypak.com/2014/Policies/ATM" xmlns:common="https://www.policypak.com/2014/CommonTypes" xmlns:mmc="https://www.policypak.com/2014/Policies/MMC" xmlns:policies="https://www.policypak.com/2014/Policies/PolicyData" id="{97cfdeb3-1811-402b-a8f3-5baaeca1cd8b}" productId="{E0088A46-AB54-4FBD-A733-303C58244C5E}" scope="machine" timestamp="1736976809">
 <admxFiles>
 <file fileName="ppcses.admx" namespace="endpointpolicymanager.CSEs"/>
 </admxFiles>
@@ -70,3 +70,4 @@ worked.
 ![Intel Driver and Support Assistant Installer](/images/endpointpolicymanager/troubleshooting/inteldsainstaller.webp)
 
 If the Intel update is still canceled, try both resolutions before reaching out to support.
+

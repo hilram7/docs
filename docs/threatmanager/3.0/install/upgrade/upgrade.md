@@ -59,3 +59,4 @@ You can:
 
 - [Upgrade Threat Manager from 2.8 to 3.0](/docs/threatmanager/3.0/install/upgrade/upgrade3.0.md)
 - [Upgrade Threat Manager from 2.6/2.7 To 2.8](/docs/threatmanager/3.0/install/upgrade/upgrade2.8.md)
+

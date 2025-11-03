@@ -23,3 +23,4 @@ Support for modern authentication will allow you to audit the organizations wher
 all users, including service accounts. See the
 [App Registration and Configuration in Microsoft Entra ID](/docs/1secure/configuration/registerconfig/registerconfig.md)
 topic for additional information.
+

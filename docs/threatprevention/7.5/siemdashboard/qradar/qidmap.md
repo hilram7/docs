@@ -72,3 +72,4 @@ The built-in low-level categories have two levels:
 | Workstation EventsScreen Saver StartTrueFalse         | Screen Saver Start   | 3004               | Workstation Screen Saver Start                                        |
 | Workstation EventsScreen Saver StopTrueFalse          | Screen Saver Stop    | 3004               | Workstation Screen Saver Stop                                         |
 | Workstation EventsUnlockTrueFalse                     | Unlock               | 3004               | Workstation Unlocked                                                  |
+

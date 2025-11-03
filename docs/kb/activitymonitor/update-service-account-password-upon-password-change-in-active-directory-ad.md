@@ -86,3 +86,4 @@ C:\inetpub\wwwroot\StealthAUDIT Compliance
 - If using a NAM agent to monitor a NetApp NAS with this service account, it may also be necessary to update the credentials for the `Stealthbits NetApp File Monitoring Service` (in Windows Services):  
   <!-- Image not available: ka0Qk000000B8wj_0EM4u000008LaXY.png -->
   *Screenshot: NetApp File Monitoring Service properties*
+

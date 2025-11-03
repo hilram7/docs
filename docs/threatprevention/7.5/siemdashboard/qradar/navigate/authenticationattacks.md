@@ -22,3 +22,4 @@ incidents within the past week. It contains the following cards:
 - Event Search for Attack: [Searched Attack] – Tabular format of all events related to the attack.
   Information is only visible after clicking Search on an offense. See the
   [Table Card Features](/docs/threatprevention/7.5/siemdashboard/qradar/navigate/navigate.md#table-card-features) topic for additional information.
+

@@ -13,3 +13,4 @@ SharePoint environment:
 | ---- | -------- | --------------------------------- | --------- | ----------------------------- | ------------------- |
 | 80   | TCP      | Enterprise Auditor Console server | `<-->`    | SharePoint Online Environment | HTTP Communication  |
 | 443  | TCP      | Enterprise Auditor Console server | `<-->`    | SharePoint Online Environment | HTTPS Communication |
+

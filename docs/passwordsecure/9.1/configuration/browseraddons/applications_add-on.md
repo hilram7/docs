@@ -92,3 +92,4 @@ actions are correct. Finally, the application can be saved.
 ![example for a application](/images/passwordsecure/9.1/configuration/browseradd-ons/applications/installation_with_parameters_147-en.webp)
 
 The saved application is now available for the user and can be used via the add-on.
+

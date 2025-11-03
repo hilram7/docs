@@ -93,3 +93,4 @@ Create a combined request by proceeding as follows:
 5. Click on **Use Token** and **Send** and get the result from the response body.
 
     ![Postman: Access Token Result (Combined Request)](/images/identitymanager/saas/integration-guide/api/how-tos/request-postman/postman_accesstokenresult.webp)
+

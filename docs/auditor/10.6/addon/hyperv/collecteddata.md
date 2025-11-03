@@ -25,3 +25,4 @@ only.
 - You can also configure and receive alerts on the events you are interested in. See the
   [Administration](/docs/auditor/10.6/admin/overview.md) topic for additional
   information.
+

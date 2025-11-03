@@ -162,3 +162,4 @@ There are custom scripts created by Netwrix Engineers that execute the notificat
 emails. See the [Custom Scripts](/docs/threatprevention/7.5/admin/templates/folder/actions/actions.md#custom-scripts) topic for additional information.
 
 :::
+

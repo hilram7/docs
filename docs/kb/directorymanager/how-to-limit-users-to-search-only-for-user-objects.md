@@ -48,3 +48,4 @@ By default, the **Find** dialog box allows searches for *Users*, *Contacts*, and
 After applying the configuration, the **Find** dialog box will display only the **User** object type in searches.
 
 ![Find dialog box limited to User object type](images/ka0Qk000000FGyv_0EMQk00000CALUk.png)
+

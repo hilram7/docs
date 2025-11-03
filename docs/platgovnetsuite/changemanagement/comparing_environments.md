@@ -204,3 +204,4 @@ In this example, **Special Scheme Code** body field only exists in the **Target*
 On the **Diff** tab:
 
 ![compare_accounts_-_diff_only_one_ss](/images/platgovnetsuite/change_management/compare_accounts_-_diff_only_one_ss.webp)
+

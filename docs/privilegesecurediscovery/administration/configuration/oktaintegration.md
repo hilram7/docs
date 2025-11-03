@@ -156,3 +156,4 @@ appropriate:
 ![mceclip36.webp](/images/privilegesecure/4.2/discovery/admin/configuration/360048120774_mceclip36.webp)
 
 - Click [SSO Login] button to log in via Okta.
+

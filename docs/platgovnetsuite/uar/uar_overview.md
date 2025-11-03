@@ -86,3 +86,4 @@ Permissions are categorized by:
 - Lists, including Master Data and Configuration
 - Setup
 - Custom Records
+

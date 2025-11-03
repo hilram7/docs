@@ -23,3 +23,4 @@ information is collected for users outside out of the scope. User names and grou
 target environment is necessary to generate the Box Solution reports.
 
 :::
+

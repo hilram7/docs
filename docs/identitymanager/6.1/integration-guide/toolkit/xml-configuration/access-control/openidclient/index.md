@@ -54,3 +54,4 @@ below. To be valid, it must be lower or equal to -2.
 | HashedSecret required   | **Type** String **Description** HashedPassword of client                                                            |
 | Identifier required     | **Type** String **Description** Client login name and name                                                          |
 | Profile required        | **Type** Int64 **Description** Profile linked with the client                                                       |
+

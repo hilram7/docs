@@ -25,3 +25,4 @@ This cmdlet supports the common parameters: **Verbose**, **Debug**, **ErrorActio
 PS C:\> Get-PPEEnabled
 
 **Status PPE : Enabled**
+

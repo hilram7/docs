@@ -73,3 +73,4 @@ Start-Service w3svc
 ![The SbPAM web application interface's user settings menu dropdown.](images/ka04u000000wvts_0EM4u000004bjDZ.png)
 
 ![The SbPAM web application interface's settings page, displaying the Register Services button.](images/ka04u000000wvts_0EM4u000004bjDe.png)
+

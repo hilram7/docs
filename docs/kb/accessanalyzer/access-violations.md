@@ -57,3 +57,4 @@ You can do this for the `StealthAUDIT.exe`, as well.
 **Module:** Netwrix Access Analyzer - DC - Blackberry; Netwrix Access Analyzer - DC - Exchange2k; Netwrix Access Analyzer - DC - ExchangePS; Netwrix Access Analyzer - DC - PowerShell; Netwrix Access Analyzer - DC - Smartlog EventLog; Netwrix Access Analyzer - DC - Smartlog IIS
 
 **Salesforce Article ID:** 000001060
+

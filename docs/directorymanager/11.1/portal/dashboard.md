@@ -68,3 +68,4 @@ The dashboard comprises of a few cards.
 | Pending Requests   | Displays logged-in user's requests that have not been approved yet.                                                                                            |
 | Account Protection | Displays logged-in user's requests that have not been approved yet.                                                                                            |
 | My Account History | Keeps track of the actions you performed using the portal. Use the **Add Note** button next to a history item to explain the reason for performing the action. |
+

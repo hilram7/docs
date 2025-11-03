@@ -44,3 +44,4 @@ This example removes DemoGStore1 and DemoGStore2 identity stores through the pip
 ```
 'DemoGStore1', 'DemoGStore2' | Remove-IdentityStore
 ```
+

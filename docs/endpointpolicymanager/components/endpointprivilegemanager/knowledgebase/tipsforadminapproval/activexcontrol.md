@@ -70,3 +70,5 @@ RESULT of performing Option 1, Option 2 or Option 3 above.)
 ![859_7_image009_950x363](/images/endpointpolicymanager/leastprivilege/policyeditor/859_7_image009_950x363.webp)
 
 ![859_8_image010_950x541](/images/endpointpolicymanager/leastprivilege/policyeditor/859_8_image010_950x541.webp)
+
+

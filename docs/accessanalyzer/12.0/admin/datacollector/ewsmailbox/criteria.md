@@ -32,3 +32,4 @@ The table contains the following types of criteria:
     user-defined criteria. See the
     [Sensitive Data Criteria Editor](/docs/accessanalyzer/12.0/sensitivedatadiscovery/criteriaeditor/overview.md)
     topic for additional information.
+

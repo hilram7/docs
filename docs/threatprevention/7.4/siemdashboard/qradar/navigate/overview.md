@@ -37,3 +37,4 @@ within the past three (3) hours. It has the following cards:
   timeframe, i.e., last three (3) hours. See the
   [Graph Card Features](/docs/threatprevention/7.4/siemdashboard/qradar/navigate/navigate.md#graph-card-features)
   topic for additional information.
+

@@ -73,3 +73,5 @@ all. That is how you can go about managing the application settings using Policy
 of Group Policy and using SCCM instead. If this is of interest to you, get in touch with us. We'll
 have you watch a webinar. We'll give you the bits, and you can get started on your trial right away.
 Thanks so much.
+
+

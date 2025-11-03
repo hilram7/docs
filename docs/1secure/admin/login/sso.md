@@ -140,3 +140,4 @@ It is recommended to copy these settings and keep them safe.
 - Directory (tenant) ID – A tenant ID for the registered application
 - Client Secret – A client secret value generated when a new client secret key is created for the
   registered application. See the [Generate Client Secret Value](/docs/1secure/configuration/registerconfig/registerconfig.md#generate-client-secret-value) topic for additional information.
+

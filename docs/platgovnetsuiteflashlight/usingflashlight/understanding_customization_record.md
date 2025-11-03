@@ -40,3 +40,4 @@ The top section summarizes the key data about the Object:
 
 The bottom section displays tabs containing specific information for the record. The available tabs
 and information vary depending on the type of Object being viewed.
+

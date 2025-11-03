@@ -109,3 +109,4 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Imanami\GroupID\Version 11.0
    - Netwrix Directory Manager Certificate
 
 > **NOTE:** Do not remove these certificates if another Directory Manager version is installed on the machine.
+

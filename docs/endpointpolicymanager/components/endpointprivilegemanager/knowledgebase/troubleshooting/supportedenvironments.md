@@ -19,3 +19,5 @@ Two other notes:
 - SHA1 signed .JS and .VBS files should work in Windows 7.
 
 ![696_1_ghjklyhuouioui3333333](/images/endpointpolicymanager/troubleshooting/leastprivilege/696_1_ghjklyhuouioui3333333.webp)
+
+

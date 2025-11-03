@@ -13,3 +13,4 @@ Use the **View Query** option to open the Host Discovery Queries pane.
 Click **View Query** to go to the Host Discovery Queries pane. See the
 [Host Discovery Queries](/docs/accessanalyzer/11.6/admin/hostdiscovery/queries.md)
 topic for additional information.
+

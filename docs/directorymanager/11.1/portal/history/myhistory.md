@@ -128,3 +128,4 @@ formats are:
 - XML
 
 The file is created at the download location specified in the browser settings.
+

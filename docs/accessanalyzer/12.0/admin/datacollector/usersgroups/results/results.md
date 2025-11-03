@@ -16,3 +16,4 @@ Choose from the following query categories:
 - [UsersGroups: Users Category](/docs/accessanalyzer/12.0/admin/datacollector/usersgroups/results/users.md)
 - [UsersGroups: Groups Category](/docs/accessanalyzer/12.0/admin/datacollector/usersgroups/results/groups.md)
 - [UsersGroups: Security Category](/docs/accessanalyzer/12.0/admin/datacollector/usersgroups/results/security.md)
+

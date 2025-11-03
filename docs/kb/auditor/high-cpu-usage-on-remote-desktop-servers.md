@@ -61,3 +61,4 @@ To change this on the machine where ALE is installed:
 4. Restart the Netwrix Account Lockout Examiner service via `Services.msc`.
 
 ![User-added image](images/ka04u000000HcUO_0EM7000000052im.png)
+

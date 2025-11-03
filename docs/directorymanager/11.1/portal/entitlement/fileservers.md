@@ -140,3 +140,4 @@ displayed in the results.
 | Group has direct Deny access on a folder.                                     | Explicit Deny access is displayed on the root parent folder. |
 | User has inherited the Allow access but has explicit Deny access on a folder. | Deny access is displayed on the folder.                      |
 | User has inherited the Deny access but has explicit Allow access on a folder. | Allow access is displayed on the folder.                     |
+

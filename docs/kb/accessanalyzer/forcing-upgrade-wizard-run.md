@@ -65,3 +65,4 @@ If the command-line flag is not available or you prefer a configuration-based ap
 ## Related Link
 
 * [Access Analyzer Core Upgrade Instructions](https://docs.netwrix.com/docs/accessanalyzer/12_0/install/application/upgrade/wizard)
+

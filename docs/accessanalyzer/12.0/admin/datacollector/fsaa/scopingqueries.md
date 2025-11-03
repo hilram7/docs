@@ -117,3 +117,4 @@ Ensure that the data being retrieved by the query is expected.
 
 When a query configuration is enabled, the data collector runs against the target table to configure
 scoping for shares or folders in the environment.
+

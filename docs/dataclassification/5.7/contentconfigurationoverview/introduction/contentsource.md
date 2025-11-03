@@ -48,3 +48,4 @@ Alternatively, individual files can be added by using the Files section:
 When Upload Files is selected the file will be uploaded into the SQL database. This allows an
 application to present the file to users even if they do not have access to the original file
 location.
+

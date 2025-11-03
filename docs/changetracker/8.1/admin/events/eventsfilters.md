@@ -31,3 +31,4 @@ Filter parameters set will also be shown at the top of the Events page even when
 panel is hidden.
 
 ![page_guide_3](/images/changetracker/8.1/admin/tabs/page_guide_3.webp)
+

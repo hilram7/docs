@@ -29,3 +29,4 @@ What are the minimal rights required for the Netwrix Password Reset service acco
 - Member of Domain Admins
 - Member of the local administrator group on the computer where Netwrix Password Reset is installed
 - Granted permissions to send emails using the specified SMTP server.
+

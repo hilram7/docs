@@ -45,3 +45,4 @@ sudo ./epp_collect_dpi_info_mac.sh
 3. The log file `epp_dpi_logs.tar` will generate on your desktop.
 
 4. Once collected, attach the `epp_dpi_logs.tar` file to your support ticket related to this issue.
+

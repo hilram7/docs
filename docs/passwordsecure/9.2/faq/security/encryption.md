@@ -41,3 +41,4 @@ in advance. More…
 **CAUTION:** Only secrets are encrypted. Metadata is not encrypted to ensure search speed. Secrets
 are usually passwords. However, the customer can decide what kind of data they are. Note that
 Secrets cannot be searched for.
+

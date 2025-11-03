@@ -24,3 +24,4 @@ You can delete a credential if no sources are using those credentials.
 
 
 ![credentials](/images/1secure/admin/organizations/credentials.webp)
+

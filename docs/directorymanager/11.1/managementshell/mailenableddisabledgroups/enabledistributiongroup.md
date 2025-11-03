@@ -34,3 +34,4 @@ the credentials of current user logged-on to the identity store.
 ```
 Enable-DistributionGroup -Identity "CN=Smart_Training,OU=Recruiting,DC=HR,DC=Imanami,DC=US"
 ```
+

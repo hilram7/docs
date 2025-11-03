@@ -105,3 +105,4 @@ for long passwords.
       consecutive matching characters (shown in bold type). Password Policy Enforcer will reject
       this password if the tolerance is four (or lower), and accept it if the tolerance is five (or
       higher).
+

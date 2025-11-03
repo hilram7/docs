@@ -92,3 +92,4 @@ sure that the SQL Server Name and Database Name fields contain correct values. I
 
 **Step 5 –** In the Reporting Services Configuration Manager left pane, select **Report Manager
 URL**. Make sure **Virtual Directory** is set correctly, and that the URL is valid.
+

@@ -57,3 +57,4 @@ Send-MailMessage –From testlab@testdom.com –To testlab@testdom.com –Subjec
 ## Related articles
 
 - [Set Up Multifunction Device or Application to Send Emails Using Microsoft 365 or Office 365 − Configure Connector to Send Emails Using Microsoft 365 or Office 365 (SMTP Relay) · Microsoft &#129125;](https://learn.microsoft.com/en-us/exchange/mail-flow-best-practices/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-microsoft-365-or-office-365#option-3-configure-a-connector-to-send-emails-using-microsoft-365-or-office-365-smtp-relay)
+

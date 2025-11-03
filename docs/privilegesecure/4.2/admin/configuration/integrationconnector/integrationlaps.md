@@ -45,3 +45,4 @@ Follow the steps to add a vault connector for LAPS.
 **Step 4 –** Click the Save icon to create the new integration connector.
 
 The connector is added.
+

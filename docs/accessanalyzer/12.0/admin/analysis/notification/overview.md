@@ -45,3 +45,4 @@ properly.
 ![Notification Data Analysis Module wizard Welcome page](/images/accessanalyzer/12.0/admin/analysis/notification/welcome.webp)
 
 There are no configurable settings on the Welcome page. To proceed, click **Next**.
+

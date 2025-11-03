@@ -16,3 +16,4 @@ Manages users inside an EasyVista instance. This package supports incremental sy
 | Fulfill                 | Usercube-Fulfill-EasyVista.dll |
 | Has Incremental Mode    | True                           |
 | Publisher               | Identity Manager               |
+

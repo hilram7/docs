@@ -29,3 +29,4 @@ Identify the EWS mailbox information type using the following options:
     - MailboxSearchMailboxes – Search for mailboxes containing messages
     - MailboxSearchFolders – Search for folders containing messages
     - MailboxSearchMessages – Search for messages
+

@@ -12,3 +12,4 @@ detail in the Change Tracker Admin Guide.
 An example of the Cloud Tracker Certified CIS Compliance Report:
 
 ![cloudtrackerreports](/images/changetracker/8.1/cloud/cloudtrackerreports.webp)
+

@@ -30,3 +30,5 @@ but dated for another timeframe.
 Finally, please check this Microsoft Doc on how most application vendors associate digital
 signatures with their installers or EXE files:
 [Digital Signatures and Windows Installer](https://learn.microsoft.com/en-us/windows/win32/msi/digital-signatures-and-windows-installer).
+
+

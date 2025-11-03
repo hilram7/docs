@@ -86,3 +86,4 @@ haveibeenpwned-downloader.exe -n pwnedpasswords_ntlm -o
 ```
 
 For a complete list of available parameters, please check the [Pwnd Passwords Downloader GitHub page](https://github.com/HaveIBeenPwned/PwnedPasswordsDownloader).
+

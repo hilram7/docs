@@ -44,3 +44,4 @@ The following information determines which MFA method has priority:
 - If the user is a member of multiple Active Directory groups, each having different RADIUS
   profiles, the user assignment will be determined by the alphabetical order of the RADIUS profile
   name.
+

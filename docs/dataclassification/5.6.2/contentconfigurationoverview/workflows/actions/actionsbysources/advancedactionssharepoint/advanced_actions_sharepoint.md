@@ -46,3 +46,4 @@ To configure actions for SharePoint documents using the Advanced interface:
    Action Type list.
 
 ![action_advanced_sp_update_field_thumb_0_0](/images/dataclassification/5.6.2/workflows/advanced_window/action_advanced_sp_update_field_thumb_0_0.webp)
+

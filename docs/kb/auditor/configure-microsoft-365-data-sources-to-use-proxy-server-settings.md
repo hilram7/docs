@@ -110,3 +110,4 @@ Replace `proxyaddress="***.***.***.***:port"` with your actual proxy settings.
 ### Microsoft Teams
 
 To use proxy server settings for the Teams audit, set up both Microsoft Entra ID and SharePoint Online settings.
+

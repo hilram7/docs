@@ -17,3 +17,4 @@ In this learning path, you will be introduced to <NIM />, formerly Netwrix Userc
 * 1720 <NIM /> – Valuable Features
 
 <NIMValue />
+

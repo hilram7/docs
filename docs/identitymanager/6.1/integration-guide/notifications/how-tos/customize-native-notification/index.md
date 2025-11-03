@@ -48,3 +48,4 @@ Customize a native notification by proceeding as follows:
     > <NotificationTemplate Identifier="OneWayPasswordReset" BodyTemplate_L1="./Templates/MyOneWayPasswordReset.cshtml" SubjectTemplate_L2="./Templates/MyOneWayPasswordReset_Subject.fr.cshtml" />
     >
     > ```
+

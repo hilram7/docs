@@ -34,3 +34,4 @@ Configure the Message Activity Filter using the following options:
 
 The columns in the entry tables can be sorted and or filtered, using the same sorting and filtering
 methods of Enterprise Auditor data grids. The **Remove** option will delete a selected filter.
+

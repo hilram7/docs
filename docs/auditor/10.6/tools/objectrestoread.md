@@ -87,3 +87,4 @@ Now you will be able to restore deleted accounts with their passwords preserved.
    roll back to their previous state.
 6. Wait until the tool has finished restoring the selected objects. On the last step, review the
    results and click Finish to exit the wizard.
+

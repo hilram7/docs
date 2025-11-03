@@ -47,3 +47,4 @@ If you do not use the `Network traffic compression` option, make sure that the a
 - Read access to the monitored shared folder
 
 If the steps provided do not resolve your issue, please [contact Netwrix Technical Support](https://www.netwrix.com/support_ticket.html).
+

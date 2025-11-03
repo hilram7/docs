@@ -73,3 +73,4 @@ below this note.
 Changes will take effect once you have launched synchronization. Therefore, in order to verify the
 process, follow the
 [verification procedure indicated for a synchronization](/docs/identitymanager/6.1/user-guide/set-up/synchronization/index.md).
+

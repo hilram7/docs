@@ -22,3 +22,4 @@ the following information:
 - How to login
 - Information about your browser extension
 - Bookmark of Netwrix Password Secure
+

@@ -20,3 +20,4 @@ The jobs in the 0.Collection Job Group are:
   PostgreSQL databases based on pre-defined or user-defined search criteria
 - [Redshift_TablePrivileges Job](/docs/accessanalyzer/12.0/solutions/databases/redshift/collection/redshift_tableprivileges.md) - Designed to collect Redshift table
   privileges from all the targeted servers.
+

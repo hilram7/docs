@@ -204,3 +204,4 @@ Step 5 – Click **Save**.
 **See Also**
 
 - [Configure an SMTP Server](/docs/directorymanager/11.0/signin/identitystore/configure/smtpserver.md)
+

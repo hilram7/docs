@@ -147,3 +147,4 @@ The active assignments table has the following columns:
 - End Time - When the role eligibility expires
 - Privileged - If the role is privileged or not. A privileged role in Microsoft Entra ID grants
   elevated permissions for high-level administrative tasks
+

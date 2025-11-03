@@ -20,3 +20,4 @@ ServiceNow.
 
 Fields with a drop-down menu have a set of preconfigured options to select. Fields with ellipsis
 choose members from a preconfigured list.
+

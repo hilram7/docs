@@ -42,3 +42,4 @@ By default, Netwrix Password Reset looks for the pager number in the `Pager` fie
 `pager_number@operator_name.`
 
 The **Provider name** and **Property name** fields need to be filled out only if the pager number specified in the non-default field (pager field) contain only the pager number without the operator name (`145625378` instead of `145625378@`[esendex.net](http://esendex.net) for example).
+

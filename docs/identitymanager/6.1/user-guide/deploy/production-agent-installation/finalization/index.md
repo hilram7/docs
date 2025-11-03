@@ -32,3 +32,4 @@ Finalize the installation of the agent by proceeding as follows:
 
 To continue, follow the instructions to
 [verify the agent's installation](/docs/identitymanager/6.1/user-guide/deploy/production-agent-installation/index.md).
+

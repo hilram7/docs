@@ -26,3 +26,4 @@ Manager.
 | Role Eligibility Schedule        | Read and write role eligibility schedules in the directory | RoleEligibilitySchedule.ReadWrite.Directory |
 | Role Management                  | Retrieve all role management data                          | RoleManagement.Read.All                     |
 | User                             | Retrieve all users                                         | User.Read.All                               |
+

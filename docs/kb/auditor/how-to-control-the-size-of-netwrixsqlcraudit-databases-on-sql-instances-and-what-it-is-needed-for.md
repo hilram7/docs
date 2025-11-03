@@ -32,3 +32,4 @@ If you enable the **Audit data changes** option as part of SQL Server audit, Net
 2. Shrink the `NetwrixSQLCRAudit` database(s) via MSSQL Management Studio.
 
 For additional information about how Netwrix Auditor for SQL Server works, please refer to the following KB: [How Netwrix Auditor for SQL Server Collects Data](/docs/kb/auditor/how-netwrix-auditor-for-sql-server-collects-data.md)
+

@@ -73,3 +73,4 @@ Refer to a table below to compare product editions.
 | Netwrix Auditor Integration API                                                                                                                               |                                                                    |                                                             |
 | Data in                                                                                                                                                       | –                                                                  | +                                                           |
 | Data out                                                                                                                                                      | –                                                                  | +                                                           |
+

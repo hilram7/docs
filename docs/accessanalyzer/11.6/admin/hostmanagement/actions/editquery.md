@@ -15,3 +15,4 @@ Host Discovery Wizard opens to the Query page where the query settings for the s
 query-created host list are modified. See the
 [Host Discovery Wizard](/docs/accessanalyzer/11.6/admin/hostdiscovery/wizard/overview.md)
 topic for information on modifying these settings.
+

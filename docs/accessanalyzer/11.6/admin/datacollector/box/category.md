@@ -21,3 +21,4 @@ The Box Data Collector contains the following query categories:
 
     - Scan Box Permissions – Performs an audit for Box permissions
     - Import Box Permissions – Performs an import of Box permissions
+

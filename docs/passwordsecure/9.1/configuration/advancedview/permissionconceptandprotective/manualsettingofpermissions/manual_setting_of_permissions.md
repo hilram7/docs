@@ -97,3 +97,4 @@ The owner permission does not protect a record from being deleted. Any user who 
 deletion permission can delete the record!
 
 :::
+

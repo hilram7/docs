@@ -30,3 +30,4 @@ your execution scenario and security policies.
 | ShortTermFolder                      | ShortTerm                                                | Specify path to the short-term archive (Netwrix Auditor working folder). You can use full or relative path.                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 
 Remember to save **settings.xml** after editing is complete.
+

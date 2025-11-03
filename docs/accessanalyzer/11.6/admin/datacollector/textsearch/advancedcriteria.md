@@ -28,3 +28,4 @@ The configurable options are:
     topic for information on using the Filter builder.
 
 The filter section cannot be blank.
+

@@ -34,3 +34,4 @@ Prism server.
 `$name = "enter_new_name"`
 
 **Step 5 –** Save and then launch the updated **install.ps1** file.
+

@@ -18,3 +18,4 @@ The jobs in the 0.Collection job group are:
   to be used by the UX_ParseSudoers job
 - [UX_ParseSudeors Job](/docs/accessanalyzer/11.6/solutions/unix/privilegedaccess/sudoers/collection/ux_parsesudeors.md)
   – This job parses all rights granted via sudoers in the audited environment
+

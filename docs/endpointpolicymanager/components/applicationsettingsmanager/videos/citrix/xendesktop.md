@@ -229,3 +229,5 @@ I hope this explains how PolicyPak works with XenDesktop. If you have any questi
 help. This is, again, Jeremy Moskowitz, former Group Policy MVP and Founder of PolicyPak Software.
 
 I'll talk to you soon. Thanks.
+
+

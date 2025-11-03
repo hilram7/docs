@@ -36,3 +36,4 @@ When the **Database Content Audit** option is selected, on each data collection 
    ```
    - Replace `db_name` with the name of the corrupted database.
    - Replace `user_name` with the database owner account name.
+

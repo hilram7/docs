@@ -90,3 +90,4 @@ Replace the `%CERTIFICATE_PASSWORD%` placeholder with an actual password.
 8. Import the certificate to all Netwrix Auditor client servers. Perform steps #6 and #7 on all Netwrix Auditor clients.
 
 > **NOTE:** If you deploy new Netwrix Auditor clients, deploy this certificate on all new servers.
+

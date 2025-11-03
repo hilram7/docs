@@ -107,3 +107,4 @@ A few grid display types used in the default portal template are:
     grid will be read-only.
 14. Click **OK**.
 15. Click **Save** on the **Custom Display Types** page.
+

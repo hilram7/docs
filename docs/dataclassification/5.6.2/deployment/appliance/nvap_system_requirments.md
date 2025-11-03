@@ -42,3 +42,4 @@ Classification virtual appliance is going to be deployed:
 | Total Video Memory | 16 MB                                              |
 | Network adapter    | vmxnet3                                            |
 | Other              | Check and upgrade VMware Tools during power cycle. |
+

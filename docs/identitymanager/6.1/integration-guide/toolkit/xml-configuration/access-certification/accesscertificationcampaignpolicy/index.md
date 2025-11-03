@@ -15,3 +15,4 @@ default policy always exists.
 | ----------------------- | --------------------------------------------------------------------------------------------- |
 | DisplayName_L1 required | **Type** String **Description** Display name of the campaign policy in language 1 (up to 16). |
 | Identifier required     | **Type** String **Description** Policy identifier                                             |
+

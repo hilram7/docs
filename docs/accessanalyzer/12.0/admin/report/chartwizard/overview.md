@@ -19,3 +19,4 @@ The Chart Configuration wizard consists of three pages:
 Once you have finished configuring the chart, click **Finish** to close the wizard. You are returned
 to the Widgets page of the Report Configuration wizard, where the newly configured chart is shown.
 You must complete the Report Configuration wizard to save the chart on the report.
+

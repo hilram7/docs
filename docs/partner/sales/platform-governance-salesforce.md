@@ -20,3 +20,4 @@ This learning path grants <Company /> certification as a Sales Professional for 
 In this course, you'll receive a comprehensive overview of <Company />'s leading data security and compliance platform for Salesforce — how it works, what you can do with it, and why it's useful. <NPGS /> was formerly Netwrix Strongpoint for Salesforce.
 
 Estimated length: 1 hour
+

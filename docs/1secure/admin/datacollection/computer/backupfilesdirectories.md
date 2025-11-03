@@ -61,3 +61,4 @@ domain controllers.
 **Step 9 –** Ensure that new GPO settings applied on any audited domain controller.
 
 The policy is now configured.
+

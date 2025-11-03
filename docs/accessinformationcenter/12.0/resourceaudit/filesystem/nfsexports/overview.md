@@ -18,3 +18,4 @@ The following reports are available at the share and subfolder levels below the 
 - [Activity Statistics Report](/docs/accessinformationcenter/12.0/resourceaudit/filesystem/nfsexports/activitystatistics.md)
 - [Permissions Report](/docs/accessinformationcenter/12.0/resourceaudit/filesystem/nfsexports/permissions.md)
 - [Sensitive Content Report](/docs/accessinformationcenter/12.0/resourceaudit/filesystem/nfsexports/sensitivecontent.md)
+

@@ -46,3 +46,4 @@ The `rdp_template.txt` file is located on a Netwrix Privilege Secure server via 
 1. Open `rdp_template.txt`.
 2. Modify the value for the desired setting, save the file, and then re-download an RDP file from Netwrix Privilege Secure to use the new settings.
 3. For example, to enable Fullscreen Resolution change `screen mode id:i:1` to `screen mode id:i:2`.
+

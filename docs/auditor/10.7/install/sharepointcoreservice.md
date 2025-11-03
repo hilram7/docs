@@ -37,3 +37,4 @@ computer where Central Administration is installed.
 
 **Step 3 –** Follow the instructions of the setup wizard. When prompted, accept the license
 agreement and specify the installation folder.
+

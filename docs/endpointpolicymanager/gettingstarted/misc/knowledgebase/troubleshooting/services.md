@@ -57,3 +57,4 @@ to a corresponding Client Side Extension.
 Endpoint Policy Manager's components are also architected as Client Side Extensions, but CSEs cannot
 continue to perform duties in real-time, only services can do that. Therefore, Endpoint Policy
 Manager has some services to watch over and perform items in realtime.
+

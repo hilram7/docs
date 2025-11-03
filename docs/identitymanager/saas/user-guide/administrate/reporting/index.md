@@ -134,3 +134,4 @@ matrixes, etc.) using Identity Manager's universes.
 See the
 [Connect Power BI to Identity Manager](/docs/identitymanager/saas/integration-guide/governance/reporting/how-tos/connect-powerbi/index.md)
 topic for additional information on how to analyze Identity Manager's data with Power BI.
+

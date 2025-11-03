@@ -29,3 +29,4 @@ Run the installation via the command line: **MSI-FILE.msi [PARAMETER]**
 - **IGNORE_TS_SERVICES=“1”**: Deactivates the installation of the terminal server services, no
   matter on which system the installation is running
 - **INSTALL_IDP_SERVICE="1"**
+

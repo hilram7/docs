@@ -24,3 +24,4 @@ The options on the Exclusions Page are:
 
 The **Remove** option will delete a selected folder from the list. The **Clear List** option will
 remove all folders from the list.
+

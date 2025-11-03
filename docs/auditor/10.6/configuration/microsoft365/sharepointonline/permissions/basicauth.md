@@ -76,3 +76,4 @@ account with this privileged role on the Specify the account for collecting data
 **Step 10 –** Assign a less-privileged role to this account.
 
 A less privileged role has now been assigned to the account.
+

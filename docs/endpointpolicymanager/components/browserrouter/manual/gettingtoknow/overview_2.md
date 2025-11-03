@@ -30,3 +30,5 @@ Log files for Endpoint Policy Manager Browser Router are found in the two follow
 
 Logs are automatically wrapped up and can be sent to support by [opening a support ticket](https://www.netwrix.com/tickets.html#/open-a-ticket)
 with the PPLOGS.EXE command on any endpoint where the CSE is installed.
+
+

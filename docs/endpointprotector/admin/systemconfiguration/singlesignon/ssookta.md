@@ -104,3 +104,4 @@ Protector Server:
 
 **Step 17 –** **Save** the settings on your Endpoint Protector Server and click **Test** to conﬁrm
 conﬁguration settings are correct.
+

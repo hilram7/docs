@@ -26,3 +26,4 @@ The queries for this job are:
   TimeSync information from the registry
     - See the [Registry Data Collector](/docs/accessanalyzer/12.0/admin/datacollector/registry.md) topic for
       additional information.
+

@@ -26,3 +26,4 @@ The Security Job Group is comprised of:
 
 - [FS_LocalUserActivity Job](/docs/accessanalyzer/11.6/solutions/filesystem/activity/security/fs_localuseractivity.md)
   – Designed to report on local user activity event information from targeted file servers
+

@@ -102,3 +102,4 @@ Similar to generating an Oﬄine Temporary Password for a speciﬁc device, when
 devices or all ﬁle transfers, the Computer Name and the Username ﬁelds are not both mandatory. The
 OTP Code is perfectly valid if only one of them is provided. However, if the OTP Code needs to be
 valid for an exact computer and an exact user, all of the relevant ﬁelds need to be ﬁlled in.
+

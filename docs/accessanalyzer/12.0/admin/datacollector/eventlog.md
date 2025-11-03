@@ -104,3 +104,4 @@ In the Available Properties section, select which properties will be collected b
 
 Once all options have been configured, click **OK** to save changes and exit the browser. Click
 **Cancel** to exit without saving.
+

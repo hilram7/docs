@@ -67,3 +67,4 @@ Email notifications in Netwrix Directory Manager (formerly GroupID) inform users
   - **X days before object is removed as additional owner/manager:** Select and specify the number of days (e.g., `2`) to notify temporary additional managers/owners before removal.
 
 6. Click **Apply** and then **OK** to save your changes.
+

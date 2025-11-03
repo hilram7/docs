@@ -160,3 +160,5 @@ For offline analysis, the report can be exported to either Excel or, if very lar
 can be done before or after filtering.
 
 ![1329_13_50b225886bba8747a9460411f4662cc9](/images/endpointpolicymanager/leastprivilege/mac/1329_13_50b225886bba8747a9460411f4662cc9.webp)
+
+

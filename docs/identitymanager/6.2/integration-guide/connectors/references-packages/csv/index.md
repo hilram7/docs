@@ -16,3 +16,4 @@ Exports CSV to prepare synchronization.
 | Fulfill                 | NONE                    |
 | Has Incremental Mode    | True                    |
 | Publisher               | Identity Manager        |
+

@@ -147,3 +147,4 @@ summary criteria for this type of search.
 
 **Next Step:**
 [Creating Four Mass Updates](/docs/platgovnetsuite/bundleremoval/creating_four_mass_updates.md)
+

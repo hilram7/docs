@@ -44,3 +44,4 @@ This was a known issue fixed in Netwrix Auditor v10.6.12359 and later versions.
 
 - [Customer Portal · Netwrix &#129125;](https://www.netwrix.com/sign_in.html)
 - Installation — Upgrade to the Latest Version — v10.6
+

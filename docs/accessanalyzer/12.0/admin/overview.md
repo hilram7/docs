@@ -69,3 +69,4 @@ Console, which is created during the installation of Access Analyzer. The Web Co
 provide access to the Access Information Center, and other Stealthbits products.
 
 See the [Reporting](/docs/accessanalyzer/12.0/admin/report/overview.md) topic for additional information.
+

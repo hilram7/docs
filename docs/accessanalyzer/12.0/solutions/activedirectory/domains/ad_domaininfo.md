@@ -68,3 +68,4 @@ the following pre-configured reports:
 | Domains | This report lists the forest sites and presents the total number of domain controllers, GC Servers, and users per site. | None         | This report is comprised of two elements: <ul><li>Stacked Bar Chart – Displays domains</li><li>Table – Provides details on domains</li></ul>                 |
 | Sites   | This report lists the sites and counts the domain controllers, global catalogue servers, and users of each.             | None         | This report is comprised of two elements: <ul><li>Bar Chart – Displays sites by user count</li><li>Table – Provides details on sites by user count</li></ul> |
 | Trusts  | This report lists the domains and presents the trust information, including type, direction, and transitivity.          | None         | This report is comprised of one elements: <ul><li>Table – Provides details on domains and trusts</li></ul>                                                   |
+

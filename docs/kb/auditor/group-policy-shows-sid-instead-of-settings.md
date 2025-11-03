@@ -37,3 +37,4 @@ In order to determine the domain controller that should be used, please submit a
 1. The problematic Group Policy Change report (it should contain the date and time the report was received).
 2. The Group Policy Change Reporter tracing logs (the entire content of the tracing folder) - the default location is `C:Program Files (x86)NetWrixAD Change Reporter Full VersionGPOExecTracing`
 3. The tracing of the Active Directory Change Report module - the entire content of the `Tracing` subfolder located in the installation folder of the product.
+

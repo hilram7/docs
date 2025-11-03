@@ -46,3 +46,4 @@ Make sure to check your product version, and then review and update your add-ons
 leveraging the Integration API. Download the latest add- on version in the Add- on Store. See the
 [Integration API](/docs/auditor/10.6/api/overview.md) topic for additional
 information about schema updates.
+

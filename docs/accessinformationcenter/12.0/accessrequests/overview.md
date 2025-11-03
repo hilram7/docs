@@ -112,3 +112,4 @@ groups. Netwrix recommends notifying them with the following information:
 - How to access the instructions on how to submit access requests. You can link to the
   [Your Access Portal Overview](/docs/accessinformationcenter/12.0/youraccessportal/overview.md) topic or download that topic and its
   subtopics as a PDF and make it available within your corporate resources
+

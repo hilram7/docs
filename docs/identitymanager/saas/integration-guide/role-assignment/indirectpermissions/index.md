@@ -111,3 +111,4 @@ In case of emergency, one can disable the computation of indirect permissions by
 `"DisableIndirectPermissions": true` field to the root of the `appsettings`. While the computation
 is disabled, indirect permissions will be frozen in time: any existing one will not be deleted and
 any potential new one will not be added.
+

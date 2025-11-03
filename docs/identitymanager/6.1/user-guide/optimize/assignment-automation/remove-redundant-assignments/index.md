@@ -128,3 +128,4 @@ In order to verify the process:
     > When removing redundant assignments based on the previous report example, we can see:
     >
     > ![Redundant Assignments - Result](/images/identitymanager/6.1/user-guide/optimize/assignment-automation/remove-redundant-assignments/redundantassignments_reportexampleverif_v602.webp)
+

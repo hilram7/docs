@@ -39,3 +39,4 @@ The ExchangeMetrics Data Collector contains the following query categories:
       update its settings
     - Check Applet State – Information about a deployed data collector applet
     - Remove Applet Settings – Removes a deployed data collector applet from an Exchange Server
+

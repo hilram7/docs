@@ -31,3 +31,4 @@ This is a typical report from a target server with a disabled/unavailable Remote
 ---
 
 Check if Remote Registry service is running on the target server and is accessible from Netwrix host machine.
+

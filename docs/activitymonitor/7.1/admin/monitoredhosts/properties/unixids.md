@@ -28,3 +28,4 @@ The options are:
     - with a custom filter – Use the %UID% macro for a Unix ID value
     - Provide UID for test/Test – Test button performs a search in the specified container with the
       scope and the filter, replacing %UID% with 0 for the test
+

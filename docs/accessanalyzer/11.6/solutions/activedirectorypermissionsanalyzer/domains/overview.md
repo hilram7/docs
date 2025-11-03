@@ -19,3 +19,4 @@ The jobs in the 8.Domains Job Group are:
 - [AD_DomainReplication Job](/docs/accessanalyzer/11.6/solutions/activedirectorypermissionsanalyzer/domains/ad_domainreplication.md)
   – Highlights all Active Directory permissions applied to domain objects within the targeted
   domains
+

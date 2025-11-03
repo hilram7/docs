@@ -17,3 +17,4 @@ The jobs in the 0.Collection Job Group are:
   Size Information
 - [2.PF > EX_PFInfo Job](/docs/accessanalyzer/12.0/solutions/exchange/databases/collection/ex_pfinfo.md) – Utilizes MAPI to gather Public Folder Database Information
   focusing on database sizing, growth, and trends
+

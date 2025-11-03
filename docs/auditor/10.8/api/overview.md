@@ -57,3 +57,4 @@ Make sure Integration API is enabled. To check it, navigate to Settings → Inte
 [Integrations](/docs/auditor/10.8/admin/settings/integrations.md) for more information.
 
 Make sure to provide a monitoring plan name and item name in activity records before importing data.
+

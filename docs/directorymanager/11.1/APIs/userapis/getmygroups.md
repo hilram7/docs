@@ -173,3 +173,4 @@ The Get My Groups API retrieves groups of the authenticated user.
   ]
 }
 ```
+

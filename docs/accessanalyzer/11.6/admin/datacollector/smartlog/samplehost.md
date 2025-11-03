@@ -58,3 +58,4 @@ type and location in the original Select Computer window.
 - Click **Find Now** to run a search for items matching the selected criteria in the location of the
   object selected
 - Click **Stop** to stop a search in progress
+

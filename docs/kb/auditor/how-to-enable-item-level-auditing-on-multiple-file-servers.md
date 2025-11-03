@@ -39,3 +39,4 @@ The script must be run under a domain admin account.
 - The script targets all Computers in the specified OU.
 - The script applies audit settings to all visible shares on those computers for all access and modify events.
 - Ensure you run the script using a domain admin account to allow the required changes.
+

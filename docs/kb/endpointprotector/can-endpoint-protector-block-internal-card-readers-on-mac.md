@@ -32,3 +32,4 @@ Yes, Endpoint Protector can block internal card readers on Mac computers. In the
 If the rights for the **USB Storage Device** class are set to **Allow**, internal card readers will also be allowed, and users will be able to access information from inserted cards.
 
 If the rights for the **USB Storage Device** class are set to **Deny**, the internal card reader will be blocked.
+

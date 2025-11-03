@@ -85,3 +85,4 @@ Verify that the Audit Database account has the correct permissions—refer to th
 - [SQL Server Express Database Size Reached 10GB](/docs/kb/auditor/sql-server-express-database-size-reached-10gb.md)
 - [Configure Audit Database Account](https://docs.netwrix.com/docs/auditor/10_8/requirements/sqlserver#configure-audit-database-account)
 - [Configure Long-Term Archive Account](https://docs.netwrix.com/docs/auditor/10_8/requirements/longtermarchive#configure-long-term-archive-account)
+

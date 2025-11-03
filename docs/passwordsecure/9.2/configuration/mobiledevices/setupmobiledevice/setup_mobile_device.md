@@ -22,3 +22,4 @@ following chapters:
 - [Linking the database](/docs/passwordsecure/9.2/configuration/mobiledevices/setupmobiledevice/linking_the_database.md)
 - [Biometric login](/docs/passwordsecure/9.2/configuration/mobiledevices/setupmobiledevice/biometric_login.md)
 - [Setting up autofill](/docs/passwordsecure/9.2/configuration/mobiledevices/setupmobiledevice/setting_up_autofill.md)
+

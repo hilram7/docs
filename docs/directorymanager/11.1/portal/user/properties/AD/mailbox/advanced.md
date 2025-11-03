@@ -52,3 +52,4 @@ Notes by the administrator.
 **Deliver messages to both forwarding address and mailbox**
 
 Indicates whether to send every email for this user to the alternate recipient as well.
+

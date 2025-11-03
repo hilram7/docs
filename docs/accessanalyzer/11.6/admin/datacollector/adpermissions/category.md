@@ -18,3 +18,4 @@ The categories on the ADPermissions Category page are:
 - Remove Tables – Remove all tables and views from SQL server. See the
   [Remove ADPermissions Tables](/docs/accessanalyzer/11.6/admin/datacollector/adpermissions/removetables.md)
   topic for additional information.
+

@@ -91,3 +91,4 @@ There must be no
 for the affected organisational structure This process is illustrated in the following diagram:
 
 ![process for inheritance of permissions](/images/passwordsecure/9.1/configuration/advanced_view/permissionconcept/automated_settings/inheritance_from_organisational_structures/inheritance-7-en.webp)
+

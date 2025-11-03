@@ -18,3 +18,4 @@ This report is comprised of the following columns:
 - Path – Location of the share
 - Subfolders – Count of subfolders within the share
 - Exceptions – Count of exceptions within the share
+

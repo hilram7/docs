@@ -193,3 +193,4 @@ Output Properties window has the following tabs:
 - [Protocols Tab](/docs/activitymonitor/8.0/admin/outputs/protocols.md)
 - [Process Exclusions Tab](/docs/activitymonitor/8.0/admin/outputs/processexclusions/processexclusions.md)
 - [Syslog Tab](/docs/activitymonitor/8.0/admin/outputs/syslog/syslog.md), Syslog output only
+

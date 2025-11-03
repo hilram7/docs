@@ -18,3 +18,4 @@ The list of properties for the Child Element: Property in listed below.
 | Property                 | Type  | Description                                               |
 | ------------------------ | ----- | --------------------------------------------------------- |
 | VisibilityGroup optional | Int64 | The VisibilityGroup that controls access to the property. |
+

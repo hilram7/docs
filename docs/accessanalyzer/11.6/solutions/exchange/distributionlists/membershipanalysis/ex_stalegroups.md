@@ -30,3 +30,4 @@ The following analysis tasks are selected by default:
        Results node
 -   **3. Stale Groups** – Creates an interim processing table in the database, for use by downstream
        analysis and report generations
+

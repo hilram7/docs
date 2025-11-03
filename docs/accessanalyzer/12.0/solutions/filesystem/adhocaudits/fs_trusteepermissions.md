@@ -39,3 +39,4 @@ produces the following pre-configured report:
 | Report                    | Description                                                                                             | Default Tags | Report Elements                                                                                                                                              |
 | ------------------------- | ------------------------------------------------------------------------------------------------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Trustee Permissions Audit | This report provides an overview of the access sprawl across the environment for the select trustee(s). | None         | This report is comprised of two elements: <ul><li>Bar Chart – Displays summary of trustees</li><li>Table – Provides details on trustee permissions</li></ul> |
+

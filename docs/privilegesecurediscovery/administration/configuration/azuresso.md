@@ -104,3 +104,4 @@ during login attempts.
 ![signsaml_assertion](/images/privilegesecure/4.2/discovery/admin/configuration/signsaml_assertion.webp)
 
 ![signsaml_response](/images/privilegesecure/4.2/discovery/admin/configuration/signsaml_response.webp)
+

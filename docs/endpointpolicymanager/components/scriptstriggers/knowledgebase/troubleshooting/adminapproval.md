@@ -105,3 +105,5 @@ Using Endpoint Policy Manager Least Privilege Manager create the 2 separate poli
 screen shot below.
 
 ![927_4_image-20231213102010-1](/images/endpointpolicymanager/troubleshooting/scriptstriggers/927_4_image-20231213102010-1.webp)
+
+

@@ -72,3 +72,4 @@ sidebar_position: 20
 #### API
 
 - The JavaScript API now again supports the creation of valid users.
+

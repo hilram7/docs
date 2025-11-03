@@ -46,3 +46,4 @@ Any environment that is omitted from the license has its corresponding features 
 
 Once a key has expired, the Console displays an Open License File… option for importing a new key.
 Once a new key is loaded, the Console returns to the Agents tab.
+

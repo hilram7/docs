@@ -55,3 +55,4 @@ You can customize the following for a portal:
 Design settings are available for a standard Directory Manager portal, and not for a
 Self-Service Password Reset portal.
 :::
+

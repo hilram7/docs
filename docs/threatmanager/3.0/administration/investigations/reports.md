@@ -126,3 +126,4 @@ It contains the following columns:
 
 Click the link to view target details.See the [Host Details Page](/docs/threatmanager/3.0/administration/threats/activedirectoryobjects/host.md) topic
 for additional information.
+

@@ -30,3 +30,4 @@ natively be able to collect. For example, monitoring the files of a website for 
 Search criteria, like the one above, can be saved to generate reports or alerts.
 
 ![auditorsearchresults_1090x638](/images/changetracker/8.1/integration/netwrixproducts/auditorsearchresults_1090x638.webp)
+

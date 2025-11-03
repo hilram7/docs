@@ -64,3 +64,4 @@ If the display table uses tiles, then you can't use bindings.
 Here is the visualization of this display table on the interface:
 
 ![DisplayTable with Tiles](/images/identitymanager/6.1/integration-guide/ui/how-tos/custom-display-table/displaytablestiles.webp)
+

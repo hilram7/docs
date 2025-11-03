@@ -41,3 +41,4 @@ window opens.
 **Step 3 –** When the scoping options have been set as desired, click **OK**.
 
 The Effective Access report begins the loading process based on the new scoping parameters.
+

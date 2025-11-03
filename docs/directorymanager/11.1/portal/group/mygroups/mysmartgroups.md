@@ -13,3 +13,4 @@ check box on the [Portal Settings](/docs/directorymanager/11.1/portal/generalfea
 You can [Modify Search Directory](/docs/directorymanager/11.1/portal/group/allgroups/allgroups.md#modify-search-directory) to search your smart groups
 and add [Filter All Groups](/docs/directorymanager/11.1/portal/group/allgroups/allgroups.md#filter-all-groups)by clicking **Smart Group Grid Filters**.
 All the smart groups matching the filters will be displayed.
+

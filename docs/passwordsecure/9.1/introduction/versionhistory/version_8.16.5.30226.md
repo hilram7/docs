@@ -53,3 +53,4 @@ sidebar_position: 100
 
 - The website can be reloaded without any problems if you are logged in with an Entra ID user.
 - A tag will be created when using predefined rights.
+

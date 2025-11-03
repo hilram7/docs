@@ -35,3 +35,4 @@ You must restart the **Netwrix Auditor Service for SharePoint**. To do this:
 
 1. Navigate to **Control Panel** → **System and Security** → **Administrative Tools** → **Services**.
 2. Locate the **Netwrix Auditor Service for SharePoint** (`<Monitoring Plan name>`) and restart it.
+

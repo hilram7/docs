@@ -38,3 +38,4 @@ This is a normal process for Netwrix Data Classification and is typically not a 
 ## Resolution
 
 You can improve Pending Deletes processing performance by stopping the **Collector Service** (Netwrix Data Classification will stop registering new Pending Deletes) and **Classifier Service**, which will free up some extra resources for Indexer Service.
+

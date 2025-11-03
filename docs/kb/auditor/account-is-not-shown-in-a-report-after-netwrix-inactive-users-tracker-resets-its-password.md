@@ -24,3 +24,4 @@ I have received a report from Netwrix Inactive Users Tracker, and it says that t
 ---
 
 After a password has been reset, the account is added to the `Inactive users.txt` file stored at `C:ProgramDataNetWrixInactive Users Tracker`. This happens to prevent automatic changing of the inactive user password every time the product runs. This user account will be shown in a report next time when any new action is performed on it (such as move to OU, disable and so on).
+

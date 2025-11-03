@@ -43,3 +43,4 @@ Netwrix Auditor for SharePoint Core Service has been removed from the SharePoint
 ## Related articles
 
 - Installation − Install for SharePoint Core Service · v10.6: https://docs.netwrix.com/docs/auditor/10_8
+

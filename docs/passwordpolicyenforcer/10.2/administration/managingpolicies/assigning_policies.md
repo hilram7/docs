@@ -107,3 +107,4 @@ Use the Log tab in the Test Policies page to quickly determine which policy Pass
 will enforce for a particular user.
 
 ![managing_policies_5](/images/passwordpolicyenforcer/10.2/administration/managing_policies_5.webp)
+

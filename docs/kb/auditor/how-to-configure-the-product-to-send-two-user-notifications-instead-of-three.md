@@ -28,3 +28,4 @@ In order to do this, configure user notifications as follows:
 1. Configure the first notification to be sent when the password expired in `X` days.
 2. Configure the second notification to be sent when the password expires in `Y` days.
 3. Configure the third notification to be sent when the password expires in `Y` days as well. In other words, put the same value in the second and the third notification field.
+

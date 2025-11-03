@@ -82,3 +82,4 @@ haveibeenpwned-downloader.exe -n pwnedpasswords
 5. Click the **Update** button.
 
 ![User-added image](images/ka0Qk000000DZHh_0EM4u0000084ooG.png)
+

@@ -124,3 +124,4 @@ discretion.
 - The company attribute in Microsoft Entra ID stores the name of the company registered in Microsoft
   Entra Admin Center, and cannot be manipulated using Directory Manager. A Microsoft Entra ID
   identity stores uses the OfficeLocation attribute as an alternative to the company attribute.
+

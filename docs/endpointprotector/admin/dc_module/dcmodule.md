@@ -22,3 +22,4 @@ Entities. You can select the start and end date for the data used in these visua
 from the top-right calendars and view the data in real time.
 
 ![Overview in the form of graphics and charts ](dcdashboard.webp)
+

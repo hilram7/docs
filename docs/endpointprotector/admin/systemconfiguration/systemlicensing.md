@@ -78,3 +78,4 @@ endpoint machine reliability, now featuring in the license page column across al
 
 
 ![Licensing Table](licensingtable.webp)
+

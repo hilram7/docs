@@ -25,3 +25,4 @@ topic for additional information.
 Now that the SharePoint Agent has been upgraded, it can be used by the SharePoint Solution. See the
 [SharePoint Solution](/docs/accessanalyzer/11.6/solutions/sharepoint/overview.md)
 topic for additional information.
+

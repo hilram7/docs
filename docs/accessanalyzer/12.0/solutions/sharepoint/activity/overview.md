@@ -18,3 +18,4 @@ The job groups in the 7.Activity Job Group are:
   permission changes, and activity around sensitive data
 - [Usage Statistics Job Group](/docs/accessanalyzer/12.0/solutions/sharepoint/activity/usagestatistics/overview.md)– Identifies long term trends of activity
   across your SharePoint environment highlighting most active sites and users as well as stale users
+

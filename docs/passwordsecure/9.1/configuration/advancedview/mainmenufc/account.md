@@ -90,3 +90,4 @@ etc. to the default values.
 If you have made changes to the database and do not want to wait for the next automatic
 synchronization, an offline synchronization can also be started manually. The synchronization runs
 in the background and is indicated by a status bar in the footer as well as by the icon. More…
+

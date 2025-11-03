@@ -47,3 +47,4 @@ Netwrix Auditor merges similar logon events to reduce noice and narrow the numbe
 5. Failed Attempts are also combined into a single event and the number of failed attempts is displayed.
 
 6. For all other events the product simply removes duplicates. The user sees the first event in the series.
+

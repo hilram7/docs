@@ -86,3 +86,4 @@ user's password to a random group of letters, numbers, and special characters.
 - Credential – Select a credential profile that will execute this action. Credential profiles are
   configured on the [Integrations Interface](/docs/threatmanager/3.0/administration/configuration/integrations/overview.md). If not
   specified, the action will be run as the credentials of the Action Service.
+

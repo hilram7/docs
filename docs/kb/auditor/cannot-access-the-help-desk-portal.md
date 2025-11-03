@@ -53,3 +53,4 @@ This error indicates your authentication settings need to be adjusted to comply 
    ![User-added image](images/ka04u000000HcNm_0EM700000004xEI.png)
 
 4. The account you are using has READ access to the physical directory of the Web-portal (by default `C:Program Files (x86)NetWrixAccount Lockout ExaminerWeb`)
+

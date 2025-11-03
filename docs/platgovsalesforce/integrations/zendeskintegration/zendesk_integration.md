@@ -149,3 +149,4 @@ The approval flow depends on the selected approval process:
 
 - **Buttons not visible**: Verify group configuration and approval process.
 - **Authentication errors**: Token expired; re-login from configuration page.
+

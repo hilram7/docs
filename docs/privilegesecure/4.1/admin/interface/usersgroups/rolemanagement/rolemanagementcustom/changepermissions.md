@@ -23,3 +23,4 @@ remove from this custom role. Click the remove selections Red Arrow.
 Selected permissions have been added or removed from the custom role. See the
 [Custom Role Details Page](/docs/privilegesecure/4.1/admin/interface/usersgroups/rolemanagement/rolemanagementcustom/rolemanagementcustom.md)
 topic for additional information.
+

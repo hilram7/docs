@@ -23,3 +23,4 @@ These group Managed Service Accounts should meet the related requirements, as li
 
 1. The account requires Read share permission on the audited shared folders.
 2. The account requires Read NTFS permission on all objects in the audited folders.
+

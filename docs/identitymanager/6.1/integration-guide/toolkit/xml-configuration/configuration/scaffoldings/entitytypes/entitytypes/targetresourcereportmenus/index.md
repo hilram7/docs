@@ -31,3 +31,4 @@ Our example generates the following configuration:
 **<MenuItem Identifier="Reports_Resources_LDAP_Entry" DisplayName_L1="LDAP - Entry" ParentMenuItem="Reports" ReportQuery="Resources_LDAP_Entry" />**
 
 ```
+

@@ -65,3 +65,4 @@ settings:
 6. In SbPAM, navigate to **Activities**, select an **Activity**, and click the green plus sign in either the **Pre-Session** or **Post-Session**. Note that the **Send Message to Slack** activity step is now available.
 7. Provide the URL from step 6 of Preparing Your Slack App when configuring the action step.
 ![image.png](images/ka0Qk0000001ELt_0EMQk000001ovYn.png)
+

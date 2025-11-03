@@ -124,3 +124,4 @@ The options in the Criteria Tester are:
 
     - Criteria – Displays the specific criteria for which the sample text is considered a match
     - Matched Data – Displays the sample text that was matched for the configured criteria
+

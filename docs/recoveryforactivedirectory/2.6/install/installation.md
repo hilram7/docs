@@ -72,3 +72,4 @@ installation is complete, click Finish to exit the wizard.
 After installation has completed, open a new instance of ADUC and verify that the RSAT Extension has
 been successfully installed. Right-click on an object and ensure the **Rollback** option has been
 added to the right-click menu. Also, a Recycle Bin node should be added to the root tree view.
+

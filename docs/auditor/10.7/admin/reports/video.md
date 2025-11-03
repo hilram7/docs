@@ -30,3 +30,4 @@ Follow the steps to play a video:
 
 To open User Activity report for the selected user or server, you can also click the link in the Who
 and Where columns of the All Users Activity report.
+

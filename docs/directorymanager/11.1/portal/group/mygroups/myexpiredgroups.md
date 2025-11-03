@@ -34,3 +34,4 @@ ownership in My Expired Groups** check box on the [Portal Settings](/docs/direct
 You can [Modify Search Directory](/docs/directorymanager/11.1/portal/group/allgroups/allgroups.md#modify-search-directory) to search expired groups and
 add [Filter All Groups](/docs/directorymanager/11.1/portal/group/allgroups/allgroups.md#filter-all-groups)by clicking **My Expired Group Grid
 Filters**. All the expired groups matching the filters will be displayed.
+

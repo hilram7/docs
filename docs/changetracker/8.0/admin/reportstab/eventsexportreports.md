@@ -48,3 +48,4 @@ Press the **OK** button at the bottom of the window when done!
 Report settings, schedules and results can all be seen and edited on the **Reports** tab. See the
 [Report Options](/docs/changetracker/8.0/admin/reportstab/reportsquerysettingstab.md)
 topic for additional information.
+

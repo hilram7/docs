@@ -93,3 +93,5 @@ The command-line arguments cannot be empty.
 application being Elevated.
 
 ![451_19_image-20200210223130-10_950x266](/images/endpointpolicymanager/leastprivilege/elevate/451_19_image-20200210223130-10_950x266.webp)
+
+

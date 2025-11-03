@@ -18,3 +18,4 @@ Adding tags to a template does not create a duplicate template, but rather multi
 the template from. A modification made to a template within a folder under the TAGS node is a
 modification to that template no matter where it is accessed after that, i.e. from under the
 Templates node or from another folder under the TAGS node.
+

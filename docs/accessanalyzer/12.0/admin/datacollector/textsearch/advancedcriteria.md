@@ -27,3 +27,4 @@ The configurable options are:
     on using the Filter builder.
 
 The filter section cannot be blank.
+

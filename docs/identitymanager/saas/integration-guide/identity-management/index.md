@@ -34,3 +34,4 @@ Additional interesting parts of identity management are:
 See the [Synchronization](/docs/identitymanager/saas/integration-guide/synchronization/index.md) topic for additional information.
 
 See the [Provisioning](/docs/identitymanager/saas/integration-guide/provisioning/index.md) topic for additional information.
+

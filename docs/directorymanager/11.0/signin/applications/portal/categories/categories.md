@@ -129,3 +129,4 @@ display types and any custom display types you may have added.
 
 - [Design a Portal with Display Types](/docs/directorymanager/11.0/signin/applications/portal/displaytype/overview.md)
 - [Define Custom Display Types](/docs/directorymanager/11.0/signin/applications/portal/categories/custom.md)
+

@@ -24,3 +24,4 @@ The **Authentication** tab enables you to specify additional authorization for t
 When you make changes to this record, a change log is created. Here is an example:
 
 ![Access token change log](/images/platgovnetsuite/customizations/access_token_change_log.webp)
+

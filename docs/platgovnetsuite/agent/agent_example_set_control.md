@@ -99,3 +99,4 @@ From the customization record:
 
 The control is triggered as configured and all instances are logged under **Unresolved Control
 Incidents**, **Resolved Control Incidents** or **Pre-approved Control Incidents**.
+

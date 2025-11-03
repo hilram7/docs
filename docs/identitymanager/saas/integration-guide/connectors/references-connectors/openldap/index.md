@@ -252,3 +252,4 @@ Data protection can be ensured through:
 - a
   [](/docs/identitymanager/saas/integration-guide/network-configuration/agent-configuration/cyberark-application-access-manager-credential-providers/index.md)[Connection](/docs/identitymanager/saas/integration-guide/toolkit/xml-configuration/connectors/connection/index.md)
   able to store OpenLDAP's `Login`, `Password` and `Server`.
+

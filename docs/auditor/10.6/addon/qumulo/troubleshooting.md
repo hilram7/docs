@@ -24,3 +24,4 @@ If you cannot see collected data in Netwrix Auditor, check the following:
    **9699**.
 3. If you configured a dedicated monitoring plan, make sure data source monitoring is enabled.
 4. Verify the parameters you provided in **settings.xml**.
+

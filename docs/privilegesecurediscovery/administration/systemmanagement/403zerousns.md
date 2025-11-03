@@ -68,3 +68,4 @@ labs:
 ```
 secureone@ip-10-100-11-40:~$ sudo /secureone/setup/zero_domain_usns.shDetected domain_netbios entries:1) CSTESTEnter number for domain to zero USNs: 1Current USN values for CSTESTdomain_netbios : CSTEST, highest_usn : 2405725, previous_usn : 2405725Zero USNs for CSTEST, are you sure?[ Y ] to continue, any other key to abort.y{ "acknowledged" : true, "matchedCount" : 1, "modifiedCount" : 1 }domain_netbios : CSTEST, highest_usn : 0, previous_usn : 0Completed zeroing USNs for CSTESTsecureone@ip-10-100-11-40:~$
 ```
+

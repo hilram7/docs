@@ -40,3 +40,4 @@ A public tab can be displayed again with a simple click on the +.
 
 In the subsequent dialog, only the desired organizational unit must be selected and confirmed with
 OK. All organizational units to which the user is authorized are available here.
+

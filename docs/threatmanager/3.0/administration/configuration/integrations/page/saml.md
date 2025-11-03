@@ -78,3 +78,4 @@ The table displays the following information:
       group.
 
 See the [User Access Page](/docs/threatmanager/3.0/administration/configuration/systemsettings/useraccess.md) topic for additional information.
+

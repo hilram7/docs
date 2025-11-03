@@ -168,3 +168,4 @@ Follow the steps to edit a threat.
 **Step 3 –** Click Submit to save the changes.
 
 Threats can also be edited from the [Threat Details Page](/docs/threatmanager/3.0/administration/threats/threatdetails/overview.md).
+

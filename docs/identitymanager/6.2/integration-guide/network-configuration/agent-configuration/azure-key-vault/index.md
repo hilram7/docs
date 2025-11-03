@@ -96,3 +96,4 @@ page additional information.
 | Name           | Type   | Description                                                                                                                           |
 | -------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------- |
 | Vault required | String | DNS Name found on the page of the vault in Azure's portal. _Remember,_ usually in the format is `https://yourVault.vault.azure.net/`. |
+

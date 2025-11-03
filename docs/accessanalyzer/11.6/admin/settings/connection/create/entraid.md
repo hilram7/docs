@@ -33,3 +33,4 @@ The required credentials for this account type are:
       `CertPath,CertPassword,AzureEnvironment`). See the
       [SharePoint Online Credential for a Connection Profile using Modern Authentication](/docs/accessanalyzer/11.6/admin/datacollector/spaa/configurejob.md#sharepoint-online-credential-for-a-connection-profile-using-modern-authentication)topic
       for additional information.
+

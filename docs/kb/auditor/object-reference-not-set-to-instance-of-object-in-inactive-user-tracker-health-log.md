@@ -45,3 +45,4 @@ Configure the permissions for the data collection account used in Inactive User 
 ### Related articles
 
 - Monitoring Plans — Data Collecting Account ⸱ 10.6
+

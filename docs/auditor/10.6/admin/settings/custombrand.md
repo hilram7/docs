@@ -113,3 +113,4 @@ Follow the steps to restore original look.
 
 **Step 3 –** Run the script as it is. The user who runs the script must be granted the db_owner role
 on the Common_DB database in a local unnamed SQL Server configured as default for Netwrix Auditor.
+

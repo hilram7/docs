@@ -46,3 +46,4 @@ In Netwrix Directory Manager, you can convert a Smart Group to a static group by
 5. After confirming the query, the group will be converted to a Smart Group.
 
 ![Upgrading a static group to a Smart Group in Directory Manager](images/ka0Qk000000EYrR_0EMQk00000BpDcn.png)
+

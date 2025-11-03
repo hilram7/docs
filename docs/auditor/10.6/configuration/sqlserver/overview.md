@@ -94,3 +94,4 @@ Also remember to do the following:
   [Permissions for SQL Server Auditing ](/docs/auditor/10.6/configuration/sqlserver/permissions.md)section.
 - Configure ports as described in the
   [SQL Server Ports](/docs/auditor/10.6/configuration/sqlserver/ports.md) section.
+

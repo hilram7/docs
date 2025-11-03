@@ -249,3 +249,4 @@ If you open the Change Request in Salesforce:
 - **External last Modified by**: is the last user who modified the Jira ticket.
 
     ![user_guide_example](/images/platgovsalesforce/integrations/user_guide_example.webp)
+

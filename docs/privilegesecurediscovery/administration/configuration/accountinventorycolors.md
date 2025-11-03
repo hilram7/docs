@@ -55,3 +55,4 @@ Users and Group are shown in varying colors:
   in the Privilege Secure application.
 - Red – Local administrator account that is not a domain account or a special account (RID 500 or
   Privilege Secure specific account).
+

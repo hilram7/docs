@@ -51,3 +51,4 @@ Find the **Identity** and update the password to match the new password for the 
 ## Taxonomy Global Settings
 
 Navigate to `http://hostname/conceptQS/Taxonomies/GlobalSettings` and confirm the status of each taxonomy. Find the faulting termsets and update the credentials for each.
+

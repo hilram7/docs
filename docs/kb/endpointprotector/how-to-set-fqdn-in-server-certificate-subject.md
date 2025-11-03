@@ -48,3 +48,4 @@ Yes, this is possible. Follow these steps to set the FQDN in the server certific
 - If the server certificate is regenerated, the DPI certificate will also be regenerated. The new DPI certificate must be reimported on all Mac machines.
 - MacOS users must proceed with caution when performing these steps. If you regenerate the server certificate stack and do not upload the new DPI certificate, Mac machines may lose internet access.
 - If you are still experiencing issues, please reach out to [Netwrix Support](https://www.netwrix.com/support.html).
+

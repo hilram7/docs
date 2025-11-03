@@ -70,3 +70,4 @@ The details page has the following tabs:
 - [Scheduled Tasks Tab for Host](/docs/privilegesecure/4.2/admin/interface/resources/detailspages/host/scheduledtaskshost.md)
 - [History Tab for Host](/docs/privilegesecure/4.2/admin/interface/resources/detailspages/host/historyhost.md)
 - [Installed Software Tab for Host](/docs/privilegesecure/4.2/admin/interface/resources/detailspages/host/installedsoftwarehost.md)
+

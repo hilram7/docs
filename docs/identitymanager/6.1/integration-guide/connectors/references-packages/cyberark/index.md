@@ -16,3 +16,4 @@ Manages CyberArk entities, including user and group assignments.
 | Fulfill                 | Usercube-Fulfill-Scim.dll      |
 | Has Incremental Mode    | False                          |
 | Publisher               | Usercube                       |
+

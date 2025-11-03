@@ -55,3 +55,4 @@ The configurable option is:
 
 - Show primary IP address only – Select this checkbox to return data for the primary network
   interface only
+

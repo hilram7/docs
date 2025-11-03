@@ -26,3 +26,4 @@ In order to change the frequency of data collections please perform the followin
 1. Go to **Control Panel** -> **Administrative Tools** -> **Task Scheduler** -> **Task Scheduler Library**;
 2. Double click task **Netwrix Management Console - File Server Change Reporter your_collection**;
 3. Then **Triggers** tab, then click **New** and choose **Daily** and set `Repeat task every N hours` (type your selection if it is not available to pick from the drop down).
+

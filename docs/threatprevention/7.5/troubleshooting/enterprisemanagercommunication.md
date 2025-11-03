@@ -46,3 +46,4 @@ Follow the steps to modify these files.
 **Step 3 –** Change the parameter to use the DNS name of the Enterprise Manager server. For example:
 
 `<add key="managerAddress" value="exampleservername.domain.local:3740" />`
+

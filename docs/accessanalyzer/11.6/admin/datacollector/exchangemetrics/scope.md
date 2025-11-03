@@ -50,3 +50,4 @@ Define the scope of the query using the following options:
 
     - Add summary values as last row – Select this checkbox to add summary values as the last row.
       This option is enabled when **Day**, **Week**, or **Month** are selected.
+

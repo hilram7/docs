@@ -54,3 +54,4 @@ Set the language explicitly for server-side-task notifications by proceeding as 
     language, i.e. the one specified with `Indicator` set to `1`.
 
 2. Deploy the configuration and relaunch the server.
+

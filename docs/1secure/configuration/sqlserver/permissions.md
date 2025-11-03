@@ -46,3 +46,4 @@ All Programs > Microsoft SQL Server > SQL Server Management Studio.
 sysadmin role.
 
 **Step 5 –** Click the **Server Roles** tab and assign the sysadmin role to the new login.
+

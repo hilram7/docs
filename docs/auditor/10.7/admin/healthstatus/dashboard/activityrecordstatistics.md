@@ -24,3 +24,4 @@ to the corresponding Audit database during the specified timeframe.
 
 If the data sources processed by a monitoring plan did not produce any activity records during the
 specified timeframe, this monitoring plan will not appear in the list.
+

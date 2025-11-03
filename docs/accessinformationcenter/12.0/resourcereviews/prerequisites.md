@@ -111,3 +111,4 @@ other criteria. The file is added to the false positives list in the Netwrix Acc
 (formerly Enterprise Auditor) **Settings** > **Sensitive Data** node for that specific criteria. If
 the file is modified after being flagged, it may reappear in sensitive data reports and reviews if
 matches to the criteria were found on subsequent data collection scans.
+

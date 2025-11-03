@@ -74,3 +74,4 @@ protected by Threat Prevention:
     is deployed. See the
     [Netwrix Activity Monitor Documentation](https://helpcenter.netwrix.com/category/activitymonitor)
     for installation requirements and information on collecting activity data.
+

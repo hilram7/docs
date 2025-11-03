@@ -43,3 +43,4 @@ The host list for the FSAC System Scan job was configured to target the agent se
    - Select a host list that contains the NAS.
 7. Save the changes to the job configuration.
 8. Run the **FSAC System Scan** job again to verify that data is now collected from the NAS device.
+

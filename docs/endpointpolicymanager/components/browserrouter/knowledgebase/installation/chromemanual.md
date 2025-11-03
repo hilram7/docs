@@ -120,3 +120,5 @@ and follow the instructions in the next step to enable it.
 ![535_17_image-20191222210303-9](/images/endpointpolicymanager/browserrouter/install/535_17_image-20191222210303-9.webp)
 
 **Step 3 –** Click on **Enable extension** button:
+
+

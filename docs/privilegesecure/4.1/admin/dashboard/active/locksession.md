@@ -49,3 +49,4 @@ or SSH clients. To unlock an active session, either:
 To unlock an account, see the
 [User, Group, & Application Details Page](/docs/privilegesecure/4.1/admin/interface/usersgroups/usergroupapplication/usergroupapplication.md)
 topic for additional information.
+

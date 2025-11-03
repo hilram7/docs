@@ -82,3 +82,4 @@ The default analysis tasks are:
 - AIC Import – Local SQL Groups — Imports SQL local groups to the AIC
 - AIC Import – Instance Role Permissions — Imports permissions assigned to roles at the instance
   level
+

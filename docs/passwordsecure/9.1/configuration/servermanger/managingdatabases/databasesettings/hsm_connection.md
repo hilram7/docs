@@ -50,3 +50,4 @@ to the HSM. Then the certificates are no longer stored in the certificate store 
 server, but centrally managed by the HSM. All other keys are not stored on the HSM, but derived from
 the masterkeys. Therefore, Netwrix Password Secure rarely accesses the HSM, for example, at server
 startup or at the AD Sync. As a result, the load on the HSM can be kept low.
+

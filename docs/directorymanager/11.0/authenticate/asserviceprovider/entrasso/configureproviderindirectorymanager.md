@@ -32,3 +32,4 @@ To configure a SAML provider in GroupID, you have to specify the following:
     topic. Replace references to AD FS with the Microsoft Entra SSO provider.
 11. Click the **Create Provider** button. The identity provider is created and displayed on the
     **SAML Providers** page.
+

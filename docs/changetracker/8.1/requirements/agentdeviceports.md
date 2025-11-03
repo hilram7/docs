@@ -48,3 +48,4 @@ and recommended ports:
 
 - TCP/Telnet One-way communication is initiated from the Change Tracker Proxy Agent (The proxy agent
   is collocated with Change Tracker but can be installed on a separate system).
+

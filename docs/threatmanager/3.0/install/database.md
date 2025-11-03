@@ -90,3 +90,4 @@ The table displays `Postgres.conf` settings and their suggested values.
 | max_worker_processes            | 8                                                                                                      |                                                              |
 | max_parallel_workers_per_gather | 2                                                                                                      |                                                              |
 | max_locks_per_transaction       | 300                                                                                                    |                                                              |
+

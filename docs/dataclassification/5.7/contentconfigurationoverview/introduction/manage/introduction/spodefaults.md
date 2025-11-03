@@ -33,3 +33,4 @@ To apply the options you set in each section, click the **Save** button in that 
 ![sharepointadvancedspecialfieldmappings_thumb_0_0](/images/dataclassification/5.7/configuration/configinfrastructure/sharepointadvancedspecialfieldmappings_thumb_0_0.webp)
 
 ![sharepointadvancedsourcecontentmappings_thumb_0_0](/images/dataclassification/5.7/configuration/configinfrastructure/sharepointadvancedsourcecontentmappings_thumb_0_0.webp)
+

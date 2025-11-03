@@ -44,3 +44,4 @@ The information displayed in the table includes:
   or Waiting. Hover over a status icon to display its tooltip.
 
 Click **OK** to close the window.
+

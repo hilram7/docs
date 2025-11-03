@@ -1016,3 +1016,4 @@ The information you set on this setting will also be applied for eDiscovery.
 
 
 ![Set the maximum number of logs that can be displayed](displaysettings.webp)
+

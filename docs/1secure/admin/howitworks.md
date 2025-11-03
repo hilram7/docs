@@ -28,3 +28,4 @@ Netwrix 1Secure Website is the presentation layer of the product that retrieves 
 SQL database and presents it to users. Users can access this web portal with their corporate
 credentials using Azure AD Authentication (OAuth 2.0). Data is retrieved via API calls made on the
 user's behalf.
+

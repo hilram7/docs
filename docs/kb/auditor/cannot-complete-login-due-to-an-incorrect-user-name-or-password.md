@@ -30,3 +30,4 @@ knowledge_article_id: kA00g000000H9bPCAS
 Select the **Change** button to enter in the credentials for the Virtual Center or ESX(i) Server:
 
 ![User-added](images/servlet_image_3823966b1661.png)
+

@@ -36,3 +36,4 @@ ALTER AUTHORIZATION ON DATABASE::db_name TO user_name
 ```
 
 where `db_name` is a name of the corrupted database and `user_name` is the db owner account name.
+

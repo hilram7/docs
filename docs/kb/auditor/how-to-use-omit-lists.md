@@ -93,3 +93,4 @@ VMWare omit lists are found under `\%Netwrix Auditor installation folder%\VMware
 ### Windows Server
 
 Windows Server omit lists are found under `\%Netwrix Auditor installation folder%\Windows Server Auditing`. For additional information on Windows Server omit lists, refer to the following documentation article: [Windows Server Monitoring Scope](https://docs.netwrix.com/docs/auditor/10_8/admin/monitoringplans/windows/scope)
+

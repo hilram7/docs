@@ -61,3 +61,4 @@ Access is denied
   4. Click **Add**, and enter **local service** in the **Enter the object names to select**. Click **OK** to save the changes.
   5. Select the **LOCAL SERVICE** user and check the **Read — Allow** checkbox under the **Permissions** section. Click **Apply** to save the changes.
   6. Restart the client.
+

@@ -143,3 +143,4 @@ more than 20 000 users (10+ million of activity records generated per day):
    cores | | RAM | 32 GB | | Disk space | - 100 GB on system drive |
 5. When prompted to configure the Audit database settings, proceed using the dedicated SQL Server
    and Reporting Services.
+

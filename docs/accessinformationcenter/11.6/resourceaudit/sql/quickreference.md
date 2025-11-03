@@ -60,3 +60,4 @@ The following report is available at the Roles node level:
 | Report                                                                                                                             | Description                                         |
 | ---------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
 | [Permissions Report](/docs/accessinformationcenter/11.6/resourceaudit/sql/roles/permissions.md) | Shows the permissions for the instance’s SQL roles. |
+

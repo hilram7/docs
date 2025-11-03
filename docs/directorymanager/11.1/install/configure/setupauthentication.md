@@ -75,3 +75,4 @@ The domain account used to connect Directory Manager with SQL Server must:
 - Be a member of the IIS_IUSR and Backup Operators groups.
 - Have read/write permissions on the Directory Manager 11 installation folder: [Directory Manager
   installation drive]:\Program Files\Imanami\GroupID 11.0.
+

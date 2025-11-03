@@ -39,3 +39,4 @@ as target organization.
 ## What's Next?
 
 The first step consists in [Create a Working Directory](/docs/identitymanager/saas/installation-guide/production-ready/working-directory/index.md).
+

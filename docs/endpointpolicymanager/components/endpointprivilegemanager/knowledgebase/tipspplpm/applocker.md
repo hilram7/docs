@@ -60,3 +60,5 @@ that you also get all the added benefits of SecureRun. This is not a recommended
 it should work. Please consider retiring Applocker and using Endpoint Policy Manager SecureRun. For
 more in formation on why this is the recommended practice, see
 [AppLocker Pros, Cons, and Alternatives](https://blog.netwrix.com/2021/12/02/applocker-pros-cons-and-alternatives/).
+
+

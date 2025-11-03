@@ -24,3 +24,4 @@ device:
 the
 [Antivirus Exclusions for Netwrix Auditor](https://helpcenter.netwrix.com/bundle/z-kb-articles-salesforce/page/kA04u0000000HirCAE.html)
 knowledge base article for additional information.
+

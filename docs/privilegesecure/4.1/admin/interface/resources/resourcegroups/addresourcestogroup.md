@@ -38,3 +38,4 @@ Resources list.
 **Step 6 –** Click Add to add the resources to the resource group.
 
 The resources are added to the resource group.
+

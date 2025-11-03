@@ -15,3 +15,4 @@ Enter a new service user name to run daemon and click **Test** to verify the con
 
 Click **OK** to commit the modifications. Click **Cancel** to discard the modifications. The Agent
 Properties window closes.
+

@@ -29,3 +29,4 @@ reset their passwords and unlock their accounts even if they are no longer allow
 ### Change
 
 These settings specify which users can change their password with Password Reset.
+

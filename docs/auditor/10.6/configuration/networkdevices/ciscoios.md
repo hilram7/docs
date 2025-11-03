@@ -73,3 +73,4 @@ Review a full list of object types Netwrix Auditor can collect on Cisco IOS netw
 | Session        | - Successful Logon         | - `IKEv2:`                  |
 | - Logoff       | - `%FW-6-SESS_AUDIT_TRAIL` |                             |
 | - Failed Logon | - `IKEv2-ERROR:`           |                             |
+

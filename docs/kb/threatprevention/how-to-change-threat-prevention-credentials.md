@@ -92,3 +92,4 @@ Sometimes it may be required to update the Netwrix Threat Manager App Token. Whe
 3. Open the Netwrix Threat Manager Configuration by clicking on **Configuration** in the top menu bar and clicking **Threat Manager Configuration**
 4. Paste the Netwrix Threat Manager App Token into the **App Token** field
 5. Click **Save**
+

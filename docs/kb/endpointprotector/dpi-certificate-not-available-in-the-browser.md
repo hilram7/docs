@@ -37,3 +37,4 @@ This issue occurs when there are no Content Aware Policies (CAP) applied to the 
 For detailed information and step-by-step instructions on configuring Content Aware Policies (CAP), refer to the following documentation:
 
 - Configuring Content Aware Policies (CAP)
+

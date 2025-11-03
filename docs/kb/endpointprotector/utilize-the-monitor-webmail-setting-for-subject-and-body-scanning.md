@@ -35,3 +35,4 @@ The **Monitor webmail** setting in Netwrix Endpoint Protector enables subject an
    
    ![Creating a policy in Content Aware Protection](./images/ka0Qk000000ESkP_0EMQk00000C7Jbh.png)
 3. Go to **Content Aware Protection** and create the desired policy.
+

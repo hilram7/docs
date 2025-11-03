@@ -46,3 +46,4 @@ To grant the "Log on as a service" rights please:
 4. Click **OK** to apply
 
 ![User-added image](./images/ka04u00000116cm_0EM700000005jox.png)
+

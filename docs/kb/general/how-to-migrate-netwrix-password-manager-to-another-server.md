@@ -49,3 +49,4 @@ To migrate Netwrix Password Manager perfrom the following steps:
 2. Right-click the GPO created for Netwrix Password Manager and select **Edit** from the popup menu.
 3. In the dialog that opens, navigate to **Computer Configuration - -> Administrative Templates - -> &lt;Your_Password_Manager_Template&gt;**.
 4. In the right pane, specify the new server URL in the **Password Manager Server URL** entry field.
+

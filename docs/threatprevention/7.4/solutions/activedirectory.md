@@ -58,3 +58,4 @@ The following event types are available for Active Directory:
 - [LSASS Guardian – Monitor Event Type](/docs/threatprevention/7.4/admin/policies/configuration/eventtype/lsassguardianmonitor.md)
 - [LSASS Guardian – Protect Event Type](/docs/threatprevention/7.4/admin/policies/configuration/eventtype/lsassguardianprotect.md)
 - [Password Enforcement Event Type](/docs/threatprevention/7.4/admin/policies/configuration/eventtype/passwordenforcement/passwordenforcement.md)
+

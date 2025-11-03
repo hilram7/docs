@@ -13,3 +13,4 @@ environment:
 | ---- | -------- | ------------------------------ | --------- | ----------------------------- | ------------------- |
 | 80   | TCP      | Access Analyzer Console server | ↔        | SharePoint Online Environment | HTTP Communication  |
 | 443  | TCP      | Access Analyzer Console server | ↔        | SharePoint Online Environment | HTTPS Communication |
+

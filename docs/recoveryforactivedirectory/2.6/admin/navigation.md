@@ -64,3 +64,4 @@ The navigation pane contains the following links:
       X number of days, and for deleting backup data for tombstone objects that have been purged.
     - [Licensing Page](/docs/recoveryforactivedirectory/2.6/admin/configuration/licensing.md) – The Licensing page provides an overview of the
       organization's license status and the ability to import a license file.
+

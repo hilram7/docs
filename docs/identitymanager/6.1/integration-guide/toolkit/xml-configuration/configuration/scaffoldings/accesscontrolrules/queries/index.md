@@ -16,3 +16,4 @@ sidebar_position: 60
     [UniverseAccessControlRules](/docs/identitymanager/6.1/integration-guide/toolkit/xml-configuration/configuration/scaffoldings/accesscontrolrules/queries/universeaccesscontrolrules/index.md)
     Generates an access control rule which gives a profile the permission to access the query page
     and run queries.
+

@@ -51,3 +51,4 @@ The Health tab displays the following information:
 
 - Size of Reports Directory – Displays the size of the directory where reports are stored
 - Next Run Time – Date timestamp for the next time the job will run
+

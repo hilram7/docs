@@ -63,3 +63,4 @@ How to **remove/uninstall** the **Netwrix Data Classification** **SharePoint** *
    3. Expand **Settings** from the side navigation
    4. Select **App Configuration** from the side navigation
    5. Delete any associated **configurations**
+

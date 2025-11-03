@@ -16,3 +16,4 @@ script in the command line.
 ```
 Usercube/integration-guide/toolkit/xml-configuration/connectors/resourcetypemappings/servicenowresourcetypemapping/index.html
 ```
+

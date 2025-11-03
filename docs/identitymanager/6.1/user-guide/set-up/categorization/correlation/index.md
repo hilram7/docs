@@ -219,3 +219,4 @@ of users. However, keep in mind that several accounts are sometimes assigned to 
 
 - Check the validity of correlation rules.
 - Check the resource's data quality.
+

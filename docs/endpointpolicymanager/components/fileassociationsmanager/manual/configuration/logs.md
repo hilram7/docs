@@ -45,3 +45,5 @@ Figure 56. Highlights from the Endpoint Policy Manager k File Associations Manag
 
 If needed, logs can be automatically wrapped up and sent to support by [opening a support ticket](https://www.netwrix.com/tickets.html#/open-a-ticket) with the `PPLOGS.EXE` command on any endpoint
 where the client-side extension is installed.
+
+

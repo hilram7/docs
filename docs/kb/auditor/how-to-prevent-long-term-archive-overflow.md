@@ -40,3 +40,4 @@ You can deal with this issue in one of the following ways:
 You can also fine tune your monitoring scope via omit lists — this allows you to proactively decrease the DB loads as changes for omitted items are not recorded. For additional information on available omit lists, review the corresponding article applicable to your target system. For example, for Active Directory omit lists, refer to the following article: [Active Directory Monitoring Scope](https://docs.netwrix.com/docs/auditor/10_8/admin/monitoringplans/activedirectory/scope)
 
 > **NOTE:** If you are using a virtual machine, either add another drive or expand your current drive.
+

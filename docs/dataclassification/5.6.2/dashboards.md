@@ -71,3 +71,4 @@ display will change. Once all work is complete, "Idle..." will be displayed.
 
 This functionality may not work in older browsers. In this case the "on-server" application Netwrix
 Data Classification Service Viewer should be used.
+

@@ -194,3 +194,4 @@ To open the Long-Term Archive settings, click the corresponding link. Then you w
 adjust the settings as necessary. See the
 [Long-Term Archive](/docs/auditor/10.6/admin/settings/longtermarchive.md) topic
 for additional information.
+

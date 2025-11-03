@@ -81,3 +81,4 @@ topic for an example of this email.
 You can view the history of requests processed for your resources in the Owner portal. See the
 [Access Request History](/docs/accessinformationcenter/11.6/owneroverview/owners/requesthistory.md)
 topic for additional information.
+

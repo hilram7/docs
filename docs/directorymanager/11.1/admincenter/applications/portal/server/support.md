@@ -61,3 +61,4 @@ Manager via any of its clients.
 3. Click **GroupID Support** under **Server Settings**; the **GroupID Support** page is displayed.  
    The **Client ID** box displays the client ID assigned to the portal. It is read-only and can be
    copied for use.
+

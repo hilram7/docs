@@ -108,3 +108,4 @@ You should now be able to access the Netwrix Privilege Secure console at `https:
 ### Key Export/Import
 
 *In order to ensure that encryption keys are in agreement between Netwrix Privilege Secure servers, please follow the instructions outlined in [How to Configure Encryption Keys in Multiple NPS Server Environments](/docs/kb/privilegesecure/how-to-configure-encryption-keys-in-multiple-nps-server-environments.md).*
+

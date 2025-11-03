@@ -34,3 +34,4 @@ The Complexity rule uses custom character set definitions from the Character rul
 if the Character rules are disabled.
 
 :::
+

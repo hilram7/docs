@@ -160,3 +160,4 @@ If the Format column is not displayed in the External System part, then:
 ![Scalar properties](/images/identitymanager/saas/user-guide/set-up/connect-system/entity-type-creation/scalar-property-definition/entitytypecreation_scalarpropertieswithoutformat_v522.webp)
 
 Refresh the connections' schemas.
+

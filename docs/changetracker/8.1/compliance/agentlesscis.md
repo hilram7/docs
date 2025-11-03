@@ -113,3 +113,4 @@ with agents. The details of the report will contain all passed and failed checks
 Windows device.
 
 ![compliance_report](/images/changetracker/8.1/admin/agentlesscis/compliance_report.webp)
+

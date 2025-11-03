@@ -166,3 +166,4 @@ errors, the Activity Monitor stops the installation and lists the errors in the 
 
 When the Activity Monitor agent installation is complete, the status changes to **Installed** and
 the activity agent version populates. The next step is to add hosts to be monitored.
+

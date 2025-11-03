@@ -44,3 +44,4 @@ Additionally, this feature allows you to scope the report data to just Threat Pr
 events or to all information within QRadar for the selected host, which opens in another tab. Click
 Search and select Threat Prevention from the drop-down menu to refresh the card data or select
 QRadar from the drop-down menu to open the host’s List of Events.
+

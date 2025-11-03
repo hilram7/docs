@@ -35,3 +35,4 @@ information on gMSA, see the following:
 
 On the **Netwrix Cloud Agent**'s host, the gMSA account must be a member of the local Administrators
 group.
+

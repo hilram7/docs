@@ -19,3 +19,4 @@ To configure additional File/Folder/Registry Match Pattern definitions, click on
 Options** button.
 
 ![PolicyTemplatesAdministration](/images/changetracker/8.0/admin/settings/policytemplates/policytemplatesadministration.webp)
+

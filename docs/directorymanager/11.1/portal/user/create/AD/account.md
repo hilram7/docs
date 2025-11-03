@@ -34,3 +34,4 @@ When a domain user account is created, the complete domain account comprises of 
 followed by '@' and then the domain name.
 
 Step 5 – Click **Next**.
+

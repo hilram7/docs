@@ -38,3 +38,4 @@ Change Schedules can be re-used – use the Clone button to create a copy.
 
 
 ![PlannedChangesRules](/images/changetracker/8.1/admin/tabs/plannedchangesrules.webp)
+

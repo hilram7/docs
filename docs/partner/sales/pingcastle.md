@@ -12,3 +12,4 @@ import { Company, NPC } from '@site/src/training/products';
 This learning path grants <Company /> certification as a Sales Professional for this product. It contains the following courses:
 
 * Introduction to <NPC /> (for Partners)
+

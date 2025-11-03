@@ -51,3 +51,4 @@ A file is created that contains policy, template, and collection information as 
 settings. See the
 [Import Window](/docs/threatprevention/7.4/admin/tools/import.md) topic
 to import this file.
+

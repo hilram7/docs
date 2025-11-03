@@ -34,3 +34,4 @@ To troubleshoot issues with 2FA, try one or more of the following steps:
 - [Enable Two-Factor Authentication for System Admins with Google Authenticator App](/docs/kb/endpointprotector/enable_two-factor_authentication_for_system_admins_with_google_authenticator_app.md)
 - [Managing System Administrators and Administrator Groups](/docs/kb/endpointprotector/managing-system-administrators-and-administrator-groups.md)
 - [Two-Factor Authentication](https://docs.netwrix.com/docs/endpointprotector/admin/systemconfiguration/adminandaccess#two-factor-authentication)
+

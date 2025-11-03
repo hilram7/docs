@@ -44,3 +44,4 @@ the usual change events. Similarly, you can also report on these, export the eve
 alerts for any Planned and Unplanned changes.
 
 ![EventDetailsNetwork](/images/changetracker/8.1/admin/settings/policytemplates/eventdetailsnetwork.webp)
+

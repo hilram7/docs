@@ -129,3 +129,4 @@ Grant Identity Manager directory permissions by proceeding as follows:
     ![Azure AD Export - Grant Admin Consent](/images/identitymanager/saas/integration-guide/connectors/how-tos/azuread-register/howtos_azuread_exportadminconsent.webp)
 
     You should now see the status displayed as **√ Granted for** name of the organization.
+

@@ -59,3 +59,4 @@ Run the following queries to review results:
 - ```sql
   SELECT * FROM DBA_SCHEDULER_JOBS WHERE JOB_NAME = 'CLEANUP_UNIFIED_AUDIT_JOB';
   ```
+

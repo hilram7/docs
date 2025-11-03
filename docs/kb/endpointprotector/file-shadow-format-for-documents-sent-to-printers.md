@@ -28,3 +28,4 @@ What is the file shadow format for documents sent to printers?
 
 ## Answer
 When you enable the **Advanced Printer and MTP Scanning** feature, Endpoint Protector typically saves file shadows of printed documents in ` .txt ` format. This is due to the variety of ways documents can be printed and the need to provide a textual representation for inspection of confidential data as defined in **Content Aware Protection** and **Device Control Policies**. In some cases, the transferred file may be saved in its original format, such as ` .pdf `.
+

@@ -28,3 +28,4 @@ Follow the steps to add activity groups to the console.
   topic for additional information.
 
 The new activity group is added to the console and is shown in the Activity Groups list.
+

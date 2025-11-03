@@ -50,3 +50,4 @@ window.
 Threat Prevention clears alert data from the database according to these configurations. It
 generates a new alert to notify that the alert data is cleared, identifies the user who cleared the
 alerts, displays a date time stamp, and what options were configured for the cleanup operation.
+

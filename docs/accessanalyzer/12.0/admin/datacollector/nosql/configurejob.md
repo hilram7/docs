@@ -59,3 +59,4 @@ information.
 
 Additionally, the database clusters / instances must be added to the Filter page in the query
 configuration. See the [NoSQL: Filter](/docs/accessanalyzer/12.0/admin/datacollector/nosql/filter.md) topic for additional information.
+

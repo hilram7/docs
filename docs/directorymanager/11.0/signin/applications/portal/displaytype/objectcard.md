@@ -149,3 +149,4 @@ You can remove an attribute from the body of an object card.
 
 - [Design a Portal with Display Types](/docs/directorymanager/11.0/signin/applications/portal/displaytype/overview.md)
 - [Specify Attributes for Object List View](/docs/directorymanager/11.0/signin/applications/portal/displaytype/objectlist.md)
+

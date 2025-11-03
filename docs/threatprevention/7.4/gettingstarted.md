@@ -146,3 +146,4 @@ Configure the following:
   Reviewers, Responders, Reviewers, Response Managers, and Report Administrators. See the
   [User Access Page](/docs/threatprevention/7.4/reportingmodule/configuration/interface/useraccess.md)
   topic for additional information.
+

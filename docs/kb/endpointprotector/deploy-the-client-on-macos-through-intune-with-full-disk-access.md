@@ -38,3 +38,4 @@ This article explains how to deploy the Netwrix Endpoint Protector client on mac
    II. Select the profile type as **Templates** and choose **Device restrictions** as the template name.  
    III. Complete the basics and go to configuration settings.  
    IV. Select **Privacy preferences** to configure full disk access.
+

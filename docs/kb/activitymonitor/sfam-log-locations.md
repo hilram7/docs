@@ -40,3 +40,4 @@ There is a single switch to change the logging level. Whenever the level is chan
 **Product:** Netwrix File Activity Monitor  
 **Module:** File Activity Monitor - EMC/Celerra;File Activity Monitor - NetApp;File Activity Monitor - Windows  
 **Legacy Article ID:** 1652
+

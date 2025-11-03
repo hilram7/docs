@@ -18,3 +18,4 @@ Identity Manager recommends the following architecture:
 
 One or several additional agents can be needed only when using a sensitive network, for example an
 administration network separated from the main network.
+

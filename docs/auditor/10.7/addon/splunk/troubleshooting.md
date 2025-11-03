@@ -36,3 +36,4 @@ appear regularly:
 - Regular events from _\*splunk\ta-netwrix-auditor-add-on-for-splunk_netwrix_auditor_api_input_\*\_
   source with checkpoint update with new ContinuationMarks received from Netwrix Auditor API.
 - Events from _\*\splunk\metrics.log_ source with information about indexed volumes.
+

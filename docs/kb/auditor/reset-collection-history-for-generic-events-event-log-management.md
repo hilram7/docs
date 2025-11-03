@@ -33,3 +33,4 @@ In cases where Netwrix Auditor - Generic Events (Event Log Management) is not be
 In order to do this please perform the following:
 
 1) Navigate to the **audit archive** location (location specified under **Settings -> Audit Archive**) and drill down into the **Logs** folder. In this folder find the **name of the Managed Object** and inside that there is a folder for **each of the computers** the product is collecting from. **Delete** the folder for the computer in question.
+

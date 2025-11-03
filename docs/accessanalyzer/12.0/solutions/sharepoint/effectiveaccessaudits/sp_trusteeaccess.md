@@ -56,3 +56,4 @@ directory opens.
 The SP_TrusteeAccess Job is now ready to import this list of trustees to scope the Effective Access
 Audits Job Group. After job execution, the list of specified trustees will populate the Scope table
 accessible under the job’s Results node.
+

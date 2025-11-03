@@ -256,3 +256,4 @@ On a Windows Terminal Server, the Endpoint Protector Client will display RDP Sto
 one or multiple Thin Clients as seen below.
 
 ![Client version displays RDP Storage disks shared by one or multiple Thin Clients](clientversiondc.webp)
+

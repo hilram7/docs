@@ -51,3 +51,4 @@ The following code example declares a clientId with the RoleOfficerByCategory pr
 | HashedSecret required   | **Type** String **Description** HashedPassword of client                                                            |
 | Identifier required     | **Type** String **Description** Client login name and name                                                          |
 | Profile required        | **Type** Int64 **Description** Profile linked with the client                                                       |
+

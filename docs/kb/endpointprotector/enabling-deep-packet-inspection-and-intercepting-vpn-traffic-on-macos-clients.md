@@ -62,3 +62,4 @@ This article describes how to enable Deep Packet Inspection and intercept VPN tr
 14. Confirm that **Intercept VPN Traffic** is enabled.
 
 15. Disconnect and reconnect to the VPN to ensure all settings take effect in the Netwrix Endpoint Protector Client.
+

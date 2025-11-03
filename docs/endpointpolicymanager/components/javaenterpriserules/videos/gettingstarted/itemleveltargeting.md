@@ -78,3 +78,5 @@ helps you out and gets you on the road to getting you started with Java Rules Ma
 
 Thanks so very much. If you're looking to get started, go ahead and connect with us and we'll get
 you the bits and we'll get you started real soon. Thanks.
+
+

@@ -30,3 +30,4 @@ The job groups in the 0.Collection Job Group are:
   default passwords
 - [5-Oracle_Configuration Job](/docs/accessanalyzer/11.6/solutions/databases/oracle/collection/5-oracle_configuration.md)
   – This job is designed to return additional configuration settings from Oracle servers.
+

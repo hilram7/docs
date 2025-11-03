@@ -54,3 +54,4 @@ Netwrix Directory Manager allows you to customize the Create wizard for director
 In the Create Group wizard in the Directory Manager portal, the **Group Type** field will be set to `Distribution` by default. Users will not be able to change the group type, so all new groups will be created as distribution lists only.
 
 ![Create Group wizard with Group Type set to Distribution](images/ka0Qk000000Duu1_0EMQk00000BS31S.png)
+

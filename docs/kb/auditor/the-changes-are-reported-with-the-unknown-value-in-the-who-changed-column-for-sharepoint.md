@@ -28,3 +28,4 @@ The following changes are reported with the `Unknown` value in the **Who Changed
 
 - Automatic creation of SharePoint groups on site creation if it uses unique permissions instead of inheriting them
 - All changes made by the `Anonymous` user if the security policy permits such changes
+

@@ -79,3 +79,4 @@ imports data to Netwrix Auditor, you can search Activity Records in the Netwrix 
 
 **Step 6 –** (optional) For PowerShell based add-ons, you can schedule a daily task to ensure your
 audit data is always up-to-date.
+

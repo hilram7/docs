@@ -210,3 +210,4 @@ Partial form for user data:
 
 To configure a display table different from the default one provided by Usercube, read
 [how to configure a display table](/docs/identitymanager/6.1/integration-guide/ui/how-tos/custom-display-table/index.md).
+

@@ -34,3 +34,4 @@ The following command expires the specified group from the connected identity st
 ```
 Expire-Group –Identity "CN=Training,OU=Local Recruiting,DC=HR,DC=Imanami,DC=US"
 ```
+

@@ -13,3 +13,4 @@ be processed. It also displays other job information depending on the job type.
 
 In Threat Manager, jobs are used for threat evaluation, maintenance tasks, and operational
 procedures such as email and SIEM notifications.
+

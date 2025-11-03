@@ -48,3 +48,4 @@ To change the language used on the portal by default please do the following:
 | ru             | Russian              |
 | sk             | Slovak               |
 | zh             | Traditional Chinese  |
+

@@ -155,3 +155,4 @@ Enable the following **basic audit policies** for the target machines:
 | Audit logon events         | 4625       | Failure         |
 | Audit account logon events | 4776, 4771 | Failure         |
 | Audit account management   | 4740       | Success         |
+

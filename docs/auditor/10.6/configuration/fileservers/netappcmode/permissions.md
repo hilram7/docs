@@ -142,3 +142,4 @@ The role you set up for working with RESTAPI must have the following attributes:
 - /api/protocols/audit read_create_modify
 - /api/storage/volumes readonly
 - /api/protocols/cifs/shares readonly
+

@@ -38,3 +38,4 @@ options, the Windows Solution is only available with a special Access Analyzer l
 
 - Member of the Local Administrators group
 - Member of the Domain Administrators group (if targeting domain controllers)
+

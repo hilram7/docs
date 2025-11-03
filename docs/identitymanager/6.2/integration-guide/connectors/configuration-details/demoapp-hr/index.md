@@ -40,3 +40,4 @@ To set the HR application to another port, run `./HR.exe --urls http://localhost
 access the application, enter the URL `localhost:{port number}` in a web browser.
 
 Some ports are not recognized by web browsers, or may already be used. Choose a port wisely.
+

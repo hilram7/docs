@@ -114,3 +114,4 @@ Export a SaaS configuration by proceeding as follows:
     before exporting again.
 
     The token served by Identity Manager's IDP expires after one hour.
+

@@ -287,3 +287,4 @@ Data protection can be ensured through:
 
 - [Connection](/docs/identitymanager/6.2/integration-guide/toolkit/xml-configuration/connectors/connection/index.md) able to store
   LDAP's `Login`, `Password` and `Server`.
+

@@ -35,3 +35,4 @@ password if the tolerance is set to three (or lower), and accept it if the toler
 (or higher). Choose the **Auto** value if passwords should be rejected if they only contain a
 single, continuous, character pattern. For example, "abcde" would be rejected, but "abcdz" and
 "abc123" would not.
+

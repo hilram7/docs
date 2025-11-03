@@ -67,3 +67,4 @@ will apply to the Directory Manager portal creation action.
 In addition to history tracking, Directory Manager provides event logging, which includes file
 logging and Windows logging for Directory Manager clients and services. See the
 [Event Logging](/docs/directorymanager/11.1/admincenter/identitystore/view/eventlogging.md) topic.
+

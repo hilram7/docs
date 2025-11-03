@@ -55,3 +55,4 @@ For some connectors, Identity Manager provides a template to automatically creat
 ## Verify the Entity Type
 
 Changes will take effect once you have launched synchronization. Therefore, in order to verify the process, follow the verification procedure indicated to [Synchronize Data](/docs/identitymanager/saas/user-guide/set-up/synchronization/index.md).
+

@@ -50,3 +50,4 @@ Error details: Access is denied.
 
 - Windows Server — Permissions for Windows Server Auditing — 10.6
 - [Failed Logon Attempts after Recent Service Account Password Change](/docs/kb/auditor/failed-logon-attempts-after-recent-service-account-password-change.md)
+

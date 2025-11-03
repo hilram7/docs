@@ -36,3 +36,4 @@ To save the guide, follow these steps:
 2. Click the **Save PDF** button on the right-hand side.
 
 <img src="https://nwxcorp.file.force.com/servlet/rtaImage?eid=ka0Qk000000E5mD&amp;feoid=00N0g000004CA0p&amp;refid=0EMQk00000CnKbO" width="754" height="45" />
+

@@ -83,3 +83,4 @@ Data protection can be ensured through:
 - a
   [CyberArk's AAM Credential Providers ](/docs/identitymanager/saas/integration-guide/network-configuration/agent-configuration/cyberark-application-access-manager-credential-providers/index.md)
   able to store EasyVista's `Login`, `Password`, `Account` and `Server`.
+

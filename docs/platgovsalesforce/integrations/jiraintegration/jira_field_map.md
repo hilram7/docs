@@ -136,3 +136,4 @@ the example showing the **Strongpoint Version** and **SF Version Number** fields
 the Change Request.
 
 ![Verify the Change Request](/images/platgovsalesforce/integrations/field_map_change_request.webp)
+

@@ -141,3 +141,4 @@ No action is required to fix this situation.
 
 If a user sees a License message, you need to grant them a license. Refer to the
 [License Manager](/docs/platgovnetsuite/installation/license_manager.md) topic.
+

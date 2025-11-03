@@ -89,3 +89,4 @@ Create a Connection Profile and set the following information on the User Creden
 - Access Token – Copy and paste the Threat Manager App Token
 
 The FS_DEFEND_SDD Job must be configured to use this custom Connection Profile.
+

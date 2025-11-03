@@ -46,3 +46,4 @@ To view the granular rights granted through SharePoint permission levels (ShareP
 **Roles** column in the [Permissions Report](/docs/accessinformationcenter/12.0/resourceaudit/sharepoint/sitecollections/permissions.md). For additional
 detail on what permissions each SharePoint Role grants, see the **Permission Mask** column in the
 [Site Collection Roles Report](/docs/accessinformationcenter/12.0/resourceaudit/sharepoint/sitecollections/sitecollectionroles.md).
+

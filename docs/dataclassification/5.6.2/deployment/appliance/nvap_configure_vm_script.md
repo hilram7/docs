@@ -40,3 +40,4 @@ Follow the steps below to configure your virtual appliance with Netwrix Data Cla
     1. In administrative web console, when prompted to start trial period, select No.
     2. Select Load license atop of the window.
     3. On the Licenses page that opens, click Add on the right and specify license details.
+

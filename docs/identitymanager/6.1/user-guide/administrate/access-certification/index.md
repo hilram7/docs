@@ -44,3 +44,4 @@ Perform access certification by proceeding as follows:
 
 1. [Schedule a certification campaign](/docs/identitymanager/6.1/user-guide/administrate/access-certification/certification-campaign-scheduling/index.md).
 2. [Execute a certification campaign](/docs/identitymanager/6.1/user-guide/administrate/access-certification/certification-campaign-execution/index.md).
+

@@ -44,3 +44,4 @@ IP address.
 See the Netwrix Password Reset v3.3
 [Bug Fix List PDF](https://helpcenter.netwrix.com/bundle/PasswordReset_3.3_ReleaseNotes/resource/Netwrix_PasswordReset_3.3_BugFixList.pdf)
 for a list of bugs fixed in this version.
+

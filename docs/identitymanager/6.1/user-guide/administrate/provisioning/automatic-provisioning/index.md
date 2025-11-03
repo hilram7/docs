@@ -60,3 +60,4 @@ In order to verify the process:
    [manual assignment workflow](/docs/identitymanager/6.1/user-guide/administrate/manual-assignment-request/index.md)
    to make a change in one of their permissions, which involves automated provisioning.
 3. Perform automated provisioning and check in Usercube that the change was effectively made.
+

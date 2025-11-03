@@ -110,3 +110,4 @@ It can be deleted at any time.
 
 In order to verify the process, check on the **Access Certification Campaigns** page that the
 created certification campaign has the right parameters.
+

@@ -14,3 +14,4 @@ The following options are available:
 
 - Generate notifications immediately
 - Delay notifications until conditions have been met – Set the frequency condition
+

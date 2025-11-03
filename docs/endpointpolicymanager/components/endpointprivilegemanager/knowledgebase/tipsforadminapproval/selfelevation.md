@@ -37,3 +37,5 @@ types you selected in the policy, you should see the **Run Self Elevated with Po
 available.
 
 ![959_6_image-20230522075042-6](/images/endpointpolicymanager/leastprivilege/policyeditor/959_6_image-20230522075042-6.webp)
+
+

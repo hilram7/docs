@@ -99,3 +99,4 @@ This action is only available for manually added accounts and not for the defaul
 **Step 3 –** Click **OK** to confirm the action.
 
 The user's or group's access to Recovery for Active Directory is removed.
+

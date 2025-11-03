@@ -52,3 +52,4 @@ Follow the steps to add a Syslog output.
 The new output displays in the table. Click the **Edit** button to open the Output properties window
 to modify these settings. See the [Output Types](/docs/activitymonitor/8.0/admin/outputs/overview.md) topic for additional
 information.
+

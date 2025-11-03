@@ -45,3 +45,4 @@ In the **Add Action** dialog, from the **Action Type** list select **Remove Clas
 3. Finally, click **OK** to save the settings and close the dialog.
 
 **NOTE:** The additional classification will not trigger other workflows or affect the source item.
+

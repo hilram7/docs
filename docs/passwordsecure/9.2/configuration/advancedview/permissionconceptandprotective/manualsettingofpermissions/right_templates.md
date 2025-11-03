@@ -20,3 +20,4 @@ manual setting of permissions. Automatic process for the issuing of permissions 
 Netwrix Password Secure and will be covered in the section
 [Predefining rights](/docs/passwordsecure/9.2/configuration/advancedview/permissionconceptandprotective/predefiningrights/predefining_rights.md) and also under
 "[Inheritance from organisational structures](/docs/passwordsecure/9.2/configuration/advancedview/permissionconceptandprotective/automatedsettingofpermissions/inheritance_from_organizational.md)".
+

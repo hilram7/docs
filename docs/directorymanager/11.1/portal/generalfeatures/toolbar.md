@@ -36,3 +36,4 @@ depending on the page you are on. Toolbar buttons are listed in the following ta
 | ![validate](/images/directorymanager/11.1/portal/validate.webp)  | Verify and update your profile information. |
 | ![subscribe](/images/directorymanager/11.1/portal/subscribe.webp) | Subscribe to the Teams channel. <br />Only non MFA Microsoft Entra ID users can subscribe to the Teams channel. |
 | ![unsubscribe](/images/directorymanager/11.1/portal/unsubscribe.webp) | Unsubscribe from the Team channel. |
+

@@ -25,3 +25,4 @@ Step 2 – On the Create Application page, click the _Login URL_ displayed in th
 On clicking it, the user is redirected to the Directory Manager login page where Directory Manager
 is acting as an identity provider. If the user is already logged into Directory Manager, he/she will
 be auto-authenticated; else the user will have to provide the credentials.
+

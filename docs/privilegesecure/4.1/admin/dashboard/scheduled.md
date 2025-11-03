@@ -62,3 +62,4 @@ topic for additional information.
 
 
 The table columns can be resized and sorted in ascending or descending order.
+

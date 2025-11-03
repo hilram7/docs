@@ -210,3 +210,4 @@ Step 17 – You can click:
 - View Details: to view log file generated during the Upgrade process.
 - Launch GroupID: to start using Directory Manager 11.1.
 - Close: to close the Upgrade wizard.
+

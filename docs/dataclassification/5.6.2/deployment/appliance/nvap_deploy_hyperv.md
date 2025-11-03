@@ -22,3 +22,4 @@ sidebar_position: 50
 
 4. The newly created virtual machine named Netwrix Data Classification will appear in the list of
    virtual machines. Right-click and select Start.
+

@@ -75,3 +75,4 @@ In order to verify the process:
 - if logs are enabled, then stop the pool to make sure that no error is thrown;
 - perform from a local device agent-side actions such as sending test emails, reading and/or writing
   inside working folders, or launching/scheduling agent-side tasks.
+

@@ -97,3 +97,4 @@ sidebar_position: 20
 
 - #### [Manage Role Officers](/docs/identitymanager/6.1/user-guide/set-up/role-officer-management/index.md)
     How to manage role officers in order to ensure the approval for entitlement assignments.
+

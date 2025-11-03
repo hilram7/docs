@@ -43,3 +43,4 @@ NOTE: To perform this procedure, you will need the ADSI Edit utility. In Windows
 2. Under **Keep audit data for:** enter the value (in months) that corresponds to your tombstone lifetime attribute setting.
 
 > **NOTE:** All data older than the specified value will be deleted automatically on next data collection.
+

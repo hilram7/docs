@@ -41,3 +41,4 @@ Send,\x19
 Send,$$PASSWORD$$\r\n
 
 ExecuteAndCapture,$$RESULTS$$,ls -al
+

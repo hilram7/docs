@@ -36,3 +36,4 @@ JavaScript.
 
 You can find the complete technical documentation for the SDK
 [here](https://help.passwordsafe.de/api/v9/).
+

@@ -37,3 +37,4 @@ The DB Changes table has the following features:
     - Change – Type of database entry (Additions, Updates, Deletes)
     - Record Type – Type of record modified
     - Which Record – Record ID
+

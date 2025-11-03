@@ -240,3 +240,4 @@ using the following setting:
 
 - `AllowedSymbolChars`: A string containing the list of symbol chars to be used in the generated
   password. The default value is : `!;.,?()[]-_&%$+{}@`
+

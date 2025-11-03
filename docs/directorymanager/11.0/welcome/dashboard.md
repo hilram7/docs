@@ -76,3 +76,4 @@ The dashboard comprises of a few cards.
 - [Enroll Your Identity Store Account](/docs/directorymanager/11.0/welcome/secondfactorauthentication/enrollaccount.md)
 - [ Change your password](/docs/directorymanager/11.0/welcome/user/manage/changepassword.md)
 - [Portal Settings](/docs/directorymanager/11.0/welcome/generalfeatures/portal.md)
+

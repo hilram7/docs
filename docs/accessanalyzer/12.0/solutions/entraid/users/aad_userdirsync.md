@@ -35,3 +35,4 @@ following pre-configured report.
 | Report       | Description                                                                            | Default Tags | Report Elements                                                                                                                                                     |
 | ------------ | -------------------------------------------------------------------------------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | User Syncing | This report indicates the sync status of user accounts within the audited environment. | None         | This report is comprised of two elements: <ul><li>Bar Chart – Displays enterprise user synchronization summary</li><li>Table – Provides user sync details</li></ul> |
+

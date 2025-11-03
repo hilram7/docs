@@ -49,3 +49,4 @@ To create a new user account with Nutanix Prism:
 5. Enter local user account name and password, then click **Save** next to them to save the
    settings.
 6. Click the **Close** button to close the **Manage roles** dialog.
+

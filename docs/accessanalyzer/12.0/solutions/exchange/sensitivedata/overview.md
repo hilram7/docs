@@ -29,3 +29,4 @@ Data Collectors to locate sensitive data found in mailboxes and public folders i
 environment. It also contains analysis and reporting jobs to order and analyze the data returned by
 the queries. See the [Exchange](/docs/accessanalyzer/12.0/admin/settings/exchange.md) topic for additional
 information.
+

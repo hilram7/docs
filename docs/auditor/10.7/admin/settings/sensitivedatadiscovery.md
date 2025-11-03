@@ -184,3 +184,4 @@ ForNDC Endpoint Provider:
 single alert will be sent instead of many alerts. This can be helpful when Netwrix Auditor detects
 many activity records matching the filters you specified. See the
 [Alerts](/docs/auditor/10.7/admin/alertsettings/overview.md) topic for additional information.
+

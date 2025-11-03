@@ -76,3 +76,4 @@ Use this page to specify basic information about the group.
 9. In the **Security** list, select a security type for the group.
 10. Enter a description for the group in the **Description** box.
 11. Click **Next**.
+

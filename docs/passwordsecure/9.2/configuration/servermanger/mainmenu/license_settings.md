@@ -52,3 +52,4 @@ connection problems, the firewall and, if relevant, the proxy should be checked.
    ![license_file_tab](/images/passwordsecure/9.2/configuration/server_manager/main_menu/license_file_tab.webp)
 6. Select the file from this email and then click Open.
    ![activated_license](/images/passwordsecure/9.2/configuration/server_manager/main_menu/activated_license.webp)
+

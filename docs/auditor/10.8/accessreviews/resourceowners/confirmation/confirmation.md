@@ -32,3 +32,4 @@ the confirmation. If multiple owners were sent the request, the column remains a
 until the assigned Primary owner replies.
 
 See the [Confirm Ownership Wizard](/docs/auditor/10.8/accessreviews/resourceowners/confirmation/confirm.md) topic for additional information.
+

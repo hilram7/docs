@@ -56,3 +56,4 @@ Few useful examples:
    `User:*AUTHORITYNETWORK*`
 
 **NOTE:** If your Netwrix Logon Reporter installation directory does not contain the `ExcludeFilter.txt` file, please contact [Netwrix Technical Support](https://www.netwrix.com/support_ticket.html) team to get the most recent version of the program.
+

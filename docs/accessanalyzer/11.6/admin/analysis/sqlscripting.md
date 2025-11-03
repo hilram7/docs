@@ -115,3 +115,4 @@ pre-existing CSV file can also be uploaded to populate the table.
 
 Click **OK** to confirm changes to the table. If no changes were made or intended, click **Cancel**
 to close the Edit Table window to ensure no accidental changes are saved.
+

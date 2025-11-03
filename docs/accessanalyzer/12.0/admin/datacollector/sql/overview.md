@@ -126,3 +126,4 @@ categories used are dependent on the solution.
 - [SQL: Results](/docs/accessanalyzer/12.0/admin/datacollector/sql/results.md)
 - [SQL: Rowkey](/docs/accessanalyzer/12.0/admin/datacollector/sql/rowkey.md)
 - [SQL: Summary](/docs/accessanalyzer/12.0/admin/datacollector/sql/summary.md)
+

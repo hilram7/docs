@@ -33,3 +33,4 @@ Auditor. Navigate to Start → Run and type _"regedit"_.
 | WriteAgentsToApplicationLog                                                                                        | Defines whether to write the events produced by the Netwrix Auditor Event Log Compression Service to the Application Log of a monitored machine: <ul><li>0—Disabled</li><li>1—Enabled</li></ul>                              |
 | WriteToApplicationLog                                                                                              | Defines whether to write events produced by Netwrix Auditor to the Application Log of the machine where the product is installed: <ul><li>0—No</li><li>1—Yes</li></ul>                                                       |
 
+

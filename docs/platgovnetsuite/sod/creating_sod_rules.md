@@ -147,3 +147,4 @@ SoD Rule Import available to enable bulk add or update SoD rules to your product
 
 2. Open **Setup** > **Import/Export** > **Saved Imports** > **SoD Rule Import**
 3. Follow the prompts in the **Import Assistant**.
+

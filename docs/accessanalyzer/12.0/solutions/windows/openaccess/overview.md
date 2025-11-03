@@ -14,3 +14,4 @@ The job in the Open Access job group is:
 
 - [SG_OpenFolders Job](/docs/accessanalyzer/12.0/solutions/windows/openaccess/sg_openfolders.md) – This job enumerates folders with open access across the
   audited environment
+

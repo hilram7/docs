@@ -28,3 +28,4 @@ Step 3 – On the **Choose Your Job Template** page, enter the following job det
     - Move and Disable Objects in Active Directory
     - Move Objects in Active Directory
     - Sync GAL in Active Directory
+

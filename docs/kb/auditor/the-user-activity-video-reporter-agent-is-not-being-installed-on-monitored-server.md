@@ -51,3 +51,4 @@ To troubleshoot the issue with agent installation, perform the following steps:
 
 3. Try to connect to the target machine from the local server through Remote Registry:
    - http://technet.microsoft.com/en-us/library/cc785793(v=ws.10).aspx
+

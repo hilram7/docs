@@ -51,3 +51,4 @@ The options on the Regular Expression window are:
 
     - The minimum value is 1
     - The maximum value is 10
+

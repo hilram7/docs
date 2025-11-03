@@ -39,3 +39,4 @@ This article explains how to configure your system to generate a memory dump fil
 8. Restart the computer.
 
 After a crash occurs, you can access the memory dump file at the default path or configure a specific path to collect the generated logs.
+

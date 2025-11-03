@@ -212,3 +212,4 @@ This grants:
 
 - read access to `/etc/sfw/smb.conf`
 - read access to `/etc/samba/smb.conf`
+

@@ -49,3 +49,4 @@ Each stage delivers benefits to significantly improve your ability to manage tec
 | **How Platform Governance for Salesforce Helps** | Creates visual, searchable documentation making it easy to understand complex orgs | Instantiates policies to mitigate risky changes before they are deployed | Simplifies clean up with a combination of automated tools, dependency models and usage data | Ensures changes are made properly, safely and efficiently, resulting in up to 80% reduction in enhancement requests that require a CoE or CI/CD process |
 
 **Next Technical Debt Topic:** [Automated Documentation](/docs/platgovsalesforce/techdebt/tech_debt_auto_documentation.md)
+

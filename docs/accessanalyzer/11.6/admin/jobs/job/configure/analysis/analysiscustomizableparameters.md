@@ -40,3 +40,4 @@ Repeat the steps as needed to customize analysis parameters.
 See the
 [SQLscripting Analysis Module](/docs/accessanalyzer/11.6/admin/analysis/sqlscripting.md)
 topic for additional information.
+

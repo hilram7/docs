@@ -91,3 +91,4 @@ Refer to the following steps to optimize the initial SACL replication:
 
 - How to determine the minimum staging area DFSR needs for a replicated folder ⸱ Microsoft  
   https://learn.microsoft.com/en-us/windows-server/troubleshoot/how-to-determine-the-minimum-staging-area-dfsr-needs-for-a-replicated-folder
+

@@ -101,3 +101,4 @@ administration page for instructions).
 - In the “ServiceNow OAuth2 Client ID” and “ServiceNow OAuth2 Client Secret” fields (not applicable
   if using Basic Authentication), enter the Client ID and Client Secret associated with the OAuth
   application registration.
+

@@ -48,3 +48,4 @@ To better organize the search process, you can create a **Thread** via **Correla
 - How To Turn Off Bulk Email Notifications (Force Change Tracker to send one email for each change instead of compiling into one email with multiple changes)
 - Netwrix Change Tracker - Types of Authentication
 <!-- Link to deleted changetracker article removed -->
+

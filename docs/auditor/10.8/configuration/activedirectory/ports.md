@@ -28,3 +28,4 @@ Tip for reading the table: For example, on the computer where Netwrix Auditor Se
 | 53                                 | UDP      | Netwrix Auditor Server | DNS Server         | DNS Client                                                                                     |
 
 \* - for Exchange 2010 only
+

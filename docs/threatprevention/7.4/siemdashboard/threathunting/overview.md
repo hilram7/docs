@@ -90,3 +90,4 @@ any possible network issues.
 
 The Netwrix Threat Hunting App will now display activity from either the Activity Monitor data or
 the Threat Prevention data.
+

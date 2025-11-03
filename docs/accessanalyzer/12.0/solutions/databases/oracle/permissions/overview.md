@@ -26,3 +26,4 @@ The jobs in the 3.Permissions Job Group are:
 - [Oracle_SysSchemaPermissions Job](/docs/accessanalyzer/12.0/solutions/databases/oracle/permissions/oracle_sysschemapermissions.md) – This job provides insight into
   all the users who have access to the objects in the SYS schema and the type permissions to those
   objects across all the audited Oracle database servers
+

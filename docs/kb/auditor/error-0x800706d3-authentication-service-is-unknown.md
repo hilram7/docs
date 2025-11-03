@@ -57,3 +57,4 @@ Upgrade your Netwrix Auditor instance to `v10.5.11059` or the latest version ava
 - [KB5003646 · Microsoft Support](https://support.microsoft.com/en-us/topic/june-8-2021-kb5003646-os-build-17763-1999-81e2ff5a-0769-4e56-8762-059dd6e0d6bb)
 - Installation − Upgrade to the Latest Version · v10.6
 - [Netwrix Auditor v10.5 Bug Fix List](https://helpcenter-be.netwrix.com/bundle/Auditor_10.5_ReleaseNotes/raw/resource/enus/Netwrix_Auditor_10.5_BugFixList.pdf)
+

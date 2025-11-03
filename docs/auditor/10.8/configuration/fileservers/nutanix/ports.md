@@ -52,3 +52,4 @@ Tip for reading the table: For example, on the computer where Netwrix Auditor Se
 Later, you can specify any custom TCP port when editing your Nutanix Files monitoring plan. See the
 [File Servers](/docs/auditor/10.8/admin/monitoringplans/fileservers/overview.md) (Nutanix section) for more
 information.
+

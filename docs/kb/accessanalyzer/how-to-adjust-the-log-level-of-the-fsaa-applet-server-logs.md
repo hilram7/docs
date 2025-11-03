@@ -66,3 +66,4 @@ The FSAA Applet server log level settings default to `Debug`, which can lead to 
 4. Save the changes to the `NLog.config` file.
 
 5. Restart the FSAA Applet Server or Proxy Host to apply the changes.
+

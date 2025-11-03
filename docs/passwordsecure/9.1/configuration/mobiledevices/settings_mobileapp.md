@@ -73,3 +73,4 @@ If logging is active, the log file can be displayed here.
 **Delete log file**
 
 Logs that are no longer needed can be deleted here.
+

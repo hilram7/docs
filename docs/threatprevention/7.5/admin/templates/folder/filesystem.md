@@ -35,3 +35,4 @@ recommended only for highly sensitive content.
 | Properties | WinFS Property: Audit Modifications                   | Specify the files and/or folders to be monitored. Optionally, add any ‘Wildcards’ and/or AD Perpetrators to be included or excluded                                | None |
 | Properties | WinFS Property: Owner Modifications                   | Specify the files and/or folders to be monitored. Optionally, add any ‘Wildcards’ and/or AD Perpetrators to be included or excluded                                | None |
 | Properties | WinFS Property: Permission Modifications              | Specify the files and/or folders to be monitored. Optionally, add any ‘Wildcards’ and/or AD Perpetrators to be included or excluded                                | None |
+

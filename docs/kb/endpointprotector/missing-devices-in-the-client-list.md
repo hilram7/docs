@@ -34,3 +34,4 @@ This article outlines the steps to diagnose and resolve issues where devices do 
 3. If there is more than one GlobalSign certificate, right-click each one then **Properties**, and take a screenshot of the properties window.
 4. Right-click the installer on the affected machine, select **Properties** then go to the **Digital Signatures** tab (if available), and take a screenshot.
 5. Send all the above screenshots to Netwrix Technical Support (https://www.netwrix.com/support.html) and specify the client version running on the affected machines.
+

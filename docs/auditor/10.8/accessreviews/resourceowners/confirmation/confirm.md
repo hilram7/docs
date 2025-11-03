@@ -46,3 +46,4 @@ The selected owners receive an email from the Access Reviews application asking 
 owner of the assigned resource. See the
 [Ownership Confirmation Request Email](/docs/auditor/10.8/accessreviews/owneroverview/confirmationrequest.md) topic for additional
 information.
+

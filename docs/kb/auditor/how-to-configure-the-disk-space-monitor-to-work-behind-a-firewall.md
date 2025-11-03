@@ -42,3 +42,4 @@ If `DCOM_TCP135` is not in the list of Programs and Services, perform the follow
 4. Click the **Exceptions** tab and make sure `DCOM_TCP135` has been added to the list of Program and Services.
 5. Go to **Start** | **Control Panel** | **Scheduled Tasks**. Run the Netwrix Disk Space Monitor scheduled task.
 6. Open the mailbox you have specified to receive notifications and make sure the report displays disk space information about the server in question.
+

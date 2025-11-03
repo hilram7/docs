@@ -153,3 +153,4 @@ set report filters as follows:
 - Attribute 2: Password not required| Value: Yes
 - Attribute 3: Logon name (sAMAccountName) - not equal to | Value: svc_%
 - All other filter values can be left default.
+

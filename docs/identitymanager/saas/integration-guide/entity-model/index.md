@@ -256,3 +256,4 @@ creates, reads, updates and deletes from the `UR_*` tables.
 
 The **entity model** is enhanced with **records** to handle positions and movements of staff. See
 the [Identity Management](/docs/identitymanager/saas/integration-guide/identity-management/index.md) topic for additional information.
+

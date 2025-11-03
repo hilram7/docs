@@ -271,3 +271,4 @@ You can view the documented Metadata by [Type](#metadata-by-type) or by [Categor
 | Sharing and Visibility | Sharing                        | SharingRecalculation        |
 | Sharing and Visibility | Sharing                        | SharingRules                |
 | Sharing and Visibility | Sharing                        | SharingSet                  |
+

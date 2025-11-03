@@ -81,3 +81,5 @@ Computer side, depending on which side on are on.
 ![quickstart_using_policypak_3](/images/endpointpolicymanager/preferences/quickstart_using_endpointpolicymanager_3.webp)
 
 Keep the Group Policy Preference item file you created handy for the next step.
+
+

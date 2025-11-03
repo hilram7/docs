@@ -23,3 +23,4 @@ being locked down or blocked.
 | Usage     | GPO: Deletions                       | No customizations required. Most common modifications: specify AD Perpetrator to be included or excluded                                                                      | None |
 | Usage     | GPO: Link Changes                    | No customizations required. Most common modifications: specify AD Context and/or AD Perpetrator to be included or excluded                                                    | None |
 | Usage     | GPO: Monitoring Applications of GPOs | No customizations required. Most common modifications: specify AD Context and/or AD Perpetrator to be included or excluded                                                    | None |
+

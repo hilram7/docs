@@ -28,3 +28,4 @@ What exactly does **automatic audit configuration** do on the monitored servers?
 ---
 
 For a list of changes to audit configuration that must be performed manually or automatically through the **Audit Configuration** wizard, refer to **Section 5. CONFIGURING AUDIT SETTINGS ON TARGET SERVERS** of [NetWrix Windows Server Configuration Change Reporter Installations Guide](https://www.netwrix.com/download/documents/NetWrix_Windows_Server_Change_Reporter_Installation_Guide.pdf).
+

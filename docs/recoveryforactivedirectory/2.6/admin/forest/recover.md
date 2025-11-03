@@ -174,3 +174,4 @@ Notice that the Forest page displays the operations performed during the restore
 
 From here, you can proceed to restore additional domain controllers or promote new ones to the
 forest.
+

@@ -48,3 +48,4 @@ following cases, where users continue to receive notifications in English:
 
 - [Configure an SMTP Server](/docs/directorymanager/11.0/signin/identitystore/configure/smtpserver.md)
 - [Customize Notifications](/docs/directorymanager/11.0/signin/notification/customize.md)
+

@@ -53,3 +53,4 @@ where `'X'` is your old server name.
 ### Related Articles:
 
 - [The feature: "Scale-out deployment" is not supported in this edition of Reporting Services ⸱ Microsoft &#129125;](https://learn.microsoft.com/en-us/answers/questions/653685/the-feature-scale-out-deployment-is-not-supported)
+

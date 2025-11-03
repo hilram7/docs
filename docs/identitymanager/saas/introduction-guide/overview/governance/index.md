@@ -45,3 +45,4 @@ Learn more on how to [Generate Reports](/docs/identitymanager/saas/user-guide/ad
 Learn more on [Perform Access Certification](/docs/identitymanager/saas/user-guide/administrate/access-certification/index.md).
 
 Learn more on how to [Manage Risks](/docs/identitymanager/saas/user-guide/optimize/risk-management/index.md).
+

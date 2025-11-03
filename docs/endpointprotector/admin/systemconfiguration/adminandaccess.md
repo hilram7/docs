@@ -227,3 +227,4 @@ responsible for assigning administrators to manage departments.
 
 A regular administrator can only manage the departments it was assigned to. It cannot see entities
 relating to other departments.
+

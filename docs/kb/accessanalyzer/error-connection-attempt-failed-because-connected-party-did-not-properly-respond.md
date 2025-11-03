@@ -67,3 +67,4 @@ For more information on port requirements, please see the various guides for eac
 - Netwrix Access Analyzer v12.0 > **Proxy Mode with Applet Port Requirements**
 - Netwrix Access Analyzer v12.0 > **Proxy Mode as a Service Port Requirements**
 - Netwrix Access Analyzer v12.0 > **Local Mode Port Requirements**
+

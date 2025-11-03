@@ -23,3 +23,4 @@ Required knowledge includes:
 The installation of Usercube requires architectural decisions to be made. An
 [overview](/docs/identitymanager/6.1/installation-guide/overview/index.md) of the
 architecture and available configurations will help you make informed decisions.
+

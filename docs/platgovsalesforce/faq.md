@@ -67,3 +67,4 @@ Licenses are only required for editors of Platform Governance for Salesforce (i.
 or edit processes or view customization documentation). No license is required for users who merely
 view documentation. A company will normally start with a small team (the base includes three seats)
 and then add users as their usage expands.
+

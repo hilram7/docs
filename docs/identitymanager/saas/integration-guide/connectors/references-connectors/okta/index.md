@@ -284,3 +284,4 @@ Data protection can be ensured through:
 - An [Connection](/docs/identitymanager/saas/integration-guide/toolkit/xml-configuration/connectors/connection/index.md)
 - A [Connection](/docs/identitymanager/saas/integration-guide/toolkit/xml-configuration/connectors/connection/index.md)Vault able to
   store Okta Login, Password, Account and Server.
+

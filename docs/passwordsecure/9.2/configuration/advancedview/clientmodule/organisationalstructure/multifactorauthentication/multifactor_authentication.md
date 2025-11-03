@@ -91,3 +91,4 @@ on the **Multifactor Authentication** ribbon.
 
 In the administration of the multi-factor authentication you will then find in the ribbon the
 possibility to delete the stored MFA.
+

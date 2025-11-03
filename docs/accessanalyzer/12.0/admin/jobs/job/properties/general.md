@@ -60,3 +60,4 @@ shall be set for messaging in the application.
 ![Log Level Options](/images/accessanalyzer/12.0/admin/jobs/job/properties/generalloglevel.webp)
 
 For example, this is where you set the messaging for Info, Warning, or Error at a job level.
+

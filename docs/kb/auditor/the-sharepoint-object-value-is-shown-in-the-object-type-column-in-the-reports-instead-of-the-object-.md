@@ -27,3 +27,4 @@ knowledge_article_id: kA00g000000H9SACA0
 # The "SharePoint Object" value is shown in the "Object Type" column in the reports instead of the object itself.
 
 When collecting data on permission changes, Netwrix Auditor employs the native SharePoint audit (`SPaudit`) to get the object type by its ID. If an object is deleted within 30 minutes after its permissions were modified, permission modifications will be reported with the "SharePoint Object" value in the **"Object Type"** column because the object ID is unknown.
+

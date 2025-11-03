@@ -28,3 +28,4 @@ To schedule the script:
 6. Set **Status** to **Scheduled**.
 7. Set **Start Date** to the current date. You can modify the schedule as needed.
 8. Click **Save**
+

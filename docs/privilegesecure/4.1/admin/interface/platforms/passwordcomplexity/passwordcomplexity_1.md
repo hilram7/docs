@@ -37,3 +37,4 @@ Follow the steps to add a password policy to the console.
 **Step 4 –** Click **Save** to create the new password policy.
 
 The new password policy is added to the Password Policy list.
+

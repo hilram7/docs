@@ -20,3 +20,4 @@ inbound connections to local 443 TCP port.
 | Port | Protocol | Source                 | Target | Purpose                                    |
 | ---- | -------- | ---------------------- | ------ | ------------------------------------------ |
 | 443  | TCP      | Netwrix Auditor Server | VMware | HTTPS Connection to VMware VSphere via SDK |
+

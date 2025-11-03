@@ -57,3 +57,4 @@ Refer to the following steps to resolve the issue:
 - Recommended Configurations for the .ADInvetory Solution · v11.6
 - Active Directory Domain Target Requirements · v11.6
 - Recommended Configurations for the .AD Inventory Solution · v11.6
+

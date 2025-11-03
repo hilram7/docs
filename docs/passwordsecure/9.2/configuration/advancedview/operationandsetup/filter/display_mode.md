@@ -36,3 +36,4 @@ associated with the display mode:
   (top right in the client)
 - **Display mode status when starting the program:** This setting defines which display mode is
   displayed as default when starting the program.
+

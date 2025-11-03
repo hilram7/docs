@@ -101,3 +101,4 @@ All backups of the database are displayed hierarchically in a sortable list.
 
 A backup can be restored here. This can be done via a file or from the history. The procedure is
 described under Backup management
+

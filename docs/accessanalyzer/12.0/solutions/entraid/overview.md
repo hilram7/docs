@@ -40,3 +40,4 @@ The job groups in the Entra ID Solution are:
   areas of administrative concern
 - [2.Users Job Group](/docs/accessanalyzer/12.0/solutions/entraid/users/overview.md) – Identifies areas of administrative concern related to
   Microsoft Entra ID users
+

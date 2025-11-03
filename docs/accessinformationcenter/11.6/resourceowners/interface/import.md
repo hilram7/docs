@@ -99,3 +99,4 @@ from the table.
 These resources are now being manages by the Access Information Center. See the
 [Update Resource Wizard](/docs/accessinformationcenter/11.6/resourceowners/interface/update.md)
 topic for information on making alterations to the imported resources.
+

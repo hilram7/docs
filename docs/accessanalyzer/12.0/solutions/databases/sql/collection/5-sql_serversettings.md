@@ -110,3 +110,4 @@ following ways:
 no changes were made. Then click OK to close the Query Properties window.
 
 The 5-SQL_ServerSettings Job is now ready to run with the customized settings.
+

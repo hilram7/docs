@@ -76,3 +76,4 @@ without the **scriptblock**). You can view the supplied MSSQL script as an examp
 A credential then still needs to be created. This is then transferred to the **scriptblock** using
 the **invoke** command. It is also important in this case to provide Netwrix Password Secure with
 feedback about all errors via **Write-Output** or **throw [System.Exception]**.
+

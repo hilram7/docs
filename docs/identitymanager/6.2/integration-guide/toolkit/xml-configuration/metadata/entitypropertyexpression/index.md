@@ -31,3 +31,4 @@ The following example computes the record display name.
 | Priority default value: 0 | **Type** Int32 **Description** Specifies the execution priority.                                                                                                                           |
 | Property required         | **Type** Int64 **Description** Identifier of the referenced entity property                                                                                                                |
 | PropertyCriteria optional | **Type** Int64 **Description** References the property criteria used to compute navigation properties.                                                                                     |
+

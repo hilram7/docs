@@ -80,3 +80,4 @@ If no property appears in the display name auto-completion, then:
 
 Ensure that the created properties are saved by clicking on **Save & Close** > **Save** at the top
 right corner of the screen.
+

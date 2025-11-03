@@ -15,3 +15,4 @@ sidebar_position: 40
 - #### [MenuItem](/docs/identitymanager/6.1/integration-guide/toolkit/xml-configuration/user-interface/menuitem/index.md)
 - #### [SearchBar](/docs/identitymanager/6.1/integration-guide/toolkit/xml-configuration/user-interface/searchbar/index.md)
 - #### [Tile](/docs/identitymanager/6.1/integration-guide/toolkit/xml-configuration/user-interface/tile/index.md)
+

@@ -98,3 +98,4 @@ In order to verify both profile configuration and assignment, check that a sampl
 A functioning and well-assigned profile must not trigger 403 errors in the server logs, nor in the UI in the form of a red notification at the bottom right corner of the application. This kind of error appears if an entitlement is incomplete, i.e. giving access to a button but not to the page said button leads to.
 
 For example, you can check whether an ordinary user can access another user's personal data from the **Directory** tile.
+

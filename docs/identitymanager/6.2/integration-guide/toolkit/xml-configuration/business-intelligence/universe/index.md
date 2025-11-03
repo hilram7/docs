@@ -91,3 +91,4 @@ An entity instance represents, within a Universe , the occurrence in the model o
 | FilterValue optional          | **Type** String **Description** Constant value used as filter.                                                                             |
 | Identifier required           | **Type** String **Description** Identifier of the entity instance.                                                                         |
 | IsHidden default value: false | **Type** Boolean **Description** `true` if the entity instance is to be hidden in Power BI.                                                |
+

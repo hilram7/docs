@@ -74,3 +74,4 @@ Get-NetTCPConnection -OwningProcess (Get-Process SIEnterpriseManager).id -State 
 ```powershell
 Get-NetTCPConnection -OwningProcess (Get-Process SIEnterpriseManager).id -State Listen
 ```
+

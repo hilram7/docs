@@ -79,3 +79,4 @@ Privilege Secure is configured and ready to use:
   policy
 - [Browser Extension Interface](/docs/privilegesecure/4.2/enduser/browserextension/interface/interface.md) — Conveniently access all of
   your previously created activities from within an internet browser
+

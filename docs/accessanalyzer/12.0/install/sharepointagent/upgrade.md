@@ -25,3 +25,4 @@ installed as part of the main installation if your license includes it.
 
 Now that the SharePoint Agent has been upgraded, it can be used by the SharePoint Solution. See the
 [SharePoint Solution](/docs/accessanalyzer/12.0/solutions/sharepoint/overview.md) topic for additional information.
+

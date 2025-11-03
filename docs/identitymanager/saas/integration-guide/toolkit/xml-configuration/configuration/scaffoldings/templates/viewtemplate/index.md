@@ -46,3 +46,4 @@ Our example generates the following configuration:
 <EntityTypeDisplayName Id="102" EntityType="Directory_UserCategory" /><EntityTypeDisplayTable Id="120" EntityType="Directory_UserCategory" /><ViewAccessControlRules Id="160" EntityType="Directory_UserCategory" Profile="Administrator" />
 
 ```
+

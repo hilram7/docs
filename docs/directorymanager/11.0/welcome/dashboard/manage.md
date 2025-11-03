@@ -88,3 +88,4 @@ When you delete a report, all its settings are removed.
 - [User Reports](/docs/directorymanager/11.0/welcome/dashboard/user.md)
 - [Computer Reports](/docs/directorymanager/11.0/welcome/dashboard/computer.md)
 - [Contact Reports](/docs/directorymanager/11.0/welcome/dashboard/contact.md)
+

@@ -34,3 +34,4 @@ following pre-configured report:
 | Report         | Description                                                   | Default Tags                                               | Report Elements                                                                                                                                     |
 | -------------- | ------------------------------------------------------------- | ---------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Machine Owners | Identify owners of machines based on authentication patterns. | CCPA GDPR SOX HIPPA PCI-DSS GLBA ITAR FERPA FISMA ISO27001 | This report is comprised of two elements: <ul><li>Bar Chart– Displays top users by machines owned</li><li>Table – Displays machine owners</li></ul> |
+

@@ -28,3 +28,4 @@ The licensing **does not depend** on your Syslog forwarding configuration. In th
 ![User-added](images/servlet_image_3823966b1661.png)
 
 The computer (5) does not send any data, so it does not count for a licensed object. Therefore, for this example configuration, purchase Netwrix Auditor license for five network devices.   Original KB Article 2122
+

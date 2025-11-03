@@ -57,3 +57,4 @@ The %ManagedObjectName% variable will be replaced with your monitoring plan name
     | Consider the following event Insertion Strings | Specify this parameter if you want to receive alerts on events containing a specific string in the EventData. You can use a wildcard (\*). Click Add and specify Insertion String. |
 
 **Step 6 –** Click OK to save the changes and close the Event Filters dialog.
+

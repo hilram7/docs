@@ -244,3 +244,4 @@ expiration time for authenticated users.
     - 4 Hours
 
 Changing any of these options automatically saves your settings and applies to all users.
+

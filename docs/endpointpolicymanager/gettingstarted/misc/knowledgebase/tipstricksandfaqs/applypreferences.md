@@ -67,3 +67,4 @@ This is the sequence after clicking the three dots:
 ![139_5_overall-faq-01-img-05](/images/endpointpolicymanager/itemleveltargeting/139_5_overall-faq-01-img-05.webp)
 
 ![139_6_overall-faq-01-img-06](/images/endpointpolicymanager/itemleveltargeting/139_6_overall-faq-01-img-06.webp)
+

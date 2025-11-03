@@ -66,3 +66,4 @@ By default, users can create both distribution and security groups using the Net
 
 ## Expected Results:
 After these changes, when an end user tries to create a new group, they will only be able to create a distribution group. When an administrator tries to create a group, they will be able to create both distribution and security groups.
+

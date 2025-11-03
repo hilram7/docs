@@ -46,3 +46,4 @@ Extend the report timeout on the on the Report Manager URL. For that:
 3. Click the 3 dots in the Reports Manager for the report itself, then click **Manage**.
 4. In the **Advanced** section, modify the report timeout settings.  
    ![User-added image](images/ka0Qk0000001ZBp_0EMQk000002dUpt.png)
+

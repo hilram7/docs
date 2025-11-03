@@ -90,3 +90,4 @@ Owners interface. The next step is to confirm ownership through the Entitlement 
 the Self-Service Access Requests workflow. See the Resource Review and Access Requests topics in the
 [Netwrix Access Information Center Documentation](https://helpcenter.netwrix.com/category/accessinformationcenter)
 for additional information.
+

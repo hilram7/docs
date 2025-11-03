@@ -342,3 +342,4 @@ Click **OK** to commit the modifications. Click **Cancel** to discard the modifi
 Properties window closes.
 
 See[Suppress Windows Explorer Activity](/docs/activitymonitor/8.0/admin/outputs/operations/suppress.md) topic for more information.
+

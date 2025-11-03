@@ -14,3 +14,4 @@ of the categories.
 Properties can be selected individually or the **Check All**, **Uncheck All**, or **Reset Defaults**
 buttons can be used. Click **Expand All** to expand all property categories. All selected properties
 will be gathered. Available properties vary based on the category selected.
+

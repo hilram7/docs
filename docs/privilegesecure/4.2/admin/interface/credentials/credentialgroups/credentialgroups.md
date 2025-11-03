@@ -103,3 +103,4 @@ The table has the following columns:
 - Next Change — Date timestamp for the next credential password rotation
 
 The table columns can be resized and sorted in ascending or descending order.
+

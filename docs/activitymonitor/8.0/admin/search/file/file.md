@@ -71,3 +71,4 @@ The sections have the following filters:
   Types checkbox at the top acts as select/deselect all option.
 - Search limit – Set the maximum number of rows returned in the search results. The default is
   10,000 rows.
+

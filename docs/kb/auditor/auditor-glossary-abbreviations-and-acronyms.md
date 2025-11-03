@@ -121,3 +121,4 @@ To understand the folder / file structure of Netwrix Auditor or to better commun
 **Windows Registry Editor:** A tool used to view and modify the Windows Registry
 
 **Windows Update:** A service provided by Microsoft to keep Windows and other Microsoft software up-to-date with the latest security patches and updates
+

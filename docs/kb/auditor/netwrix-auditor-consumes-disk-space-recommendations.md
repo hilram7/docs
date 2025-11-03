@@ -77,3 +77,4 @@ The following recommendations will allow you to reduce disk space consumption:
 - [Antivirus Exclusions for Netwrix Auditor](/docs/kb/auditor/antivirus-exclusions-for-netwrix-auditor.md)
 - [How to Add Additional Space to Long-Term Archive](/docs/kb/auditor/how-to-add-additional-space-to-long-term-archive.md)
 - [Netwrix Auditor System Health Log Contains EventID 2002](https://docs.netwrix.com/docs/kb/auditor/netwrix-auditor-health-log-contains-eventid-2002)
+

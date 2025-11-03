@@ -31,3 +31,4 @@ The following example applies all role naming rules linked to the AD connector.
 | DisplayName_L1 required | **Type** String **Description** Display name of the task in language 1 (up to 16).                                     |
 | Connector optional      | **Type** String **Description** Identifier of the connector whose role mappings / role naming rules are to be applied. |
 | Identifier optional     | **Type** String **Description** Unique identifier of the task.                                                         |
+

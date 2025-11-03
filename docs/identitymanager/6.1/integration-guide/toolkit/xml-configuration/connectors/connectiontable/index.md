@@ -36,3 +36,4 @@ the attribute names are valid.
 | Path optional                      | **Type** String **Description** Allows to regroup columns based on a criteria. For example, for an LDAP system, the path is the value of the attribute objectClass.                                                        |
 | ValueLength default value: 0       | **Type** Int32 **Description** Maximum length of the attribute value.                                                                                                                                                      |
 | ValueType default value: 0         | **Type** ConnectionColumnValueType **Description** Defines the format of the attribute value. - 0: String - 1: Bytes - 2: Int32 - 3: Int64 - 4: DateTime - 5: Bool - 6: Guid - 7: Double - 8: Binary - 9: Byte - 10: Int16 |
+

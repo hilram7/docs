@@ -38,3 +38,4 @@ Refer to the following steps to update the password for your data-collection acc
 6. In some cases, you might need to restart Netwrix services for the changes to take effect.
 
 > **NOTE:** A new password won't be applied to Netwrix Password Reset, Event Log Manager, or Inactive User Tracker data-collection accounts. Refer to the following article for additional information: [Failed Logon Attempts after Recent Service Account Password Change](/docs/kb/auditor/failed-logon-attempts-after-recent-service-account-password-change.md).
+

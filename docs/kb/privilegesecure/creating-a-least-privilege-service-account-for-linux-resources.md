@@ -192,3 +192,4 @@ echo "Defaults: ${lprivacct} " '!requiretty'
 4. The script will output the contents of a `sudoers.d` file for a least-privilege user with the exact command paths used on your Linux server.
 
 5. Copy the output and use it to complete the steps in the Instructions, using the file contents you have just generated instead of those provided in the Instructions section.
+

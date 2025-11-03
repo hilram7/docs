@@ -35,3 +35,4 @@ Click the star to add the investigation to your Favorites list.
 There is a yellow star icon beside the name of an investigation identified as a favorite.
 
 Click the yellow star to remove the investigation from your Favorites list.
+

@@ -45,3 +45,4 @@ To resolve the issue:
 4. Restart the Netwrix Auditor DDC Provider service.
 5. Wait up to 24 hours for the matching process to run.
 6. Check Netwrix Data Classification reports.
+

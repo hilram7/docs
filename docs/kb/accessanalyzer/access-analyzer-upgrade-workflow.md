@@ -26,3 +26,4 @@ This article outlines the upgrade workflow for **Netwrix Access Analyzer**. Refe
 2. [Upgrading Access Analyzer](/docs/kb/accessanalyzer/access-analyzer-upgrade-workflow-upgrade.md)
 3. [Completing Access Analyzer Upgrade](/docs/kb/accessanalyzer/access-analyzer-upgrade-workflow-post-upgrade.md)
 4. [Upgrading Access Information Center (AIC)](/docs/kb/accessanalyzer/access-analyzer-upgrade-workflow-aic.md)
+

@@ -40,3 +40,4 @@ Console.
 
 The new Microsoft Entra ID tenant has been on-boarded. See the
 [Microsoft Entra ID Details Page](/docs/privilegesecure/4.2/admin/interface/resources/detailspages/entraid/entraid.md) topic for additional information.
+

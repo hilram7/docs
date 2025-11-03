@@ -107,3 +107,4 @@ The HIPAA folder contains the following templates:
 | -------------- | ---------------- | ---- |
 | HIPAA: AD PHI User Account Logons                | No customizations required. Make sure the Configuration > Event Filtering > Exclude 'Noise' Events option is Off for this policy         | None |
 | HIPAA: Successful AD PHI Account Authentications | Gathers Successful AD Authentications. <br />Utilizes built-In “Successful HIPAA PHI Account Authentications” – Include Perpetrators Collection to define which accounts will be monitored for successful authentications. Add accounts to be monitored to this collection | None |
+

@@ -31,3 +31,4 @@ Perform the following procedure to stop getting this message:
 3. Locate the `users.dat` file and delete it.
 4. Restart the **NetWrix Account Lockout Examiner service**.
 5. Re-enter the license, if necessary.
+

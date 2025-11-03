@@ -156,3 +156,4 @@ Azure is now possible.
 
 **Step 26 –** Log out of the Endpoint Protector Server and log back in. The administrator should be
 redirected to http://login.microsoftonline.com/ for the Azure login process.
+

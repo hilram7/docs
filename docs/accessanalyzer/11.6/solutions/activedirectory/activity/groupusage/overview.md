@@ -26,3 +26,4 @@ Schedule these jobs to run with the 0.Collection job group.
   – Reports on what hosts groups are being used on within the environment
 - [AD_GroupMemberActivity Job](/docs/accessanalyzer/11.6/solutions/activedirectory/activity/groupusage/ad_groupmemberactivity.md)
   – Reports on the activity that group members are taking within the Active Directory environment
+

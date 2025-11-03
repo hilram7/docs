@@ -39,3 +39,4 @@ Computer Data sheet and all rows from the Admin List sheet.
 - **NOTE:** You can apply immediately with `--scan` option, but that does lengthen the QS upload
   time.
 - Verify updated system in the Privilege Secure UI -> Grant Access page using the 'sudoers' button.
+

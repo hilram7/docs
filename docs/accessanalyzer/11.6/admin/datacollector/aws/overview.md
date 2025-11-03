@@ -63,3 +63,4 @@ wizard contains the following pages, which change based up on the query category
 - [AWS: Criteria ](/docs/accessanalyzer/11.6/admin/datacollector/aws/criteria.md)
 - [AWS: Results](/docs/accessanalyzer/11.6/admin/datacollector/aws/results.md)
 - [AWS: Summary](/docs/accessanalyzer/11.6/admin/datacollector/aws/summary.md)
+

@@ -31,3 +31,4 @@ While NTLM authentication is recommended for API integration, Kerberos protocol 
 
 - Windows Server Auditing requires full computer names to be used instead of aliases.
 - Netwrix Auditor clients require a Netwrix Auditor server hostname to be specified instead of the server IP address.
+

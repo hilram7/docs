@@ -70,3 +70,4 @@ sidebar_position: 30
 #### API
 
 - After logging out in the JavaScript API, the “isAuthenticated” information is now correct.
+

@@ -75,3 +75,4 @@ provides a REST API.
   executed automatically from the Change Tracker server or using a Proxy Agent function;
 - Detailed Configuration Policy management for Servers and Workstations and Policy Compliance
   Reporting is performed via Change Tracker Hub.
+

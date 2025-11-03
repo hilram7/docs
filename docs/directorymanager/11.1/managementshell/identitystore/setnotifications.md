@@ -52,3 +52,4 @@ upon joining a group and intimates the user before 7 days it is removed as a mem
 ```
 Set-Notifications -IdentityStoreName AdStore9 -NotifyUserGroupJoinML $true -XDaysBeforeLeaveNotificationML 7
 ```
+

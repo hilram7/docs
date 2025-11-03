@@ -35,3 +35,4 @@ In order to verify the process, try to authenticate to Identity Manager server,
 ## Next Steps
 
 Once the development environment is ready, integrators can start to [Create the Workforce Repository](/docs/identitymanager/saas/user-guide/set-up/initial-identities-loading/index.md).
+

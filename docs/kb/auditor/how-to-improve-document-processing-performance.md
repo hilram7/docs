@@ -73,3 +73,4 @@ Once updated please restart each of the affected services.
 ## SQL Performance
 
 If you are still seeing throughput issues, with little demand on the **Netwrix Data Classification** server then we would recommend reviewing the SQL Server host - in particular **CPU** and **Memory** utilisation.
+

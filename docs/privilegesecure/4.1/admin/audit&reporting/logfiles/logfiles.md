@@ -29,3 +29,4 @@ The log files are saved in the default location:
 
 The log files are saved with a naming format of: `PAM-[Service][yyyymmdd]`. For example:
 `PAM-ActionService20191002.log`
+

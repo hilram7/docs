@@ -21,3 +21,4 @@ additional information.
 The email includes information about the review and the number of changes that have been submitted
 by the resource owner. Sign in to see the response and process the review. See the
 [Approval Process](/docs/accessinformationcenter/12.0/resourcereviews/approvalprocess/approvalprocess.md) topic for additional information.
+

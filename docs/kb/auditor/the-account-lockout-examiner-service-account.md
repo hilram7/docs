@@ -80,3 +80,4 @@ On any Domain Controller that has Group Policy Management:
 ## Step 6. On all machines that need to be examined by Account Lockout Examiner, grant local administrator rights to the service account
 - Grant local administrator rights either manually or by Group Policy.  
 - Local admin rights are also necessary to find the root process causing invalid logons.
+

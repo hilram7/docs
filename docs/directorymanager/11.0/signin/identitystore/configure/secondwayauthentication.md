@@ -137,3 +137,4 @@ type(s) they want to use for authentication.
 - [Authentication Policy](/docs/directorymanager/11.0/signin/authpolicy/authpolicy.md)
 - [Configure an SMTP Server](/docs/directorymanager/11.0/signin/identitystore/configure/smtpserver.md)
 - [SMS Gateway](/docs/directorymanager/11.0/signin/smsgateway/overview.md)
+

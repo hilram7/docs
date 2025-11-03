@@ -16,3 +16,4 @@ application settings reside. This topic covers:
 - [Additional Configuration Options](/docs/accessinformationcenter/12.0/admin/additionalconfig/overview.md)
 - Instructions on how different users access the application (see the [URL & Login](/docs/accessinformationcenter/12.0/admin/login/login.md) topic)
 - [Troubleshooting](/docs/accessinformationcenter/12.0/admin/troubleshooting/overview.md)
+

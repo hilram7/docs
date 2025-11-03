@@ -33,3 +33,4 @@ during the schedule, check the **In Event Recording Mode** box.
 
 ![PlannedChangeEventRecordingMode](/images/changetracker/8.1/admin/wizards/plannedchangeeventrecordingmode.webp)
 ![page_guide_35](/images/changetracker/8.1/admin/wizards/page_guide_35.webp)
+

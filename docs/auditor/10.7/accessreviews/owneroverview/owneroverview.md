@@ -23,3 +23,4 @@ can view pending and historical reviews for your resources.
 You may receive email notifications requesting ownership confirmation from your organization's
 Ownership Administrators. You will receive email notifications when you have a pending access review
 to perform.
+

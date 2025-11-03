@@ -2867,3 +2867,4 @@ Deletes a single role rule.
 | Code | Description                                | Reference |
 | ---- | ------------------------------------------ | --------- |
 | 200  | The result of the single role rule delete. |           |
+

@@ -28,3 +28,5 @@ with a 2:
 Syntax to substitute the name of any folder after Microsoft and the file name starts with a 2:
 
 ![667_4_image-20210316101118-3_940x391](/images/endpointpolicymanager/troubleshooting/leastprivilege/667_4_image-20210316101118-3_940x391.webp)
+
+

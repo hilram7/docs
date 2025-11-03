@@ -22,3 +22,4 @@ information about the product version and your licenses. See the following secti
 To modify Netwrix Auditor settings, you must be assigned the _Global administrator_ role. See
 [Role-Based Access and Delegation](/docs/auditor/10.6/admin/monitoringplans/delegation.md)
 for more information.
+

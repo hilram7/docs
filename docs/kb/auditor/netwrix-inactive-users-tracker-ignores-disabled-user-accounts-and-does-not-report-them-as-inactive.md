@@ -23,3 +23,4 @@ knowledge_article_id: kA00g000000H9UzCAK
 Inactive Users Tracker ignores disabled user accounts and they are not reported as inactive regardless of their last logon time. Is this normal?
 
 Disabled users do not appear in the Netwrix Inactive Users Tracker reports unless the product performs some actions on them (in accordance with the Monitoring Plan settings) such as moving accounts to a specified OU or deleting them.
+

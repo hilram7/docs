@@ -328,3 +328,4 @@ Default ﬁle name structure:
 File name structure with S3 Bucket location ﬁeld speciﬁed:
 
 **bucketName/location/CurrentDate/ComputerName**
+

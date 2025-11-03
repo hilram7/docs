@@ -66,3 +66,4 @@ Each table has the following columns:
   [Group Details Page](/docs/threatmanager/3.0/administration/threats/activedirectoryobjects/group.md) topic for additional information.
 - Domain – Name of the domain. This may be either the domain DNS name or domain controller hostname.
 - Tags – The tag present on the perpetrator, file, or host associated with the event
+

@@ -29,3 +29,4 @@ The configurable options are:
     - All
     - Today
     - For the last – Select the number of days or hours
+

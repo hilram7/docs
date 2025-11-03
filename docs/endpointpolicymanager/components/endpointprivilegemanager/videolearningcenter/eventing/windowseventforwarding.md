@@ -196,3 +196,5 @@ Thank you very much for watching, and talk to you soon.
 
 Related
 article: [How to forward interesting events for Least Privilege Manager (or anything else) to a centralized location using Windows Event Forwarding.](/docs/endpointpolicymanager/components/endpointprivilegemanager/knowledgebase/eventing/windowseventforwarding.md)
+
+

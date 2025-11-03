@@ -44,3 +44,4 @@ initiator (user) name in the "_Who_" field of reports, search results and activi
 For more information on gMSA, refer to [Using Group Managed Service Account (gMSA)](/docs/1secure/admin/datacollection/gmsa.md)
 and to
 [Microsoft documentation](https://docs.microsoft.com/en-us/windows-server/security/group-managed-service-accounts/group-managed-service-accounts-overview).
+

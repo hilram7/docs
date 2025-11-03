@@ -16,3 +16,4 @@ downloaded from the following link:
 
 NOTE: It is also possible to find the Add-on link in the Web Application page footer, if it is not
 installed yet
+

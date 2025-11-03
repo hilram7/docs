@@ -36,3 +36,4 @@ possible to properly end Netwrix Password Secure via the main menu.
 **Starting with Windows**
 
 Of course, you can start the Netwrix Password Secure Client directly with Windows.
+

@@ -37,3 +37,4 @@ need to be set manually.
 The default location of the `SIWindowsAgent.exe.config` file is:
 
 **…\Netwrix\Netwrix Threat Prevention\SIWindowsAgent**
+

@@ -55,3 +55,4 @@ contains the following wizard pages:
 
 The Welcome page can be hidden by selecting the **Do not show this page the next time** checkbox
 when the wizard is open and configuration settings are saved.
+

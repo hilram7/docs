@@ -1015,3 +1015,4 @@ Claims authentication Understand permission
 View My Sessions Monitor account View all active sessions, All users
 access End suspicious sessions,
  Session management
+

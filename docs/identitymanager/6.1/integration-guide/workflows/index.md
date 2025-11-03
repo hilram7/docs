@@ -197,3 +197,4 @@ Usercube provides a default
 to show the created/modified resource's data, but you can configure your own.
 
 [Read how to configure a display table](/docs/identitymanager/6.1/integration-guide/ui/how-tos/custom-display-table/index.md).
+

@@ -153,3 +153,4 @@ Once the *Steps for AD FS* have been completed, take the following steps in Netw
    ![User-added image](images/ka04u000000wwIE_0EM4u000004bUjQ.png)
 
 When using the SAML log-in option, the user will be redirected to sign in to AD FS. Upon successful authentication, the user will be redirected to the Netwrix Privilege Secure UI as their now signed-in user.
+

@@ -32,3 +32,4 @@ This is due to the fact that Windows Server 2016 and 2019 are missing the WMI Se
 Once a 3rd party software is installed, disable Windows Defender. The WMI SecurityCenter2 namespace will regenerate and identify the alternative Antivirus software.
 
 For more information, visit this Microsoft article: https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-antivirus/microsoft-defender-antivirus-compatibility
+

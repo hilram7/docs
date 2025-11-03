@@ -45,3 +45,4 @@ The options in the Navigation Pane are:
     - System Criteria cannot be modified or removed. To use existing System Criteria configurations
       in a User Criteria, right-click on a System Criteria and select **Duplicate** from the
       right-click menu. A configurable copy of the System Criteria appears under User Criteria.
+

@@ -21,3 +21,4 @@ Click Audit and Reporting to expand the menu. Settings can be configured for:
 - [Events Page](/docs/privilegesecure/4.2/admin/AuditReporting/events.md) — View the console event log
 - [Log Files Page](/docs/privilegesecure/4.2/admin/AuditReporting/logfiles/logfiles.md) — View the log files from within the console
 - [Reporting](/docs/privilegesecure/4.2/admin/AuditReporting/reporting.md) – View reports on activity
+

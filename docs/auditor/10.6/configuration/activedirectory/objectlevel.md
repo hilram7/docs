@@ -119,3 +119,4 @@ information on how to install the ADSI Edit utility.
             ![manualconfig_objectlevel_winserver2016](/images/auditor/10.6/configuration/activedirectory/manualconfig_objectlevel_winserver2016.webp)
 
 6. Repeat these steps for the Schema container if necessary.
+

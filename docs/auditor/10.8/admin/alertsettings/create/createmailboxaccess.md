@@ -152,3 +152,4 @@ In the example below, the following information has been added:
 - String 9 with the description
 
 ![editnotificationtemplate](/images/auditor/10.7/admin/alertsettings/editnotificationtemplate.webp)
+

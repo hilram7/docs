@@ -20,3 +20,4 @@ Choose whether to use existing Mailbox Search criteria or determine new criteria
     - Select the checkbox to modify Content Conditions of existing search criteria
 
 - Define a new criteria – Proceed while establishing new criteria
+

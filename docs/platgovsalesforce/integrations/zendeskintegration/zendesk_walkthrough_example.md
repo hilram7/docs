@@ -75,3 +75,4 @@ From the ticket sidebar, click the DRD link to open the Document Requirements vi
 Click the Impact Analysis link to view the detailed analysis of the Change Request in Salesforce. This shows how the proposed changes might affect other components in your Salesforce org.
 
 ![Impact Analysis](/images/platgovsalesforce/integrations/zendesk/Impact_Analysis.webp)
+

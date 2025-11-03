@@ -347,3 +347,4 @@ share.
 
 The organization of the users and their permissions now follows a least privileged access (resource
 based groups) model.
+

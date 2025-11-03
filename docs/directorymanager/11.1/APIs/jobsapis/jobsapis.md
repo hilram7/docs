@@ -21,3 +21,4 @@ performing Synchronize jobs-specific functions:
 - [Get a Job Details](/docs/directorymanager/11.1/APIs/jobsapis/getjobsdetails.md)
 - [Get Jobs Names ](/docs/directorymanager/11.1/APIs/jobsapis/getjobsname.md)
 - [Update a Job Collection](/docs/directorymanager/11.1/APIs/jobsapis/updatjobcollection.md)
+

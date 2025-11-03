@@ -50,3 +50,4 @@ https://docs.netwrix.com/docs/auditor/10_8/configuration/fileservers/delldatasto
    - b. Membership in the local Administrators group
 
 For more information, refer to Netwrix Auditor documentation.
+

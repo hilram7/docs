@@ -244,3 +244,4 @@ when creating the permission set so that users can only access certain type of c
 This permission also is given by the
 [`AccessReviewAdministrationAccessControlRules`](/docs/identitymanager/6.1/integration-guide/toolkit/xml-configuration/configuration/scaffoldings/accesscontrolrules/accessreviews/accessreviewadministrationaccesscontrolrules/index.md)
 scaffolding.
+

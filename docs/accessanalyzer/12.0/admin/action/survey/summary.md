@@ -17,3 +17,4 @@ Click **Save Template** to access the Save Survey Template window.
 Specify a name for the survey for future use. Click **OK** to return to the Summary page.
 
 When done, click **Finish** to finalize survey configurations.
+

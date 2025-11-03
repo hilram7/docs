@@ -15,3 +15,4 @@ The following additional options can be selected:
 
 - Lookup user name – Resolves SIDs found in the event descriptions to friendly display name values
 - Resolve GUIDs – Resolves GUIDs found in the event descriptions to friendly display name values
+

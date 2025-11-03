@@ -43,3 +43,4 @@ produces the following pre-configured report:
 | Report               | Description                                                    | Default Tags | Report Elements                                                                                                 |
 | -------------------- | -------------------------------------------------------------- | ------------ | --------------------------------------------------------------------------------------------------------------- |
 | File System Overview | This report provides an overview of all targeted file servers. | None         | This report is comprised of one element: <ul><li>Table – Provides summary of the targeted file system</li></ul> |
+

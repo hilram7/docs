@@ -86,3 +86,4 @@ the remote Action Service server, when it is installed on additional server(s):
 | Communication Direction | Protocol | Ports | Description                                |
 | ----------------------- | -------- | ----- | ------------------------------------------ |
 | Outbound                | TCP      | 8080  | Remote access to the Action Service server |
+

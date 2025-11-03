@@ -14,3 +14,4 @@ respectively.
 You can [Modify Search Directory](allgroups.md#modify-search-directory) to search private groups and
 add [Filter All Groups](allgroups.md#filter-all-groups) by clicking **Private Group Grid Filters**.
 All the private groups matching the filters will be displayed.
+

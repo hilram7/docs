@@ -73,3 +73,4 @@ c) In the Authentication list, enable either the **Windows Authentication** opti
    3. Make sure the **Use a proxy server for your LAN** option is not enabled. Otherwise, make sure the **Bypass proxy server for local addresses** option is enabled too; in this case the Help-Desk portal must be a member of the **Local intranet zone**, or specified as an exception.
 
 ![User-added](images/ka04u00000116eiAAA_4.png)
+

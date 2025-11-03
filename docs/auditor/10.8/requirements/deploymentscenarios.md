@@ -183,3 +183,4 @@ more than 20 000 users (10+ million of activity records generated per day):
 
 5. When prompted to configure the Audit database settings, proceed using the dedicated SQL Server
    and Reporting Services.
+

@@ -30,3 +30,4 @@ The jobs in the 0.Collection Job Group are:
   – Collects all Active Directory permissions applied to site objects within the targeted domains
 - [AD_UserRights Job](/docs/accessanalyzer/11.6/solutions/activedirectorypermissionsanalyzer/collection/ad_userrights.md)
   – Collects all Active Directory permissions applied to user objects within the targeted domains
+

@@ -44,3 +44,4 @@ begin the log collection.
 
 Specific agents or console can be selected. After log collection is successful the logs are
 compressed into a zip file and file explorer opens with the zip file selected.
+

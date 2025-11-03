@@ -39,3 +39,4 @@ local 9699 TCP port.
 | 135                                                                                                    | TCP     | Script host  | RADIUS server         | RPC Endpoint Mapper Eventlog |                                                                                                                                 |
 | 1024 – 65535 (Dynamically assigned)                                                                    | TCP     | Script host  | RADIUS server         | RPC Eventlog                 |                                                                                                                                 |
 | 53                                                                                                     | UDP/TCP | Script host  | DNS server            | DNS Client                   |                                                                                                                                 |
+

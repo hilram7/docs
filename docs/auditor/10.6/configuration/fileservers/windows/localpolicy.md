@@ -27,3 +27,4 @@ Windows Administrative Tools**>**Local Security Policy.
 Local audit policy is configured and can be changed in the same location:
 
 ![manualconfig_ws_local_audit_policies2016](/images/auditor/10.6/configuration/fileservers/windows/manualconfig_ws_local_audit_policies2016.webp)
+

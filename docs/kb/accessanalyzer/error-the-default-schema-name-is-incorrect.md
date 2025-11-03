@@ -49,3 +49,4 @@ Refer to the corresponding resolution:
 ## Related Articles
 
 - Netwrix Access Analyzer Database — Database Creation & First Level of Security · v11.6
+

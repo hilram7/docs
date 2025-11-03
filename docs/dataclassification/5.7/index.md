@@ -142,3 +142,4 @@ user profiles.
 Classification can be used as a method browsing the document collection or to filter ad hoc queries.
 
 The Classifier is implemented as a Microsoft Windows Service.
+

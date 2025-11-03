@@ -95,3 +95,4 @@ To create a new gMSA in the root domain using PowerShell:
 
 To learn about the data collecting account, which collects data from the monitored items, go
 to [Data Collecting Account](/docs/1secure/admin/datacollection/overview.md) article.
+

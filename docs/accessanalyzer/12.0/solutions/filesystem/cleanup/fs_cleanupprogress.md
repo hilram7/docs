@@ -33,3 +33,4 @@ produces the following pre-configured report.
 | Report           | Description                                                                 | Default Tags | Report Elements                                                                                                                                                            |
 | ---------------- | --------------------------------------------------------------------------- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Cleanup Progress | This report gives a high-level overview of an organization's cleanup effort | None         | This report is comprised of two elements: <ul><li>Bar Chart – Displays the host summary of cleanup progress</li><li>Table – provides details on cleanup progress</li></ul> |
+

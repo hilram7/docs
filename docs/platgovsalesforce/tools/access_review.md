@@ -83,3 +83,4 @@ There are three Access Assistance search types:
 4. Review the **System Permissions** and **User Assignments**.
 5. Click **Export Data** to create an Excel file containing the comparison. The
    **StrongpointPermissionsExport (#).xlsx** file is saved to your default download directory.
+

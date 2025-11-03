@@ -25,3 +25,5 @@ SCENARIO 2: If SecureRun is enabled:
   trusted principal or not.
 
 ![977_1_image-20230824223216-1_950x550](/images/endpointpolicymanager/leastprivilege/securerun/977_1_image-20230824223216-1_950x550.webp)
+
+

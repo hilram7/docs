@@ -14,3 +14,4 @@ The documentation is not yet available for this page and will be completed in th
 for a given managed system.
 
 [See how to anticipate changes due to synchronization thanks to thresholds](/docs/identitymanager/6.1/integration-guide/synchronization/synchro-thresholds/index.md).
+

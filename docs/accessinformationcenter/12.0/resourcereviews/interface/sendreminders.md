@@ -20,3 +20,4 @@ sent a reminder email. Click **OK** to close the Send Reminders window.
 Remember, automatic weekly reminders can be configured on the
 [Notifications Page](/docs/accessinformationcenter/12.0/admin/configuration/notifications.md) of the Configuration interface.
 :::
+

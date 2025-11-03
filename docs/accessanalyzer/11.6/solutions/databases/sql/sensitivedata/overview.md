@@ -23,3 +23,4 @@ The jobs in the 5.Sensitive Data Job Group are:
 - [SQL_SensitiveDataPermissions Job](/docs/accessanalyzer/11.6/solutions/databases/sql/sensitivedata/sql_sensitivedatapermissions.md)
   – This job is designed to provide all types of permissions on database objects containing
   sensitive data across all the targeted SQL or Azure SQL servers
+

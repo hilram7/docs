@@ -67,3 +67,4 @@ Now, when a user is created in Directory Manager Self-Service and assigned a dep
 
 - Confirm on the Self-Service portal that the user has been created.  
 - Navigate to SharePoint and verify that the user has access to the appropriate department site.
+

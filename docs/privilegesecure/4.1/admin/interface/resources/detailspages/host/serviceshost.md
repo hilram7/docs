@@ -26,3 +26,4 @@ The table has the following columns:
 - Log On As — Account used to run the service
 
 The table columns can be resized and sorted in ascending or descending order.
+

@@ -43,3 +43,4 @@ additional information.
 - [System Settings](/docs/changetracker/8.0/admin/settingstab/systemsettings/systemsettings.md) – Upload new license key.
 
 ![settings tab](/images/changetracker/8.0/admin/settings/page_guide_23.webp)
+

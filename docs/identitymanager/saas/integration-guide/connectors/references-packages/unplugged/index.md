@@ -16,3 +16,4 @@ Manages an unplugged system with a completely custom data model.
 | Fulfill                 | NONE                    |
 | Has Incremental Mode    | False                   |
 | Publisher               | Identity Manager        |
+

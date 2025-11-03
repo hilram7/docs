@@ -198,3 +198,4 @@ Also, remember to do the following:
 - Configure ports. See the
   [Oracle Database Ports](/docs/auditor/10.6/configuration/oracle/ports.md) topic
   for additional information about ports and protocols required for auditing.
+

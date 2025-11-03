@@ -66,3 +66,4 @@ password for all users (see
 
 Multiple agents can be installed. This allows Usercube to operate in a context where the information
 system is partitioned over several networks.
+

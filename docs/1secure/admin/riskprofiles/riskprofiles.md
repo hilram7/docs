@@ -125,3 +125,4 @@ that lists the managed organizations defined in 1Secure.
 prompting you to confirm the deletion.
 
 **Step 4 –** Click **Yes**. The risk profile is deleted from the system.
+

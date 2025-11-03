@@ -56,3 +56,4 @@ You can also find configuration examples for several types of workflow:
 
     How to configure the homonym search that checks if a resource already exists in the system,
     preventing duplicates.
+

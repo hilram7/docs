@@ -36,3 +36,4 @@ credentials** checkbox and specify user name and password. Make sure this accoun
 batch job** privilege. See the
 [Configure a Response Action for Alert](/docs/auditor/10.8/admin/alertsettings/responseaction.md) topic for
 additional information.
+

@@ -263,3 +263,4 @@ In order to verify the process:
    (on the **Role Reconciliation** screen) to help check query rules: if there are numerous
    properties to be reconciled following the same pattern, then there may be a rule that needs to be
    changed.
+

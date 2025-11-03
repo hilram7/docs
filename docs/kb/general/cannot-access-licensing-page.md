@@ -51,3 +51,4 @@ To address the issue make sure that the Password Manager service account has Ful
 
 Even if the service account is a member of local Administrators group, please try to grant Full control to the service account explicitly.
 Restart the Netwrix Password Manager service after granting permissions.
+

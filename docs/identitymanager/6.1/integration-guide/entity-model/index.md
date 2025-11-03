@@ -272,3 +272,4 @@ updates and deletes from the `UR_*` tables.
 The **entity model** is enhanced with **records** to handle positions and movements of staff.
 Details can be found
 [here](/docs/identitymanager/6.1/integration-guide/identity-management/index.md).
+

@@ -67,3 +67,4 @@ create new forms.
 
 In the final step, the configured settings are summarised as a list of the objects to be imported.
 The button “Finish” closes the wizard and starts the import.
+

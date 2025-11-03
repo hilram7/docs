@@ -60,3 +60,4 @@ This example also uses a confidence rate equals to 80%.
 | SourceMatchedConfidenceLevel default value: 0 | **Type** Int32 **Description** Defines the correlation confidence rate of this rule. If the value is less than 100, we process a manual review step to confirm the choice.            |
 | TargetBinding optional                        | **Type** Int64 **Description** Binding property from the target system.                                                                                                               |
 | TargetExpression optional                     | **Type** String **Description** Binding expression based on properties from the target system. See the [Expressions](/docs/identitymanager/6.2/integration-guide/toolkit/expressions/index.md) topic for additional information. |
+

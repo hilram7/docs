@@ -21,3 +21,4 @@ See also:
 
 - [Configure Domain for Monitoring Active Directory](/docs/1secure/configuration/admanual/admanual.md)
 - [Active Directory: manual configuration](/docs/1secure/configuration/admanual/cfgmanual.md)
+

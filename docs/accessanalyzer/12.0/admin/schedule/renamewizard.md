@@ -65,3 +65,4 @@ renamed successfully, click **Finish** to close the wizard.
 The scheduled tasks have now been renamed and will run as before . The modified task name shows in
 the Jobs tree, Host Management, or Host Discovery node, the Scheduled Actions grid, and in the
 corresponding task's argument in the Windows Task Scheduler.
+

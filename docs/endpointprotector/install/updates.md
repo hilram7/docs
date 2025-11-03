@@ -18,3 +18,4 @@ average size of an update is:
 For environments where the payload of an update is a concern, saving the bandwidth can easily be
 done by using Offline Patches. Moreover, the Endpoint Protector Clients can also be deployed
 manually, directly on each endpoint.
+

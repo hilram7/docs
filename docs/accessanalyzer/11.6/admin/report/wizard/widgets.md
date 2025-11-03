@@ -334,3 +334,4 @@ below.
 | ![Numbering](/images/accessanalyzer/11.6/admin/report/wizard/numbering.webp)            | Start a numbered list                                           |
 | ![Bullets](/images/accessanalyzer/11.6/admin/report/wizard/bullets.webp)                | Start a bulleted list                                           |
 | ![Table](/images/accessanalyzer/11.6/admin/report/wizard/table.webp)                    | Insert a table                                                  |
+

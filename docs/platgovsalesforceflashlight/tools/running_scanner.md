@@ -37,3 +37,4 @@ clicking **Rescan**.
 ![rescan_example_800x289](/images/platgovsalesforceflashlight/tools/rescan_example_800x289.webp)
 
 **Next Step:**[Validating the Data ](/docs/platgovsalesforceflashlight/tools/validating_data.md)
+

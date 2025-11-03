@@ -88,3 +88,4 @@ You can update the default Dynasty grouping behavior when creating a new Dynasty
 4. After saving your changes, the Dynasty will reflect the updated grouping behavior.
 
    ![Modified Attribute Filter Example](images/ka0Qk000000DUI2_0EMQk000009tEYD.png)
+

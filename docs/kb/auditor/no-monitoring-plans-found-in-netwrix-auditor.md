@@ -100,3 +100,4 @@ NO MONITORING PLANS FOUND
 ## Related articles
 
 - [Monitoring Plans](https://docs.netwrix.com/docs/auditor/10_8/admin/monitoringplans/overview)
+

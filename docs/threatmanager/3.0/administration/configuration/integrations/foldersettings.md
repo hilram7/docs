@@ -94,3 +94,4 @@ menu. Then select **Integrations** to open the Integrations interface.
 **Step 5 –** Click **Add**. The Add New Shared Folder window closes.
 
 The specified shared folder has been configured for subscription exports.
+

@@ -56,3 +56,4 @@ The buttons above and below the table enable you to perform the following action
 | Request Access | Opens the Request Access wizard, which allows you to submit access requests. See the [Request Access Wizard](/docs/accessinformationcenter/12.0/youraccessportal/requestaccess/requestaccess.md) topic for additional information.                            |
 | View History   | Opens the Request History page, which displays information on all of your pending and processed requests. See the [Request History Page](/docs/accessinformationcenter/12.0/youraccessportal/requesthistory/requesthistory.md) topic for additional information.         |
 | Remove Access  | Opens the Remove Access window, which allows you to remove access for yourself for the selected resource. See the [Remove Access Window](/docs/accessinformationcenter/12.0/youraccessportal/removeaccess.md) topic for additional information. |
+

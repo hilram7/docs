@@ -103,3 +103,4 @@ Select a container and click **Inspect** to view its details.
 
 - [GroupID Applications](/docs/directorymanager/11.0/signin/applications/applications.md)
 - [GroupID Portal](/docs/directorymanager/11.0/signin/applications/portal/overview.md)
+

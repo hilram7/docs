@@ -24,3 +24,4 @@ menu.
 page and add the script to run.
 
 See the [VBScript Editor](/docs/accessanalyzer/12.0/admin/datacollector/script/editor.md) topic for additional information.
+

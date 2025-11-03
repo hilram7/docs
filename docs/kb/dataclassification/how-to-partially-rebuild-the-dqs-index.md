@@ -60,3 +60,4 @@ where `X` is the value of your DQSID.
 Use the following file to replace active NDC files (`.CSE`):
 
 - https://dl.netwrix.com/products/utilities/ConceptDB.zip
+

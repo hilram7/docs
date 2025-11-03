@@ -16,3 +16,4 @@ If you can't find what you're looking for:
 1. Use the search function above
 2. Check the main 1Secure documentation
 3. Contact [Netwrix support](https://www.netwrix.com/support.html)
+

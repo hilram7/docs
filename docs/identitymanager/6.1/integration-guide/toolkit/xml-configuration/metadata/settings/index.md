@@ -30,3 +30,4 @@ sidebar_position: 80
     This setting is used to filter the entity type used by authentication mechanism.- ####
     [SelectUserByIdentityQueryHandlerSetting](/docs/identitymanager/6.1/integration-guide/toolkit/xml-configuration/metadata/settings/selectuserbyidentityqueryhandlersetting/index.md)
     This attribute matches an end-user with a resource from the unified resource repository.
+

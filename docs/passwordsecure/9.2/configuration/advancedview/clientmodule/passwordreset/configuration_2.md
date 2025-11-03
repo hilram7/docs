@@ -67,3 +67,4 @@ listed under “Linked passwords”. Multiple objects can be entered. The linked
 visible in the footer of the reading pane once it has been successfully configured.
 
 ![new script password reset](/images/passwordsecure/9.2/configuration/advanced_view/clientmodule/passwordreset/configuration/configuration_2-en.webp)
+

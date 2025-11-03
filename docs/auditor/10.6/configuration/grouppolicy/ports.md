@@ -27,3 +27,4 @@ Tip for reading the table: For example, on the computer where Netwrix Auditor Se
 | 135 and dynamic range: 1024 -65535 | TCP      | Netwrix Auditor Server | Domain controllers | Windows Management Instrumentation. `gpupdate /force `                                         |
 | 445                                | TCP      | Netwrix Auditor Server | Domain controllers | SMB 2.0/3.0 Authenticated communication between Netwrix Auditor Server and domain controllers. |
 | 53                                 | UDP      | Netwrix Auditor Server | DNS Server         | DNS Client                                                                                     |
+

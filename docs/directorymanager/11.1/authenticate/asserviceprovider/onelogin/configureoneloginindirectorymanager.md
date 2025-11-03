@@ -65,3 +65,4 @@ metadata file to configure all settings for it.
     topic.
 15. Click the **Create Provider** button. The identity provider is created and displayed on the
     **SAML Providers** page.
+

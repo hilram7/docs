@@ -125,3 +125,4 @@ In order to verify the process, check that the changes you ordered appear on the
 user's **View Permissions** tab.
 
 ![View Permissions Tab](/images/identitymanager/saas/user-guide/set-up/provisioning-rule-creation/resource-creation/viewpermissions_v602.webp)
+

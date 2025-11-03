@@ -80,3 +80,4 @@ In the edit mode, the layout of the widgets is user-defined. Drag & drop allows 
 widget in the corresponding position on the dashboard (left, right, top, or bottom).
 
 ![Arranging widgets](/images/passwordsecure/9.2/configuration/advanced_view/operation_and_setup/dashboard_and_widgets/installation_with_parameters_55-en.webp)
+

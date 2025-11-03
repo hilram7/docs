@@ -75,3 +75,4 @@ There are two common ways to create static host lists:
   to open the Host List Wizard with a pre-filled in Manual Host Entry page.
 
 See the [Add Hosts](/docs/accessanalyzer/12.0/admin/hostmanagement/actions/add.md) section for information using the Host List Wizard.
+

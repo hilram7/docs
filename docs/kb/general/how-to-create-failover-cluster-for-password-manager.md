@@ -66,3 +66,4 @@ Create a failover cluster as per the instructions linked below.
 For more information and screenshots refer to:
 
 - http://technet.microsoft.com/en-us/library/cc731844(v=ws.10).aspx
+

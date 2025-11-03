@@ -53,3 +53,4 @@ based on it. See the [Apply Filters](/docs/1secure/admin/searchandreports/applyf
 
 **Step 4 –** Click **Export**. The investigation results report is sent to you as an .xlsx file by
 email.
+

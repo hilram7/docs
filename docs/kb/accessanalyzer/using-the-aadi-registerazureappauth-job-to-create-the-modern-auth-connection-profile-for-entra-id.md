@@ -80,3 +80,4 @@ Follow the steps below to configure and run the AADI_RegisterAzureAppAuth job.
 ## Related Articles
 - Instant Job Wizard: https://docs.netwrix.com/docs/auditor/10_8
 - Microsoft Entra ID Auditing Configuration: https://docs.netwrix.com/docs/auditor/10_8
+

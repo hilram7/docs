@@ -51,3 +51,4 @@ password. See the
 and
 [How it works: Microsoft Entra self-service password reset](https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-sspr-howitworks#how-it-works-microsoft-entra-self-service-password-reset) Microsoft
 knowledge base articles for additional information on password writeback for Microsoft Entra ID.
+

@@ -27,3 +27,4 @@ allow inbound connections to local 389 TCP port.
 | 139 | TCP | Netwrix Cloud Agent | Monitored computer | File and Printer Sharing (NetBIOS Session Service) |
 | 445 + 139 | TCP | Netwrix Cloud Agent | Monitored computer | SMB 2.0/3.0 |
 | 3268 | TCP | Netwrix Cloud Agent | Domain controllers | LDAP <br />Group membership <br /> GC search |
+

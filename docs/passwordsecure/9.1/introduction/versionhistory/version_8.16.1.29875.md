@@ -30,3 +30,4 @@ sidebar_position: 130
 
 - The ConnectionString in the database settings is now saved correctly.
 - An error is now displayed when saving an incorrect PKCS label and serial number.
+

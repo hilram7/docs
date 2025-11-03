@@ -12,3 +12,4 @@ The Domains page removes host domain-related data from the SQL server for the se
 
 Select the checkbox next to a domain to remove host-related data from the SQL server for that
 domain.
+

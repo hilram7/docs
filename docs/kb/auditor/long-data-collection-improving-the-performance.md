@@ -101,3 +101,4 @@ You can limit the monitoring scope in your environment via omit lists — this a
 - [Manage Data Sources](https://docs.netwrix.com/docs/auditor/10_8/admin/monitoringplans/datasources)
 - [How to Exclude Users and Objects from Monitoring Scope in Netwrix Auditor UI](/docs/kb/auditor/how-to-exclude-users-and-objects-from-monitoring-scope-in-netwrix-auditor-ui.md)
 - [How to Use Omit Lists](https://docs.netwrix.com/docs/kb/auditor/how-to-use-omit-lists)
+

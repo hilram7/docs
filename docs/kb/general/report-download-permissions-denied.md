@@ -45,3 +45,4 @@ To grant permission:
 4. Click **Ok**, then **Ok** again
 
 ![User-added](images/servlet_image_6d5dba18caac.png)
+

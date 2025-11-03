@@ -49,3 +49,4 @@ To identify the root cause of the issue, open the lock files in the lock archive
 4. Review the **Windows Application** logs to look for potential causes, such as a machine reboot, and speak to any users who were logged on to the machine at that time and may know what was happening.
 
 5. When the cause has been identified, you can resolve the issue. Use suspended services if your machine did automatic Windows updates.
+

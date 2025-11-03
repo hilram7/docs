@@ -59,3 +59,4 @@ To authorize your app
    Data Classificationadministrative web console.
 
     ![dropbox_authorize_app](/images/dataclassification/5.6.2/config_infrastructure/dropbox_authorize_app.webp)
+

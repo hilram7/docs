@@ -44,3 +44,4 @@ To **OCR** images contained within documents (such as **PDFs**, or **Office docu
 ## Invalid Text
 
 Sometimes **OCR** processing will result in **garbled** or **invalid text**. Typically this is because the document is either **rotated**, or at too **low** a **resolution** for processing (the recommended **DPI** is **300** for **OCR processing**). If this is no the case please raise a support request, attaching the image to the request, for us to investigate further.
+

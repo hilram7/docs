@@ -184,3 +184,4 @@ Select deletion settings using the following options:
 
     - Do not delete folders with subfolders
     - Do not delete folders with content
+

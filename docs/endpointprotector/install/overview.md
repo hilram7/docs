@@ -46,3 +46,4 @@ Manager will assign a license that can be installed within the Endpoint Protecto
 
 The following sections will delve deeper into the different methods used to deploy Endpoint
 Protector, offering step-by-step instructions and best practices.
+

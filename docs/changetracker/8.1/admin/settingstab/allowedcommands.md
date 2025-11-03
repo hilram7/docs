@@ -39,3 +39,4 @@ Navigate to **Settings** – **Allowed Commands**:
   with;
 - **Allowed Commands** sub-tabs;
 - **Actions** - Allows commands to be managed using bulk operations.
+

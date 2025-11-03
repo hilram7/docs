@@ -38,3 +38,4 @@ The stoplists may be edited to suit particular application requirements with wor
 Note that all terms in these tables have a field that associates them with a particular language. Also, all stopwords should be entered with appropriate diacritics since all stopword processing is based on the extended ASCII character set.
 
 Currently, entries in the Stoplists tables must be managed directly using an appropriate SQL editor such as Microsoft’s Query Analyser. A future version of Netwrix Data Classification will provide a graphical front-end utility to manage all system configuration settings.
+

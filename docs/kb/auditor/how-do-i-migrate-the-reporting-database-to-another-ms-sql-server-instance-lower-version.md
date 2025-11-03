@@ -79,3 +79,4 @@ There are a few options to downgrade the database from a higher version of SQL S
 2.3 Upon successful execution, refresh the Database folder in Object Explorer.
 
 ![User-added image](images/ka04u000000HcOn_0EM700000005TC9.png)
+

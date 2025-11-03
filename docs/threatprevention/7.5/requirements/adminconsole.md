@@ -58,3 +58,4 @@ machines. Consider the following when leveraging virtualization.
   - ESX 4.0 / ESXi 4.1 or higher
   - Virtual hardware 7 or higher
   - All virtual machines installed on the same datacenter / rack
+

@@ -71,3 +71,4 @@ By default NetBios names cannot be resolved across different subnets using broad
 Set the data processing account for the monitored domain item in a format of `FQDNDOMAINNAME\ACCOUNTSAMACCOUNTNAME` (e.g. `corp.local\administrator`)
 
 ![User-added image](./images/ka04u000000HdEa_0EM4u000002CsNQ.png)
+

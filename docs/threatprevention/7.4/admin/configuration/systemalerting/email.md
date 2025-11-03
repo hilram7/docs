@@ -187,3 +187,4 @@ through the System Altering window’s Email tab or assigned to a policy on the
 of the policy configuration or the
 [Actions Tab](/docs/threatprevention/7.4/admin/templates/configuration/actions.md) of
 the template configuration.
+

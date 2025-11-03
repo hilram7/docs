@@ -97,3 +97,4 @@ Wildcard certificates
 
 Wildcard certificates are not supported. In theory, it should be possible to use them but we cannot
 help with the configuration. You can use wildcard certificates at your own responsibility.
+

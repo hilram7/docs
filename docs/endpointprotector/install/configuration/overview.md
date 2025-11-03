@@ -25,3 +25,4 @@ previously purchased from Netwrix or any Endpoint Protector Partner.
 The price of the Endpoint Protector Licenses with AWS, GCP, or Azure is the same as licensing the
 Endpoint Protector Virtual Appliance. To purchase a license please contact your Endpoint Protector
 Representative or [sales@netwrix.com](mailto:sales@cososys.com).
+

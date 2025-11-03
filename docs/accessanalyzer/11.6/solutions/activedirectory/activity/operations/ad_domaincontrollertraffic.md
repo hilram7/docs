@@ -36,3 +36,4 @@ the follow pre-configured report:
 | Report                    | Description                                                                            | Default Tags                                               | Report Elements                                                                                          |
 | ------------------------- | -------------------------------------------------------------------------------------- | ---------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
 | Domain Controller Traffic | Identifies the amount of active directory events that occur on each domain controller. | CCPA GDPR SOX HIPPA PCI-DSS GLBA ITAR FERPA FISMA ISO27001 | This report is comprised of one element: <ul><li>Table –  Displays a Domain Controller summary</li></ul> |
+

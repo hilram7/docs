@@ -58,3 +58,4 @@ approves the workflow request, the job will execute the results.
 
 Step 12 – **Run Job Collection** dialog box displays overall collection statistics for the run,
 reports and individual logs for each job in the collection.
+

@@ -128,3 +128,4 @@ You can also configure the list of file locations to exclude from processing.
 
 5. When finished, click **Add**.
 6. Finally, click **Save** and close the window.
+

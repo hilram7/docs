@@ -42,3 +42,4 @@ The possible cause of this issue is the Security event log on the file server:
   - Open the Security event log using the **Event Viewer**. If the log is corrupted or contains events with ID `521`, this may indicate that there is not enough free disk space to store new information. Provide more disk space and clear the log. Refer to the The disk on a monitored file server is overfilled knowledge base article for more information: https://kb.netwrix.com/1262
   - Make sure that either the **Overwrite events as needed** retention method is selected, or the Security log automatic archiving option is enabled: https://docs.netwrix.com/docs/auditor/10_8/configuration/fileservers/windows/overview
   - Verify with the `gpresult` tool if your settings are being overwritten by Group Policies.
+

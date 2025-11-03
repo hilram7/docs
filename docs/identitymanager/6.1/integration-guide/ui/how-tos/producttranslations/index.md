@@ -88,3 +88,4 @@ If you need to export the custom product translations of your languages, export 
 as usual but add the --product-translation argument to your command line.
 
 It will generate the translation files at the root of your XML configuration folder.
+

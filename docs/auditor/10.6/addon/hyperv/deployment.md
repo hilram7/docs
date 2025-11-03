@@ -99,3 +99,4 @@ Credentials for **Data Collection Server** (that is, SCVMM) are not required.
 `<DataCollectionUserName>SCVMMAdmin</DataCollectionUserName>`
 
 `<DataCollectionPassword>Password</DataCollectionPassword>`
+

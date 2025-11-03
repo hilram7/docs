@@ -21,3 +21,4 @@ ID based identity store.
 - [Object properties - Email tab](/docs/directorymanager/11.1/portal/user/properties/AD/useroverview/email.md) (for mailbox only)
 - [Mailbox properties - Auto Reply tab](/docs/directorymanager/11.1/portal/user/properties/AD/mailbox/autoreply.md) (for mailbox only)
 - [Object properties - History tab](/docs/directorymanager/11.1/portal/group/properties/history.md)
+

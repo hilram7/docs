@@ -48,3 +48,4 @@ How to repair a Netwrix Auditor installation in our environment?
 ## Related articles
 
 - [How to Find Out My Netwrix Auditor Version](/docs/kb/auditor/how-to-find-out-my-netwrix-auditor-version.md)
+

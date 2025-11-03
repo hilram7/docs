@@ -98,3 +98,5 @@ They're now hanging out in XML data files, and you're ready to link them over to
 places in Computer Groups. Couldn't be easier to take existing GPO contents and get them into
 PolicyPak Cloud. I think this is just amazing. I hope you do too. I hope this helps you out. Looking
 forward to getting you started with PolicyPak Cloud real soon. Thanks.
+
+

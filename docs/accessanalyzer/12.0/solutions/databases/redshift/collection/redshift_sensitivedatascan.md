@@ -147,3 +147,4 @@ The default analysis tasks are:
 - Redshift SDD Matches View — Brings the Redshift SDD Matches View to the Access Analyzer console
 - Redshift SDD Matches Hits View — Brings the SA_SQL Match Hits View to the Access Analyzer console
 - Redshift ADD AIC Import —Imports Redshift SDD into the AIC
+

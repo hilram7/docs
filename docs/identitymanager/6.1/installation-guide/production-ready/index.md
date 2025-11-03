@@ -42,3 +42,4 @@ as target organization.
 
 The first step consists in creating a
 [Working Directory](/docs/identitymanager/6.1/installation-guide/production-ready/working-directory/index.md).
+

@@ -23,3 +23,4 @@ Select criteria using the following options:
 
 - Click **Select All** to select all properties
 - Click **Clear All** to clear all selected properties
+

@@ -25,3 +25,4 @@ The configurable options are:
 - User name — User for the SQL Server
 - User password — Password for the SQL Server
 - Connect — Click **Connect** to test the settings
+

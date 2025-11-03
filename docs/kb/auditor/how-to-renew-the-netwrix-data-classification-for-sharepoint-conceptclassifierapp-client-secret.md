@@ -36,3 +36,4 @@ In order to renew the **Add-In** client secret on the SharePoint and Netwrix Dat
 7. Close the "**Edit**" dialog and select "**Update Client Secret**"  
 8. Enter your new `value`, along with the **expiry date** (typically either 1 or 3 years away).  
 9. If your **client secret** has already **expired** then select the "**Replace Current**" option.
+

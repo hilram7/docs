@@ -14,3 +14,4 @@ management tasks, such as creating users and mailboxes, managing users’ profil
 Directory Manager supports multiple identity providers for creating an identity store, including
 Microsoft Entra ID, formerly Azure Active Directory. This section provides information that will
 help configure Directory Manager in Microsoft Entra ID.
+

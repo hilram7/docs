@@ -24,3 +24,4 @@ of this object as allowing the ability to create a task on the fly. Use this obj
 queries, while leaving the original task undisturbed. This is valuable when performing compound
 queries isneeded. See the [Script Example 2: Command Query](/docs/accessanalyzer/12.0/admin/datacollector/script/example2.md) topic for additional
 information.
+

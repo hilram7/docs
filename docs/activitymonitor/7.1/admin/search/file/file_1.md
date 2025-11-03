@@ -80,3 +80,4 @@ new line added to a DACL:
 - Type – Type of permission applied (Allow/Deny)
 - Access Rights – Rights associated with the type of permission change
 - Inheritance – Indicates how the permission change is inherited
+

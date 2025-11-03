@@ -45,3 +45,4 @@ files. With that option enabled, you may want to adjust the retention settings f
 (backups). Related procedures are described in the
 [Auto-archiving Windows Security log](https://helpcenter.netwrix.com/bundle/z-kb-articles-salesforce/page/kA04u000000Pcx6CAC.html)
 Netwrix Knowledge Base article.
+

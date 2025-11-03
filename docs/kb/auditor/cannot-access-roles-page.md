@@ -48,3 +48,4 @@ Follow these steps to fix the issue:
 4. Open **ASP** settings under the **IIS** section.
    ![User-added](images/servlet_image_3823966b1661.png)
 5. Make sure that **Enable Buffering** is set to `True`.
+

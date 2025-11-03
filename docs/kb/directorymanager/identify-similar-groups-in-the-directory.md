@@ -52,3 +52,4 @@ For example, if you have a distribution group (Group A) with three members (A1, 
 7. The **Similarity Details** dialog box displays the common type and common members that both groups have.
 
 ![Similarity Details dialog box showing common type and members](images/ka0Qk000000EMTh_0EMQk00000BX24j.png)
+

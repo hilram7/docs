@@ -43,3 +43,4 @@ statuses are:
 **Step 5 –** When the upgrade completes, click **Close**.
 
 ADMonitor has been updated.
+

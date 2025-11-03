@@ -44,3 +44,4 @@ ppemail.exe /test tonio@anixis.com
 ```
 15. You should see a message that the credentials were moved to the credential manager, and the username and password you created in the registry should be gone.
 16. The stored credentials are only accessible from your user account, so if the test above worked you should add the credentials to the service account. To do this, repeat steps 12 and 13 and then start the Netwrix Password Policy Enforcer Mailer service. The username and password should disappear from the registry again.
+

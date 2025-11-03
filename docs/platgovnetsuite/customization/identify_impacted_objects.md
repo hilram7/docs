@@ -121,3 +121,4 @@ other customizations by type.
 Linking customizations to processes is a powerful way of understanding the function and impact of
 any customizations. The detailed step information in the **Process Assistant** shows the links to
 customizations for that process.
+

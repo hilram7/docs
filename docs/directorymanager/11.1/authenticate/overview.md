@@ -56,3 +56,4 @@ The following tabs are used when configuring Directory Manager as an identity pr
   an identity provider. Use the New Application button to add a service provider.
 - Settings – his tab contains default settings that are used while configuring Directory Manager as
   an identity provider within third-party applications.
+

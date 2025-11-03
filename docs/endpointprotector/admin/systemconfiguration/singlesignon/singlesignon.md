@@ -30,3 +30,4 @@ users as super administrators setting.
   on IP or Domain, provide an Entity ID as well as Login and Logout URL.
 - Identity Provider represents Azure side. It includes the ﬁelds where data generated from Azure
   should be ﬁled so you will be able to login to Endpoint Protector Server.
+

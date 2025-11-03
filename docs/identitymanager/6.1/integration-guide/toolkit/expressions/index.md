@@ -279,3 +279,4 @@ attribute, only `SourceExpression`. Literal expressions are not available for ru
 
 Literal expressions targeting `String` properties can accept any value, since it is already a string
 in the configuration.
+

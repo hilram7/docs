@@ -16,3 +16,4 @@ Exports Azure resources, role definitions and role assignments.
 | Fulfill                 | NONE                      |
 | Has Incremental Mode    | False                     |
 | Publisher               | Usercube                  |
+

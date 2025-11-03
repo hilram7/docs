@@ -99,3 +99,4 @@ The following best practices are recommended when using the Netwrix File Activit
 - Restrain the FPolicy configuration to specific volumes, shares, and operations to decrease the impact on the SVM.
 - Consider deploying multiple Netwrix Activity Monitor activity agents for load balancing and fault tolerance.
 - Use the Enable and Connect FPolicy option to keep the SVM connected and consistently sending events to the Netwrix Activity Monitor activity agents.
+

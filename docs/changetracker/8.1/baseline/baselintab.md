@@ -33,3 +33,4 @@ Rule Controls:
 
 Add Rules will add the currently selected rules to your policy with the selected Rule Options (see
 later section). The **Edit Rules** option allows an existing Policy to be edited and rules removed.
+

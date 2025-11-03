@@ -45,3 +45,4 @@ Increase the session timeout to allow the data collection to complete. Refer to 
 ## Related Articles
 
 - Connection Profiles Page — Add Connection Profile · v4.2
+

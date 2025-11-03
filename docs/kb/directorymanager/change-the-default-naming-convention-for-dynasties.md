@@ -35,3 +35,4 @@ This article explains how you change the default naming convention for Dynasties
 4. In the **Display name template** and **Alias template** fields, adjust the naming pattern.  
 5. By default, the format is `DynastyName%GroupBy%`. To place the department name first, change the format to `%GroupBy%DynastyName`.  
 6. Click **Save** to apply the new naming convention.
+

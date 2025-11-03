@@ -98,3 +98,4 @@ the Navigation pane.
 These right-click menu options contain the Host Management Activities available for the selection.
 See the [Host Management Activities](/docs/accessanalyzer/12.0/admin/hostmanagement/actions/overview.md) topic for additional information on these
 options.
+

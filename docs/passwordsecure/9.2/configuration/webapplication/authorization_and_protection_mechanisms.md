@@ -49,3 +49,4 @@ The button is only displayed for the users who have the rights to edit seals. If
 this will be shown in the password field.
 
 ![seal_wc](/images/passwordsecure/9.2/configuration/web_applicaiton/authorization_and_protection/seal_wc.webp)
+

@@ -66,3 +66,4 @@ Group Policy Management Console is an administrative tool for managing Group Pol
 2. Go to **Manage optional features** and click **Add a feature**.  
 3. Select and install the specific Remote Server Administration Tools needed.  
 4. To see installation progress, click the **Back** button and view the status on the **Manage optional features** page.
+

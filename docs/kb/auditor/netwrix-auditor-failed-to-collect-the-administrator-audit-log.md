@@ -43,3 +43,4 @@ Provide a name for your domain in the FQDN format. For that:
 3. Click **Edit Item** on the right.
 4. On the **General** tab, provide the domain name in the FQDN format (e.g., `corp.local`) under **Specify Active Directory** domain.
 5. Save your edits.
+

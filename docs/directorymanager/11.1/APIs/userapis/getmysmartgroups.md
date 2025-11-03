@@ -173,3 +173,4 @@ Using this API, information about the authentiacated user's Smart Groups can be 
   ]
 }
 ```
+

@@ -436,3 +436,4 @@ $InsecureAllowServiceAccounts = $true
 4. Once the activity is properly configured, click **Save**.
 
 You can now assign this activity to an access policy, and access it by selecting its activity card on the **My Activities** page.
+

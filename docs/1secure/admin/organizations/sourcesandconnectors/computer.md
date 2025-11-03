@@ -124,3 +124,4 @@ the following:
 **Step 10 –** Click **Finish**.
 
 The Computer data source and connector have been configured.
+

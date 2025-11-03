@@ -47,3 +47,4 @@ Enter valid account credentials.
 If you want an overview on how Failed Logon information is collected, check this article: https://kb.netwrix.com/5905 (Why Do I Have Incomplete Information on Failed Logons?)
 
 If you need a guide on how to Investigate Failed Logon, check this article: https://kb.netwrix.com/5198 (Investigating Failed Logons)
+

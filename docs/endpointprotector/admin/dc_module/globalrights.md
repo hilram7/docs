@@ -177,3 +177,4 @@ From this section, you can deﬁne fallback policies that will apply when outsid
 of the functionalities are identical to the Standard section.
 
 ![ Deﬁne fallback policies that will apply when outside working hours](outsidehours.webp)
+

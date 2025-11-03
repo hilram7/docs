@@ -110,3 +110,4 @@ Checklist Item 4:
 
 - Deploy the Activity Monitor Activity Agent to a Windows proxy server
 - Configure the Activity Agent to monitor the NetApp device
+

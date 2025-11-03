@@ -57,3 +57,4 @@ there are several steps you may need to take after upgrading:
 2. After the upgrade, indexing mode will be set to Compound Term mode. Refer to the following
    Netwrix knowledge base article for instructions on how to modify default Index Processing Mode:
    [How to modify Index Processing Mode](https://kb.netwrix.com/5353).
+

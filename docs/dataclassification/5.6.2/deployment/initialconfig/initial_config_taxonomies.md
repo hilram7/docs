@@ -13,3 +13,4 @@ On this step, you are prompted to load predefined taxonomies.
 Click the search bar and select one or several taxonomies you want to add. See
 [Built-in Taxonomies Overview ](/docs/dataclassification/5.6.2/contentconfigurationoverview/taxonomiesintro/standalone_taxonomies.md)
 for the full list of built-in taxonomies supported by Netwrix Data Classification.
+

@@ -52,3 +52,4 @@ In the example below, an end user changes the **Description** field of a group.
 The user will receive an email notification for the changes they made.
 
 ![Sample email notification sent to user after making changes in Directory Manager user portal](images/ka0Qk000000D8iv_0EMQk00000BpFpt.png)
+

@@ -35,3 +35,5 @@ Logs are automatically wrapped up and can be sent to support by [opening a suppo
 where the client-side extension (CSE) is installed. Since the main logs for Endpoint Policy Manager
 Java Rules Manager are in ProgramData, run an Elevated Command Prompt (as admin), and run
 `PPLOGS.EXE` to obtain the data from the PolicyPak Java Rules Manager logs.
+
+

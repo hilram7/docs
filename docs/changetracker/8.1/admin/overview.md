@@ -15,3 +15,4 @@ The Change Tracker console contains several pages that can be selected from the 
 - [Planned Changes Tab](/docs/changetracker/8.1/admin/plannedchanges/plannedchanges.md)
 - [Reports Tab](/docs/changetracker/8.1/admin/reportstab/reportstab.md)
 - [Settings Tab](/docs/changetracker/8.1/admin/settingstab/settingstab.md)
+

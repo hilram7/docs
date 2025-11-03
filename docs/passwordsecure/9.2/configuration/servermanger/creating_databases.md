@@ -56,3 +56,4 @@ has been selected, the new database is created directly, and will be displayed i
 overview.
 
 ![created new database](/images/passwordsecure/9.2/configuration/server_manager/creatingdatabase/installation_with_parameters_218-en.webp)
+

@@ -55,3 +55,4 @@ following pre-configured reports.
 | Computer Cleanup Summary | This report tracks Active Directory computer exceptions over time. | None         | This report is comprised of two elements: <ul><li>Line Chart – Displays a daily computer exceptions trend</li><li>Table – Provides details on daily computer exceptions</li></ul> |
 | Group Cleanup Summary    | This report tracks Active Directory group exceptions over time.    | None         | This report is comprised of two elements: <ul><li>Line Chart – Displays a daily group exceptions trend</li><li>Table – Provides details on daily group exceptions</li></ul>       |
 | User Cleanup Summary     | This report tracks Active Directory user exceptions over time.     | None         | This report is comprised of two elements: <ul><li>Line Chart – Displays a daily user exceptions trend</li><li>Table – Provides details on daily user exceptions</li></ul>         |
+

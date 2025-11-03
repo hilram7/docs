@@ -140,3 +140,4 @@ the Usercube interface.
 | PlaceHolderText_L1 optional     | **Type** String **Description** Property place holder text.                                                                                                                                                                                                      |
 | Tile optional                   | **Type** Int64 **Description** Identifier of the tile.                                                                                                                                                                                                           |
 | ToolTipText_L1 optional         | **Type** String **Description** Property tool tip text.                                                                                                                                                                                                          |
+

@@ -25,3 +25,4 @@ The jobs in the Local Administrators group are:
   – This job lists sessions and logged on users from all targeted hosts. These active sessions and
   logged on users may have their hashes stored in memory on the target machine, which could be
   leveraged in a Pass the Hash attack.
+

@@ -19,3 +19,4 @@ Features**). Uninstall the previous version of Enterprise Auditor Sensitive Data
 section for instructions.
 
 The applicable solutions can now search for sensitive data based on the updated criteria.
+

@@ -17,3 +17,4 @@ the DirSync mechanism.
 | Fulfill                 | Usercube-Fulfill-Ldap.dll           |
 | Has Incremental Mode    | True                                |
 | Publisher               | Identity Manager                    |
+

@@ -55,3 +55,4 @@ If you are scanning sensitive data, please also supply the installer package ver
 **Product:** Netwrix Access Analyzer  
 **Module:** Netwrix Access Analyzer - Core  
 **Legacy Article ID:** 1310
+

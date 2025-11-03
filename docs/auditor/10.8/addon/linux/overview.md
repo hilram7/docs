@@ -122,3 +122,4 @@ auth.*;authpriv.* @172.28.18.25:514;RSYSLOG_SyslogProtocol23Format
 ```bash
 sudo systemctl restart rsyslog
 ```
+

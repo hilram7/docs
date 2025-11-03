@@ -16,3 +16,4 @@ independently of the currently selected module.
 - [Backup settings](/docs/passwordsecure/9.2/configuration/servermanger/mainmenu/backupsettings/backup_settings.md)
 - [License settings](/docs/passwordsecure/9.2/configuration/servermanger/mainmenu/license_settings.md)
 - [Advanced settings](/docs/passwordsecure/9.2/configuration/servermanger/mainmenu/advanced_settings.md)
+

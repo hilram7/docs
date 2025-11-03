@@ -67,3 +67,4 @@ During setup, you must enter the **Client ID** and **Client Secret** and import 
    > **NOTE:** The default path is `C:\Program Files\Imanami\GroupID 11.0\Automate\GroupIDConnector\`. This path may vary depending on your environment.
 
 7. Complete the process to create the connector in MS Flow.
+

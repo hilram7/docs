@@ -36,3 +36,4 @@ permissions for the **Deleted Objects** container in the **corp.local** domain. 
 let this user view the contents of the **Deleted Objects** container, but do not let this user make
 any changes to objects in this container. These permissions are equivalent to the default
 permissions that are granted to the **Domain Admins** group.
+

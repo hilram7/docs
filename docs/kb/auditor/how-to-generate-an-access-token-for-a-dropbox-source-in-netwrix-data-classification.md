@@ -39,3 +39,4 @@ When adding a Dropbox source in Netwrix Data Classification you are asked for an
 7. You’ll be presented with your app’s settings.
 8. Click the **Generate** button next to **Authorization Code** and follow the prompts on the screen.
 9. After the token is generated, you’ll see a string of letters and numbers: this is the access token that is required to add to the DropBox source.
+

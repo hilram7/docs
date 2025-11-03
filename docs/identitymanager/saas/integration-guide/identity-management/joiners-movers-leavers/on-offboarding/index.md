@@ -70,3 +70,4 @@ Keeping track of former employees usually helps solve issues involving orphan ac
 
 A resource is deleted either via a resource-deletion workflow, or via the synchronization of HR
 files if the user was removed from HR lists.
+

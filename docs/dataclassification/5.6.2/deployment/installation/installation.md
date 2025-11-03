@@ -57,3 +57,4 @@ sidebar_position: 50
 11. When the installation completes, open a web browser and navigate to the following URL:
     _http://localhost/conceptQS_ where localhost is the name or IP address of the computer where
     Netwrix Data Classification is installed. For example, _http://workstationndc/conceptQS_.
+

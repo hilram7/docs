@@ -19,3 +19,4 @@ Follow the steps to test the host resource connectivity:
 **Step 4 –** Review the test status and messages (if any).
 
 The selected resources connectivity has been tested.
+

@@ -57,3 +57,4 @@ sudo apt upgrade
 ```
 
 The `sudo dpkg -i ./pkgs/*.deb` command will display any missing dependencies. Use `sudo apt update` and `sudo apt upgrade` to resolve them.
+

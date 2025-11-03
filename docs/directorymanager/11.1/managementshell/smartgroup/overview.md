@@ -18,3 +18,4 @@ This section covers cmdlets for managing Smart Groups.
   the results returned by the LDAP query.
 - [Upgrade-Group](/docs/directorymanager/11.1/managementshell/smartgroup/upgradegroup.md) – Upgrades managed (Smart Groups and Dynasties) and non-managed
   groups from GroupID 9 and 10 to GroupID 11.
+

@@ -61,3 +61,4 @@ full list of built-in Device Groups corresponding to the Operating System of the
 Default Groups are pre-packed with an appropriate monitoring template and CIS Benchmark Report, and
 as soon as a device has been registered to a Group the device will be monitored for change and CIS
 compliance automatically.
+

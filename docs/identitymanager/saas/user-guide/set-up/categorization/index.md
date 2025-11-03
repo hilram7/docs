@@ -137,3 +137,4 @@ Netwrix Identity Manager (formerly Usercube) recommends creating/modifying/delet
 Once accounts are categorized, integrators can start to [Create a Provisioning Rule](/docs/identitymanager/saas/user-guide/set-up/provisioning-rule-creation/index.md).
 
 Categorization also enables the [Review Orphaned and Unused Accounts](/docs/identitymanager/saas/user-guide/administrate/orphan-unused-account-review/index.md).
+

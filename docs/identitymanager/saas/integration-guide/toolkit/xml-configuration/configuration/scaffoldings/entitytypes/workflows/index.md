@@ -28,3 +28,4 @@ sidebar_position: 20
     Creates the search bar of the workflow entity of the starting entity.
 
 - [Workflow Performer Notification](/docs/identitymanager/saas/integration-guide/toolkit/xml-configuration/configuration/scaffoldings/entitytypes/workflows/workflowperformernotification/index.md)
+

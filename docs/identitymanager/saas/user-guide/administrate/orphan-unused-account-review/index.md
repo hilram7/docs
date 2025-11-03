@@ -200,3 +200,4 @@ In order to verify the process, check that the line for your reviewed item has b
 ![View Permissions Tab](/images/identitymanager/saas/user-guide/set-up/provisioning-rule-creation/resource-creation/viewpermissions_v602.webp)
 
 In addition, if you reconciled an orphaned account with an owner, check the user's permissions to see said account.
+

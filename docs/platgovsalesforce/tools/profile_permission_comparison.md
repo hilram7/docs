@@ -80,3 +80,4 @@ To perform an **Object Permission** comparison:
    be removed.
 5. Click **Export Data** to create an Excel file containing the comparison. The
    **StrongpointObjectComparison (#).xlsx** file is saved to your default download directory.
+

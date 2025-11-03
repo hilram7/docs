@@ -39,3 +39,4 @@ follows:
 
 See the the [Integration API](/docs/auditor/10.7/api/overview.md) topic for additional information on the
 structure of the Activity Record and the capabilities of the Integration API
+

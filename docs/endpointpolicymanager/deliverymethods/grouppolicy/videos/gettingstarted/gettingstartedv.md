@@ -216,3 +216,5 @@ wasn't able to show you.
 
 In the next video, I'll be talking more about the Application Settings Manager, how to set that up
 and how to work with it. So thanks for watching, and I'll see you there.
+
+

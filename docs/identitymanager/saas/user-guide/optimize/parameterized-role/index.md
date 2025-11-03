@@ -136,3 +136,4 @@ suggestions.
 ![Example - Suggestion](/images/identitymanager/saas/user-guide/optimize/parameterized-role/parameterizedrole_examplerolesuggestion_v603.webp)
 
 For example, concerning the `Title` dimension mentioned above.
+

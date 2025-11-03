@@ -115,3 +115,4 @@ If you are still receiving failed logons and/or lockouts for your Netwrix Audito
 
 - If any failed logons and/or lockouts are reported for the Data Collection Account, Netwrix is certainly not the root cause.
 - If the proposed solutions above do not resolve the issue, contact Technical Support for assistance.
+

@@ -141,3 +141,4 @@ Group Policy. See the
 topic for additional information.
 
 Default local client will be always installed together with the Auditor in all scenarios.
+

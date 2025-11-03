@@ -20,3 +20,4 @@ This report is comprised of the following columns:
 - Writes – Count of edit/modify operations on files and subfolders
 - Manages – Count of permission change operations on files and subfolders
 - Deletes – Count of delete operations on files and subfolders
+

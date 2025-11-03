@@ -18,3 +18,4 @@ with enhanced cloud deployment options:
 
 - Windows Amazon Marketplace — Discover Netwrix Privilege Secure if you have an active Microsoft
   account.
+

@@ -21,3 +21,4 @@ The new policies will be applied only when the target computers are rebooted.
 
 
 ![Linking Group Policy Objects to Organization Units ](gpotooulinking.webp)
+

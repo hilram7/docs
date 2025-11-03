@@ -60,3 +60,4 @@ The email's subject and body can contain various macros. Use these macros to per
 | [EXPIRY_MONTH]      | Expiry month (1 to 12)                |
 | [EXPIRY_MONTH_NAME] | Expiry month (January, February, ...) |
 | [EXPIRY_YEAR]       | Expiry year (2021, 2022, ...)         |
+

@@ -96,3 +96,4 @@ The following job groups comprise the Active Directory solution:
 Since each job group within the Active Directory solution is designed to run independently, refer to
 the Recommended Configurations topic for each job group, for information on frequency and job group
 settings.
+

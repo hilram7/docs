@@ -63,3 +63,4 @@ to work, but not more to prevent security breaches.
 
 Let's learn about
 [Usercube's architecture](/docs/identitymanager/6.1/introduction-guide/architecture/index.md).
+

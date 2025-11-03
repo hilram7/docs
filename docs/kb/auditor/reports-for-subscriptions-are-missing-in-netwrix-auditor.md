@@ -50,3 +50,4 @@ Refer to the following article for additional information on subscriptions in Ne
 ## Related articles
 
 - https://docs.netwrix.com/docs/auditor/10_8 — Create Subscriptions ⸱ v10.6)
+

@@ -61,3 +61,4 @@ In order to resolve the issue perform the following steps on the Account Lockout
    c. Select the **Only PDC emulator** radio button and click **OK** to save the changes.
 
    ![User-added image](images/ka04u000000HcUi_0EM700000004xg7.png)
+

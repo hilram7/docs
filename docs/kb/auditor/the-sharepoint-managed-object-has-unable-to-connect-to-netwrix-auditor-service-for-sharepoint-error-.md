@@ -39,3 +39,4 @@ After the computer has been rebooted the **.Net TCP Port Sharing** and **Netwrix
 2. In the right pane, click **Start**.
 
 **NOTE:** If this error occurs every time your computer is rebooted, you must increase the service time out period. Refer to Microsoft documentation for more information: http://technet.microsoft.com/en-us/library/cc756342(v=ws.10).aspx
+

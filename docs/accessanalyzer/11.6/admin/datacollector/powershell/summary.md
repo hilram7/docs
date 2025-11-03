@@ -14,3 +14,4 @@ Data Collector Wizard.
 Click **Finish** to save configuration changes. If no changes were made, it is a best practice to
 click **Cancel** to close the PowerShell Data Collector Wizard ensuring that no accidental clicks
 are saved.
+

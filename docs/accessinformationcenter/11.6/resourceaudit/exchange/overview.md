@@ -22,3 +22,4 @@ own node in the Access Information Center. Exchange reports fall into the follow
 The following report is available at the **Exchange** node:
 
 - [Sensitive Content Summary Report](/docs/accessinformationcenter/11.6/resourceaudit/exchange/sensitivecontentsummary.md)
+

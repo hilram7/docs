@@ -38,3 +38,4 @@ cannot assign or create tags on this page.
 
 To apply tags to an alert, navigate to alert settings and locate the Apply tags section on the
 General tab. See the [Create Alerts](/docs/auditor/10.7/admin/alertsettings/create/create.md) topic to receive information about tags applying.
+

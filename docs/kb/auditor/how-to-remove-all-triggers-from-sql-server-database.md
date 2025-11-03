@@ -25,3 +25,4 @@ knowledge_article_id: kA00g000000H9WhCAK
 To remove all triggers from audited database(s), execute the script located at the installation folder of Netwrix Auditor: `C:\Program Files (x86)\Netwrix Auditor\SQL Server Auditing\sqlcr_remove_audit_from_db.sql`
 
 **Note:** Before executing the script, you should specify the name of the database where you would like to remove the triggers in the **Available Databases** list box.
+

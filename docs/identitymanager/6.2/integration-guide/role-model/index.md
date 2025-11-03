@@ -62,3 +62,4 @@ It applies all the configured rules, thus:
 - automating entitlement assignment; See the [Automate Role Assignments](/docs/identitymanager/6.2/user-guide/optimize/assignment-automation/automate-role-assignment/index.md) topic for additional information.
 - generating the provisioning orders that enable writing to the managed systems; See the [Create a Provisioning Rule](/docs/identitymanager/6.2/user-guide/set-up/provisioning-rule-creation/index.md) topic for additional information.
 - detecting assignments in the managed systems that do not comply with the policy; See the[Review Non-conforming Assignments](/docs/identitymanager/6.2/user-guide/administrate/non-conforming-assignment-review/index.md) topic for additional information.
+

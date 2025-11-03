@@ -84,3 +84,4 @@ In the example above, the selected trustee has three sources of access to the se
 source is directly applied, one is through share permissions, one is through a policy. In order for
 this trustee’s access to the selected resource to be changed, each of these source paths must be
 taken into consideration.
+

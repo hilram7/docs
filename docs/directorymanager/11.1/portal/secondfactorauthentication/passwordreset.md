@@ -182,3 +182,4 @@ Step 6 – Authenticate your account using any second way authentication option 
 
 Step 7 – Follow the steps 6 - 11 in the Reset identity store account password (enrolled users)
 section to reset your password.
+

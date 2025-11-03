@@ -26,3 +26,4 @@ desirable because they are easily guessed.
   password if the tolerance is four (or lower), and accept it if the tolerance is five (or higher).
   Choose the **Auto** value to reject passwords that contain the user's entire display name.
 - Click the **Messages** tab to customize the Password Policy Client rule inserts.
+

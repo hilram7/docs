@@ -39,3 +39,5 @@ You can look in your license file and see which license you are granted.
 You can also see the license type within the MMC console if you have this type of license installed.
 
 ![839_5_img-03](/images/endpointpolicymanager/leastprivilege/839_5_img-03.webp)
+
+

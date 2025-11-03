@@ -12,3 +12,4 @@ The Add IP Address window provides a textbox to enter the IP address to be inclu
 
 Entered IP addresses are added to the appropriate box on the IP Addresses (from) filter or the IP
 Addresses (to) filter, from where you clicked the **Add** (+) button to open this window.
+

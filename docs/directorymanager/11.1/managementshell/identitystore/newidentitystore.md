@@ -128,3 +128,4 @@ connection details.
 ```
 New-IdentityStore -IdentityStoreType ActiveDirectory -IdentityStoreName DemoAdStore3 -UserName nouser -Password password123 -Domain nodomain.local -IgnoreConnectionFail
 ```
+

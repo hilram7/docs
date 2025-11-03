@@ -31,3 +31,4 @@ incorporates:
 Usually, the application communicates with a server running the administration Web console. To
 assemble and combine the search results required for reporting, the NDC server will automatically
 communicate with the other servers in the cluster.
+

@@ -45,3 +45,4 @@ Records found table.
 The search criteria has now been configured and the results it returns tested. Configure the
 criteria further if the returned results are not as expected, or click **Next** to continue to the
 next wizard page.
+

@@ -30,3 +30,4 @@ Why does Endpoint Protector detect the printer as a USB storage device?
 You should be aware that printers with internal storage are identified by the operating system as both printers and storage devices. This is because their ability to store, manage, and access files directly is similar to how traditional storage devices function. As a result, sensitive or confidential information may remain on the printer for extended periods.
 
 Endpoint Protector receives device type information from the operating system. The printing function is managed under the **Printers** device type, while the internal storage is managed under the **USB Storage Device** type.
+

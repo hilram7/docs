@@ -145,3 +145,4 @@ You can add filters in **All Group Grid Filters** while searching for specific g
 - [Group Properties](/docs/directorymanager/11.0/welcome/group/properties/overview.md)
 - [Directory Search](/docs/directorymanager/11.0/welcome/generalfeatures/search.md)
 - [Working with Groups](/docs/directorymanager/11.0/welcome/group/workingwithgroups/workingwithgroups.md)
+

@@ -44,3 +44,4 @@ Here is an example for an entity type called `MyTicketEntity`:
 <AccessControlRule Profile="Administrator" EntityType="MyTicketEntity" Identifier="Administrator_MyTicketEntity" DisplayName_L1="Administrator_MyTicketEntity">    <Entry Permission="/Custom/Resources/MyTicketEntity/Query" CanExecute="true" />    <Entry Permission="/Custom/Resources/MyTicketEntity/Create" CanExecute="true" />    <Entry Permission="/Custom/Resources/MyTicketEntity/Update" CanExecute="true" />    <Entry Permission="/Custom/Resources/MyTicketEntity/Delete" CanExecute="true" /></AccessControlRule>
 
 ```
+

@@ -40,3 +40,4 @@ The following information must be provided if manually configuring connection se
 | Token URI                  |
 | Authorization Provider URL |
 | Client Certificate URL     |
+

@@ -17,3 +17,4 @@ Configure the additional options using the following:
   Detection task are saved for
 - Only save most recent change (per unique key) – Select the checkbox to only save changes between
   the last two runs of the source set
+

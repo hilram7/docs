@@ -55,3 +55,4 @@ The **"Workstation"** field is not reported for content changes if they were mad
 - Through the **Open With Explorer** menu option
 - Through a shared folder
 - Deletion of items through the context menu
+

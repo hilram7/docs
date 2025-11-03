@@ -33,3 +33,4 @@ ALTER TABLE table_name ADD PRIMARY KEY (primary_key_column_name)
 ```
 
 Please note that If you use the ALTER TABLE statement to add a primary key, the primary key column must already have been declared to not contain NULL values (when the table was first created).
+

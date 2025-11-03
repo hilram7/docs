@@ -102,3 +102,4 @@ machines. Consider the following when leveraging virtualization.
 
 - Virtual Storage Consideration – In the server requirements, when separate disks are required for
   the servers, that should translate to separate data stores on the VM host machine.
+

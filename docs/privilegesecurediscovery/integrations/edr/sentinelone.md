@@ -78,3 +78,4 @@ The configuration is completed as below using the API Token and User ID captured
 If the Privilege Secure instance is on a version behind 2.17 you will not see the Remote Systems
 Management UI on the Servers page, nor will you see SentinelOne on an endpoint in the EDR dropdown
 menu. Please inquire to Support to upgrade the environment.
+

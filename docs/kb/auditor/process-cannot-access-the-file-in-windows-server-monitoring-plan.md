@@ -39,3 +39,4 @@ A FQDN name of the computer item should be specified instead of NetBIOS format.
 1. Navigate to your Windows Server monitoring plan and click **Edit**.
 2. On your plan editing wizard, select your computer item and click **Edit item** on the right.
 3. Provide a FQDN name of the computer. For example, `DC.corp.local`.
+

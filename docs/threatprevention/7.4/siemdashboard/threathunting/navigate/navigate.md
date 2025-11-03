@@ -31,3 +31,4 @@ The Netwrix Threat Hunting App for Splunk contains only one dashboard called Thr
 
 Click Submit to refresh the card data and reload the page with the current parameters (Timeframe,
 search term, Day of Week, and Time of Day).
+

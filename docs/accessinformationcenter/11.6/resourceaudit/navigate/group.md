@@ -18,3 +18,4 @@ The group being audited is identified at the top of the interface as part of the
 breadcrumb. See the
 [Group Reports](/docs/accessinformationcenter/11.6/resourceaudit/group/overview.md)
 topic for additional information.
+

@@ -83,3 +83,4 @@ devices) and then click **Next**.
 **Step 15 –** On the Review + add tab, you can view the script information and click **Add**.
 
 ![Viewing the script information](scriptinformation.webp)
+

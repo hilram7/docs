@@ -53,3 +53,4 @@ Q: How are users and groups supported within ILT in cloud?
 A: Basically the same way. If you know the SID of the group or user ,you would place it into the SID
 box. If the SID is not known, the ILT engine does its best to evaluate by name, but it's not
 guaranteed.
+

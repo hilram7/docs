@@ -44,3 +44,4 @@ from the extracted zip.
 The virtual machine is now ready for use.
 
 ![ Oracle virtual machine ready for use](machineready.webp)
+

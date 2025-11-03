@@ -30,3 +30,4 @@ The following example declares a new category called "Shares - Public".
 | IsCollapsed default value: false | **Type** Boolean **Description** Defines if the category must be collapsed by default in the permission list of a resource (View Permissions popup and roles basket). |
 | Parent optional                  | **Type** Int64 **Description** Represents the parent category definition.                                                                                             |
 | Policy required                  | **Type** Int64 **Description** Identifier of the policy that the category is part of.                                                                                 |
+

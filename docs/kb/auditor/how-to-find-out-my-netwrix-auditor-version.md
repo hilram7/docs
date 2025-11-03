@@ -35,3 +35,4 @@ To establish the version and build of your Netwrix Auditor instance, refer to th
 3. Your current version and build will be available in the right section.
 
 ![About Netwrix Auditor dialog showing version and build](images/ka04u00000116gG_0EM4u000008LXT9.png)
+

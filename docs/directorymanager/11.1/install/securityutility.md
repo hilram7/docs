@@ -135,3 +135,4 @@ You must delete the GroupIDSSUser account from each Directory Manager server. Go
 Management console to delete the account.
 
 ![Computer Management console](/images/directorymanager/11.1/install/computermanagement.webp)
+

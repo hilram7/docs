@@ -22,3 +22,4 @@ The 0.Collection Job Group is comprised of:
   – Collects details about users, groups, policies, roles and other IAM related identities
 - [4.AWS_S3SDDScan Job](/docs/accessanalyzer/11.6/solutions/aws/collection/4.aws_s3sddscan.md)
   – Collects details about S3 objects containing sensitive data
+

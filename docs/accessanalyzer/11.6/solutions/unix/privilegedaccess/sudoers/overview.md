@@ -18,3 +18,4 @@ The jobs in the Sudoers job group are:
   environments
 - [UX_Sudoers Job](/docs/accessanalyzer/11.6/solutions/unix/privilegedaccess/sudoers/ux_sudoers.md)
   – This job details all rights granted via sudoers in the audited environment
+

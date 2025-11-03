@@ -156,3 +156,4 @@ policy configuration information. .
 This database contains the event activity data captured by Threat Prevention policies. Agents
 capture these events, as defined by policies, and send them to the Enterprise Manager. The
 Enterprise Manager receives, processes, and stores the data in the events database.
+

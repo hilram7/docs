@@ -181,3 +181,4 @@ opens. Configure the following options:
 **Every Sign On**. Click **Save**.
 
 Multi-Factor Authentication is now configured for Enterprise Auditor.
+

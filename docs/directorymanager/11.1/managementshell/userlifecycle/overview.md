@@ -13,3 +13,4 @@ This section covers the cmdlets for performing user lifecycle tasks such as:
 - [Reinstate-User](/docs/directorymanager/11.1/managementshell/userlifecycle/reinstateuser.md) – Activates or disables a user.
 - [Terminate-DirectReports](/docs/directorymanager/11.1/managementshell/userlifecycle/terminatedirectreports.md) – Terminates direct reports of a user.
 - [Transfer-DirectReports ](/docs/directorymanager/11.1/managementshell/userlifecycle/transferdirectreports.md) – Transfers direct reports of a user.
+

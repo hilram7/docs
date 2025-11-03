@@ -21,3 +21,4 @@ identified:
 
 The Exceptions report for each exception type level displays filtered exception information. See the
 [Exceptions Report by Type](/docs/accessinformationcenter/12.0/resourceaudit/filesystem/exceptions/exceptionsbytype.md) topic for the report details.
+

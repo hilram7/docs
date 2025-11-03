@@ -28,3 +28,4 @@ The default timeout is set to 60 seconds. To change this parameter:
 
 1. Navigate to **Start -> Run** and type `regedit`.
 2. Expand `HKLM -> Software -> NetWrix -> Password Expiration Notifier -> Timeout` and set a new value.
+

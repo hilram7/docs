@@ -39,3 +39,4 @@ To adjust the management of the NAM agents, follow the steps below:
 <add key="managerAddress" value="file://.\SAMConfig.xml" />
 ```
 3. Restart the agent service.
+

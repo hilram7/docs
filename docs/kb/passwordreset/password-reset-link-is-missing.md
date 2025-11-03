@@ -60,3 +60,4 @@ Configure your third-party credential provider to work with Netwrix Password Res
    Replace the GUID placeholder `%third_party_GUID%` with the third-party solution GUID.
 
 3. Save the changes.
+

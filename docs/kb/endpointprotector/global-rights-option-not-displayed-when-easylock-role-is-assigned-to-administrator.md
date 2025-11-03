@@ -52,3 +52,4 @@ This is expected behavior by design. No action is required unless you want to ch
 ### Expected Result
 
 Access to devices and actions from other departments should be restricted unless explicitly extended, following the same behavior as in other modules (for example, **Report Logs** or **OTP**).
+

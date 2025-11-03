@@ -97,3 +97,4 @@ Analyzer (formerly Enterprise Auditor) logo.
 The Access Information Center opens in a new tab in your browser. The interface a user arrives at
 depends upon the assigned role or lack of assigned role. See the [User Landing Page](/docs/accessinformationcenter/12.0/admin/login/userlanding.md)
 topic for information on where different types of users are directed after login.
+

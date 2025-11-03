@@ -118,3 +118,4 @@ Preferences > Windows Settings > Registry**.
 **Step 5 –** Save the preferences and link them to the necessary servers (OUs).
 
 When finished, run the `gpupdate /force` command to force group policy update.
+

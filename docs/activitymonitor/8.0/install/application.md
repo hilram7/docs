@@ -47,3 +47,4 @@ The setup wizard closes and the Activity Monitor Console opens.
 The Activity Monitor Console installs with a 10-day, 1-host license key. After completing the
 installation, see the [Import License Key](/docs/activitymonitor/8.0/install/importlicensekey.md) topic for instructions on importing
 an organization’s license key.
+

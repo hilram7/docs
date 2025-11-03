@@ -28,3 +28,4 @@ The jobs in the 2.Users Job Group are:
   are lacking appropriate information.
 - [AAD_UserDirSync Job](/docs/accessanalyzer/11.6/solutions/entraid/users/aad_userdirsync.md)
   – Summarizes on-premises Active Directory syncing in the audited Microsoft Entra ID environment
+

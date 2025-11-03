@@ -18,3 +18,4 @@ The Minimum Age rule is unique because users cannot comply with it by choosing a
 password; they must wait until the required number of days has elapsed.
 
 :::
+

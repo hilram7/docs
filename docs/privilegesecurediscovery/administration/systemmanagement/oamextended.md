@@ -402,3 +402,4 @@ If a password rotation is request, the api will log:
 ```
 {    "name": "api",  "message": "Password rotation requested for {CN}\\{ACCOUNT-NAME} ({SID})",    "category": "password-history",  "type": "credentials",  "targetSystem": {...},  "user": {...},  ...}
 ```
+

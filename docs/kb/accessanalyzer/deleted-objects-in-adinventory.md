@@ -82,3 +82,4 @@ When Active Directory objects are deleted, they are placed in the Deleted Object
 **Module:** SA - DC - ADInventory  
 **Versions:** all  
 **Legacy Article ID:** 1193
+

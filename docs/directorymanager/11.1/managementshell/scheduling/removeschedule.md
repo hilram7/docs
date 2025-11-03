@@ -52,3 +52,4 @@ This example removes all schedules with job type Glm.
 ```
 Get-Schedule -JobType Glm | Select-Object -Property Name | Remove-Schedule
 ```
+

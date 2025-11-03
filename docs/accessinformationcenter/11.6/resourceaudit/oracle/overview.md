@@ -22,3 +22,4 @@ own node in the Access Information Center. Oracle reports fall into the followin
 The following report is available at the **Oracle** node:
 
 - [Sensitive Content Summary Report](/docs/accessinformationcenter/11.6/resourceaudit/oracle/sensitivecontentsummary.md)
+

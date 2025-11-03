@@ -146,3 +146,4 @@ menu.
 **Step 6 –** Click **Save**. The Credential Settings window closes.
 
 The credential within the Credential Profile has been modified.
+

@@ -54,3 +54,4 @@ The new output displays in the table. Click the **Edit** button to open the Outp
 to modify these settings. See the
 [Output Types](/docs/activitymonitor/7.1/admin/outputs/overview.md) topic
 for additional information.
+

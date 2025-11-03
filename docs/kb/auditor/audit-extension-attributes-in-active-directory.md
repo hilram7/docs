@@ -41,3 +41,4 @@ A hash symbol designates a comment nullifying the entry in the code.
 4. Save changes to the file.
 
 The extension attributes commented out will now show in reports when they are changed.
+

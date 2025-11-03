@@ -118,3 +118,4 @@ information.
 Once user profiles are configured, integrators can start configuring onboarding workflows. See the
 [Create the Workforce Repository](/docs/identitymanager/6.2/user-guide/set-up/initial-identities-loading/index.md) topic for additional
 information.
+

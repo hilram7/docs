@@ -26,3 +26,4 @@ the resource list of the Access Policy.
 To create an Activity Session, click the **plus** button to begin. See the
 [Create Activity Session](/docs/privilegesecure/4.2/enduser/dashboard/active/createsession.md) topic for additional
 information.
+

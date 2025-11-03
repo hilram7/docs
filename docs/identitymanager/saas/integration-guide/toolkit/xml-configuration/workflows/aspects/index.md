@@ -38,3 +38,4 @@ For example, an aspect can assert a given user's input is valid.
 - [Notification Aspect](/docs/identitymanager/saas/integration-guide/toolkit/xml-configuration/workflows/aspects/notificationaspect/index.md)
 
     Sends a notification email to one or several users.
+

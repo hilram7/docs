@@ -61,3 +61,4 @@ Step 5 – Open the **Properties** tab.
 
 - You can execute a program whenever a user successfully changes or resets their password. Enter the
   full path to the executable in the Execute the Program When Password is Changed text box.
+

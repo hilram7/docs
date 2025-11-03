@@ -24,3 +24,4 @@ To use this package, `MySql.Data.dll` needs to be
 **.NET & Mono** operating system) and copied to the `Runtime` folder.
 
 You can click on the **Archives** tab to find other versions.
+

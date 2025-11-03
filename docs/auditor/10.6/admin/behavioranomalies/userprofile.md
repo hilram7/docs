@@ -80,3 +80,4 @@ anomalies cannot be reviewed in bulk with the Mark all as reviewed action.
 
 Hide reviewed anomalies enables you to modify the anomalies list so that you can focus on active
 anomalies only. To see reviewed anomalies, click Show reviewed anomalies.
+

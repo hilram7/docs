@@ -132,3 +132,4 @@ The Roles tab displays two tables:
 - End Time - When the role eligibility expires
 - Privileged - Whether or not the role is privileged (the role has elevated permission or
   administrative access to EntraID resources)
+

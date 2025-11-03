@@ -61,3 +61,4 @@ With Netwrix Auditor, try the following to learn more about the locked account a
    - https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventid=4648
 
    Review the events. They might contain information about the process generating the failed logons for a particular user account.
+

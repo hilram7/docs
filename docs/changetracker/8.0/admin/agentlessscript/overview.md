@@ -10,3 +10,4 @@ sidebar_position: 70
 
 - [Predefined Script Variables](/docs/changetracker/8.0/admin/agentlessscript/predefinedscriptvariables/predefinedscriptvariables.md)
 - [Advanced Configuration](/docs/changetracker/8.0/admin/agentlessscript/advancedconfiguration/advancedconfiguration.md)
+

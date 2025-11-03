@@ -137,3 +137,4 @@ This section has the following filters:
 - Accounts – Filter the data by the type of account: Any, Existing, Nonexistent
 - Ticket Type – Filter the data by the type of ticket type: Any, AS, TGS
 - Search For – Filter the data by the selected item: Previous passwords usage only, Forged PAC only
+

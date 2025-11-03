@@ -30,3 +30,4 @@ minutes. For example:
 
 A user session times out after the number of minutes specified for inactivity, for example after 20
 minutes.
+

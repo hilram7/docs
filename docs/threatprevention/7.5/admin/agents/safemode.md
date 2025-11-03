@@ -103,3 +103,4 @@ drop-down menu to assign it to the alert. See the
 
 When the Agent Started in AD Monitor pending mode event alert is triggered, an email notification is
 sent to the recipient(s) in the selected message profile.
+

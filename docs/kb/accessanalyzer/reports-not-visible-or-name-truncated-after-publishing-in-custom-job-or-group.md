@@ -43,3 +43,4 @@ To correct the issue, rename any custom job or group currently using the word `J
 1. In the **Netwrix Access Analyzer** console, locate the custom job or group whose name ends with `Jobs` or `_Jobs`.
 2. Rename the job or group so the name does not include `Jobs` (for example, change `Accounting Jobs` to `Accounting Tasks`).
 3. Republish the report and verify the report appears and the name displays correctly in the reporting web interface.
+

@@ -200,3 +200,4 @@ This process is performed by the Jira Administrator.
 5. Start a Respider to create the Change Log and documents.
 
 **Next Step:** [ Jira Walkthrough Example](/docs/platgovnetsuite/ticketingintegrations/jiraintegration/jira_walkthrough_example.md)
+

@@ -105,3 +105,4 @@ You can change the following for a field on a search form:
 - [Display Type Categories](/docs/directorymanager/11.0/signin/applications/portal/categories/categories.md)
 - [Customize Search Results](/docs/directorymanager/11.0/signin/applications/portal/displaytype/searchresults.md)
 - [Customize Quick Search](/docs/directorymanager/11.0/signin/applications/portal/displaytype/quicksearch.md)
+

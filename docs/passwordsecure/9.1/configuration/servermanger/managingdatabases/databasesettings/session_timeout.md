@@ -11,3 +11,4 @@ is automatically terminated. Select the desired time period in the drop-down men
 setting by clicking on **"Save"**.
 
 ![session timeout](/images/passwordsecure/9.1/configuration/server_manager/managing_databases/database_settings/session-timeout-en.webp)
+

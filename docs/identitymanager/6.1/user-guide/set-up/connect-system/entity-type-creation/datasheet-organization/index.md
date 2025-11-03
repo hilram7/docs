@@ -77,3 +77,4 @@ The **Reload** button mostly enables your changes to appear in the menu items, w
 left menu links on the UI's home page.
 
 You can find the **Reload** button either on the green warning, or on the connector's dashboard.
+

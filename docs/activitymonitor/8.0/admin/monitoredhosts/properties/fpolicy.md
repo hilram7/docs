@@ -95,3 +95,4 @@ Each individual NetApp filer being monitored impacts local system resources and 
 These vary based on configuration settings chosen along with user activity. Average FPolicy and
 associated Logging service resource consumption may be around 2% CPU usage and 10 MB of RAM. Average
 disk space required per daily activity log file retained locally may be around 300 MB per filer.
+

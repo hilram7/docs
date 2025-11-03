@@ -168,3 +168,4 @@ can also use any custom attributes.
 | IsDeleted             | GroupTypeLocalSecurity_Builtin | GroupTypeGlobalDistribution | AccountDisabled        |
 | LastLogon             | PrimaryGroupToken              | PrimaryGroupId              | SubscribeByMail        |
 | AdPublicDelgateRights | UserPrincipleName              |                             |                        |
+

@@ -33,3 +33,4 @@ You can either back up and delete the existing Netwrix databases or just delete 
 1. Back up and delete the existing Netwrix databases with `SQL Management studio`, or just delete them depending on your preference.
 2. Create a new database for each audited system by re-applying the SQL report settings for your managed object in the Netwrix Auditor console:
    - **Netwrix Auditor console | Manage Objects | Your Manage object | Audited System (for example Active Directory) | Reports | Report settings tab on the right | Apply button**
+

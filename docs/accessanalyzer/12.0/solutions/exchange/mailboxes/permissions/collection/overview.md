@@ -22,3 +22,4 @@ The jobs in the 0. Collection job group are:
   Exchange mailboxes
 - [EX_SendAs Job](/docs/accessanalyzer/12.0/solutions/exchange/mailboxes/permissions/collection/ex_sendas.md) – Collects data from Active Directory to identify the Active
   Directory rights applied to a mailbox
+

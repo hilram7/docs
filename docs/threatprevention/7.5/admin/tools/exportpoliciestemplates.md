@@ -45,3 +45,4 @@ Follow the steps to export policies and templates:
 
 A file is created that contains policy, template, and collection information as per the configured
 settings. See the [Import Window](/docs/threatprevention/7.5/admin/tools/import.md) topic to import this file.
+

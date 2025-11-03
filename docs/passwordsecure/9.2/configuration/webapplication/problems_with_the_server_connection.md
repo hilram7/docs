@@ -25,3 +25,4 @@ CORS not configured
 
 Make sure that the CORS configuration has been implemented. Further information can be found in
 chapter Installation Web Application
+

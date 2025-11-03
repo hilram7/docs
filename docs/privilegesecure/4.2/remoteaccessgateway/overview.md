@@ -25,3 +25,4 @@ over HTTPS\443
 The gateway runs inside the corporate network and provides a bridge between the RAG Portal and the
 Netwrix Privilege Secure installation. The RAG Gateway communicates to the Netwrix Privilege Secure
 web service on port 6500 and the Proxy on 4489 and 4422 for RDP and SSH, respectively.
+

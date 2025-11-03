@@ -41,3 +41,4 @@ The jobs in 0.Collection Jobs Group are:
     Azure SQL solution
 
     :::
+

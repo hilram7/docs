@@ -16,3 +16,4 @@ Export data from a SQL Server database.
 | Fulfill                 | NONE                           |
 | Has Incremental Mode    | False                          |
 | Publisher               | Usercube                       |
+

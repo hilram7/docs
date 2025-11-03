@@ -14,3 +14,4 @@ Customizations API command:
 
 Try the [Customizations](https://documenter.getpostman.com/view/30883336/2s9YeABubu) API in Postman.
 The **Get Customizations** API is published to Postman, where you can try it out and test it.
+

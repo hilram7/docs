@@ -117,3 +117,4 @@ The **Trace level** option configures the level for the agent log it includes th
 - Warning
 - Error
 - Fatal
+

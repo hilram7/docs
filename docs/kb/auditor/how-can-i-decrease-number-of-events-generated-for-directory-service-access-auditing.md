@@ -43,3 +43,4 @@ Despite the fact that Netwrix Guides recommend enabling almost all categories wh
    - **All extended rights**
    - **Add GUID**
    - And all after "Add GUID" except "Reanimate tombstones"
+

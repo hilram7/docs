@@ -126,3 +126,4 @@ Privilege Secure reads the sudoers file, within the /etc directory, to check for
 privilege specifications.
 
 During JITA sessions and expirations Privilege Secure will modify the /etc/sudoers file.
+

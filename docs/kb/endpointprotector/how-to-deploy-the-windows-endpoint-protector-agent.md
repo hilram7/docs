@@ -138,3 +138,4 @@ A full list of properties that can be specified in the installer can be found in
 | **AUTHPASSWORD** | `P@ssw0rd123` | The password for the user that will authenticate to the proxy. |
 | **INSTALL_NOTES_EXT** | `1` | Installs the Lotus Notes Add-on. Default value: 1 (Install) Allowed values: 1 (Install), 0 (Don't install) |
 | **INSTALL_OUTLOOK_EXT** | `1` | Installs the Outlook Add-on. Default value: 1 (Install) Allowed values: 1 (Install), 0 (Don't install) |
+

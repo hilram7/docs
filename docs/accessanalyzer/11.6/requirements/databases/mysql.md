@@ -73,3 +73,4 @@ The following firewall ports are needed:
 **For SQL Data Collector**
 
 - Specified by Instances table (default is 3306)
+

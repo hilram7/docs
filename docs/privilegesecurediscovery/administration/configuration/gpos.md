@@ -35,3 +35,4 @@ accounts) and GPO, using Restricted Groups, is removing them again.
 - Example of how to use GPO to add the Privilege Secure service account (the "Protect Mode"
   account).
   [Add Privilege Secure Protect Mode Account to Windows Endpoints via GPO](/docs/privilegesecurediscovery/requirements/technicalpreparation/productmodeaccount.md)
+

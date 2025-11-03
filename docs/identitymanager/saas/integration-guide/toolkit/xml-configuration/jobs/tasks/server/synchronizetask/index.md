@@ -35,3 +35,4 @@ Collection must be done by the
 | Identifier optional                       | **Type** String **Description** Unique identifier of the task.                              |
 | Orphans default value: false              | **Type** Boolean **Description** Save orphans in a CSV output file                          |
 | Type default value: None                  | **Type** PrepareSynchronizationType **Description** Define type of prepare synchronization. |
+

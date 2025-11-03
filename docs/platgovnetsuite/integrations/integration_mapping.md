@@ -114,3 +114,4 @@ Here is an example of an expanded ERD showing **Integrations**, **Sources**, and
 Dependent Fields**. Note the **External Dependent Fields** is highlighted with a green header.
 
 ![int_mapping_ext_erd](/images/platgovnetsuite/integrations/int_mapping_ext_erd.webp)
+

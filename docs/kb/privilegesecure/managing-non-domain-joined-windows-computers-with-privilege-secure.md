@@ -90,3 +90,4 @@ After going through this process, you can use this computer's resource in Activi
 To configure a local Activity Token/Managed Account activity, when creating the activity remove the “%targetdomain%\” portion of the default Login Account Format. Make sure to use the **Windows** Platform as well.
 
 ![User-added image](images/ka04u000000ww6m_0EM4u0000052Zh4.png)
+

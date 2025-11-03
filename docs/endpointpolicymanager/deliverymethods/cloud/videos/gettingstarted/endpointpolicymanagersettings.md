@@ -109,3 +109,5 @@ The point is that sometimes you need to do the on-prem test lab first between yo
 domain controller and your domain-joined machine. Once you have that ready to go, you can then do
 tests with PolicyPak Cloud. Hope this video helps you out. Looking forward to getting you started
 with PolicyPak real soon. Take care.
+
+

@@ -120,3 +120,4 @@ minute, the data grids will display a single row in the table for those events.
 If a data grid displays File System events that contain sensitive data, a Sensitive Data tag will be
 displayed in the Description field. The Sensitive Data tag is the only tag that will be displayed in
 the Description field.
+

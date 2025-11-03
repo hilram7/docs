@@ -44,3 +44,4 @@ Password verification will be performed on the domain controller %DC_FQDN%.
 
   1. In the main Password Policy Server window, click **Compromised Password Checker**.
   2. In the **General** tab, review the **Domain Controller** field − make sure the (FQDN) of the domain controller the Netwrix Password Policy Enforcer Mailer service is installed on is correct.
+

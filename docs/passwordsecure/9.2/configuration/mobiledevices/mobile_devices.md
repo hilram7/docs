@@ -53,3 +53,4 @@ background, there is no need to worry about the actuality of the data.
 With the new and simplified tab system, the handling for the individual user has been made
 uncomplicated and clear. The affiliation of the passwords is visible at a glance. The exact handling
 of the tab system can be read in the chapter **Tabs**.
+

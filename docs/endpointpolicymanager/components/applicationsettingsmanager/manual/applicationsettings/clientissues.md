@@ -15,3 +15,6 @@ To get you working as quickly as possible, please send us the following items:
   ScreenShot Pilot (What must I send to Endpoint Policy Manager support in order to get the FASTEST
   support?) or Jing
   ([https://www.policypak.com/video/working-with-others-and-using-the-central-store.html](https://www.policypak.com/video/working-with-others-and-using-the-central-store.html)).
+
+
+

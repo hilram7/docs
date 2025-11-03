@@ -27,3 +27,4 @@ Click the Enable link to enable selected plugins.
 
 To modify workflow action implemented by a plugin, go to the **Configs** tab and click **Action
 Configs** on the left.
+

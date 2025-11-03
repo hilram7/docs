@@ -45,3 +45,4 @@ The details page has the following tabs:
 - [Access Policies Tab for Microsoft Entra ID](/docs/privilegesecure/4.1/admin/interface/resources/detailspages/entraid/accesspoliciesentraid.md)
 - [History Tab for Microsoft Entra ID](/docs/privilegesecure/4.1/admin/interface/resources/detailspages/entraid/historyentraid.md)
 - [Applications Tab for Microsoft Entra ID](/docs/privilegesecure/4.1/admin/interface/resources/detailspages/entraid/applicationsentraid.md)
+

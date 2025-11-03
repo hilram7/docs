@@ -335,3 +335,4 @@ When getting Identity Manager data in
 we see the following:
 
 ![Universe (Mixed Example)](/images/identitymanager/saas/integration-guide/toolkit/xml-configuration/configuration/scaffoldings/queries/universedatamodel/universe_mixedexample.webp)
+

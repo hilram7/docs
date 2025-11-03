@@ -27,3 +27,4 @@ The global settings configured under the Settings node are inherited down throug
 the job unless inheritance is broken in a job group’s Settings node, a job’s Properties window, or
 in the Report Configuration Wizard. See the [Reporting](/docs/accessanalyzer/12.0/admin/settings/reporting.md) topic for
 additional information.
+

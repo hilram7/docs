@@ -56,3 +56,4 @@ This example will search for the word “tennis”, but will exclude any documen
 When using the minus operator, there must be a space preceding the minus sign (unless it is at the start of a new line). In the below example the minus sign is ignored, because it is not preceded by a space.
 
 `Wimbledon-fortnight`
+

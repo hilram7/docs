@@ -29,3 +29,4 @@ Authentication activity by a honey account will generate an INTERCEPT: Honey Acc
 the
 [INTERCEPT Offenses in QRadar](/docs/threatprevention/7.4/siemdashboard/qradar/offenses.md)
 topic for additional information.
+

@@ -1425,3 +1425,4 @@ initialization view to create one.
 
 All other data such as users, domains or reports will not be deleted
 from the database.
+

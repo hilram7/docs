@@ -77,3 +77,4 @@ This feature is not available for groups in a Microsoft Entra ID based identity 
     2. Enter a search string to locate the required object, or click **Advanced** to use the
        [Find Dialog Box](/docs/directorymanager/11.1/portal/generalfeatures/find.md) for performing a search.
 6. Save the changes.
+

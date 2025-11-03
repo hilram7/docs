@@ -42,3 +42,4 @@ The server name is not correct in the product configuration anymore as well as i
 3. Click on **Configure** and change the **SQL Server Instance** name to match the new **SQL Server name**.
 4. Verify the **Report Server URLs** are still accurate and change them also if necessary and then hit **OK**.
 5. Modify the **SQL Configuration** by following the following technet article: http://msdn.microsoft.com/en-us/library/ms143799.aspx
+

@@ -96,3 +96,4 @@ selection. Click **Finish** to rollback the object.
 **Step 6 –** The Rollback window displays the action status. Click **Close** to exit.
 
 The ADUC object has been successfully rolled back to a previous state.
+

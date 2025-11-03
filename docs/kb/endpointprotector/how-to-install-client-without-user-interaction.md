@@ -35,3 +35,4 @@ msiexec /i "C:\Users\eppuser1\Desktop\EPP Client\EPPClientSetup.6.2.4.2000_x86_6
 
 - ` /qn` performs a silent installation.
 - ` /norestart` prevents a computer restart after installation is complete.
+

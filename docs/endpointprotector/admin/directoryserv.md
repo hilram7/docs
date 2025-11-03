@@ -276,3 +276,4 @@ Microsoft Entra ID. This switch has two states:
 By utilizing this feature, Endpoint Protector ensures seamless synchronization of user names,
 preventing duplicate usernames. Enable or disable the "Map on-premises users" feature based on your
 speciﬁc hybrid environment setup and requirements.
+

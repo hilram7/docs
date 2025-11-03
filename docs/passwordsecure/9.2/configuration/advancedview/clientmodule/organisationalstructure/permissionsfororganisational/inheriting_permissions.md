@@ -36,3 +36,4 @@ selected, "overwrite" is considered the overriding function.
 
 **CAUTION:** Both mechanisms are not protected by user rights. The **authorize** right for the
 organisational structure is required to activate the inheritance or overwrite functions.
+

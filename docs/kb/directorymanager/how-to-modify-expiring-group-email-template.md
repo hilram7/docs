@@ -45,3 +45,4 @@ By default, the Group Lifecycle notification email in Netwrix Directory Manager 
 5. If you are satisfied with the output, return to the **Source Code** tab and click **Save**. Confirm your changes by clicking **Save** again.  
    ![Save button in Source Code tab in Directory Manager](images/ka0Qk000000D8m9_0EMQk00000BpCs2.png)  
    ![Confirmation of saved changes in Directory Manager](images/ka0Qk000000D8m9_0EMQk00000BpGdt.png)
+

@@ -221,3 +221,4 @@ Configure the agent's settings by proceeding as follows:
 
 To continue,
 [configure the local server to install IIS via Server Manager](/docs/identitymanager/6.1/user-guide/deploy/production-agent-installation/iis-installation/index.md).
+

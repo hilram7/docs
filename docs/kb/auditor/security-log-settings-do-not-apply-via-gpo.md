@@ -42,3 +42,4 @@ The values inside this key, like `MaxSize`, are legacy and usually set by ADMX t
 
 The easiest way to find the right policy is using the `gpresult` tool.  
 To fix the issue, simply set the policy back to `Not configured` and execute `gpupdate`.
+

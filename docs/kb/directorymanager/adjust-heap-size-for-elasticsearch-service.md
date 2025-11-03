@@ -55,3 +55,4 @@ It is recommended to set both values to the same amount to maintain performance 
 7. Restart the **GroupIDElasticSearchService11** service for the changes to take effect.
 
 > **NOTE:** To restart the service, open **Services** (`services.msc`), locate **GroupIDElasticSearchService11**, right-click it, and select **Restart**.
+

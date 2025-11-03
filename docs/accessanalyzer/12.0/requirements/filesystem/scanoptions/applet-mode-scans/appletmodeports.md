@@ -27,3 +27,4 @@ Data Collector Wizard.
 Configure target hosts to respond to ping requests.
 
 :::
+

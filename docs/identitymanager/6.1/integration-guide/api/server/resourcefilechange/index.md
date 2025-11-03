@@ -33,3 +33,4 @@ Returns all the resource file changes according to the provided job instance id.
 | Code | Description               | Reference |
 | ---- | ------------------------- | --------- |
 | 200  | The resource file change. |           |
+

@@ -159,3 +159,4 @@ Follow the steps to delete the Netwrix Auditor Event Log Compression Service.
 **Step 1 –** Navigate to **Start > Control Panel > Programs and Features**.
 
 **Step 2 –** Select **Netwrix Auditor Event Log Compression** > **Service** and click **Uninstall**.
+

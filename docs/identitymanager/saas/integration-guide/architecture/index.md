@@ -72,3 +72,4 @@ topic for additional information.
 
 Multiple agents can be installed. This allows Identity Manager to operate in a context where the
 information system is partitioned over several networks.
+

@@ -37,3 +37,4 @@ following preconfigured report:
 | Report     | Description                                            | Default Tags | Report Element                                                                                                                                                                        |
 | ---------- | ------------------------------------------------------ | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | MFA Status | This report identifies the MFA status of each AWS user | None         | This report is comprised of the following elements: <ul><li>Pie Chart – Displays MFA status</li><li>Table – Shows status by account</li><li>Table – Provides details on MFA</li></ul> |
+

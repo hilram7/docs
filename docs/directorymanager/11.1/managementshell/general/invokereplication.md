@@ -48,3 +48,4 @@ The following command will start restoration of replication for identity store w
 ```
 Invoke-Replication -IdentitystoreId 1 -RestoreReplication
 ```
+

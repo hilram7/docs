@@ -54,3 +54,4 @@ sidebar_position: 20
 #### Browser extension
 
 - Web applications with URLs defined as regex are now recognized correctly.
+

@@ -113,3 +113,4 @@ its children.
 **Step 10 –** Click **Save** when the permissions are set as desired.
 
 Protected objects have now been added to the Policies interface.
+

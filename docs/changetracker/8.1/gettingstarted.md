@@ -51,3 +51,4 @@ A One-Time Passcode (OTP) may be required when attempting certain actions within
 the first time during a session. Without 2FA or an authenticator app, this OTP will be written to
 the application log file (C:\inetpub\wwwroot\Change Tracker Generation 7 (NetCore)
 Hub\logs\hubservice-log.txt) which is only accessible by local admins.
+

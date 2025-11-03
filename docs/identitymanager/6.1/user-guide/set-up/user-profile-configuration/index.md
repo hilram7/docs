@@ -121,3 +121,4 @@ Before you can see the profile in action, it needs to be assigned to a user.
 
 Once user profiles are configured, integrators can start
 [configuring onboarding workflows](/docs/identitymanager/6.1/user-guide/set-up/connect-system/index.md).
+

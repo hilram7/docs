@@ -44,3 +44,4 @@ You can also update the documentation for a specific customization record. Simpl
 Now** on the customization record and your documentation is updated in real time.
 
 ![Re-Spider Now](/images/platgovnetsuite/respider_now.webp)
+

@@ -132,3 +132,4 @@ NOTE: You have been logged out due to inactivity.
 
 The browser will then show the **Netwrix Password Secure– HTML WebViewer / Login** again and also
 the reason for being logged out. It is possible to log in again.
+

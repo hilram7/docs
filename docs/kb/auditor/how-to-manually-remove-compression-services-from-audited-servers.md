@@ -98,3 +98,4 @@ If you'd like to remove Compression Service from a single server, replace `@"*PA
 The script calls upon the functions in the msi to upgrade the Compression Service to the version of .msi installer and then to remove said Compression Service, since it only can execute remove command on a Compression Service of the same version.
 
 > NOTE: If the script reads only the first symbol of the serverlist.txt file, you will need to use Notepad++ or any similar tool to change the file encoding to ANSI.
+

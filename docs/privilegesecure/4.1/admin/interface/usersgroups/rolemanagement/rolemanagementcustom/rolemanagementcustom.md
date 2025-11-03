@@ -212,3 +212,4 @@ The Role Users table has the following columns:
 - User Principal Name — Displays the UPN value for the account
 - Email — Displays the associated email address, if available
 - Last Login — Date timestamp for the last time the user logged into the application
+

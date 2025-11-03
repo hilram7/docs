@@ -31,3 +31,4 @@ This is normal behavior and Netwrix Auditor is working as expected. The **WHEN**
 For example, if you want the **WHEN** to equal **YESTERDAY**, then you would create your subscription with a **Schedule** of **Daily**.
 
 For additional information on how to create subscriptions, refer to the following article: Administration – Subscriptions.
+

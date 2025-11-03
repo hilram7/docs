@@ -309,3 +309,4 @@ More information can be found below:
 - [Architectue Overview](/docs/privilegesecurediscovery/requirements/architectureoverview.md)
 - [Port, Firewall, and Datacenter Requirements](/docs/privilegesecurediscovery/requirements/portsandfirewalls.md)
 - [High Availability (HA) and Disaster Recovery (DR) Options](/docs/privilegesecurediscovery/requirements/haanddr.md)
+

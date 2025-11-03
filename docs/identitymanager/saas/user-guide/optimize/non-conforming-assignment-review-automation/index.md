@@ -110,3 +110,4 @@ according to the rule's settings.
 ![New Automation Rule](/images/identitymanager/saas/user-guide/optimize/non-conforming-assignment-review-automation/reviewautomation_rulemessage_v522.webp)
 
 Any role affected by an automation rule shows a specific message on the **Role Review** page.
+

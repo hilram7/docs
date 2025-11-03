@@ -24,3 +24,4 @@ Integrations with NetSuite include:
 
 The [Integration Mapping](/docs/platgovnetsuite/integrations/integration_mapping.md) tool helps you map customizations between your
 External Systems and NetSuite.
+

@@ -24,3 +24,4 @@ topic for additional information.
 
 The selection is displayed in the appropriate box of the AD Objects filter, the LDAP Query filter,
 or the LDAP Result filter.
+

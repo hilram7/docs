@@ -47,3 +47,4 @@ Perform the following steps to fix the error:
 ### Related Article
 
 - Data Source Configuration — Permissions for Active Directory Auditing — v10.6
+

@@ -173,3 +173,4 @@ Follow the steps to create a Dynasty using the Managerial template.
 
 7. On the [Summary Page](/docs/directorymanager/11.1/portal/user/create/AD/summary.md), review the settings and
    then click Finish to complete the wizard.
+

@@ -48,3 +48,4 @@ One data to display in a tile.
 | LineDisplayOrderIndicator required | **Type** Int32 **Description** Defines the display position of the data in the row.                                                                                                                                                                                         |
 | LineNumber required                | **Type** Int32 **Description** Defines the number of the line in which the data is displayed. When the tileDesignElement of the tile is "picture-text", four lines are customizable, and 2 lines are hard coded: - 5: id of the resource to navigate on click - 6: photoTag |
 | OptimizedBinding optional          | **Type** Int64 **Description** Optimized Binding allows DisplayTables to be faster displayed. If it is filled in, it takes priority over the binding located in the TileItem.                                                                                               |
+

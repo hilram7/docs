@@ -36,3 +36,4 @@ SharePoint Activity Monitor into a TSV log file:
 | SourceName     | Name of the source                                                                                             |
 | EventData      | Raw event data                                                                                                 |
 | Param          | Parameters for the event                                                                                       |
+

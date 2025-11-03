@@ -118,3 +118,4 @@ Use the Values window to add or remove values to or from the search. The Values 
 - To remove a term from the search, select a term in the lower text box and click **Remove**
 - Click **Clear** to clear all terms from the lower box
 - Click **Import CSV** to open a file explorer and select a CSV file to import
+

@@ -115,3 +115,4 @@ The email's subject and body can contain various macros. Use these macros to per
 
 Opens the Notification settings. See the [Configuration Console](/docs/passwordpolicyenforcer/11.0/admin/configconsole.md) topic for
 additional details.
+

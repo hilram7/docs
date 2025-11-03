@@ -32,3 +32,4 @@ To assign **db_owner** permissions to a Netwrix Auditor account:
 6. In the **Users mapped to this login** section, select all databases that the Auditor account must access.
 7. In the **Database role membership for:** section, select **db_owner**.
 8. Click **OK** to save the changes.
+

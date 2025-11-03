@@ -40,3 +40,4 @@ organizationalPerson" ... />
 | PasswordResetSetting optional            | String  | Identifier of the corresponding password reset setting.                                                                                                          |
 | UsePermissiveModify default value: false | Boolean | True to use [LDAP's permissive modify control](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/ldap/ldap-server-permissive-modify-oid).      |
 | UseTreeDelete default value: false       | Boolean | True to use the control option that enables deleting all the sub-trees within a directory via a single deletion request.                                         |
+

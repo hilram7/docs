@@ -108,3 +108,4 @@ identity store.
 
 - [Group Properties](/docs/directorymanager/11.0/welcome/group/properties/overview.md)
 - [Group properties - Smart Group/Query Designer tab](/docs/directorymanager/11.0/welcome/group/properties/smartgroup.md)
+

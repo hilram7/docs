@@ -42,3 +42,4 @@ remove the host from the master host table. On the Confirm dialog box, select th
 
 When the operation is complete, the list is no longer visible under the Host Management node in the
 Navigation pane and it cannot be used to execute jobs against.
+

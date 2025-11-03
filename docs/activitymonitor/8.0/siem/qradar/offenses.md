@@ -18,3 +18,4 @@ Activity Monitor App.
 | ---------------------------------------- | ---------------------------------------------------------------------------- |
 | INTERCEPT: File System Attacks (By User) | Significant number of file changes made by an account in a short time period |
 | Stealthbits: Ransomware Detected         | Threshold-based Ransomware Rule                                              |
+

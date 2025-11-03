@@ -21,3 +21,4 @@ portal.
 **See Also**
 
 - [Create a Microsoft Entra ID User](/docs/directorymanager/11.0/welcome/user/create/azure/user.md)
+

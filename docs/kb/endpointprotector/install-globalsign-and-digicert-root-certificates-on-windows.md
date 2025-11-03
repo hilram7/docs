@@ -53,3 +53,4 @@ Installing the correct root certificates ensures that Windows recognizes the dig
   https://support.globalsign.com/ca-certificates/root-certificates/globalsign-root-certificates
 - DigiCert Root Certificates ⸱ DigiCert ↗️  
   https://www.digicert.com/kb/digicert-root-certificates.htm
+

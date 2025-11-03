@@ -34,3 +34,4 @@ Specify how the operations will be executed:
 
 - Fall back to the local Access Analyzer server if an applet cannot start – Check to enable this
   option
+

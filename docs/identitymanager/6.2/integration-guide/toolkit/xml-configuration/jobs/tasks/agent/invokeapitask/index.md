@@ -27,3 +27,4 @@ Tool to launch any Identity Manager API.
 | OpenIdClient required   | **Type** String **Description** Connection client for the task.                                                                                                                           |
 | Body optional           | **Type** String **Description** Path of the SQL file                                                                                                                                      |
 | Identifier optional     | **Type** String **Description** Unique identifier of the task.                                                                                                                            |
+

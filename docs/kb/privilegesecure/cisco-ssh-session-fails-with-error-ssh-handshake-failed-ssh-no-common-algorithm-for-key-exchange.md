@@ -88,3 +88,4 @@ C:\ProgramData\Stealthbits\PAM\ProxyService
 ```
 
 5. Save `sbpam_ssh.json` and close the editor. Provision the SSH session again in Netwrix Privilege Secure and verify that the SSH session can successfully log in to the Cisco device.
+

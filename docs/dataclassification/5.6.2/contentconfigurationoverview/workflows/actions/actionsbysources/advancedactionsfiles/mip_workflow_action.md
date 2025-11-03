@@ -46,3 +46,4 @@ for more information.
     | MIP Configuration                             | Select configuration in the dropdown list.                                                                      |
     | Label ID **NOTE:** For adding MIP label only. | Provide a label ID from existing MIP policy of your organization.                                               |
     | Justification                                 | If your MIP labels policy requires justification when removing or downgrading a label, provide it in the field. |
+

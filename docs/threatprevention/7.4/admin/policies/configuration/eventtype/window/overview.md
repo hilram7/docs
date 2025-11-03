@@ -70,3 +70,4 @@ Select a server/Agent from the drop-down menu and click **Connect**.
 
 The selection(s) are displayed in the appropriate box of the filter tab from where you opened the
 Select… window.
+

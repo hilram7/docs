@@ -195,3 +195,4 @@ The following online statuses are available:
 | WaitingForContact | Agent has not yet contacted the server |
 | Online | Agent is online and communicating with the server |
 | Offline | Agent is offline or not responding |
+

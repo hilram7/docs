@@ -28,3 +28,4 @@ Exclusion Filter window closes.
 **Step 6 –** Click **Save** on the Sensitive Data view to save changes.
 
 The false positive exclusion filter is now applied to Sensitive Data reports.
+

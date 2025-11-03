@@ -12,3 +12,4 @@ The Results page is where Active Directory properties to be gathered are selecte
 
 Properties can be selected individually or by using the **Select All** or **Clear All** buttons. All
 selected properties are gathered.
+

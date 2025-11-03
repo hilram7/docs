@@ -49,3 +49,4 @@ The ReportServer database is corrupted and has to be rebuilt.
 3. Once the databases are deleted, regenerate the `ReportServer` database. Refer to the following article for additional information: [Deploying the Report Server Database](/docs/kb/auditor/deploying-the-report-server-database.md)
 4. After you've configured the `ReportServer` database, grant the roles to the SSRS service account the roles required. Refer to the following article for additional information: [Configure SSRS Account](https://docs.netwrix.com/docs/auditor/10_8/requirements/sqlserverreportingservice#configure-ssrs-account)
 5. Restart **Netwrix Auditor Archive Service** and **Netwrix Auditor Management Service** via **Services**.
+

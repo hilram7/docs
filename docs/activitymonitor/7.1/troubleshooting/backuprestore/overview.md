@@ -26,3 +26,4 @@ The sections in this document are:
 - [Agent Restoration](/docs/activitymonitor/7.1/troubleshooting/backuprestore/agentrestore.md)
 - [Console Backup](/docs/activitymonitor/7.1/troubleshooting/backuprestore/consolebackup.md)
 - [Console Restoration](/docs/activitymonitor/7.1/troubleshooting/backuprestore/consolerestore.md)
+

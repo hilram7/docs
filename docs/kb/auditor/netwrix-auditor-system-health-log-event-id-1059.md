@@ -32,3 +32,4 @@ You have manually launched data collection while the initial data collection has
 ## Resolution
 
 To resolve this issue, in **Netwrix Auditor Administrator Console** navigate to **Managed Objects --> your_Managed_Object_name** and click **Run** to restart data collection.
+

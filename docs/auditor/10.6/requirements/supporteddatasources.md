@@ -560,3 +560,4 @@ Online.
 
 \*\*\* — Auditor will not collect data on _Failed Logon_ event for VMware in case of incorrect logon
 attempt through VMware vCenter Single Sign-On; also, it will not collect logons using SSH.
+

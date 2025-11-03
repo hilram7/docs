@@ -108,3 +108,4 @@ Consider a scenario where the Managed By Life Cycle job is scheduled to run once
 Mondays. If an object is to be added as a user’s temporary additional manager for three days -
 Wednesday till Friday, it will not be added. This happens because the Managed By Life Cycle job did
 not run on the particular days for temporary manager update.
+

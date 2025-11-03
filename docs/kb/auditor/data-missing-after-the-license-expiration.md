@@ -35,3 +35,4 @@ Depending on the size of your environment and the amount of Activity Records gen
 ## Related articles
 
 - https://docs.netwrix.com/docs/auditor/10_8 Event Log Size and Retention Settings ⸱ v10.6)
+

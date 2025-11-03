@@ -169,3 +169,4 @@ The options in the Button Bar are:
 | ![delete](/images/accessanalyzer/11.6/admin/navigate/delete.webp)                      | Red X                       | Delete the selected query                           |
 
 Select a button for the desired action.
+

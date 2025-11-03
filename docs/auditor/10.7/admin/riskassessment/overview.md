@@ -93,3 +93,4 @@ To verify the necessary settings of the existing plan
 7. Save the settings and close the dialog.
 
 ![edit_data_source_sit](/images/auditor/10.7/admin/riskassessment/edit_data_source_sit.webp)
+

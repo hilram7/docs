@@ -82,3 +82,4 @@ Interval, specify an interval (in seconds) and click the check mark.
 By default, the interval is set to 5 seconds. You can specify a maximum interval of 900 seconds.
 
 Step 7 – Click **Save**.
+

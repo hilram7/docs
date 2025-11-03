@@ -188,3 +188,4 @@ drop-down menu. Click **Close**.
 **Step 6 –** Click **OK** to save the settings.
 
 The new mapping file can now be selected from the drop-down menu for the respective alert type.
+

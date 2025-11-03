@@ -32,3 +32,4 @@ process runs in the background. You receive an email notification when it is fin
 time depends on the size of your org.
 
 **Next Step:** [Using the Dashboard](/docs/platgovsalesforceflashlight/gettingstarted/dashboard.md)
+

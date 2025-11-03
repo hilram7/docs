@@ -40,3 +40,4 @@ role.
 
     **NOTE:** Netwrix recommends that you do not change the recovery model to avoid log files
     growth.
+

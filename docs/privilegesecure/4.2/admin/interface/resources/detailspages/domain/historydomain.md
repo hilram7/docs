@@ -38,3 +38,4 @@ The table has the following columns:
 - Event Message — Description of the event
 
 The table columns can be resized and sorted in ascending or descending order.
+

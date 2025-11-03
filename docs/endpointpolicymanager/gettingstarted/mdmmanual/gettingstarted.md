@@ -77,3 +77,4 @@ following video:
 
 Then, you can learn more about how to use Endpoint Policy Manager with your own MDM tool on this
 page: Getting Started with MDM > [Video Learning Center](/docs/endpointpolicymanager/deliverymethods/mdm/videos/videolearningcenter.md).
+

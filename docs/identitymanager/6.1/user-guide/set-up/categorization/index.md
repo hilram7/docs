@@ -160,3 +160,4 @@ Once accounts are categorized, integrators can start
 
 Categorization also enables the
 [review of orphaned and unused accounts](/docs/identitymanager/6.1/user-guide/administrate/orphan-unused-account-review/index.md).
+

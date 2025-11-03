@@ -16,3 +16,5 @@ happens when a rule matches and the expected result.
 | Not used / Disabled  | No rules match         | Show custom menu item text configured for explicit rules (grayed out).                 |
 | Enabled              | Explicit Rule Matches  | Show custom menu item text configured for explicit rules.                              |
 | Enabled              | No rules Match         | Show custom text configured for Admin Approval (or default "Run with PolicyPak" text). |
+
+

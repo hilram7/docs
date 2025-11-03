@@ -35,3 +35,4 @@ The **Deny Access** right typically prevents iOS devices from charging. To addre
 3. Select **Deny Access but Allow Charging** for the desired iOS devices.
 
 > **NOTE:** This right prevents native sync, a common process for all iOS devices. Setting **Deny Access but Allow Charging** for any iPhone, iPad, or iPod can affect other iOS devices in Netwrix Endpoint Protector. Applying this right to a device type (for example, iPhones) may also apply it to other device types (such as iPads or iPods), regardless of the rights set on those devices. For granular control (Groups, Computers, Devices, etc.), ensure this right is set for a specific device and not for an entire device type.
+

@@ -87,3 +87,4 @@ While it is always recommended to use the `AZ_RegisterAzureAppAuth` instant job 
 5. Schedule the Entra ID Inventory job group to run every day, or at least before the Entra ID job group.
 
 > **NOTE:** This job is also required in order to run Exchange Online & SharePoint Online modules.
+

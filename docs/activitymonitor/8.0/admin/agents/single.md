@@ -70,3 +70,4 @@ errors, the Activity Monitor stops the installation and lists the errors in the 
 When the activity agent installation is complete, the status changes to **Installed** and the
 activity agent version populates. The next step is to add hosts to be monitored. See the
 [Monitored Hosts Tab](/docs/activitymonitor/8.0/admin/monitoredhosts/overview.md) topic for additional information.
+

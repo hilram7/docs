@@ -120,3 +120,4 @@ Available Credentials table.
 **Step 6 –** Click **Add** to add the credential(s) to the policy override.
 
 The new credentials are added to the applicable Credential Policy Override.
+

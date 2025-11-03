@@ -85,3 +85,4 @@ Help and Descriptions enable users to more efficiently use the system. The resul
 customizations missing descriptions.
 
 To fix, open the customization, click **Update Description and Help Text**.
+

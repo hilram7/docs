@@ -45,3 +45,4 @@ Click **Add** to add the channel to the Teams group. The channel get listed in t
 
 Select a channel from the **Channels** list and click **Remove** to remove this channel from the
 membership of Teams group.
+

@@ -39,3 +39,4 @@ they try to use the option, the following message is displayed:.
 
 If the user's account is a master account, password of its child accounts also cannot be changed in
 Directory Manager.
+

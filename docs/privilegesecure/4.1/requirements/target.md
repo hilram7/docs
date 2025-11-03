@@ -63,3 +63,4 @@ The following permissions are required for the service accounts:
             - User.Read
 
     - App Registration added to the User Administrators directory role
+

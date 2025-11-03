@@ -40,3 +40,4 @@ Yes, you can reset MFA in Netwrix Recovery for Active Directory (NRAD) by follow
 6. After resetting MFA, users can log in to the console without an authenticator code. To re-enable MFA, refer to the steps in the Configure MFA guide.
 
 
+

@@ -69,3 +69,4 @@ Once MFA is configured for this account, the Netwrix Threat Manager Reporting Mo
 See the
 [Set Up the Threat Manager Reporting Module](/docs/threatprevention/7.4/gettingstarted.md#set-up-the-threat-manager-reporting-module)
 topic for the next steps.
+

@@ -129,3 +129,4 @@ a pop-up:
 However, if the autofill function is only activated for one password but multiple passwords are
 possible, the password with the autofill function is entered. If the user clicks on a record in the
 pop-up, this record is entered as normal (as was the case previously).
+

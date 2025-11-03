@@ -134,3 +134,4 @@ foreach ($file in $txtFiles[1..($txtFiles.Count - 1)]) {
 ```
 
 > **NOTE:** In a primary–secondary server environment, the above process must be implemented first on the primary server and then on the secondary servers.
+

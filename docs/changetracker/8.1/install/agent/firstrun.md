@@ -11,3 +11,4 @@ is available from the hosting platform e.g. **http://localhost:8096** and requir
 username 'admin' and password 'password'.
 
 ![AgentFirstRun](/images/changetracker/8.1/install/agent/agentfirstrun.webp)
+

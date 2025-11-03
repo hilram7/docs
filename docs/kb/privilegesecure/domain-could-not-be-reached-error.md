@@ -52,3 +52,4 @@ If the **Use TLS** option is disabled, the AD sync completes with no errors.
 ## Related articles
 
 - Requirements − Ports Requirements · v4.1: https://docs.netwrix.com/docs/privilegesecure/4_2
+

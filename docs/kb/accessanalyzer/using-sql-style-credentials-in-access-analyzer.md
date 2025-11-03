@@ -41,3 +41,4 @@ Be sure to set the connection profile directly on the job.
 **Module:** Credentials/Access; Netwrix Access Analyzer - Connection Profile/Credentials
 
 **Salesforce Article ID:** 000001102
+

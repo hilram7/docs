@@ -53,3 +53,4 @@ While it is essential that remote access to the Netwrix Privilege Secure (NPS) s
 
 8. Set a new password in the Password field and hit **Save** to change the Postgres password. If your Test connection from step 7 was successful, you should receive a "Configuration saved successfully" response, which indicates a successful password change. This change will propagate to any NPS service that needs to use the database password.  
    ![image.png](images/ka04u00000117Sx_0EM4u000008LxP8.png)
+

@@ -32,3 +32,4 @@ This table lists workflow actions available for the certain content source types
 | SQL and other databases | [Email Alert](/docs/dataclassification/5.7/contentconfigurationoverview/workflows/actions/availableactions/emailalert/emailalert.md) [Migrate Document](/docs/dataclassification/5.7/contentconfigurationoverview/workflows/actions/availableactions/migratedocument/migratedocument.md) [Apply Additional Classification](/docs/dataclassification/5.7/contentconfigurationoverview/workflows/actions/availableactions/classification.md)                                                                                                                                                                             |
 
 \* — these actions can be only configured using the Advanced UI dialog window.
+

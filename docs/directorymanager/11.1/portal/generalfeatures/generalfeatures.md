@@ -51,3 +51,4 @@ The portal provides toolbars with diverse options that users can use on the obje
 include editing properties, managing membership, viewing history, and more.
 
 See the [Toolbar](/docs/directorymanager/11.1/portal/generalfeatures/toolbar.md) topic for additional information.
+

@@ -31,3 +31,4 @@ The SIEM Service page has the following features:
     - Account — The account associated with the event, if applicable.
     - Activity — The activity associated with the event, if applicable.
     - Username — The user name associated with the event, if applicable.
+

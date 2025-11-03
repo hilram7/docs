@@ -52,3 +52,4 @@ The right of the page shows details of the selected service and has the followin
 - Cancel button (only visible when editing) – Discards changes
 
 See the [Log Files Page](/docs/privilegesecure/4.2/admin/AuditReporting/logfiles/logfiles.md) topic for additional information.
+

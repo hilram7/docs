@@ -143,3 +143,4 @@ Choose columns using the following options:
   **Columns shown**
 - To remove a column, select it in **Columns shown** and click **Remove** to place it in **Columns
   available**
+

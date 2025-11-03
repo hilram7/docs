@@ -287,3 +287,4 @@ The logs sent to AppInsights are configured through the
 | SecondaryColor optional        | **Type** String **Description** HEX code of the color for the background of the authentication screen.                    |
 
 [See more details on application display settings](/docs/identitymanager/6.1/integration-guide/toolkit/xml-configuration/metadata/settings/appdisplaysetting/index.md).
+

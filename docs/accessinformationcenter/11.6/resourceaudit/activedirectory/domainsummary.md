@@ -19,3 +19,4 @@ This report is comprised of the following columns:
 - Groups – Count of groups in the domain
 - Computers – Count of computers in the domain
 - Last Scanned – Date and timestamp of the last Enterprise Auditor scan
+

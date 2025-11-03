@@ -42,3 +42,4 @@ The required credentials for Oracle are:
     - Active Directory – Use an Active Directory account for target host authentication
 
 Selecting default from the list is the same as leaving the field blank.
+

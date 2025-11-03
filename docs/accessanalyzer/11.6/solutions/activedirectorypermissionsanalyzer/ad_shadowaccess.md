@@ -181,3 +181,4 @@ related elements.
     - If the `testgroupuser10` user object becomes compromised, an attacker can scrape the password
       hash on a user object’s local session on `TESTS` that also is a member of `Domain Admins` and
       become a Domain Admin itself
+

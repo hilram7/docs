@@ -64,3 +64,4 @@ If you open the home page, you see the **Scanner Status** is **In Progress**.
 ![Scanner status on home page](/images/platgovsalesforce/installing_strongpoint/getting_started_wizard11.webp)
 
 **Next Step:** [Run the Scanner](/docs/platgovsalesforce/installingstrongpoint/running_scanner.md)
+

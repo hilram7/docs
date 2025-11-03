@@ -52,3 +52,4 @@ The "JITA Session" button will not be available on Linux systems where Directory
 Privilege Secure. This is intentional.
 
 ![Screenshot_2022-12-08_at_1.14.L16_PM.webp](/images/privilegesecure/4.2/discovery/admin/systemmanagement/4623118195479_screenshot_2022-12-08_at_1.14.16_pm.webp)
+

@@ -17,3 +17,4 @@ used are configured. The password for logging in to the Server Manager can also 
 
 This function determines the system hash, and copies it to the clipboard. This hash is used for the
 offline license.
+

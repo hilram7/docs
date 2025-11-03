@@ -93,3 +93,4 @@ Contains all the display table columns.
 | SearchOperator default value: 0              | **Type** QueryComparisonOperator **Description** Defines the search operator (Equal, NotEqual, Contain, StartWith�).                                                                                    |
 | SortBinding optional                         | **Type** Int64 **Description** Represents the sort binding path to a scalar property.                                                                                                                   |
 | Tile optional                                | **Type** Int64 **Description** Identifier of the tile.                                                                                                                                                  |
+

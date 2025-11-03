@@ -30,3 +30,4 @@ its end date equal to the records' latest end date.
 The start and end dates of any automatic assignment are based on the dates from the
 [context rule](/docs/identitymanager/6.1/integration-guide/toolkit/xml-configuration/provisioning/contextrule/index.md)
 defined for the identities.
+

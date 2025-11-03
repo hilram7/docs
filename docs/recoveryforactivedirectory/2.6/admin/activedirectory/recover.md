@@ -143,3 +143,4 @@ to finish the wizard.
 **Step 13 –** A completed message is displayed when the restore is successful. Click **OK**.d
 
 The deleted object has now been restored.
+

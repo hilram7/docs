@@ -39,3 +39,4 @@ SP_ProbableOwner Job produces the following pre-configured report:
 | Report                        | Description                                                                                         | Default Tags | Report Elements                                                                                        |
 | ----------------------------- | --------------------------------------------------------------------------------------------------- | ------------ | ------------------------------------------------------------------------------------------------------ |
 | SharePoint Probable Ownership | This report identifies probable owners based on management structure, file ownership, and activity. | None         | This report is comprised of one element: <ul><li>Table – Provides details on probable owners</li></ul> |
+

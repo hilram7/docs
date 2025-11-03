@@ -53,3 +53,4 @@ Two distinct modes exist to execute tasks inside jobs:
 Both modes can be performed considering potential filters if said tasks involve a specific selection
 of data instead of whole inputs. The difference between these modes lies in the consideration of all
 data for the complete mode, versus only the last changes for the incremental mode.
+

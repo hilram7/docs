@@ -64,3 +64,4 @@ preventing the retrieved groups' information from appearing on the console.
 ```
 Get-Group -SmartFilter "(SecurityType = Private)" | Set-Group -AdditionalOwners "CN=JohnSmith,DC=HR,DC=Imanami,DC=US" | OUT-NULL
 ```
+

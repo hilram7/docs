@@ -70,3 +70,4 @@ The product provides the following filtering options to reduce File Explorer pre
 
 Both filtering options prioritize the accuracy of audit data over noise reduction. In other words,
 they will report a noise event rather than suppress a genuine user action.
+

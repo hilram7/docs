@@ -85,3 +85,4 @@ TaskPath                                       TaskName                         
 3. Observe XMLs for scheduled tasks in `C:\Windows\Tasks` or `C:\Windows\System32\Tasks` and confirm priority is now set to `5` (Normal).
 
 After successfully running the script all Netwrix Access Analyzer Scheduled Tasks will now run with Normal I/O priority.
+

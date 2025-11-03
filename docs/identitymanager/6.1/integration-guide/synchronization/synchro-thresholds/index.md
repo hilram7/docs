@@ -78,3 +78,4 @@ resources or 1000 navigation properties).
 
 Distinct
 [thresholds are configurable for provisioning](/docs/identitymanager/6.1/integration-guide/provisioning/prov-thresholds/index.md).
+

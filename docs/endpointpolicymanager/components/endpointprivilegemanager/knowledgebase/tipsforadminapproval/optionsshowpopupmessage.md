@@ -57,3 +57,5 @@ The User must re-authenticate. When the pop-up is shown, the user must type in s
 **OK** is allowed and the application proceeds.
 
 ![942_9_image-20230602145013-9](/images/endpointpolicymanager/leastprivilege/policyeditor/942_9_image-20230602145013-9.webp)
+
+

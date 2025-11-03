@@ -27,3 +27,4 @@ The configurable options are:
     - Track changes into change tracking tables – Enable to track changes
     - Number of days you want to keep changes in the database – Set the number of days to keep
       changes in the database
+

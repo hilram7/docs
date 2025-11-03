@@ -28,3 +28,4 @@ If you are changing permission from one user to another, select **Edit** by the 
     ![Assign the License Type for a User](/images/platgovnetsuiteflashlight/getting_started/set_up_user3_800x213.webp)
 
 5. Click **Save**.
+

@@ -23,3 +23,4 @@ Follow the steps to review notifications.
 ![notifications](/images/1secure/admin/notifications.webp)
 
 **Step 3 –** Select **Fix**.
+

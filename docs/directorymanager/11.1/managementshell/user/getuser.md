@@ -40,3 +40,4 @@ The following command retrieves the specified user from the connected identity s
 ```
 Get-User -Identity "Osama"
 ```
+

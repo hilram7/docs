@@ -26,3 +26,4 @@ knowledge_article_id: kA00g000000H9SeCAK
 Netwrix Auditor saves group and permission level names in cache every 30 minutes to be able to retrieve it in case the object is deleted. Nevertheless, the name of the group or permission level will fail to be saved in cache in the following situation:
 
 If you create a group or role while **SharePoint Native Audit (Editing Users and Permissions)** is turned off and delete this object or change its settings later when it is on, the **"What"** column in the reports and Change Summaries will show the object ID instead of its name.
+

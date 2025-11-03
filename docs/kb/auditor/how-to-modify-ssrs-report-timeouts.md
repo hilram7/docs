@@ -72,3 +72,4 @@ The default value is `120` seconds.
 
 For additional SSRS timeout configurations, please refer to this Microsoft article:
 https://social.technet.microsoft.com/wiki/contents/articles/23508.sql-server-reporting-services-troubleshooting-timeout-settings.aspx
+

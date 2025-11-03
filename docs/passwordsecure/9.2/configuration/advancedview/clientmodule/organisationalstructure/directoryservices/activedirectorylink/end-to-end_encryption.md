@@ -158,3 +158,4 @@ Users imported in this mode can not login with the domain password. Rather, a pa
 during import. This password is sent to the users by e-mail. If a user has not entered an e-mail
 address, the user name is entered as the password. The initial password can be changed by the
 administrator or the user himself at the first login.
+

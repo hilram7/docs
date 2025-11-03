@@ -26,3 +26,4 @@ monitoring, then this dashboard will be blank.
   Enterprise Admin groups that have been recorded in the specified timeframe
 
 The specified timeframe is set by default to the last 24 hours, or past day.
+

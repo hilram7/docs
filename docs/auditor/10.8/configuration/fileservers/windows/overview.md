@@ -276,3 +276,4 @@ The following table lists the actions that can be performed with Windows-Based F
 | Removed                  | +    | +      | +     |
 | Remove (failed attempt)  | +    | +      | –     |
 | Copied                   | +    | –      | –     |
+

@@ -61,3 +61,4 @@ Download the installation package for upgrade. Customers who are logged in to th
    ```
 
 You will have to wait from 30 minutes to several hours depending on the amount of data that is going to be collected.
+

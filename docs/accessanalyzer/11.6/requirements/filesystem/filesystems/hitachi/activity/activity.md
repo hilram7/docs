@@ -63,3 +63,4 @@ Checklist Item 2:
 **Checklist Item 3: Activity Monitor Configuration**
 
 - Deploy the Activity Monitor Activity Agent to a Windows proxy server
+

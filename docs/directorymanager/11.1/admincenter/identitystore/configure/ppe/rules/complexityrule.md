@@ -42,3 +42,4 @@ This default character set contains the following:
 | High        | All characters above ANSI 126 |
 | Custom      | No default characters |
 
+

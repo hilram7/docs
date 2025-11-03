@@ -36,3 +36,4 @@ The Services Settings page has the following features:
   re-registers them
 - Save button (only visible when editing) — Saves changes
 - Cancel button (only visible when editing) — Discards changes
+

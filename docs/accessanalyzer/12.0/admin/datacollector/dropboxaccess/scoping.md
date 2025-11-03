@@ -26,3 +26,4 @@ Use the scoping options to select the depth of the scan:
 - File Permissions:
 
     - Collect File Level Permissions – Select the checkbox to collect permissions at the file level
+

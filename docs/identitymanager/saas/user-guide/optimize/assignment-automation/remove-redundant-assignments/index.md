@@ -143,3 +143,4 @@ When removing redundant assignments based on the previous report example the set
 above.
 
 Once the steps above completed, the state changes to **Approved**.
+

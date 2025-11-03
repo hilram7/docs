@@ -35,3 +35,4 @@ Schedule these jobs to run with the 0.Collection job group.
   controllers which may be decommissioned.
 - [AD_MachineOwners Job](/docs/accessanalyzer/11.6/solutions/activedirectory/activity/operations/ad_machineowners.md)
   – Helps to identify the owner of a particular host
+

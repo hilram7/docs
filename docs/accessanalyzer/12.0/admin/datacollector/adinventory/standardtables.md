@@ -64,3 +64,4 @@ The following table translates the Type of Exceptions that can found.
 | 6    | Stale Users          | Users that have not logged onto the domain for an extended period of time |
 | 7    | Stale Membership     | Groups with a high percentage of effective members that are stale users   |
 | 8    | Large Token          | Users with a large amount of authorization groups in their token          |
+

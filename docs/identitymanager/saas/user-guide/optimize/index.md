@@ -58,3 +58,4 @@ sidebar_position: 40
 
     How to assess the impact of a modification on the role model, including the role catalog, role
     assignment rules and resource correlation rules, using a dedicated policy.
+

@@ -83,3 +83,4 @@ Step 19 – Click the **Delegation Authorization Rules** tab. We do not need to 
 
 The next step is to configure the AD FS provider in Directory Manager. See the
 [Configure the AD FS Provider In Directory Manager](/docs/directorymanager/11.1/authenticate/asserviceprovider/adfs/configureadfsindirectorymanager.md) topic.
+

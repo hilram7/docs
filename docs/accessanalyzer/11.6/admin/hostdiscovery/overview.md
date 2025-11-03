@@ -23,3 +23,4 @@ The Discovery node has four main panes:
 - [Host Discovery Queries Activities Pane](/docs/accessanalyzer/11.6/admin/hostdiscovery/activities.md)
 - [Host Discovery Wizard](/docs/accessanalyzer/11.6/admin/hostdiscovery/wizard/overview.md)
 - [Discovery Log](/docs/accessanalyzer/11.6/admin/hostdiscovery/log.md)
+

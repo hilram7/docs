@@ -12,3 +12,4 @@ information:
 - [Taxonomy Settings Levels](/docs/dataclassification/5.6.2/contentconfigurationoverview/taxonomiesintro/taxonomysettings/settings_levels.md)
 - [Labels](/docs/dataclassification/5.6.2/contentconfigurationoverview/taxonomiesintro/taxonomysettings/labels.md)
 - [Multi-User Environments](/docs/dataclassification/5.6.2/contentconfigurationoverview/taxonomiesintro/taxonomysettings/multi-user_environments.md)
+

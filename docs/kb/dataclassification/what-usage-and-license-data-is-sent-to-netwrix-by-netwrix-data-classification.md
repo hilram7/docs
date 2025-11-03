@@ -43,3 +43,4 @@ All collected data remains on-prem. The product does send usage statistics, howe
 - Number of documents in source
 - GB of content in source
 - Average text length of content in source
+

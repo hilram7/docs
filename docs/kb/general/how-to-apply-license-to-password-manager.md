@@ -37,3 +37,4 @@ To enter a new license, do the following:
 ![User-added image](./images/ka04u00000116S3_0EM700000005b7r.png)
 
 **Note:** When entering the license code it is recommended to use copy/paste to input the license code. Also it is common if copying from an HTML document to also copy an extra space so ensure these are removed upon paste.
+

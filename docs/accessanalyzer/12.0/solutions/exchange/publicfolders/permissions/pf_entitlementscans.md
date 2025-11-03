@@ -46,3 +46,4 @@ The following analysis tasks are selected by default:
 
 - Compress and Index Collection – Compresses and indexes the collection
 - Strip Replicas from Reports – Updates table to remove replicas
+

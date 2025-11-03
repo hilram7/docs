@@ -35,3 +35,4 @@ following pre-configured report.
 | Report     | Description                               | Default Tags | Report Elements                                                                                                                                                                                                                |
 | ---------- | ----------------------------------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | SQL Logins | This report lists user login information. | None         | This report is comprised of three elements: <ul><li>Bar Chart– Displays number of logins by instance</li><li>Table – Provides details on login exceptions by instance</li><li>Table – Provides details on SQL logins</li></ul> |
+

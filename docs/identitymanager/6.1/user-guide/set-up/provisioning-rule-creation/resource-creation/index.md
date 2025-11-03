@@ -126,3 +126,4 @@ Then, you can:
     related to a
     [navigation rule](/docs/identitymanager/6.1/user-guide/set-up/provisioning-rule-creation/navigation-property-computation/index.md).
     Otherwise, only the resource type will be visible.
+

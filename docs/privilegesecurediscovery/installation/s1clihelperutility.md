@@ -73,3 +73,4 @@ https://deploy.remediant.com/tools/s1_install.sh
 
 You can then: (1) FTP the script over, or (2) while in an SSH session to SecureONE, create a new
 text file named s1_install.sh, copy the contents over, and make the file executable.
+

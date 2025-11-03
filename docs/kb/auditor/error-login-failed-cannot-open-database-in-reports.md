@@ -55,3 +55,4 @@ For additional information on required access rights, refer to the following art
 
 - https://docs.netwrix.com/docs/auditor/10_8 Audit Database Account — Requirements for SQL Server to Store Audit Data · v10.7)
 - https://learn.microsoft.com/en-us/sql/database-engine/configure-windows/start-sql-server-in-single-user-mode?view=sql-server-ver16 (Single-user Mode for SQL Server · Microsoft &#129125;)
+

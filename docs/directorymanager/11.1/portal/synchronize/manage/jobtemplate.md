@@ -141,3 +141,4 @@ Step 4 – Two more boxes get displayed next to Attributes box upon selecting a 
 Step 5 – Click **Apply Filter**.
 
 All the job templates that match the specified criterion are displayed.
+

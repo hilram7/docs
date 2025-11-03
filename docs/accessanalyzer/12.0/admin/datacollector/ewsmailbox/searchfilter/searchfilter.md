@@ -22,3 +22,4 @@ The Filter Wizard manages properties of the search filter. The Filter Wizard pag
 - [EWSMailbox FW: Message Conditions](/docs/accessanalyzer/12.0/admin/datacollector/ewsmailbox/searchfilter/messageconditions.md)
 - [EWSMailbox FW: BodyOptions](/docs/accessanalyzer/12.0/admin/datacollector/ewsmailbox/searchfilter/bodyoptions.md)
 - [EWSMailbox FW: Save Filter](/docs/accessanalyzer/12.0/admin/datacollector/ewsmailbox/searchfilter/savefilter.md)
+

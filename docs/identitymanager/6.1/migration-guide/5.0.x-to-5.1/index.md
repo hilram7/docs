@@ -94,3 +94,4 @@ must enter this information in this file.
 
 All data from external systems is in a JSON that can be encrypted with an RSA key. Encrypt this with
 [Usercube-Protect-X509JsonFile](/docs/identitymanager/6.1/integration-guide/executables/references/protect-x509jsonfile/index.md)
+

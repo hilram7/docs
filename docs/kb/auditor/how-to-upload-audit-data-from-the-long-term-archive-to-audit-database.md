@@ -28,3 +28,4 @@ I want to make past data available for reporting (e.g., I need to investigate a 
 ## Answer
 
 To make your past audit data available for reporting, import from the Long-Term Archive to Audit Database as described in this article: Administration – Netwrix Auditor Settings – Investigations · v10.6
+

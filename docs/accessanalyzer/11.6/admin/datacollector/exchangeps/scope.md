@@ -52,3 +52,4 @@ Available scoping options vary based on the category selected. Scoping options i
   for additional information.
 - View entire forest when querying for objects – Select this checkbox to scan the entire forest when
   querying for objects
+

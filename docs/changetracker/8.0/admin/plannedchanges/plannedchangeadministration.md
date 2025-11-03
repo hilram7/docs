@@ -39,3 +39,4 @@ button to create a copy.
 
 
 ![PlannedChangesRules](/images/changetracker/8.0/admin/tabs/plannedchangesrules.webp)
+

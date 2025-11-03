@@ -50,3 +50,4 @@ Review the tenant name in the affected monitoring plan.
 ## Related articles
 
 - [Locate important IDs for a user ⸱ Microsoft &#129125;](https://learn.microsoft.com/en-us/partner-center/find-ids-and-domain-names#find-the-microsoft-azure-ad-tenant-id-and-primary-domain-name)
+

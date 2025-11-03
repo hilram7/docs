@@ -26,3 +26,4 @@ This cmdlet supports the common parameters: **Verbose**, **Debug**, **ErrorActio
 PS C:\> Start-PPECompromisedPasswordChecker
 
 **PS C:\>**
+

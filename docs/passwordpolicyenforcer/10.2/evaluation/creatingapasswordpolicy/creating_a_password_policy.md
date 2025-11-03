@@ -44,3 +44,4 @@ and then click **PPS Properties** in the right pane.
 click **OK**.
 
 **Step 8 –** Click **Yes** when asked to confirm the choice of Default Policy.
+

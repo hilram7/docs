@@ -37,3 +37,4 @@ http://www.netwrix.com/download/documents/NetWrix_Password_Manager_Administrator
 
 4. Cluster Install — Cluster of the Front and/or Back End servers. The Front End server can be clustered in an Active/Active role for Load-Balancing and the Back End server can be clustered in an Active/Passive mode only for Failover. Clustering of only Back-end or only Front-end is allowed. It is also possible to cluster a single-server installation. All this can be done by means of built-in Windows features.  
 [![User-added image](./images/ka04u00000116dB_0EM700000004vJa.png)](https://netwrix.secure.force.com/kb/servlet/rtaImage?eid=ka40g0000004KSE&feoid=00N700000032Pj2&refid=0EM700000004vJa)
+

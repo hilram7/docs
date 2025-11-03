@@ -26,3 +26,4 @@ clicking **My Dynasties Grid Filters**. All the dynasties matching the filters w
 - [Join/Leave a Group](/docs/directorymanager/11.0/welcome/group/workingwithgroups/groupjoinleave.md)
 - [Working with Groups](/docs/directorymanager/11.0/welcome/group/workingwithgroups/workingwithgroups.md)
 - [Directory Search](/docs/directorymanager/11.0/welcome/generalfeatures/search.md)
+

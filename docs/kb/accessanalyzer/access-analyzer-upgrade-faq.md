@@ -38,3 +38,4 @@ knowledge_article_id: kA0Qk0000001hHRKAY
 ## Related Articles
 
 - SQL Server Requirements
+

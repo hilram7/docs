@@ -11,3 +11,4 @@ export, edit or delete your taxonomies. See the [Manage Taxonomies](/docs/datacl
 information.
 
 ![globalsettings](/images/dataclassification/5.7/admin/taxonomies/globalsettings.webp)
+

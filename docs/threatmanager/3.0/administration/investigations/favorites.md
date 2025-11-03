@@ -41,3 +41,4 @@ There is a yellow star icon beside the name of an investigation identified as a 
 ![Favorite investigation star icon selected](/images/threatmanager/3.0/administration/investigations/favoriteselected.webp)
 
 Click the yellow star to remove the investigation from your Favorites list.
+

@@ -15,3 +15,4 @@ You can contact our technical support team by submitting a ticket through the
 will respond to your inquiry as soon as possible.
 
 ![Support Details](support.webp)
+

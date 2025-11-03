@@ -24,3 +24,4 @@ Each mode is assigned to a specific grouping of service methods, you can see whi
 affected by clicking the “View Methods” link and edit the security mode by clicking the Edit link.
 
 ![webservicesecurity_thumb_0_0](/images/dataclassification/5.7/security/webservicesecurity_thumb_0_0.webp)
+

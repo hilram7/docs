@@ -140,3 +140,4 @@ organization's systems. Here is a list of reference connectors:
 - [Workday](/docs/identitymanager/6.2/integration-guide/connectors/references-connectors/workday/index.md)
 
     Exports users and groups from a Workday instance.
+

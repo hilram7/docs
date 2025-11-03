@@ -11,3 +11,4 @@ assignments can be detected in order to give users the appropriate access rights
 
 Be sure to read first the
 [documentation about the role model](/docs/identitymanager/6.1/integration-guide/role-model/index.md).
+

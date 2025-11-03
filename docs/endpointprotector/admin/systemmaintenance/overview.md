@@ -169,3 +169,4 @@ To conﬁgure a Samba / Network Share Server, provide the following information:
 - Password – the associated password
 
 ![Conﬁgure a Samba / Network Share Server](sambastorage.webp)
+

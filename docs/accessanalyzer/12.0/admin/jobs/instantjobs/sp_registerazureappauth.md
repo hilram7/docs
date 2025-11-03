@@ -60,3 +60,4 @@ SharePoint scans in Access Analyzer.
   password for the connection profile would be:
 
 **...\STEALTHbits\StealthAUDIT\PrivateAssemblies\spaa_cert_myorg.pfx,YourPasswordHere,0**
+

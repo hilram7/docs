@@ -71,3 +71,4 @@ You can add users and roles in different ways:
 - Click on the loupe to see all the users and roles.
 
 ![installation_with_parameters_165](/images/passwordsecure/9.1/configuration/web_applicaiton/functional_scope/organisational_structure/installation_with_parameters_165.webp)
+

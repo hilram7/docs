@@ -122,3 +122,4 @@ Product: Netwrix Access Analyzer
 Module: Netwrix Access Analyzer - Core  
 Versions: 6.3+  
 Legacy Article ID: 2291
+

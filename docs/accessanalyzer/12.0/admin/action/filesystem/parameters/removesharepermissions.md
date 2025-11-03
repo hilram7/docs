@@ -19,3 +19,4 @@ Use the options to enter the Permissions:
 
     - Click **Add** to select a user or group object
     - Click **Remove** to remove a user or group object
+

@@ -54,3 +54,4 @@ It contains the following options:
 | Disable (grayed-out) | [Does not apply to templates]                                                                                                                                                         |
 | Export               | Exports the selected template’s configuration to an XML file through the [Export Policies and Templates Window](/docs/threatprevention/7.4/admin/policies/exportpoliciestemplates.md) |
 | Remove               | Deletes the selected template                                                                                                                                                         |
+

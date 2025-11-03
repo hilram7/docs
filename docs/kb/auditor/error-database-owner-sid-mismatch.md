@@ -70,3 +70,4 @@ To prevent this issue from recurring, refer to the following steps:
 
 - MSSQLSERVER_15517 ⸱ Microsoft: http://support.microsoft.com/kb/913423/en-us
 - ALTER AUTHORIZATION (Transact-SQL) ⸱ Microsoft: https://learn.microsoft.com/en-us/sql/t-sql/statements/alter-authorization-transact-sql?view=sql-server-ver16
+

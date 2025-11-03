@@ -43,3 +43,4 @@ The queries for the 0-FS_Nasuni job are:
 - SysInfo – Collects Nasuni system information
 - Volumes – Collects Nasuni volume information
 - Shares – Collects Nasuni CIFS/SMB share information
+

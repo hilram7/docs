@@ -26,3 +26,4 @@ Roles**.
 only** role.
 
 This account must be used for running the Enterprise Auditor scans on Nutanix appliances.
+

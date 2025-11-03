@@ -34,3 +34,4 @@ Select the checkboxes to apply any desired scan options:
     - NTLM
     - Kerberos
     - Digest
+

@@ -88,3 +88,4 @@ Jobs > [Solution] > [Job Group and/or Job] > Status > Messages table
 
 **Are there any messages in the ConnectStatus Table?**  
 Jobs > [Solution] > [Job Group and/or Job] > Status > ConnectStatus table  
+

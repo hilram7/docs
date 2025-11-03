@@ -122,3 +122,5 @@ algorithm to setting of .
 ![621_29_image-20200510100625-15](/images/endpointpolicymanager/leastprivilege/elevate/621_13_image-20200510100625-7.webp)
 
 **Step 10 –** Rename and set Item Level Targeting if required and click **Finish**.
+
+

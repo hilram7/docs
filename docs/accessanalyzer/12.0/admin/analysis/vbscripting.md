@@ -31,3 +31,4 @@ The VBScript Editor has the following options:
 
 When done using the editor, click **Save and Close** to return to the Analysis Properties page. Make
 sure to save the analysis.
+

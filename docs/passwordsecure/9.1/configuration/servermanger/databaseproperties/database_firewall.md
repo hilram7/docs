@@ -75,3 +75,4 @@ also possible.
 
 This rule grants access to the administrator. It is irrelevant which computer the administrator uses
 to log in to the database.
+

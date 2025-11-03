@@ -16,3 +16,4 @@ Use the Configuration Tool to configure a new Directory Manager server. The tool
 - Service account for Directory Manager App Pool
 - Admin Center
 - A default account for Admin Center
+

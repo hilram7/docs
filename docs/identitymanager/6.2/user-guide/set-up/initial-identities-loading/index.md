@@ -120,3 +120,4 @@ From there you will be able to keep your repository up to date:
 The initial identities loading also enables:
 
 - HR connector creation.
+

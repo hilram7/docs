@@ -69,3 +69,4 @@ via the notifications as usual. The seal can now be broken. From this point on, 
 able to see the password.
 
 ![broken seal](/images/passwordsecure/9.1/configuration/advanced_view/permissionconcept/predefining_rights/protective_mechanisms/seals/release_mechanism/release_mechanism_5-en.webp)
+

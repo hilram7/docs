@@ -48,3 +48,4 @@ Make sure you provided the same parameters in a Netwrix Auditor monitoring plan 
 ![00371273 O365 Tenant.PNG](images/ka04u00000117A1_0EM4u000008LuEC.png)
 
 For additional information on configuring Office 365 tenant, refer to the following article: Microsoft 365. Select the data source you want to audit and review the corresponding section.
+

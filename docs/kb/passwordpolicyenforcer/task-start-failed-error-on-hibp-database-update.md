@@ -62,3 +62,4 @@ The user designated to run the scheduled task has insufficient rights.
 Grant the designated user the **Log on as a batch job** rights in your environment via Group Policy.
 
 > **NOTE:** Alternatively, you can assign the task to another user with **Log on as a batch job** rights. If not, the SYSTEM user can be used instead.
+

@@ -28,3 +28,4 @@ Passwords should not contain character patterns because they can weaken the pass
 - Click the **Character Patterns** button to select which character patterns Password Policy
   Enforcer will detect. You must select at least one pattern.
 - Click the **Messages** tab to customize the Password Policy Client rule inserts.
+

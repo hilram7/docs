@@ -32,3 +32,4 @@ The data grid contains the following columns:
   the message
 - HostName – Name of the targeted host where the transaction occurred
 - Message – Log transaction message
+

@@ -86,3 +86,4 @@ In order to verify the process:
 ![View Permissions Tab](/images/identitymanager/6.1/user-guide/set-up/provisioning-rule-creation/resource-creation/viewpermissions_v602.webp)
 
 4. Check in your managed system that the change was effectively made.
+

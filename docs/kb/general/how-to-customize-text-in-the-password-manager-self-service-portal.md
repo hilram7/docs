@@ -53,3 +53,4 @@ For example, if you want to remove the copyright text, set `strCopyright=`.
 | `ru.asp` | Russian             |
 | `sk.asp` | Slovak              |
 | `zh.asp` | Traditional Chinese |
+

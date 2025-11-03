@@ -68,3 +68,4 @@ You can filter your Control Incidents reports by setting **Log Origin** in the r
 **Agent Lookback Run** is available as a filter option.
 
 ![Filter Incident Results on Lookback Run](/images/platgovnetsuite/financial_controls/lookback_run_incidents.webp)
+

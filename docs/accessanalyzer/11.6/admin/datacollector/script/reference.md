@@ -25,3 +25,4 @@ queries, while leaving the original task undisturbed. This is valuable when perf
 queries isneeded. See the
 [Script Example 2: Command Query](/docs/accessanalyzer/11.6/admin/datacollector/script/example2.md)
 topic for additional information.
+

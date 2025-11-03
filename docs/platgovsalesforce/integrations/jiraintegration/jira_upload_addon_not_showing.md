@@ -16,3 +16,4 @@ To enable development mode:
 3. Click **Enable development mode**
 
 ![Jira Enable Development Mode](/images/platgovnetsuite/integrations/jira_enable_dev_mode.webp)
+

@@ -49,3 +49,4 @@ Module before proceeding.
 ![Public Folder Action Module Wizard Welcome page](/images/accessanalyzer/12.0/admin/action/publicfolder/welcome.webp)
 
 To proceed, click **Next** or use the Steps navigation pane to open another page in the wizard.
+

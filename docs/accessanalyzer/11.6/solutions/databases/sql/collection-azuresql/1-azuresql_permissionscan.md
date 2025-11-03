@@ -88,3 +88,4 @@ The default analysis tasks are:
 - AIC Import – Database Role Permissions — Imports role Permission at the database level
 - AIC Import – Local SQL Server — Imports Azure SQL local groups to the AIC
 - AIC Import – Instance Role — Imports permissions assigned to roles at the instance level
+

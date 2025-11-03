@@ -30,3 +30,4 @@ Panel > Programs and Features.
 **Step 6 –** Click **Uninstall**.
 
 **Step 7 –** Reboot the Domain Controller.
+

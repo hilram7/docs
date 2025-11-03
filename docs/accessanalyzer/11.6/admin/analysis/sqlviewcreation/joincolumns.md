@@ -55,3 +55,4 @@ value in the second column, rows from the respective tables are joined together.
 
 After selecting a column from each data source to join, click **Next** to select columns to transfer
 to the resulting table or view.
+

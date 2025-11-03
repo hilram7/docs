@@ -40,3 +40,4 @@ If your servers are configured in any language other than English, the Event Log
 6. Select the **Netwrix Auditor for Event Log** folder and then the **Change Reports** folder.
 7. Find the **Service Starts and Stops** file and click the three dots to choose the delete option.
 8. Restart the **Netwrix Auditor Management Service** and the file will be updated with the appropriate language.
+

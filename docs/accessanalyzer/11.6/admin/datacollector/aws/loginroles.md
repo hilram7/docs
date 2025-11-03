@@ -27,3 +27,4 @@ topic for additional information. The page has the following options:
 - Max Session Duration (hours) – Specify the maximum time the account can be logged in for. This
   value should not exceed the SessionDuration configured for the role in AWS. The default value is 1
   and the maximum value is 12.
+

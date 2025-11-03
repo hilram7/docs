@@ -73,3 +73,4 @@ linked in any way.
 **CAUTION:** If Master Key mode has been selected for the Active Directory profile, the AD is the
 leading system. In this mode, roles that have been imported cannot be changed locally in Netwrix
 Password Secure.
+

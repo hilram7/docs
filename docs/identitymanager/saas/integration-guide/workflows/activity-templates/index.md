@@ -140,3 +140,4 @@ By default, Identity Manager's workflow engine implements the following transiti
 - `ContinueWith-Invoked-Invoke`
 - `Persist-Invoked-Invoke`
 - `PersistOnlyResources-Invoked-Invoke`
+

@@ -13,3 +13,4 @@ in addition to the group icon displayed in front of the name.
 
 Click the hyperlink to open the Group Membership window. The group’s direct membership is listed for
 review. Click **Close** to return to the review.
+

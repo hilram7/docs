@@ -35,3 +35,4 @@ This article explains how to export selected event logs from the **Reports and A
    ![View Export List in Reports and Analysis](./images/ka0Qk000000Ea6r_0EMQk00000CAkDx.png)
 5. Access and review the exported file as needed.  
    ![Example of exported event log file](./images/ka0Qk000000Ea6r_0EMQk00000CAivK.png)
+

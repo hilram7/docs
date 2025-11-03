@@ -39,3 +39,4 @@ path to a Windows based comparison tool such as Beyond Compare for best results.
 compare command using the third party comparison tool.
 
 A window displays the policy comparison results.
+

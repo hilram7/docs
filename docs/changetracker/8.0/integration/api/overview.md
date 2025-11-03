@@ -12,3 +12,4 @@ instances.
 
 - [Agents](/docs/changetracker/8.0/integration/api/agents.md) – To pull data
   on agent statuses, configurations and group memberships, use the agentsRanked endpoint.
+

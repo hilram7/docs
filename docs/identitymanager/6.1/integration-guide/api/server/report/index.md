@@ -113,3 +113,4 @@ Deletes a single role.
 | Code | Description                           | Reference |
 | ---- | ------------------------------------- | --------- |
 | 200  | The result of the single role delete. |           |
+

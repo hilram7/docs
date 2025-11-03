@@ -21,3 +21,4 @@ This tab displays the following general attributes:
 - Deletion Date
 - Distinguished Name
 - Group Type
+

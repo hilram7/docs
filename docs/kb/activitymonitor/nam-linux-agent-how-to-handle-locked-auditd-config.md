@@ -85,3 +85,4 @@ The following commands may be helpful to identify the rule that locks the config
    `/etc/audit/rules.d/x002.rules` is the path to the file containing the locking rule.
 
 4. Edit the file and remove the locking rule (for example replace `-e 2` with `-e 1`), then reboot the system in order to have the changes applied.
+

@@ -42,3 +42,4 @@ There is a separate option for defining the password rules for named passwords.
 **User right**
 
 - Can configure standard password rules
+

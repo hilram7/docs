@@ -41,3 +41,4 @@ The following event types are available for Exchange:
 
 - [Exchange Changes Event Type](/docs/threatprevention/7.4/admin/policies/configuration/eventtype/exchangechanges.md)
 - [Exchange Lockdown Event Type](/docs/threatprevention/7.4/admin/policies/configuration/eventtype/exchangelockdown.md)
+

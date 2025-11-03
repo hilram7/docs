@@ -11,3 +11,4 @@ The **Templates** > **Microsoft** > **DNS** folder contains the following templa
 | Template           | Description                | TAGS |
 | ------------------ | ------------- | ---- |
 | DNS Record Changes | No customizations required | None |
+

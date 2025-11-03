@@ -60,3 +60,4 @@ Expanded user monitoring with additional Active Directory attributes:
 - **Qumulo Core 7.4.1**: Updated support for Qumulo distributed file systems
 
 These enhancements ensure comprehensive monitoring across your hybrid IT infrastructure while providing the visibility needed to detect threats, maintain compliance, and optimize security operations.
+

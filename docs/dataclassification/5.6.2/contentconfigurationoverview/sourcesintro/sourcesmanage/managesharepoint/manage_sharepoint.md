@@ -19,3 +19,4 @@ In this article, we will cover:
 - [Managing list of exclusions](/docs/dataclassification/5.6.2/contentconfigurationoverview/sourcesintro/sourcesmanage/managesharepoint/manage_managing_list_of_exclusions.md)
 - [Reviewing SharePoint Dashboard](/docs/dataclassification/5.6.2/contentconfigurationoverview/sourcesintro/sourcesmanage/managesharepoint/manage_reviewing_sharepoint_dashboard.md)
 - [Working with SharePoint templates](/docs/dataclassification/5.6.2/contentconfigurationoverview/sourcesintro/sourcesmanage/managesharepoint/manage_working_with_sharepoint_templates.md)
+

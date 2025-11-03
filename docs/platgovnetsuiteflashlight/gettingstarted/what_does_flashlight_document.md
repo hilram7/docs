@@ -58,3 +58,4 @@ for one or more of the following reasons:
 | Scriptlet              | Deprecated                  | These object types have been deprecated by NetSuite and are no longer in use.                                                                                                                |
 | Web Tag                | Web Related                 | Applies to companies that use SiteBuilder                                                                                                                                                    |
 | Web Site               | Web Related                 | The metadata that defines the web site for customers using the Netsuite eCommerce modules, SiteBuilder or SuiteCommerce Advanced.                                                            |
+

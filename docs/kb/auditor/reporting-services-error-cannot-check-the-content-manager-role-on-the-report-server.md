@@ -39,3 +39,4 @@ This issue is related to the Operating System language. Netwrix Auditor can be i
 ## Resolution
 
 Please review the **Operating System** component in the Software Requirements table. For additional information about Auditor software requirements, refer to the following article: Requirements — Software Requirements — v10.6.
+

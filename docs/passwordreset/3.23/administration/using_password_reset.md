@@ -179,3 +179,4 @@ Validation and critical error messages are stored in the HTML templates. You can
 messages by editing the templates. See the
 [Resource Strings](/docs/passwordreset/3.23/administration/editing_the_html_templates.md#resource-strings)
 topic for more information.
+

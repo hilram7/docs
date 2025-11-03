@@ -33,3 +33,4 @@ Make sure that the Maximum security log size group policy does not overwrite you
 check this, start the Group Policy Management console, proceed to the GPO that affects your server,
 and navigate to **Computer Configuration** **>** **Policies** **>** **Windows Settings** **>**
 **Security Settings** **>** **Event Log**.
+

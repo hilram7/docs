@@ -58,3 +58,4 @@ If you need to change the status of security log autobackups `MaxSize`/`Retentio
 9. Select the **Disabled**/**Enable**, click the **Apply** button and then click **OK**.
 10. Double-click on "Automatically set the "MaxSize" filed for the security log backup". Select the **Disabled**/**Enable**, click the **Apply** button and then click **OK**.
 11. Double-click the "Automatically set the "Retention" filed for the security log backup. Select the **Disabled**/**Enable**, click the **Apply** button and then click **OK**.
+

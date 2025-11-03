@@ -57,3 +57,4 @@ This section offers a quick overview in the form of graphics and charts related 
 Protection module.
 
 ![A quick overview in the form of graphics and charts related to the Content Aware Protection module](dashboard.webp)
+

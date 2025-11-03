@@ -46,3 +46,4 @@ There is also an option to disable examination of workstations. In this case nam
 4. Restart Netwrix Account Lockout Examiner Service via the **Services** snap-in.
 
 ![User-added image](images/ka04u000000HcUv_0EM700000004wr4.png)
+

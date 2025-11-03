@@ -86,3 +86,4 @@ Follow the steps to add a tag to a user, group, or computer
 The selected tag is added to the user, group, application or role. See the
 [Tag Management Page](/docs/threatmanager/3.0/administration/configuration/integrations/tagmanagement.md) topic for additional
 information.
+

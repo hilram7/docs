@@ -47,3 +47,4 @@ topic.
 
 **Step 3 –** [Enable Secondary Logon Service](/docs/1secure/configuration/admanual/secondarylogonservice.md) on the computer where
 Netwrix Cloud Agent resides.
+

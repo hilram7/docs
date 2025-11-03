@@ -69,3 +69,4 @@ order to anticipate changes.
 
 Once provisioning rules are created, integrators can start
 [creating the single role catalog](/docs/identitymanager/6.1/user-guide/set-up/single-roles-catalog-creation/index.md).
+

@@ -124,3 +124,4 @@ The default portal template uses several predefined custom display types. See th
 
 The **Custom Display Types** page in a portal’s design settings lists all the predefined custom
 display types and any custom display types you may have added.
+

@@ -9,3 +9,4 @@ sidebar_position: 40
 Requirements
 
 - The Gen 7 agent has no dependencies on Windows operating systems.
+

@@ -63,3 +63,4 @@ NOTE: Setup and configuration instructions for
 and
 [SAML application for Postman](/docs/passwordsecure/9.1/configuration/advancedview/clientmodule/applications/exampleapplications/saml_application_for_postman.md)can
 be found in the corresponding chapters.
+

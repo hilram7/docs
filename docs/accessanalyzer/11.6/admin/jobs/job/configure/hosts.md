@@ -43,3 +43,4 @@ textbox and click **Add**.
 **Step 4 –** Click **Save** and then **OK** to confirm the changes.
 
 The manually added host is now targeted by the job.
+

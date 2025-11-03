@@ -10,3 +10,4 @@ These guides will help you configure technical settings with practical step-by-s
 
 - #### [Configure Okta for Usercube Authentication](/docs/identitymanager/6.1/integration-guide/network-configuration/how-tos/okta/index.md)
     Configure the OIDC to set up the authentication to Usercube.
+

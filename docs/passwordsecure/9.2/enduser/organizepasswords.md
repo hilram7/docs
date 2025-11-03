@@ -69,3 +69,4 @@ NOTE: The **list view** is suitable for many data sets while the tile view is pa
 for the most frequently used secrets.
 
 RECOMMENDED: Use the list view for all shared secrets and the tile view for personal accounts.
+

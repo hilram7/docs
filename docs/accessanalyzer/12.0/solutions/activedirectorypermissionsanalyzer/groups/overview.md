@@ -17,3 +17,4 @@ The jobs in the 2.Groups Job Group are:
   Directory users that are capable of modifying group membership within the targeted domains
 - [AD_GroupPermissions Job](/docs/accessanalyzer/12.0/solutions/activedirectorypermissionsanalyzer/groups/ad_grouppermissions.md) – Reports on all Active Directory permissions
   applied to group objects within the targeted domains
+

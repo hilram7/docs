@@ -113,3 +113,4 @@ Where does the AD_SecurityAssessment report get the data for it's categories and
 | Trusts | Insecure trust configuration | `SA_AD_DomainInfo_TrustDetails` | `Active Directory\5. Domains\AD_DomainInfo` |
 | Trusts | Outbound trust with SID History enabled | `SA_AD_DomainInfo_Filtering` | `Active Directory\5. Domains\AD_DomainInfo` |
 
+

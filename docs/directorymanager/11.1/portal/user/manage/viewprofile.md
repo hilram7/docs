@@ -31,3 +31,4 @@ On your profile page, your profile validation status is displayed next to your n
 
 - The status, Expired User, indicates that a user has expired because he or she did not validate his
   or her profile within the required duration. An expired user is disabled in the directory.
+

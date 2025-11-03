@@ -18,3 +18,4 @@ This report is comprised of the following columns:
 - File Name – Name of the file that is being shared anonymously
 - Access – Type of access to the personal site granted to the guest/anonymous users
 - URL – Path to the shared resource
+

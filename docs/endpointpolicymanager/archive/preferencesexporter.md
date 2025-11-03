@@ -41,7 +41,7 @@ Files."
 
 I've got another folder here. Here we go: "GPPrefs Items." Here are the ones that we just did. You
 can just add them right in just like that. This utility, the PolicyPak Exporter, works for our
-[https://dev.policypak.com/products/](https://dev.policypak.com/products/) – PolicyPak Preferences
+[https://policypak.com/products/](https://policypak.com/products/) – PolicyPak Preferences
 that deals with Group Policy Preferences and also PolicyPak Application Manager that deals with
 things like Java, Flash, Firefox and so on. You can do things like "Never check for updates" and so
 on.
@@ -94,5 +94,6 @@ or our own little targeting feature which lets you specify everyone on the "Comp
 
 That's it for this utility. I hope that helps you out.
 
-[https://dev.policypak.com/resources/thank-you-whitepapers/](https://dev.policypak.com/resources/thank-you-whitepapers/)
+[https://policypak.com/resources/thank-you-whitepapers/](https://policypak.com/resources/thank-you-whitepapers/)
 so much, and talk to you soon.
+

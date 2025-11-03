@@ -19,3 +19,4 @@ of the Entitlement Reviews interface. Follow the steps to rename a review.
 **Step 3 –** Click **OK** when finished. The Rename Review window closes.
 
 The renamed review will display in the table on the Manage Reviews page.
+

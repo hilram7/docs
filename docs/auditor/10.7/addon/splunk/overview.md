@@ -120,3 +120,4 @@ follows:
   be available in Splunk.
 - CIM might not have data models for some of the activity records received from Auditor; such
   information can only be accessed in Splunk using search by index.
+

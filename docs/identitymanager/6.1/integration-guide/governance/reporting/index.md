@@ -12,3 +12,4 @@ reports using the
 [Business Intelligence module](/docs/identitymanager/6.1/integration-guide/toolkit/xml-configuration/business-intelligence/index.md).
 
 [See more information about generating reports](/docs/identitymanager/6.1/user-guide/administrate/reporting/index.md).
+

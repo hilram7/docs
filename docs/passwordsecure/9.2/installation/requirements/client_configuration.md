@@ -29,3 +29,4 @@ NOTE: Our Windows Application (Win App) is not available for MSP-customers!
 
 - WAN/VPN connection to application server: MTU-size = 1500 bytes (1472 bytes + 28 bytes for the
   header)
+

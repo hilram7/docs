@@ -120,3 +120,4 @@ Do not change any parameters where the Value states **Created during execution**
 **Step 5 –** Click **Save and Close** to finalize the customization and close the SQL Script Editor.
 
 Repeat these steps to customize other analysis tasks for this job.
+

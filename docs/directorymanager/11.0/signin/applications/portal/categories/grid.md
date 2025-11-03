@@ -117,3 +117,4 @@ What do you want to do?
 - [Design a Portal with Display Types](/docs/directorymanager/11.0/signin/applications/portal/displaytype/overview.md)
 - [Display Type Categories](/docs/directorymanager/11.0/signin/applications/portal/categories/categories.md)
 - [Define Custom Display Types](/docs/directorymanager/11.0/signin/applications/portal/categories/custom.md)
+

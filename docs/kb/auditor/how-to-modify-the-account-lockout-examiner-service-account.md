@@ -32,3 +32,4 @@ The Netwrix Account Lockout Examiner service account you entered during installa
 5. Restart the **Account Lockout Examiner** service.
 
 ![User-added](images/servlet_image_3823966b1661.png)
+

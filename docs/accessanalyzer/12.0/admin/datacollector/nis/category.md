@@ -22,3 +22,4 @@ The NIS Data Collector contains two query categories:
 The Scan NIS Users and Groups category is the pre-configured setting for the .NIS Inventory job
 group. To use the Custom NIS Scan category, create a query in a new job using the NIS Data Collector
 and configure the query as desired.
+

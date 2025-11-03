@@ -143,3 +143,4 @@ The modifications to the Builtin Administrator are processed.
 the `AuthBuiltinAdminPassword` parameter. If you forget the Admin password, you can clear the
 `AuthBuiltinAdminPassword` value in the `AccessInformationCenter.Service.exe.Config` file. Then use
 the default first launch login credentials to set a new password.
+

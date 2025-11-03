@@ -36,3 +36,4 @@ The configurable options are:
 
 
 The available options vary based on the category selected.
+

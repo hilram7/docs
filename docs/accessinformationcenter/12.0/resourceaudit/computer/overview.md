@@ -38,3 +38,4 @@ display local time stamps. Activity information is represented in two ways:
 - Activity Details – Details reports show the specific operation events that occurred for the
   selected resource within the selected date range. See the
   [Activity Details Report](/docs/accessinformationcenter/12.0/resourceaudit/computer/activitydetails.md) topic for additional information.
+

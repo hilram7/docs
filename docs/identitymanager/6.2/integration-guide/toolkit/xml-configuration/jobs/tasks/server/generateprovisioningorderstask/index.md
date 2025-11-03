@@ -38,3 +38,4 @@ The table TaskResourceTypes makes the link between the tasks and the Resourcetyp
 | Property              | Type  | Description             |
 | --------------------- | ----- | ----------------------- |
 | ResourceType required | Int64 | Linked resourceType id. |
+

@@ -327,3 +327,4 @@ This installation should be performed only after the server has been upgraded.
     7. Restart the server
     8. To use the new Connector pages, go to each connector and its connections and refresh each
        schema
+

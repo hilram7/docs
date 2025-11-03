@@ -16,3 +16,4 @@ reaches the expiry date.
 You can [Modify Search Directory](allgroups.md#modify-search-directory) to search expiring groups
 and add [Filter All Groups](allgroups.md#filter-all-groups) by clicking **Expiring Group Grid
 Filters**. All the expiring groups matching the filters will be displayed.
+

@@ -97,3 +97,4 @@ The following binary files can be added to antivirus exclusions:
     - `%SystemRoot%\System32\drivers\SBTFSF.sys` — The File System filter driver
     - `<INSTALL_DIR>\SBTService.exe` — Windows File System monitoring service.
     - `<INSTALL_DIR>\ConfigurationAgent.Grpc.Host.exe` — Netwrix Activity Monitor Agent service
+

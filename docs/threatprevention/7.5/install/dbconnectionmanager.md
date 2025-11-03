@@ -83,3 +83,4 @@ to connect:
 **Step 5 –** Click the **Update** button to re-create the connection string for the database
 settings and test the new credentials against the SQL server, or click **Exit** to cancel any
 changes.
+

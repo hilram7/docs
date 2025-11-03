@@ -16,3 +16,4 @@ leveraging Netwrix Auditor Integration API. Download the latest add-on version i
 | —                                                  | XML: `<Item> <Name>Item name</Name> </Item>`, JSON: `"Item": {"Name": "Item name"`                                                                                                                                                                                  |
 
 To learn more about input and output Activity Record structure, refer to [Activity Records](/docs/auditor/10.8/api/postdata/activityrecords.md).
+

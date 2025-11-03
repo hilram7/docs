@@ -28,3 +28,4 @@ sidebar_position: 70
 
     Generates an access control rule giving to the specified profile the permission to browse the
     resources history of the specified entity type.
+

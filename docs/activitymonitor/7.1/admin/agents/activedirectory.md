@@ -108,3 +108,4 @@ version populates in the AD Module column. The next step is to configure the dom
 monitored. See the
 [Monitored Domains Tab](/docs/activitymonitor/7.1/admin/monitoreddomains/overview.md)
 section for additional information.
+

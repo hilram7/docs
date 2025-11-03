@@ -39,3 +39,4 @@ Such behavior occurs when the frontend server cannot communicate to the backend 
 1. Make sure that the frontend can `ping` the backend and vice versa.
 2. Make sure that all required firewall rules are in place. Refer to the KB2145: https://kb.netwrix.com/2145
 3. If the above does not help, try temporarily disabling all firewalls and antivirus software to confirm whether they are blocking the connection.
+

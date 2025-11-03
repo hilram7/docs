@@ -80,3 +80,4 @@ end-user performs any of the following actions in the Directory Manager portal:
 
 These actions are also logged in helpdesk history. See the [History in Helpdesk](/docs/directorymanager/11.1/admincenter/helpdesk/history.md) topic
 for additional information.
+

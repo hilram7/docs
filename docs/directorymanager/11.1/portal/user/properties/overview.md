@@ -75,3 +75,4 @@ Contact object is not supported in Microsoft Entra ID.
 - [Object properties - Email tab](/docs/directorymanager/11.1/portal/user/properties/AD/useroverview/email.md)
 - [Contact properties - Advanced tab](/docs/directorymanager/11.1/portal/user/properties/AD/contact/advanced.md)
 - [Object properties - History tab](/docs/directorymanager/11.1/portal/group/properties/history.md)
+

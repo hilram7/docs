@@ -39,3 +39,4 @@ Role assignments are missing for the specified user.
 ## Resolution
 
 1. Add the specified Service Account to the **Exchange Management Group** and **Organization Management** security groups.
+

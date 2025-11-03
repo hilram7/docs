@@ -105,3 +105,4 @@ Deploy a SaaS XML configuration by proceeding as follows:
     before deploying again.
 
     The token served by Identity Manager's IDP expires after one hour.
+

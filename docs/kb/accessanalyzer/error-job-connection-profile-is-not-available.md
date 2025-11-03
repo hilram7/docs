@@ -42,3 +42,4 @@ Select the **Use(r) default...** option in both **Connection** and **Job Propert
 3. In the job groups tree, right-click the required job and select **Properties**.
 4. Select the **Connection** tab > select **User default (Inherit from the patent group, if any, or use the global default setting)**.
 5. Click **OK** to save changes.
+

@@ -119,3 +119,4 @@ It contains the following columns:
 
 Click the link to view target details. See the [Host Details Page](/docs/threatprevention/7.5/reportingmodule/investigations/reports/host.md) topic for additional
 information.
+

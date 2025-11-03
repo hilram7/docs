@@ -12,3 +12,4 @@ In a Microsoft Entra ID identity stores, you can create the following types of u
   to create a user in an Microsoft Entra ID identity store.
 - Mailbox – See the [Create a Microsoft Entra ID Mailbox](/docs/directorymanager/11.1/portal/user/create/EntraID/mailbox.md) topic for additional
   information on how to create a mailbox in an Microsoft Entra ID identity store.
+

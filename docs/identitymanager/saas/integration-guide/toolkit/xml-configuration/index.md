@@ -26,3 +26,4 @@ same.
 - [Access Certification](/docs/identitymanager/saas/integration-guide/toolkit/xml-configuration/access-certification/index.md)
 - [Business Intelligence](/docs/identitymanager/saas/integration-guide/toolkit/xml-configuration/business-intelligence/index.md)
 - [Workflows](/docs/identitymanager/saas/integration-guide/toolkit/xml-configuration/workflows/index.md)
+

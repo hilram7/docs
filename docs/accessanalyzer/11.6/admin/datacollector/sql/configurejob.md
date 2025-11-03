@@ -75,3 +75,4 @@ Additionally, the database instances must be added to the Filter page in the que
 See the
 [SQL: Filter](/docs/accessanalyzer/11.6/admin/datacollector/sql/filter.md)
 topic for additional information.
+

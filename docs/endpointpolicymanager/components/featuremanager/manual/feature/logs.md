@@ -65,3 +65,5 @@ Figure 46. Log files showing when a policy installs and uninstalls items.
 
 If needed, logs are automatically wrapped up and can be sent to support by [opening a support ticket](https://www.netwrix.com/tickets.html#/open-a-ticket) using the `PPLOGS.EXE` command on any endpoint
 where the client-side extension (CSE) is installed.
+
+

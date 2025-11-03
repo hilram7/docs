@@ -22,3 +22,4 @@ termination of the tracking operation.
 This prompt definition matches a sequence of ‘new line’’any characters’’-1700>’. Please contact
 [Netwrix Support](https://www.netwrix.com/support.html) if you have any challenging prompt or logon
 script issues.
+

@@ -53,3 +53,4 @@ Now, the **Kevin (kgarrett)**Active Directory identity can log into Privilege S
 access and it will be granted to the endpoint.  Once this access is properly requested, Privilege
 Secure will insert the user with admin privileges into the endpoint on a time-boxed basis. 
 The **kevin** user can then SSH to the endpoint, and connect with their AD credentials.
+

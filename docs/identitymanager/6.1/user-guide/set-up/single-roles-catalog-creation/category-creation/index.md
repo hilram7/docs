@@ -81,3 +81,4 @@ In order to verify the process, check on the **Access Roles** screen that the ca
 with the right parameters.
 
 ![Verify Category](/images/identitymanager/6.1/user-guide/set-up/single-roles-catalog-creation/category-creation/categorycreation_test_v602.webp)
+

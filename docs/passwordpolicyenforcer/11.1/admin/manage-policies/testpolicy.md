@@ -107,3 +107,4 @@ You can use the **Report settings** to customize the report:
 - If the management console is connected to a domain configuration and the Password Policy Enforcer
   configuration was modified recently, then Active Directory may still be propagating the new
   configuration to the other domain controllers.
+

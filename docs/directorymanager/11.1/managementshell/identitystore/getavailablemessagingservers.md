@@ -57,3 +57,4 @@ This example retrieves the available messaging server(s) in AdStore1 identity st
 ```
 Get-AvailableMessagingServers -IdentityStoreName AdStore1 -Provider gsuite -UserName svcaccount@myproject-219211.iam.gserviceaccount.com -AdminUsername 'arslan@mydomain.com' -P12CertificatePath 'C:\Keys\gsuite\key.p12'
 ```
+

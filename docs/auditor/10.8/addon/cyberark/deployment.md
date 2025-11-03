@@ -124,3 +124,4 @@ Click **Proceed** and complete the following fields:
 | Address                              | Specify a list of IP addresses of syslog events sources. The service will collect and process events from these sources only. Events collected from any other source will be ignored.                                                                                                                                                                                                                                                                                                                                                                       |
 
 Click **Run** to start collecting data with the Add-On.
+

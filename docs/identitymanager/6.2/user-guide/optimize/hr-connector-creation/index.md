@@ -124,3 +124,4 @@ In order to verify the process:
     ![Eye Icon](/images/identitymanager/saas/user-guide/set-up/synchronization/iconeye_v600.svg)
 
     You should seek configuration validation, not validation of the actual data being synchronized.
+

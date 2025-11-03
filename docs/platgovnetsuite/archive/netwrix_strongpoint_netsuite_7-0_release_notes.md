@@ -179,3 +179,4 @@ Token-Based Authentication is set up through NetSuite. Refer to
     ![Add tokens for Jira](/images/platgovnetsuite/release_notes/jira_add_token.webp)
 
 6. Enter your credentials and click **Add Token Based Authentication Credential**.
+

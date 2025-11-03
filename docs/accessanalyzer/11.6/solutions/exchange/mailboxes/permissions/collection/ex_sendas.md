@@ -49,3 +49,4 @@ The following analysis task is selected by default:
 
 - Index Collection – Creates an index on the collection for use by downstream analysis and report
   generation
+

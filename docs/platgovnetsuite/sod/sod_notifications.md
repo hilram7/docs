@@ -25,3 +25,4 @@ information to approvers for SoD violations.
    The email shows the requested change, the SoD violation(s) and links to the change request.
 
     ![sod_email_msg](/images/platgovnetsuite/sod/sod_email_msg.webp)
+

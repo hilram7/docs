@@ -67,3 +67,4 @@ Log State** checkbox on the Log State page must be disabled.
 **Step 5 –** Navigate to the Summary page. Click **Finish**.
 
 The EX_IISLogs Job applies the modifications to future job executions.
+

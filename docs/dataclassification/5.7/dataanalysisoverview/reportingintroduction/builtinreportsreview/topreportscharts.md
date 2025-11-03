@@ -28,3 +28,4 @@ the most frequently requested information:
   initially scoped to assist in identifying fuzzy matched duplicate documents.
 - Term Cloud—Displays the top 50 key terms/phrases across the index, selecting a term expands the
   cloud into the related terms.
+

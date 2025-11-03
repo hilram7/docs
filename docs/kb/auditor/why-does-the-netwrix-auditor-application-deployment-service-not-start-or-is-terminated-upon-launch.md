@@ -32,3 +32,4 @@ There are some Netwrix services that are not shown in **services.msc** snap-in. 
 A parent service called **Netwrix Auditor Application Deployment Service** manages them. When you enable a compression service, the Application Deployment service is installed on the target server. Then, the Application Deployment service helps deploying the compression services ("processes") and manages them. Once the Application Deployment service completes its tasks, such as installing the compression service on the target, it goes into idle mode. When needed again, it starts automatically.
 
 Therefore, you do not need to manually start this service or worry if the service gets stopped.
+

@@ -199,3 +199,4 @@ Properties window opens.
 click **Cancel** if no changes were made. Then click **OK** to close the Query Properties window.
 
 The job will now use SSL encryption to query Active Directory.
+

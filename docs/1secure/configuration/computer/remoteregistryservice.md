@@ -27,3 +27,4 @@ status on Windows Server 2012 and above.
 The Remote Registry service should be enabled on the target server.
 
 :::
+

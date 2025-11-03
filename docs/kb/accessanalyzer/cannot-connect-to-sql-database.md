@@ -42,3 +42,4 @@ The database password in **Home** > **Configure Console** > **Database** has exp
 
 ## Related Link
 - Resetting the AIC Administrator Password: https://docs.netwrix.com/docs/accessanalyzer/12_0
+

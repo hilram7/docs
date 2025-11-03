@@ -39,3 +39,4 @@ Our example generates the following configuration:
 <AccessControlRule Identifier="Administrator_RedundantAssignment" DisplayName_L1="Administrator_RedundantAssignment" EntityType="Policy" Profile="Administrator">  <Entry CanExecute="true" Permission="/ProvisioningPolicy/RedundantAssignment" /></AccessControlRule>
 
 ```
+

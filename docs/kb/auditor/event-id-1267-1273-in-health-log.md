@@ -62,3 +62,4 @@ https://learn.microsoft.com/en-us/sharepoint/sites/manage-the-lock-status-for-si
 
 - Manage Lock Status for Site Collections in SharePoint Server − Manage Lock Status for Site Collection via Microsoft PowerShell ⸱ Microsoft 🤝  
   https://learn.microsoft.com/en-us/sharepoint/sites/manage-the-lock-status-for-site-collections#manage-the-lock-status-for-a-site-collection-by-using-microsoft-powershell
+

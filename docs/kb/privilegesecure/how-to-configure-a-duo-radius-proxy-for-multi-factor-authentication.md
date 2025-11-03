@@ -67,3 +67,4 @@ port=1812
 > **NOTE:** You can assign Duo as an authenticator connector for any NPS user. In the main NPS screen, click **Policy** > **Users & Groups**. Select any user and proceed to the **Authenticator Connector** tab. Select the **Duo** option.
 
 On their login to NPS, the configured user should both enter their password and see the multi-factor authentication prompt from Duo. During the initial login, they will be asked to perform the initial Duo enrollment.
+

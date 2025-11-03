@@ -50,3 +50,4 @@ Refer to the following steps in case adding the account to the local administrat
 ## Related articles
 
 - https://docs.netwrix.com/docs/threatprevention/7_5 (Requirements − Console Server Requirements · v7.3)
+

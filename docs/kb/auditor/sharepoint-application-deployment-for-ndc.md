@@ -46,3 +46,4 @@ To enable the app you will need to add the app to the **App Catalog** then deplo
 ![User-added image](images/ka04u000000HcXd_0EM4u000002D97j.png)
 
 7. To complete the setup, navigate to the **Site Collection** → **Site Contents** and select `conceptClassifierApp`. This will complete the installation of the app on the Site Collection and allow you to configure the writing of classifications (if licensed).
+

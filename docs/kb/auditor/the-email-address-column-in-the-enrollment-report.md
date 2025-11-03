@@ -40,3 +40,4 @@ To enable this feature:
 1. On the **Administrative portal - Settings - Authentication Policy** tab, select the **Additional authentication using the user email** check box.
 
 ![User-added image](images/ka04u000000HcNo_0EM700000004xIt.png)
+

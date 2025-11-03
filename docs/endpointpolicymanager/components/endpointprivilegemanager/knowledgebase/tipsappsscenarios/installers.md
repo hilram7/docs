@@ -41,3 +41,5 @@ shown in the screenshot:
   Use additional keywords to detect Application Installers
 
 ![723_3_image-20201103180355-2](/images/endpointpolicymanager/leastprivilege/elevate/723_3_image-20201103180355-2.webp)
+
+

@@ -92,3 +92,4 @@ On the Recovery for Active Directory server
 On the domain controllers for backups
 
 - ...\Netwrix\Recovery for Active Directory\Logs
+

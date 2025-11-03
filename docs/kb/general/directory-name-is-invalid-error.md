@@ -44,3 +44,4 @@ A file share is unavailable.
 
 - Review the path and verify the share is still available. If the affected share is not available, delete the source to stop the error.
 - Review the path and verify the Netwrix Data Classification service account has Full Control permissions to access the shared folder.
+

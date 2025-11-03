@@ -44,3 +44,4 @@ In some environments, it may be necessary to prevent end users from viewing dist
 ![LDAP filter settings in Netwrix Directory Manager security role](images/ka0Qk000000EYmb_0EMQk00000BoN3A.png)
 
 > **NOTE:** For Universal and Global distribution groups, the `sAMAccountType` value is **268435457**. For Domain local distribution groups, the value is **536870913**.
+

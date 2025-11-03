@@ -62,3 +62,4 @@ You can query the activity logs created by the activity agents from within the c
 search feature, set filters for the query to view monitored events. See the
 [Search Feature](/docs/activitymonitor/7.1/admin/search/overview.md) topic
 for additional information.
+

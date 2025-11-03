@@ -28,3 +28,4 @@ tab.
 
 A count-down timer indicates how much time is remaining for the web session. A REC icon will be
 overlayed on the extension if the current page is being recorded.
+

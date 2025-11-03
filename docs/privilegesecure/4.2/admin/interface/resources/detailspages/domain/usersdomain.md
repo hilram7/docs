@@ -71,3 +71,4 @@ The table has the following columns:
   [Password Complexity Page](/docs/privilegesecure/4.2/admin/interface/platforms/passwordcomplexity/passwordcomplexity.md) topic for additional information.
 
 The table columns can be resized and sorted in ascending or descending order.
+

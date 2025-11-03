@@ -40,3 +40,4 @@ Configure SSRS to use the Network Service account:
 2. In the left pane, select **Service Account** and switch the built-in account used to **Network Service**.
 3. Click **Apply** to save changes, and exit **Report Server Configuration Manager**.
 4. For changes to take effect, proceed to **Services**, locate the **SQL Server Reporting Services** service and restart it.
+

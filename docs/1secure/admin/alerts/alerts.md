@@ -134,3 +134,4 @@ Follow the steps to delete a custom alert.
 prompting you to confirm the deletion of the alert.
 
 **Step 4 –** Click **Yes**. The alert is deleted from the system.
+

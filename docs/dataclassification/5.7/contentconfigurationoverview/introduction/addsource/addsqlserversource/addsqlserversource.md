@@ -27,3 +27,4 @@ To crawl SQL server:
     selecting information icon against your server. You can also build the report for more details.
 
 ![sqlserver_source2](/images/dataclassification/5.7/admin/sources/sqlserver/sqlserver_source2.webp)
+

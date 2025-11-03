@@ -15,3 +15,4 @@ In this section:
 - [NDC Server](/docs/dataclassification/5.6.2/deployment/deploymentplan/ndcserverclient/ndc_server_client.md)
 - Scalability and Performance
 - [Data Storages and Sizing](/docs/dataclassification/5.6.2/deployment/deploymentplan/datastorages/data_storages.md)
+

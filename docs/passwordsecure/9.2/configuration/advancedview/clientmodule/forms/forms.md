@@ -114,3 +114,4 @@ There are two possible ways to define a standard form.
 ### Via the form selection
 
 ![default form](/images/passwordsecure/9.2/configuration/advanced_view/clientmodule/forms/forms_9-en.webp)
+

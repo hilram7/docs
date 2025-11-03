@@ -31,3 +31,4 @@ The overview section shows information for the following:
 - Credentials Dashboard – Shows access activity by resource. See the
   [Credentials Dashboard](/docs/privilegesecure/4.1/admin/dashboard/credentials.md)
   topic for additional information.
+

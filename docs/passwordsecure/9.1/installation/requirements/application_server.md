@@ -39,3 +39,4 @@ sidebar_position: 10
 - (Optional) Server needs to be domain-joined (only when using AD provisioning (not Entra ID))
 - (Optional) Provide SMTP-Server details: hostname, port, auth method, protocol (mandatory for a
   variety of features)
+

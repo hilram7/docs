@@ -56,3 +56,4 @@ Remember, the sensitive data discovery options require the Sensitive Data Discov
 installed on the Enterprise Auditor Console. If the SharePoint Agent is used, then it must also be
 installed on the application server that hosts the Central Administration component.
 :::
+

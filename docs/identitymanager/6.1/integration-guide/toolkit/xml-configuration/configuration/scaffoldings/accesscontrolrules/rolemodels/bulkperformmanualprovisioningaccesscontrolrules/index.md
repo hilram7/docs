@@ -37,3 +37,4 @@ Our example generates the following configuration:
 <AccessControlRule Identifier="BulkPerformManualProvisioning_AssignedResourceType_Administrator_Directory_User" DisplayName_L1="Mass review manual provisioning items for Directory_User" EntityType="AssignedResourceType" Profile="Administrator">  <Entry CanExecute="true" Permission="/Custom/ProvisioningPolicy/BulkPerformManualProvisioning/Directory_User" /></AccessControlRule><PerformManualProvisioningAccessControlRules EntityType="Directory_User" Profile="Administrator"/>
 
 ```
+

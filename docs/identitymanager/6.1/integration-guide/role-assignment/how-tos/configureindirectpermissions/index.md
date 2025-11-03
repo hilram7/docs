@@ -141,3 +141,4 @@ Demo, we get the following Indirect Resource Rule:
 
 This rule will also compute indirect permissions for the Microsoft Entra ID.
 ```
+

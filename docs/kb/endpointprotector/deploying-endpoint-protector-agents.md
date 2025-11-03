@@ -37,3 +37,4 @@ This article explains how to deploy Endpoint Protector agents to endpoint system
 4. For macOS installations, provide Full Disk Access after installation:
    I. Navigate to **System Preferences** > **Security & Privacy** > **Privacy** tab > **Full Disk Access**.  
    II. Locate the **Endpoint Protector Client**, check the application, and save the changes.
+

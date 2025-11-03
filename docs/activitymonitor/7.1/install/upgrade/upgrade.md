@@ -59,3 +59,4 @@ the Windows server for monitoring file systems, the Monitored Hosts tab identifi
 “Managed by Threat Prevention”, and that ‘monitored host’ is not editable. However, multiple outputs
 can be configured for hosts. Add the Windows host to the Monitored Hosts tab to monitor file system
 for outputs to Enterprise Auditor, Threat Manager, and/or SIEM products.
+

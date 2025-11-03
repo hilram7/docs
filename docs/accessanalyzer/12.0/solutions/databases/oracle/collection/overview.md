@@ -27,3 +27,4 @@ The job groups in the 0.Collection Job Group are:
   provide a list of users in the database that are configured to use default passwords
 - [5-Oracle_Configuration Job](/docs/accessanalyzer/12.0/solutions/databases/oracle/collection/5-oracle_configuration.md) – This job is designed to return
   additional configuration settings from Oracle servers.
+

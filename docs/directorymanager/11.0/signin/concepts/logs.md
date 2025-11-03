@@ -49,3 +49,4 @@ What do you want to do?
 - [Event Logging](/docs/directorymanager/11.0/signin/identitystore/view/eventlogging.md)
 - For a Portal -
   [Manage Log Settings](/docs/directorymanager/11.0/signin/applications/portal/server/log.md)
+

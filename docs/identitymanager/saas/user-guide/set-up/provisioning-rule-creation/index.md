@@ -54,3 +54,4 @@ Netwrix Identity Manager (formerly Usercube) recommends creating/modifying/delet
 ## Next Steps
 
 Once provisioning rules are created, integrators can start to [Create Roles in the Role Catalog](/docs/identitymanager/saas/user-guide/set-up/single-roles-catalog-creation/index.md).
+

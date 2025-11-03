@@ -79,3 +79,4 @@ To address this issue, you can create an IIS configuration setting that will upd
 ## Upgrades
 
 1. After an upgrade of NPS, you will need to copy the `C:\Program Files\Stealthbits\PAM\Web\web.config.rewrite` file to `C:\Program Files\Stealthbits\PAM\Web\web.config` in order to restore the cache settings.
+

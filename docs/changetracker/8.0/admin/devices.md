@@ -48,3 +48,4 @@ Tracker Now** button will either enable or poll the device for current results.
 
 Clicking the **Report** tab allows for the viewing of existing compliance reports or the option to
 re-run the report.
+

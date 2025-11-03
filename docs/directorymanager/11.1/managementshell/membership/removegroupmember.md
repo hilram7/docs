@@ -41,3 +41,4 @@ credentials in an environment variable.
 ```
 Remove-GroupMember -GroupIdentity "CN=Event Management,OU=Local Recruiting,OU=Recruiting,DC=HR,DC=Imanami,DC=US" -Identity "Brian Regan" -Credential $Cred
 ```
+

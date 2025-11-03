@@ -59,3 +59,4 @@ Prior to upgrade backup the following files from the product installation direct
 **NOTE.** Though all new versions of the server are backward compatible with older versions of clients, it is recommended to update Netwrix Password Secure clients on workstations as well. It can be done with help of `prm_client.msi` installer that can be either found in the product installation directory or received from support.
 
 **NOTE.** It may be required to restart the Netwrix Password Secure service upon completion of the upgrade.
+

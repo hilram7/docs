@@ -16,3 +16,4 @@ Review a full list of protocols and ports required for Netwrix Auditor for Dell 
 | Port | Protocol | Source                 | Target                    | Purpose                                                          |
 | ---- | -------- | ---------------------- | ------------------------- | ---------------------------------------------------------------- |
 | 8080 | TCP      | Netwrix Auditor Server | Isilon/PowerScale cluster | HTTPS Used to connect to the Isilon/PowerScale Management Server |
+

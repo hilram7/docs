@@ -47,3 +47,4 @@ Following are some considerations when the target server is a virtual machine.
 Network bandwidth should be as fast as available but can operate efficiently with 100 Mbps. Slower
 bandwidth will result in a longer setup stage for the restore as the backup container has to be
 copied to the target server.
+

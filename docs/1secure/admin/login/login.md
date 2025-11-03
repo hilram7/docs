@@ -110,3 +110,4 @@ click **Continue**. The Enter Your Password page is displayed.
 **Step 7 –** Click the **Reset Password** button. The password of the account has been reset.
 
 Once you have reset your account password, log in to 1Secure with your new credentials.
+

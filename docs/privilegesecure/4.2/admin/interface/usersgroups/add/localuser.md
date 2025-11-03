@@ -30,3 +30,4 @@ maintain the password entered in step 4.
 **Step 6 –** Click the **Save** button when finished.
 
 Once saved, users can view the new Local User on the [Users & Groups Page](/docs/privilegesecure/4.2/admin/interface/usersgroups/usersgroups.md).
+

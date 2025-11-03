@@ -55,3 +55,4 @@ To apply granular audit policies via Local Policies, perform the following:
 To apply a granular audit policy configuration via a Group Policy Object (GPO), you must have a Windows Server 2008 R2 domain controller or member server with the Group Policy Management Console installed.
 
 For instructions on how to do this, refer to the following technical article by Microsoft: [Advanced Security Audit Policy Step-by-Step Guide](http://technet.microsoft.com/en-us/library/dd408940(v=ws.10).aspx?ppud=4)
+

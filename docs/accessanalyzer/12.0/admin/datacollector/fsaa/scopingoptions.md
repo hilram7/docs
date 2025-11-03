@@ -187,3 +187,4 @@ other folder paths are excluded.
 ![FSAA Scoping Options NFS export example](/images/accessanalyzer/12.0/admin/datacollector/fsaa/commonscopingoptionsnfsexports.webp)
 
 Note the different slash types for exports compared to folders.
+

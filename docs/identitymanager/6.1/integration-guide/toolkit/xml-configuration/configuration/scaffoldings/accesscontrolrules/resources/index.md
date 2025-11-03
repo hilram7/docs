@@ -19,3 +19,4 @@ sidebar_position: 70
     [ViewHistoryResourceTemplate](/docs/identitymanager/6.1/integration-guide/toolkit/xml-configuration/configuration/scaffoldings/accesscontrolrules/resources/viewhistoryresourcetemplate/index.md)
     Generates an access control rule giving to the specified profile the permission to browse the
     resources history of the specified entity type.
+

@@ -51,3 +51,4 @@ For second factor authentication and multifactor authentication to work in Direc
 the **Enrollment Enabled** check box must be selected. Else, users will not be able to enroll, which
 will prevent them from using Directory Manager.
 :::
+

@@ -29,3 +29,4 @@ Netwrix Auditor requires outbound HTTPS (port 443) access to:
 Supported identity sources:
 - Active Directory Domain Services
 - Microsoft Entra Kerberos
+

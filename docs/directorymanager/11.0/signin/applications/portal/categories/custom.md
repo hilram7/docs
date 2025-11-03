@@ -51,3 +51,4 @@ To delete a custom display type:
 
 - [Design a Portal with Display Types](/docs/directorymanager/11.0/signin/applications/portal/displaytype/overview.md)
 - [Display Type Categories](/docs/directorymanager/11.0/signin/applications/portal/categories/categories.md)
+

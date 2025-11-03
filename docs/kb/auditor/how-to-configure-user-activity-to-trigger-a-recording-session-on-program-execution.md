@@ -46,3 +46,4 @@ There are two ways to find the application description:
 
 - Although the video recording will only start when a particular application is opened, it still records the entire screen.
 - **Example:** If you want to configure recording each time Notepad is opened, use `Notepad` as the **Application Description** and for the **Window Title** you can use something like `*Notepad*` because the word "Notepad" is always in the window title regardless of the name of the document open."
+

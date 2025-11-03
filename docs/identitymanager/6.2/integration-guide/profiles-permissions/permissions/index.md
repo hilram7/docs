@@ -1995,3 +1995,4 @@ Here is a list of permissions required for different user profiles:
 - /Workflows/WorkflowInstanceData/Query
 
     Permission to query and read objects of type WorkflowInstanceData
+

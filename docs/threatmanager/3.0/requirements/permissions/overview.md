@@ -12,3 +12,4 @@ permission.
 
 - [Permissions for Active Directory Sync ](/docs/threatmanager/3.0/requirements/permissions/adsync.md)
 - [Application Permissions for Entra ID Sync](/docs/threatmanager/3.0/requirements/permissions/entraidsync.md)
+

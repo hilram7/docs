@@ -48,3 +48,4 @@ You can initiate a support case in [My Tickets · Netwrix](https://www.netwrix.c
 ## What about the Freeware Edition?
 
 Please note that the Freeware version of Netwrix Password Manager is no longer distributed and is now considered outdated and non-functional.
+

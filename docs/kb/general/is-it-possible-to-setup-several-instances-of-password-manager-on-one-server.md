@@ -27,3 +27,4 @@ knowledge_article_id: kA00g000000H9VmCAK
 Password Manager gets registered as a service, and with the current architecture there is only one service per server allowed.
 
 If you need several instances of Password Manager, you will need to allocate several servers or VMs.
+

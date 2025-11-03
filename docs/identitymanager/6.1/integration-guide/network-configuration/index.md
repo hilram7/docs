@@ -215,3 +215,4 @@ Configuration encompasses:
 - The Logger configuration. See the
   [Monitoring](/docs/identitymanager/6.1/integration-guide/monitoring/index.md) topic
   for additional information.
+

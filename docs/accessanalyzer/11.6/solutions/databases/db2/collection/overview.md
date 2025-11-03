@@ -22,3 +22,4 @@ The jobs in the 0.Collection Job Group are:
 - [3-Db2_Configuration Job](/docs/accessanalyzer/11.6/solutions/databases/db2/collection/db2_configuration.md)—
   Collects Db2 database configuration settings for use in the following analysis jobs and respective
   reports
+

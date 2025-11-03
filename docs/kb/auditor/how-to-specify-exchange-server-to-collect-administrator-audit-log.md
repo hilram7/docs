@@ -41,3 +41,4 @@ In order to specify properly configured servers to the product, perform the foll
 ## Explanation
 
 **Explanation:** In this scenario the first server where the product will try to get the Administrator Audit Log will be the first server from the `aal_serverlist.txt`. If all servers from `aal_serverlist.txt` fail to provide the Administrator Audit Log, the product will try to collect the Administrator Audit Log from other Exchange Servers in your organization, and the Administrator Audit Log error can appear in the report.
+

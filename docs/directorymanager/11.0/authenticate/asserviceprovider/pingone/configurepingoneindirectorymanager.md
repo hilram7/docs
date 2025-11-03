@@ -33,3 +33,4 @@ to configure all settings for this identity provider.
     to _Post_ in PingOne.
 12. Click the **Create Provider** button. The identity provider is created and displayed on the
     **SAML Providers** page.
+

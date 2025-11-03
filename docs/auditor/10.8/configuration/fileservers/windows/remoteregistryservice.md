@@ -24,3 +24,4 @@ set to _Automatic_ and click **Start**.
 status on Windows Server 2012 and above.
 
 **NOTE:** The Remote Registry service should be enabled on the target server.
+

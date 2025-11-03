@@ -27,3 +27,4 @@ See next:
 - [Step 2: Maintenance Options](/docs/dataclassification/5.7/systemconfigurationoverview/administration/indexmaintenance/step2.md)
 - [Step 3: Summary](/docs/dataclassification/5.7/systemconfigurationoverview/administration/indexmaintenance/step3.md)
 - [Step 4: Process](/docs/dataclassification/5.7/systemconfigurationoverview/administration/indexmaintenance/step4.md)
+

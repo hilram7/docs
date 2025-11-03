@@ -24,3 +24,4 @@ You will then be asked if you actually want to perform this action.
 
 The management of the recycle bin can be found in chapter
 [Bin](/docs/passwordsecure/9.2/configuration/advancedview/mainmenufc/extras/trash.md).
+

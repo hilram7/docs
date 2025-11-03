@@ -81,3 +81,4 @@ Personalize the home page of the product depending on your business needs. Revie
 settings and collect only required tiles for quick access on the Auditor home page. See the
 [Customize Home Screen](/docs/auditor/10.6/admin/navigation/customizehome.md)
 topic for additional information.
+

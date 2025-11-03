@@ -24,3 +24,4 @@ These guides will help you configure tasks and jobs with practical step-by-step 
     [Configure the Fulfill Task for a Connector](/docs/identitymanager/6.1/integration-guide/tasks-jobs/how-tos/fulfillldap/index.md)
     Create the adequate configuration to add the fulfill task of a given system (here LDAP) in a
     job.
+

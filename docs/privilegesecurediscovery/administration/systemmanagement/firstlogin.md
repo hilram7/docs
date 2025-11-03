@@ -28,3 +28,4 @@ Scan this barcode into the Google Authenticator application on your mobile devic
 as  your MFA token until SecureONE is tied into another MFA solution such as DUO, Okta, Ping, etc. 
 Once another MFA solution has been configured, this solution will replace the Google Authenticator
 solution above entirely.
+

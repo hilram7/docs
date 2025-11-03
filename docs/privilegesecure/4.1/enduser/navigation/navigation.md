@@ -99,3 +99,4 @@ tables show the main icons:
 | ![chapter_1_stealthbits_privileged_27](/images/privilegesecure/4.1/accessmanagement/enduser/chapter_1_stealthbits_privileged_27.webp) | Scheduled Sessions     |
 
 Hover over an icon anywhere within the console for its description.
+

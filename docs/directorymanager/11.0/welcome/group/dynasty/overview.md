@@ -72,3 +72,4 @@ organization.
 - [Create an Active Directory Dynasty](/docs/directorymanager/11.0/welcome/group/dynasty/createdynasty/createdynasty.md)
 - [Create a Microsoft Entra ID Dynasty](/docs/directorymanager/11.0/welcome/group/dynasty/createdynasty/createdynasty_1.md)
 - [Groups](/docs/directorymanager/11.0/welcome/group/create/overview.md)
+

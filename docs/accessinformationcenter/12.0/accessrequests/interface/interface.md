@@ -157,3 +157,4 @@ The buttons at the bottom enable you to perform the following actions:
 | ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | View Changes | Opens the Changes window to view all access changes for the selected trustee. See the [Changes Window](/docs/accessinformationcenter/12.0/accessrequests/interface/changes.md) topic for additional information.           |
 | View Notes   | Opens the View Notes window for the selected request. Clicking on the Notes icon in the table will also open the View Notes window. Click **OK** to close the window. |
+

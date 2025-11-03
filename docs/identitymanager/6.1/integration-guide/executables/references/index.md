@@ -92,3 +92,4 @@ sidebar_position: 10
     version.- ####
     [Usercube-Upgrade-DatabaseVersion](/docs/identitymanager/6.1/integration-guide/executables/references/upgrade-databaseversion/index.md)
     Runs all the migration scripts to upgrade the database.
+

@@ -88,3 +88,4 @@ topic.
 On the Recovery Configuration Utility window, click the **License Information** button to open the
 License Information window that displays the validity of the Recovery for Active Directory license,
 its type, and expiration date.
+

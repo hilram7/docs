@@ -234,3 +234,4 @@ also add subscriptions or export the report data using the options above the Fil
 See the
 [Investigation Reports](/docs/threatprevention/7.4/reportingmodule/investigations/reports/reports.md)
 topic for additional information.
+

@@ -32,3 +32,4 @@ To remove this server from reports, open MS SQL Management Studio, connect to yo
 use NetWrix_File_Server_Change_Reporter
 delete from Sessions where sessions.Object = 'decommissioned_server_name';
 ```
+

@@ -228,3 +228,4 @@ is displayed for each backup:
 ## Forest Recovery
 
 See the [Recover a Forest](/docs/recoveryforactivedirectory/2.6/admin/forest/recover.md) topic for information on how to recover a forest.
+

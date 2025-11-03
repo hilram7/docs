@@ -42,3 +42,4 @@ clicking on it.
 The user who is currently logged in can be seen under account. You can log out by clicking on the
 account. It is also possible to call up the settings in
 [Account](/docs/passwordsecure/9.1/configuration/advancedview/mainmenufc/account.md).
+

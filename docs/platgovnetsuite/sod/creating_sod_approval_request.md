@@ -68,3 +68,4 @@ SoD Exemption** button is available after the request is Approved.
 When the new Request is approved, the employees are added to the **Open** and **Approved** parent
 Change Request and the new Request is **Closed**. If the parent request status has changed, the
 status of the new Request is unchanged.
+

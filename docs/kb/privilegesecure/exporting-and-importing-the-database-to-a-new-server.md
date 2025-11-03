@@ -84,3 +84,4 @@ Start-Service postgresql-x64-12
 Start-Service W3SVC
 Start-Service SbPAM* -Force
 ```
+

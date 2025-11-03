@@ -59,3 +59,4 @@ topic for additional information.
 See the
 [Using Basic Authentication with SharePoint Online](/docs/auditor/10.6/configuration/microsoft365/sharepointonline/permissions/basicauth.md)
 topic for additional information.
+

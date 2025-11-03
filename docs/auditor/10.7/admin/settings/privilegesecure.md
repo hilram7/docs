@@ -121,3 +121,4 @@ Netwrix Privilege Secure for data collection in Netwrix Auditor, make sure that 
 dedicated Access Policy and Connection Profile in Netwrix Privilege Secure. Refer to the
 [Netwrix Privilege Secure](https://helpcenter.netwrix.com/category/privilegesecure_accessmanagement)
 documentation for additional information.
+

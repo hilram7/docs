@@ -15,3 +15,4 @@ sidebar_position: 20
 
     Generates the permissions to configure the Workforce Core Solution module and connector
     settings.
+

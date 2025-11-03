@@ -162,3 +162,4 @@ installation is complete, click Finish to exit the wizard.
 The installer does not automatically open the Recovery Console web page after installation. The
 Recovery Console icon is located on the desktop. See the [First Launch](/docs/recoveryforactivedirectory/2.6/install/firstlaunch.md) topic for
 the next step.
+

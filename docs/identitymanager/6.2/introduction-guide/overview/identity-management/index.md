@@ -125,3 +125,4 @@ See how to create a
 Learn more on [Synchronization](/docs/identitymanager/6.2/integration-guide/synchronization/index.md).
 
 Learn more on [Workflows](/docs/identitymanager/6.2/integration-guide/workflows/index.md).
+

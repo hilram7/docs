@@ -38,3 +38,4 @@ sidebar_position: 10
 - [Target Resource Report Menus](/docs/identitymanager/6.2/integration-guide/toolkit/xml-configuration/configuration/scaffoldings/entitytypes/entitytypes/targetresourcereportmenus/index.md)
 
     Creates the Item menu for the entity's report so that it is displayed in the report view.
+

@@ -23,3 +23,4 @@ Date range must be 7 days or less.
 - Last – Select the number of days
 - Between (Date) – Use the drop-down menus to open the calendar selection view to choose the start
   and end dates
+

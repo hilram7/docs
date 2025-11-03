@@ -182,3 +182,4 @@ the created risk, and check the consequences:
   [Risk Management](/docs/identitymanager/6.2/integration-guide/governance/risks/index.md) topic for additional
   information.
 - Once the entitlement is assigned, a line must appear on the **Identified Risks** page.
+

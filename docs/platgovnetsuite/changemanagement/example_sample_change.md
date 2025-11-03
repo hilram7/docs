@@ -67,3 +67,4 @@ This change will be flagged as non-compliant and appear on the report as **Non-C
 1. Open **Strongpoint** > **Change Management Reports** > **Open Non-Compliant Changes**
 2. Set the **Date Created** to **Today**
 3. Resolve and close non-compliant change.
+

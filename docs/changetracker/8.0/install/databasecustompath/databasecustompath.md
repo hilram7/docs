@@ -10,3 +10,4 @@ sidebar_position: 20
 
 - [Linux](/docs/changetracker/8.0/install/databasecustompath/linux.md)
 - [Windows](/docs/changetracker/8.0/install/databasecustompath/windows.md)
+

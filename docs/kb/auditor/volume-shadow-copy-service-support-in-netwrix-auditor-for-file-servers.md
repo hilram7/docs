@@ -37,3 +37,4 @@ The **Volume Shadow Copy Service** (hereafter **VSS**) can be enabled via **Netw
 ## Where Shadow Copy data is stored
 
 The **Shadow Copy** data is stored on the audited file server. **VSS** is a built-in **Windows** service, and when you enable the VSS support, **Netwrix Auditor** just triggers creation of a snapshot. If you have not configured **VSS**, you may want to turn it off (especially if you do not have enough space on that server). To know precisely where the **Shadow Copy** data is stored, refer to the **Shadow Copy** information on the drive volume.
+

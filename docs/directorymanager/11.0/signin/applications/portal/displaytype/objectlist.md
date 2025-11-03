@@ -53,3 +53,4 @@ What do you want to do?
 
 - [Design a Portal with Display Types](/docs/directorymanager/11.0/signin/applications/portal/displaytype/overview.md)
 - [Specify Attributes for the Object Card](/docs/directorymanager/11.0/signin/applications/portal/displaytype/objectcard.md)
+

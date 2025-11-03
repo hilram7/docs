@@ -40,3 +40,4 @@ Navigate to the following file locations:
 For each instance of `conceptConfig.exe`, change the path seen here:
 
 ![Change NDC URL](https://kb.netwrix.com/wp-content/uploads/2019/10/Change-NDC-URL-3.png)
+

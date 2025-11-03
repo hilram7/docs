@@ -50,3 +50,4 @@ The table has the following columns:
       [Lock Session](/docs/privilegesecure/4.2/admin/dashboard/active/locksession.md) topic for additional information.
 
 The table columns can be resized and sorted in ascending or descending order.
+

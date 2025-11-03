@@ -139,3 +139,4 @@ If you were auditing Windows Server or SharePoint server/farm, and the correspon
 were installed automatically according to the monitoring plan settings, then they will be upgraded
 automatically during the initial data collection. During the Netwrix Auditor for SharePoint Core
 Service upgrade, your SharePoint sites will be temporarily unavailable.
+

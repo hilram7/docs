@@ -23,3 +23,4 @@ following information:
 - **Parent**: parent of the Saved Search (for example, ScheduleScripts, Workflows, ClientScripts).
 - **Search Formulas**: all formulas from the Saved Search criteria and results.
 - **Go To Record**: link to the specific Saved Search record.
+

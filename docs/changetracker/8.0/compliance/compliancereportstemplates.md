@@ -30,3 +30,4 @@ For report template modifications or new formats, please contact
 [Netwrix Support](https://www.netwrix.com/support.html).
 
 ![ComplianceReportsLayout](/images/changetracker/8.0/admin/compliancereportslayout.webp)
+

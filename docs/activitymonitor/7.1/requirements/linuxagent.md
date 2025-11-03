@@ -61,3 +61,4 @@ Activity Monitor supports the immutable mode. It compares the current auditd con
 desired one. If they differ and the immutable mode is enabled, the product displays a warning that a
 server restart is required in the status section of the **Monitored Hosts** tab. After the reboot,
 the changes take effect and the immutable mode is enabled.
+

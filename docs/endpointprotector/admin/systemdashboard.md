@@ -191,3 +191,4 @@ based on rights, users, computers, device types, speciﬁc devices, report type 
 including Outside Hours and Outside Network Policies, and more.
 
 Once the report is generated, from the Actions column, you can download or delete it.
+

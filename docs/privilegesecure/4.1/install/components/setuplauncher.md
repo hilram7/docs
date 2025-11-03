@@ -150,3 +150,4 @@ Wizard can be accessed through the Netwrix Privilege Secure desktop icon or loca
 port. See the
 [First Launch](/docs/privilegesecure/4.1/install/firstlaunch.md)
 topic for additional information.
+

@@ -34,3 +34,4 @@ How to point Password Manager to use a specific Domain Controller for all accoun
 3) **Restart** the **Password Manager service** after making this registry change to ensure the change is reflected in the next operation.
 
 4) To verify the change is being applied, navigate to the product install directory and find the **ALService** text file. You can then search for the string ` "target_comp" ` occurring at a time AFTER the registry modification was made.
+

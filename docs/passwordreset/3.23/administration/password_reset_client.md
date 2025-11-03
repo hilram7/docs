@@ -257,3 +257,4 @@ Editor.
 The license key is applied to all computers in the domain. This does not happen immediately, as
 Windows takes some time to apply the changes to Group Policy. You can force an immediate refresh of
 Group Policy on the local computer with the following command: `gpupdate /target:computer`
+

@@ -40,3 +40,4 @@ The following application permissions are required.
 ## SharePoint Delegated Permissions
 
 ![allsites](/images/directorymanager/11.0/configureentraid/register/allsites.webp)
+

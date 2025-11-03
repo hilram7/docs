@@ -404,3 +404,4 @@ Follow the steps below to configure the Password Reset Client to use IE 11 mode.
 
 Create this registry value on all the Password Reset Client computers. IE 11 mode can be requested
 even if the computer is running an older version of IE.
+

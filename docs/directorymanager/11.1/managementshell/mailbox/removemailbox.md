@@ -30,3 +30,4 @@ The following command deletes the specified mailbox from the connected identity 
 ```
 Remove-MailBox -Identity "OsamaMailBox"
 ```
+

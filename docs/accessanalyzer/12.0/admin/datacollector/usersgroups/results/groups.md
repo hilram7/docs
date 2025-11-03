@@ -53,3 +53,4 @@ users that are selectable.
 
 Select a group or user by selecting the checkbox next to it, and click **OK** to confirm selection.
 Click **Cancel** to leave the window without a selection.
+

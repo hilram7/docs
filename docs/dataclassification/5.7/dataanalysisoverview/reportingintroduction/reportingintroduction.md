@@ -26,3 +26,4 @@ strongly to the “2013” site collection.
 
 It is possible to filter and refine this display, to look for the areas that contain the largest
 amount of documents tagged with a particular term, or to only review specific content.
+

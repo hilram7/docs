@@ -31,3 +31,4 @@ To exclude user's extended properties from being reported, add the following lin
 user.*.extended*
 user.extended*.*
 ```
+

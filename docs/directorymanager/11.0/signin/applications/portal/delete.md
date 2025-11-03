@@ -67,3 +67,4 @@ Deleting a portal removes all its deployments and configurations from GroupID.
 - [GroupID Applications](/docs/directorymanager/11.0/signin/applications/applications.md)
 - [GroupID Portal](/docs/directorymanager/11.0/signin/applications/portal/overview.md)
 - [Create a GroupID Portal](/docs/directorymanager/11.0/signin/applications/portal/create.md)
+

@@ -17,3 +17,4 @@ The jobs in the 0.Collection job group are:
   – Collects potentially sensitive data in mailboxes
 - [EX_PublicFolder_SDD Job](/docs/accessanalyzer/11.6/solutions/exchange/sensitivedata/collection/ex_publicfolder_sdd.md)
   – Collects potentially sensitive data in public folders
+

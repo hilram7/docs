@@ -61,3 +61,4 @@ contrived example aims at illustrating the method.
 | DisplayName_L1 optional    | **Type** String **Description** Display name of the resource in language 1 (up to 16).                                                                                                                                                                                             |
 | I40 optional               | **Type** Int64 **Description** This columns are used to store the id of an linked entity. When an entity type has a mono-valued association we usually use this columns to store the information. By default there are 10 columns for the storage of the mono-valued associations. |
 | Type required              | **Type** Int64 **Description** The type of the resource. References the internal id of an EntityType.                                                                                                                                                                              |
+

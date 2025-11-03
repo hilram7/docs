@@ -43,3 +43,4 @@ restored:
   entries for the new Internal ID.
 
 ![Search form](/images/platgovnetsuite/clean_up/limitation_restoring_searches.webp)
+

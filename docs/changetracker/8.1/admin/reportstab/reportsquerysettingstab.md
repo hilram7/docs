@@ -32,3 +32,4 @@ in the exported PDF, not the Web Browser-rendered report.
 
 
 ![ReportTemplateTOC](/images/changetracker/8.1/admin/tabs/reporttemplatetoc.webp)
+

@@ -53,3 +53,4 @@ The Category selected may alter the subsequent steps displayed by the wizard.
 - [EWSPublicFolder: Search Filter](/docs/accessanalyzer/12.0/admin/datacollector/ewspublicfolder/searchfilter/searchfilter.md)
 - [EWSPublicFolder: Results](/docs/accessanalyzer/12.0/admin/datacollector/ewspublicfolder/results.md)
 - [EWSPublicFolder: Summary](/docs/accessanalyzer/12.0/admin/datacollector/ewspublicfolder/summary.md)
+

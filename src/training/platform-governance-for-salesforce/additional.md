@@ -12,3 +12,4 @@ This product was formerly named Netwrix Strongpoint for NetSuite.
 
 * What's New in <NPGS /> 6.0 (webinar)
 * What's New in <NPGS /> v6.0
+

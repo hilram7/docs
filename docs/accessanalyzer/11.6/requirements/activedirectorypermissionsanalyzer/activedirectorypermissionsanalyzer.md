@@ -44,3 +44,4 @@ These are dependent upon the size of the target environment.
 | SQL Database Disk        | 1 TB                    | 450 GB                 |
 | SQL Transaction Log Disk | 240 GB                  | 120 GB                 |
 | SQL TEMP DB Disk         | 350 GB                  | 240 GB                 |
+

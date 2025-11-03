@@ -69,3 +69,4 @@ The subscription is listed on the Subscriptions and Exports page of the Investig
 
 See the [Subscriptions and Exports Page](/docs/threatmanager/3.0/administration/investigations/subscriptionsexports.md) topic for additional
 information.
+

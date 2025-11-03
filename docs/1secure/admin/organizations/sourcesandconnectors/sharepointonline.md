@@ -114,3 +114,4 @@ Online. Specify the following:
 **Step 8 –** Click **Finish**.
 
 The SharePoint Online data source and connector(s) have been configured.
+

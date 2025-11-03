@@ -63,3 +63,4 @@ You can click the **Edit** icon or the **Bin** icon to edit or delete the integr
 See the [Subscriptions](/docs/1secure/admin/searchandreports/subscriptions.md) and
 [Risk Assessment Dashboard](/docs/1secure/admin/riskprofiles/riskassessmentdashboard.md) topics to learn how to
 add subscriptions and deliver it to SharePoint Online folder.
+

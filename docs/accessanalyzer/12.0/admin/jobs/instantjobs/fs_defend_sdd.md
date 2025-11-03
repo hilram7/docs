@@ -93,3 +93,4 @@ Create a Connection Profile and set the following information on the User Creden
 - Access Token – Copy and paste the Threat Manager App Token
 
 See the [Application](/docs/accessanalyzer/12.0/admin/settings/application/overview.md) topic for additional information.
+

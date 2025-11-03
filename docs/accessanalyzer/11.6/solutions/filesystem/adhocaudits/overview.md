@@ -30,3 +30,4 @@ For both of these jobs, the host list is set to Local host at the job level. The
 Profile needs to have rights on the Enterprise Auditor Console server to access the CSV file saved
 in the job's directory. The Connection Profile can be set at either the Ad Hoc Audits > Settings >
 Connection node (applies to both jobs) or in the job's Properties window on the Connection tab.
+

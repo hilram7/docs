@@ -33,3 +33,5 @@ Setting this up is as easy as specifying a URL for them to click upon in the Cus
 in the Admin Approval policy.
 
 ![915_4_image005_950x582](/images/endpointpolicymanager/integration/915_4_image005_950x582.webp)
+
+

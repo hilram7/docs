@@ -84,3 +84,4 @@ To remove an object from the members list, select it and click **Remove**.
 See Also
 
 - [Group Properties](/docs/directorymanager/11.0/welcome/group/properties/overview.md)
+

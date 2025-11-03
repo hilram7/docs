@@ -21,3 +21,4 @@ are added to the filter from where you clicked the **Add** (+) button to open th
 See the [Selection Windows](/docs/threatprevention/7.5/admin/policies/configuration/eventtype/window/overview.md) topic for additional information.
 
 The selection is displayed in the appropriate box of the AD Account filter or the AD Groups filter.
+

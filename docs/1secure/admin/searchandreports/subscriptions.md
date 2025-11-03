@@ -170,3 +170,4 @@ A dialog box is displayed, prompting you to confirm the deletion of the subscrip
 **Step 5 –** Click **Yes**.
 
 The subscription is deleted.
+

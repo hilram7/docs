@@ -63,3 +63,4 @@ start retrieving new Activity Records. Consider the following:
 
 - However, if you have specified a time period for Activity Records to be exported, then this filter
   will be applied at the add-on first run and the runs that follow.
+

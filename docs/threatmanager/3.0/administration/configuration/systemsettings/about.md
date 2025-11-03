@@ -21,3 +21,4 @@ application. Each component and its license is listed.
   details.
 - To view the details for all licenses, click the **Expand All** button.
 - To view the third-party's license page, click the corresponding external link icon.
+

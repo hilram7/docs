@@ -437,3 +437,4 @@ Step 6 – In the Bearer Token box, enter the authentication token you generated
 
 Step 7 – Click **Create Data Source**.
 The data source is available on the SCIM tab of the Data Sources page.
+

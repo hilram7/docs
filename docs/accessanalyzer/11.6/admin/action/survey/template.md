@@ -10,3 +10,4 @@ Survey templates require customization to meet the customer's business needs. Co
 [Netwrix Support](https://www.netwrix.com/support.html) for additional information.
 
 ![Survey Action Module Wizard Survey Template page](/images/accessanalyzer/11.6/admin/action/survey/surveytemplate.webp)
+

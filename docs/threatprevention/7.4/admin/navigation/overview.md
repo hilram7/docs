@@ -150,3 +150,4 @@ The Status Bar is located at the bottom of the Administration Console.
 ![statusbar](/images/threatprevention/7.4/admin/navigation/statusbar.webp)
 
 It displays the current user account logged into Threat Prevention and current session details.
+

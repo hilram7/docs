@@ -61,3 +61,4 @@ Invoke-RestMethod -Method POST -URI "$($sbpamURI)/api/v1/LicenseInfo?License=$en
 ```
 
 3. Copy and paste the modified script into PowerShell and execute it. Your license should now be imported into Netwrix Privilege Secure Access Management.
+

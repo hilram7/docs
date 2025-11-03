@@ -129,3 +129,4 @@ Step 15 – On the Schedules page, click **Save**.
  The schedule is displayed under Group Usage Service. See the
 [View the Schedules in an Identity Store ](manage.md#view-the-schedules-in-an-identity-store) topic
 for additional information.
+

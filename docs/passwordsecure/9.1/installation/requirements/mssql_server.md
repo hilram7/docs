@@ -32,3 +32,4 @@ Secure application server, please ensure to meet the combined minimum requiremen
    database needs to be created manually with the right collation and then be linked to/in Netwrix
    Password Secure)
 3. Port/firewall rule: Port 1433 TCP for communication with application server (incoming)
+

@@ -72,3 +72,4 @@ installation.
 The Access Analyzer Console has been installed, and two desktop icons have been created: Access
 Analyzer and Published Reports. Launch the Access Analyzer application to complete the initial
 configuration.
+

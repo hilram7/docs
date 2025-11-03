@@ -39,3 +39,4 @@ additional information.
 The administrator must also add users who can access the application. Once these users have access,
 see the [Log into the Recovery Console](/docs/recoveryforactivedirectory/2.6/install/login.md) topic for information on accessing and signing
 into the Recovery Console.
+

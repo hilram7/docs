@@ -29,3 +29,4 @@ The jobs in the 3.Permissions Job Group are:
   – This job provides the list of SQL and Azure SQL server logins that have the PUBLIC roles
   assigned. In addition, it also provides the list of permissions assigned to the PUBLIC role as
   well
+

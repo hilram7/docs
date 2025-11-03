@@ -55,3 +55,4 @@ Notifications are generated for events such as group renewal, expiry policy chan
 For example, if an administrator changes the **Notes** field of a user account in Active Directory, the user whose account was modified will receive an email notification about the change.
 
 ![Sample email notification sent to user after profile modification in Directory Manager](images/ka0Qk000000D8kX_0EMQk00000BpGAr.png)
+

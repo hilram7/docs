@@ -120,3 +120,4 @@ This Get Group API retrieves details of a specified group.
     "identityStoreId": 2
 }
 ```
+

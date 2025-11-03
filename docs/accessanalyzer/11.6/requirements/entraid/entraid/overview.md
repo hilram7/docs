@@ -24,3 +24,4 @@ topic for additional information.
 The following firewall ports are needed by the AzureADInventory Data Collector:
 
 - TCP 80 and 443
+

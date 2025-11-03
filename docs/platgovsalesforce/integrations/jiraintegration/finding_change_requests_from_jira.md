@@ -20,3 +20,4 @@ Create a Report:
 6. Add any additional columns you want to display.
 7. Once the report is created, click **Save**. Best practice is to title the search something
    meaningful, such as **Find Change Requests from Jira**.
+

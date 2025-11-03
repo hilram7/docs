@@ -71,3 +71,4 @@ Refer to the relevant resolution for the cause in your environment:
 - [Enable SSO Wrapping for Third-Party Credentials with the Windows Registry ⸱ GlobalProtect](https://docs.paloaltonetworks.com/globalprotect/9-1/globalprotect-admin/globalprotect-apps/deploy-app-settings-transparently/deploy-app-settings-to-windows-endpoints/enable-sso-wrapping-for-third-party-credentials-with-the-windows-registry)
 - Installing Password Policy Client − Creating Firewall Rules for the Password Policy Client v10.2
 - Communication Protocols in Password Policy Enforcer
+

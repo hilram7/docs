@@ -137,3 +137,4 @@ displayed in the results.
 | User/Group has the ‘Limited Access' permission level on a file/folder. | 'Allow' only for the View Application Pages list permission.                                                       |
 | User/Group has the 'Edit' permission level on a file/folder.           | 'Allow' for all list permissions except Full Control and Approve Items.                                            |
 | User/Group has the ‘Read' permission level on a file/folder.           | 'Allow' for the View Items, Open Items, View Versions, Create Alerts, and View Application Pages list permissions. |
+

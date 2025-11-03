@@ -122,3 +122,4 @@ the following:
 **Step 2 –** Enable and select protocols needed.
 
 Dell PowerStore is enabled for auditing.
+

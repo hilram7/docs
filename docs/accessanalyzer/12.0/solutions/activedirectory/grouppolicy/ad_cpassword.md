@@ -41,3 +41,4 @@ pre-configured report:
 | Report                        | Description                                                                                                                  | Default Tags | Report Elements                                                                                                       |
 | ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------------------------------------------------------------------------------------------------------------- |
 | Potential Plaintext Passwords | This report highlights domain contollers where this vulnerability exists, and provides the path of the XML file in question. | None         | This report is comprised of one elements: <ul><li>Table – Provides details on potential plaintext passwords</li></ul> |
+

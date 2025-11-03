@@ -571,3 +571,4 @@ screen to be kept or deleted by less technical users.
 
 Fulfilling assignments is the role of connectors. Provisioning orders are written and sent to the
 agent via the `Usercube-Generate-ProvisioningOrders` task is added to every provisioning job.
+

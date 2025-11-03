@@ -51,3 +51,4 @@ commit the modifications. Click **Cancel** to discard the modifications.
 - Sessions – Displays previous sessions that have used this resource as a target
 - Access Policies – Displays a list of access policies that this resource belongs to
 - History – Displays previous sessions with events that are related to this resource
+

@@ -152,3 +152,4 @@ To start the installation, follow either the
 [quick start guide](/docs/identitymanager/6.1/installation-guide/quick-start/index.md)
 or the
 [production-ready installation guide](/docs/identitymanager/6.1/installation-guide/production-ready/index.md).
+

@@ -197,3 +197,4 @@ Manual runs of the tracking policy can be executed from the Splunk device by cli
 Poll.
 
 ![starttrackerpoll](/images/changetracker/8.1/integration/splunk/starttrackerpoll.webp)
+

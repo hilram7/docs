@@ -74,3 +74,4 @@ sidebar_position: 80
 
     Generates the permissions to configure and launch the automatic creation of roles and rules
     based on naming conventions.
+

@@ -26,3 +26,4 @@ Click Next to proceed. See also:
 - [Security](/docs/dataclassification/5.7/introduction/initialconfiguration/security.md)
 - [Configure Health Alerting](/docs/dataclassification/5.7/introduction/initialconfiguration/healthalert.md)
 - [Review Your Configuration](/docs/dataclassification/5.7/introduction/initialconfiguration/reviewconfig.md)
+

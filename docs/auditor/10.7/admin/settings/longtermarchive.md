@@ -35,3 +35,4 @@ Auditor  informs you if you are running out of space on a system disk where the
 stored by default. You will see events in the Netwrix Auditor **System Health** log once the free
 disk space starts approaching minimum level. When the free disk space is less than 3 GB, the
 Netwrix services responsible for audit data collection will be stopped.
+

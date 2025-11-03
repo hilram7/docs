@@ -24,3 +24,4 @@ Provide the following information for the local accounts:
     - Require Digit
 
 - Expiration days – The number of days the password can be used before the password expires
+

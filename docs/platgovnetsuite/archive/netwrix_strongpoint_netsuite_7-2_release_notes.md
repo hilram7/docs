@@ -75,3 +75,4 @@ of saved searches in your account that contain code in **Formula(Text)** fields,
 **Lists** > **Search** > **Saved Searches with HTML in Formula(Text)**
 
 ![Run the Saved Search to view changes](/images/platgovnetsuite/release_notes/formulahtml.webp)
+

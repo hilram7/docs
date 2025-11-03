@@ -41,3 +41,4 @@ This article describes how to configure site collection permissions so you can r
    ![Site Collection Administrators dialog](images/ka0Qk0000006P8b_0EMQk000007UAdp.png)
 
 7. Click **OK** to save changes.
+

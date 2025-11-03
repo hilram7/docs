@@ -36,3 +36,4 @@ This example provides a list of permission names along with the category of a pe
 ```
 Get-RolePermissionNames -IncludeEntityTypes
 ```
+

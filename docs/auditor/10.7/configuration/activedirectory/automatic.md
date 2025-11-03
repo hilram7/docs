@@ -40,3 +40,4 @@ See also:
 - [Active Directory](/docs/auditor/10.7/configuration/activedirectory/overview.md)
 - [Audit Configuration Assistant](/docs/auditor/10.7/tools/auditconfigurationassistant.md)
 - [Active Directory: Manual Configuration](/docs/auditor/10.7/configuration/activedirectory/manual.md)
+

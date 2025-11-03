@@ -110,3 +110,4 @@ templates to import and configure.
 
 The templates are now available in the
 [Templates Interface](/docs/threatprevention/7.4/admin/templates/overview.md).
+

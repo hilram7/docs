@@ -13,3 +13,4 @@ Reminder notification concerning role model tasks.
 | Property            | Type   | Description                            |
 | ------------------- | ------ | -------------------------------------- |
 | Identifier optional | String | Unique identifier of the notification. |
+

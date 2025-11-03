@@ -80,3 +80,4 @@ Netwrix Technical Support might request a collection of your Netwrix Auditor log
 
 - [How to Save and Zip Netwrix Auditor System Health Event Log](/docs/kb/auditor/how-to-save-and-zip-netwrix-auditor-system-health-event-log.md)
 - [Netwrix Customer Portal](https://www.netwrix.com/tickets.html#/tickets/open)
+

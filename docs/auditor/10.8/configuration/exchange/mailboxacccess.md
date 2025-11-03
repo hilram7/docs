@@ -48,3 +48,4 @@ Programs → Exchange Management Shell**.
 
 **Step 3 –** Navigate to **Start → Run** and type _"services.msc"_. In the Services snap-in, locate
 the Microsoft Exchange Information Store service and restart it.
+

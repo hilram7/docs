@@ -90,3 +90,4 @@ Configure the report to use the `Netwrix_Auditor_EventLog` database:
    ![4.png](images/ka04u000000HdPU_0EM4u0000084p15.png)
 
 Printed Documents RDL: https://www.netwrix.com/download/Printed-Documents-RDL.zip
+

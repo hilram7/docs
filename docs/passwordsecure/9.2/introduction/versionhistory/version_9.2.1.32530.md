@@ -45,3 +45,4 @@ The ‘SaveRights’ call is now functional again in the JavaScript API.
 #### Basic view in the web app
 
 Mouse hover effects in the basic view have been fixed (This only applys to the new design .).
+

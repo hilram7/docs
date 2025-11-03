@@ -18,3 +18,4 @@ After confirming a security question, it is installed and an icon is created in 
 
 NOTE: It is also possible to find the Add-on link in the Web Application page footer, if it is not
 installed yet
+

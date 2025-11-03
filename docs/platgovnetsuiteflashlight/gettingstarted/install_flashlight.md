@@ -24,3 +24,4 @@ Flashlight bundle into your NetSuite account.
    **Refresh** to see installation progress. When complete, the Flashlight bundle is marked with a
    green check in the **Status** and the **Flashlight** tab is available.
 9. Set up a [licensed user](/docs/platgovnetsuiteflashlight/gettingstarted/setting_up_licensed_user.md) to complete the installation.
+

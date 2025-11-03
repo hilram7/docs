@@ -36,3 +36,4 @@ the Target items field.
 
 - Preview – Shows what the compound path specified will be resolved in to. The text here is used to
   initialize the file specification selection dialog.
+

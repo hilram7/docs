@@ -34,3 +34,4 @@ A search query in Netwrix Auditor takes too long to complete and are slow. What 
    - The **Data source** filter allows to limit the search scope to a particular source of monitoring data. Both **Data source** and **When** filters help to focus on relevant Activity Records either in a larger environment, or when the SQL Server Express edition with multiple audit databases is implemented.
 
 2. Review the resources allocated to your SQL Server − Netwrix Auditor is directly dependent on the SQL Server performance when the search queries are resolved. In case your SQL Server instance does not share the same server with Netwrix Auditor, the network bandwidth should be considered.
+

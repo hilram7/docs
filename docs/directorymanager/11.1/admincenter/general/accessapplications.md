@@ -42,3 +42,4 @@ To add a third-party application:
 2. Click **Enroll your account** on the **GroupID Applications** page to enroll the identity store
    account with which you are signed into Admin Center. See the
    [Enroll your Identity Store Account](/docs/directorymanager/11.1/admincenter/general/enroll.md) topic for enrollment details.
+

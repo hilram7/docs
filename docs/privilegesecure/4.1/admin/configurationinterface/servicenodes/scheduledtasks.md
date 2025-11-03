@@ -24,3 +24,4 @@ The Scheduled Tasks page has the following features:
 
 - View Logs button — Click to view logs for the selected task
 - Refresh – Reload the information displayed
+

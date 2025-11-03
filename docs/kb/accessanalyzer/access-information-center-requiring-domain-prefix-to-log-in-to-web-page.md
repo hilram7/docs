@@ -39,3 +39,4 @@ Due to the change from IIS to a new web server, subdomain users will now need to
 Ensure that the **Default Domain** is based on the AIC **Use the following Active Directory account** setting, which must be the desired domain.
 
 > **NOTE:** All domains enabled to access the AIC must also have data collected by the Netwrix Access Analyzer Active Directory Inventory solution as per the following article: Active Directory—Multiple Domains.
+

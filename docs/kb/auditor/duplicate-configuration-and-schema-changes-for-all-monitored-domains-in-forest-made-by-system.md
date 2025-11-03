@@ -39,3 +39,4 @@ This behavior is expected due to the Active Directory architecture. Configuratio
 Security log events that Netwrix Auditor uses to establish the `WHO` value are only generated in the domain where the changes were actually made. For all other domains the reports will show **System**.
 
 Netwrix Auditor exclusively collects events from domain controllers in domains specified for data collection (in addition to domain controllers in the root domain) and ignores domain controllers in the domains that are not audited. Netwrix Auditor collects changes and security events separately and independently for each managed domain. In the example above, each domain had configuration changes due to replication, but only one had corresponding security events which Netwrix Auditor used to collect the `WHO` value.
+

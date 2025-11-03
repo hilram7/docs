@@ -15,3 +15,4 @@ Major benefits:
 - Detect system alerts — on premises and in the cloud
 - Increase productivity of IT Managed Service Provider team
 - Providing overall reports based on the search parameters
+

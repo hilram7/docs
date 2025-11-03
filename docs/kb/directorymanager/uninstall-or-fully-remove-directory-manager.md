@@ -119,3 +119,4 @@ To remove Directory Manager Self-Service and Password Center portal files:
 - Imanami GroupID Certificate
 
 > **NOTE:** Do not remove these certificates if another Directory Manager version is installed on the machine.
+

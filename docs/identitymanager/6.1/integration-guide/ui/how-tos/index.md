@@ -19,3 +19,4 @@ These guides will help you configure various UI settings with practical step-by-
     Define a custom way to search from a list of a given entity type's properties.- ####
     [Customize Forms](/docs/identitymanager/6.1/integration-guide/ui/how-tos/custom-forms/index.md)
     Define a custom way to display the input fields to be filled in a given workflow.
+

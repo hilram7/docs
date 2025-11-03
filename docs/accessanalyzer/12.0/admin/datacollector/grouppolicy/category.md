@@ -26,3 +26,4 @@ The available categories are:
       Policy** being returned for all policies in the targeted domains
 
 - Local policies – Returns effective security policies in effect at the individual workstation
+

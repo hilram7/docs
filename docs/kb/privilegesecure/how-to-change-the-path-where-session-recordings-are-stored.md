@@ -132,3 +132,4 @@ In order to ensure that the necessary permissions are applied to the new directo
 $webRecordingDir = <directory>
 &icacls.exe $webRecordingDir /grant "NT SERVICE\SbPAMProxy:(OI)(CI)F" /Q /T
 ```
+

@@ -11,3 +11,4 @@ This product was formerly named Netwrix Strongpoint for NetSuite.
 :::
 
 * What's New in <NPGN /> v7.7
+

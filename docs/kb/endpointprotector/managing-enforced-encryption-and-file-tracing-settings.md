@@ -54,3 +54,4 @@ The **Offline File Tracing** option extends this functionality by storing inform
 Additionally, EasyLock performs file shadowing for files transferred if the Endpoint Protector Client is present and the **File Shadowing** option is enabled on the computer through the **Device Control** module. This is a real-time event, and no shadowing information is stored on the device.
 
 **NOTE:** Enabling global File Tracing does not automatically activate the File Tracing option on Enforced Encryption Trusted Device™ and vice versa.
+

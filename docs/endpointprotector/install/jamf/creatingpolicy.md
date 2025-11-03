@@ -42,3 +42,4 @@ EndpointProtector.pkg.
 To confirm that the Endpoint Protector Client has been successfully deployed and the Server- Client
 communication and policies work as expected, you can view the endpoint in the List of Computers from
 the Endpoint Protector UI, and the Endpoint Protector Client is displayed in the menu bar.
+

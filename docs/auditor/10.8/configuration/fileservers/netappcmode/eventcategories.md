@@ -122,3 +122,4 @@ To configure logs retention period
 
 6. **NOTE:** If the **CleanAutoBackupLogs** registry value is set to _"0"_, you will have to remove
    the old logs manually, or you may run out of space on your hard drive.
+

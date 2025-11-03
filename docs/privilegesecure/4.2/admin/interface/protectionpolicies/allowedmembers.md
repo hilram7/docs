@@ -78,3 +78,4 @@ confirmation window will appear.
 **Step 6 –** Click **Add**.
 
 Members of the Protected Group have been edited for this protection policy.
+

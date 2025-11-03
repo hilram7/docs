@@ -28,3 +28,4 @@ script in the command line.
 | PersonTypeFilterProperty optional                            | String | Defines the filter property.                                                                                  |
 | PhotoProperty optional                                       | String | Defines the photo property.                                                                                   |
 | ResourceDisplayNameProperty optional                         | String | Represents the display property.                                                                              |
+

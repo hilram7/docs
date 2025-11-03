@@ -60,3 +60,4 @@ Follow the steps to configure non-administrative account to collect logon activi
 See the
 [Assign Permission To Read the Registry Key](/docs/auditor/10.6/configuration/windowsserver/permissions.md#assign-permission-to-read-the-registry-key)
 topic for additional information on how to do it using Registry Editor.
+

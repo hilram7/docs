@@ -63,3 +63,4 @@ This simple, yet effective, tile gives administrators insight on Long Term Archi
 ### Working Folder
 
 The Working Folder is a structure of files that plays an integral part in event processing. Similar to the LTA tile, this tile will provide visibility on Working Folder growth. Expect this directory to grow and shrink periodically as it receives data, processes, and then sends it off for storage in SQL and the LTA. This directory can also be migrated to a drive independent to the system drive. The steps to migrate the Working Folder can be viewed [How to Migrate Netwrix Auditor Working Folder to a New Location](/docs/kb/auditor/how-to-migrate-netwrix-auditor-working-folder-to-a-new-location.md).
+

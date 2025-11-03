@@ -16,3 +16,4 @@ This report is comprised of the following columns:
 - Url – URL path to the resource
 - Resources – Count of resources within the site collection
 - Exceptions – Count of exceptions within the site collection
+

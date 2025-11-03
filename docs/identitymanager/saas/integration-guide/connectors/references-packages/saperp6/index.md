@@ -16,3 +16,4 @@ Manages users and roles in SAP ERP 6.0.
 | Fulfill                 | Usercube-Fulfill-SapErp6.dll |
 | Has Incremental Mode    | False                        |
 | Publisher               | Identity Manager             |
+

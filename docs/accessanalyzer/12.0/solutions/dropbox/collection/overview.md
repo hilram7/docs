@@ -54,3 +54,4 @@ access token to be used in the Connection Profile. This only needs to be done on
 [Configure the Dropbox Access Query](1-dropbox_permissions_scan.md#configure-the-dropbox-access-query)
 topic for additional information.
 :::
+

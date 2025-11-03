@@ -218,3 +218,4 @@ New machines, server and workstations, are constantly being built within the org
 
 When uploading an Excel file it can be good to delete rows that are not needed (e.g. machines that have not been scanned). The amount of lines to be deleted can be considerable (depending on how many outdated AD entries). This can cause Excel to run slow or even crash. To avoid this sort the spreadsheet by the column that the deletion will be based upon (e.g. last_scanned) and then delete.
 ```
+

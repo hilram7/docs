@@ -46,3 +46,4 @@ The table below displays the major functions that users can perform in Directory
 The contact object type is not supported in a Microsoft Entra ID based identity store.
 
 :::
+

@@ -26,3 +26,4 @@ computer.
 **Step 6 –** Select the Power Users group and add the account being provisioned.
 
 The account has been provisioned for Access Auditing and Sensitive Data Discovery Auditing.
+

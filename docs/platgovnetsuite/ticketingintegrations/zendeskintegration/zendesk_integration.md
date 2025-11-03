@@ -113,3 +113,4 @@ After you install the Zendesk app, set up the approvals.
       **Strongpoint Approval in NetSuite**, **No Approval Needed**, or **Not set**.
 
 **Next Step:** [ Zendesk Walkthrough Example](/docs/platgovnetsuite/ticketingintegrations/zendeskintegration/zendesk_walkthrough_example.md)
+

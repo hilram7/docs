@@ -48,3 +48,4 @@ on the role model.
 ## Perform a Simulation
 
 [See how to perform a simulation](/docs/identitymanager/6.1/user-guide/optimize/simulation/index.md).
+

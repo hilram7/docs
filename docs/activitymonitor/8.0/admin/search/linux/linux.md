@@ -64,3 +64,4 @@ The sections have the following filters:
   Type checkbox at the top acts as select/deselect all option.
 - Object Type – Filter the data by the type of file object: File, Folder, Link, Share. The Object
   Types checkbox at the top acts as select/deselect all option.
+

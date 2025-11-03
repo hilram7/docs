@@ -73,3 +73,4 @@ In order to verify the process:
   (through Identity Manager's predefined reports, the Query module or Power BI), to ensure that
   Identity Manager's content sticks to reality. See the
   [Generate Reports](/docs/identitymanager/6.2/user-guide/administrate/reporting/index.md) topic for additional information.
+

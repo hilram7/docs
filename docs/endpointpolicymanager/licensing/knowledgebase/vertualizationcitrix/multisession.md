@@ -67,3 +67,4 @@ for additional information.
 In summary: If you want to use Endpoint Policy Manager Cloud with any kind of multi-session version
 of Windows, you need to have enough licenses purchased, and cannot perform the installation on
 multi-session Windows without an agreement first.
+

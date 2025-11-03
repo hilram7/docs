@@ -15,3 +15,4 @@ Properties can be checked individually, or the **Select All**and **Clear All** b
 All checked properties are gathered. Available properties vary based on the category selected. This
 information is not available within the standard reference tables. Instead, this information can be
 viewed in the table created by the query task, for example SA_1-SPAA_SystemScans_Access table.
+

@@ -68,3 +68,4 @@ This API deletes multiple users from the identity store given in the endpoint UR
     "status": 0
 }
 ```
+

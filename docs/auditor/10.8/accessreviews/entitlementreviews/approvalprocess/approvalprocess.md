@@ -76,3 +76,4 @@ CSV** buttons to generate and download an export of accepted changes.
 breadcrumb). Select the review in the list and click **Mark Completed**.
 
 The review remains marked as Completed until the next instance is started.
+

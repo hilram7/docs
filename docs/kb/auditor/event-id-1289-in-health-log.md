@@ -63,3 +63,4 @@ Review the resolution for the corresponding error:
 
 - Configuration − SharePoint · v10.6
 - [Configuring Timeout Values on a Binding ⸱ Microsoft 🤝](https://learn.microsoft.com/en-us/dotnet/framework/wcf/feature-details/configuring-timeout-values-on-a-binding)
+

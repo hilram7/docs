@@ -16,3 +16,4 @@ any Netwrix Change Tracker Agent and the dedicated Netwrix Agent App Proxy Agent
 section for more information.
 
 ![PolicyTeplatesAgentlessDiagram](/images/changetracker/8.0/admin/settings/policytemplates/policyteplatesagentlessdiagram.webp)
+

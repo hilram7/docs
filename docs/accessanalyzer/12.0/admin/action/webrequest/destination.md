@@ -78,3 +78,4 @@ Use the following categories to establish the location of the web request:
 
 - Test – Tests the connection for the request using the first row of the source table
 - Text box – Shows log messages from the connection test
+

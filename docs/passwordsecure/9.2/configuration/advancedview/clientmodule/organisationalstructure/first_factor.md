@@ -62,3 +62,4 @@ As soon as an AD user logs on to the Web Application, he gets the following prom
 ![prompt](/images/passwordsecure/9.2/configuration/advanced_view/clientmodule/organisationalstructures/firstfactor/first_factor_5-en.webp)
 
 After clicking on **Setup Fido2 access** in the mail, Fido2 is configured.
+

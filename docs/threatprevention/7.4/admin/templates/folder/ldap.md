@@ -15,3 +15,4 @@ The LDAP folder contains the following templates:
 | LDAP: Sensitive Groups        | This policy will detect LDAP queries targeting sensitive groups, such as Domain Admins, Enterprise Admins, and Schema Admins. Add to and delete from this list of groups in the LDAP Query filter per specific requirements | None |
 | LDAP: Sensitive SPNs          | This policy will detect LDAP queries targeting sensitive Service Principal Names, such as Exchange and SQL Servers. Add to and delete from this list of SPNs in the LDAP Query filter per specific requirements             | None |
 | LDAP: Service Principal Names | Detects attempts to obtain a list of SPN values        | None |
+

@@ -86,3 +86,4 @@ the database on the SQL server here. The following is cached:
 
 NOTE: If this option is changed, the server needs to be restarted so that the change can take
 effect.
+

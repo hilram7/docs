@@ -30,3 +30,4 @@ Review the following for additional information:
 - [Set Up MIP Integration](/docs/dataclassification/5.6.2/deployment/configinfrastructure/mip_configure_infrastructure.md)
 - [MIP Labels Configuration](/docs/dataclassification/5.6.2/systemconfigurationoverview/configuration/mip_configure_ndc.md)
 - [Modify MIP Label](/docs/dataclassification/5.6.2/contentconfigurationoverview/workflows/actions/actionsbysources/advancedactionsfiles/mip_workflow_action.md)
+

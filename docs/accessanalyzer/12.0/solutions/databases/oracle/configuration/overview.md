@@ -27,3 +27,4 @@ The jobs in the 4.Configuration Job Group are:
   or SID should not contain Oracle version numbers.
 - [Oracle_RemoteOSAuthentication Job](/docs/accessanalyzer/12.0/solutions/databases/oracle/configuration/oracle_remoteosauthentication.md) – This job is designed to
   find out if remote OS authentication is enabled for the targeted Oracle database servers
+

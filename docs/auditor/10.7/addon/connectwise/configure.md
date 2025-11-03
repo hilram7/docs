@@ -83,3 +83,4 @@ client's server.
 **Step 3 –** Then run ConfigureConnection.exe on that server to launch the configuration wizard and
 specify the necessary settings — for example, provide the managed client company name at the
 **Service Ticket Routing** step, and so on.
+

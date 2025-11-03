@@ -57,3 +57,4 @@ To change to all DCs mode, perform the following steps:
 5. Restart NetWrix Account Lockout Examiner Service via `services.msc`.
 
 ![User-added image](images/ka04u000000HcUw_0EM700000004wm4.png)
+

@@ -101,3 +101,4 @@ System Audit Policies.
 | Account Management | - Audit Security Group Management - Audit User Account Management                                  | "Success"    |
 | Object Access      | - Audit Handle Manipulation - Audit Other Object Access Events - Audit Registry - Audit File Share | "Success"    |
 | Policy Change      | - Audit Audit Policy Change                                                                        | "Success"    |
+

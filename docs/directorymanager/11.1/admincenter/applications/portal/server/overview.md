@@ -32,3 +32,4 @@ You can also view the deployment details for all instances of a portal and do th
 On changing some of these settings, the portal’s session ends and all connected users are
 logged out. When accessed again, the portal runs under the new configurations.
 :::
+

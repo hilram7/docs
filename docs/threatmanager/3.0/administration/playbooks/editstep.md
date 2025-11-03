@@ -27,3 +27,4 @@ Follow the steps to delete a playbook step.
 **Step 2 –** Click Delete.
 
 The playbook step is deleted.
+

@@ -31,3 +31,4 @@ Our example generates the following configuration:
 **<SearchBar EntityType="Directory_Country" Menu="Search_Directory_Country" SearchBarDesignElement="Inline" />**
 
 ```
+

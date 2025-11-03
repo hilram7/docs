@@ -30,3 +30,4 @@ The following job groups and jobs comprise the 1. HUB Metrics Job Group:
   statistics, such as, sent, received, journaling, transport and NDR counts and sizes
 - [EX_UserMetrics Job](/docs/accessanalyzer/12.0/solutions/exchange/hubmetrics/ex_usermetrics.md) – Provides information around each user’s mail-flow in the
   organization
+

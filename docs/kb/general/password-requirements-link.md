@@ -31,3 +31,4 @@ The **Password requirements URL** is shown on an error screen that occurs if a s
 <a href="https://netwrix.secure.force.com/kb/servlet/rtaImage?eid=ka40g0000004KS9&amp;feoid=00N700000032Pj2&amp;refid=0EM700000004xbR" target="_blank">![User-added](images/servlet_image_6d5dba18caac.png)</a>
 
 Please [contact Netwrix support](https://www.netwrix.com/support_ticket.html) if you want to change this behavior.
+

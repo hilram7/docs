@@ -22,3 +22,4 @@ Do not modify the query. The query is preconfigured for this job.
 The query is:
 
 - Redshift Database Sizing — Provides details about Redshift databases and overall database size
+

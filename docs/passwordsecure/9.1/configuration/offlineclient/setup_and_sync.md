@@ -86,3 +86,4 @@ Offline mode can be configured and personalized using the four settings mentione
   value is 30 minutes.
 - **Path where the offline database should be saved**: If this field is left empty, the system
   default is used. Otherwise, the storage location for the offline database can be entered directly.
+

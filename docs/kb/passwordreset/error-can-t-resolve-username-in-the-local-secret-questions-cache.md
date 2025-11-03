@@ -52,3 +52,4 @@ First, make sure that the client is pointed to the correct Password Manager Self
 
 - If the server URL value is correct, but the server is temporarily unavailable, the error is expected for users who enrolled via web.
 - If you need an option to reset the password in disconnected mode, enroll through the Enrollment wizard locally from the machine.
+

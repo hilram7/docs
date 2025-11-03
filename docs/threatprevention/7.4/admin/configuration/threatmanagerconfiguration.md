@@ -148,3 +148,4 @@ checkbox. Click **Save**.
 
 When a Forged PAC analytic is triggered in Threat Prevention, the event data will be sent to Threat
 Manager.
+

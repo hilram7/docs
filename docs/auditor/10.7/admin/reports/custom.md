@@ -64,3 +64,4 @@ Review the following for additional information:
 ## To delete a custom report
 
 - Navigate to Reports → Custom, select a report and click Delete.
+

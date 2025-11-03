@@ -24,3 +24,4 @@ The table has the following columns:
 - Description — Description of the policy
 
 The table columns can be resized and sorted in ascending or descending order.
+

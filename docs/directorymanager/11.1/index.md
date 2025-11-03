@@ -75,3 +75,4 @@ Different password management functions are available for administrators, helpde
 - Users can reset their own passwords and unlock their own accounts after passing multifactor
   authentication.
 - Helpdesk can reset passwords and unlock accounts for users after authentication.
+

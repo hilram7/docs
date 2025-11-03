@@ -45,3 +45,4 @@ All the above keys can be applied to all machines via Group Policy, using the te
 Refer to paragraph 3.3 procedure 4 of the Administrators guide for detailed information on applying the template:
 
 https://www.netwrix.com/download/documents/NetWrix_Password_Manager_Administrator_Guide.pdf
+

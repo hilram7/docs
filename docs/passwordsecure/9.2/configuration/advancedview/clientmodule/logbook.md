@@ -56,3 +56,4 @@ Server Manager. Further information can be found in the section
 The logbook can also be completely transferred to a
 [Syslog](/docs/passwordsecure/9.2/configuration/servermanger/databaseproperties/syslog.md) server. Further information on this
 subject can be found in the section Syslog.
+

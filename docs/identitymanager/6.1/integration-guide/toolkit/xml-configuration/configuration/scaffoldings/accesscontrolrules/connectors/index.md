@@ -12,3 +12,4 @@ sidebar_position: 20
     [SettingsAccessControlRules](/docs/identitymanager/6.1/integration-guide/toolkit/xml-configuration/configuration/scaffoldings/accesscontrolrules/connectors/settingsaccesscontrolrules/index.md)
     Generates the permissions to configure the Workforce Core Solution module and connector
     settings.
+

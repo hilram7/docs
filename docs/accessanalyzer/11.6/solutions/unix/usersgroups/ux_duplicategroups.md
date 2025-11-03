@@ -36,3 +36,4 @@ produces the following pre-configured report:
 | Report           | Description                                                        | Default Tags | Report Elements                                                                                                                                                             |
 | ---------------- | ------------------------------------------------------------------ | ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Duplicate Groups | This report identifies duplicate groups within the audited domains | None         | This report is comprised of two elements: <ul><li>Bar Chart – Displays Largest Groups with Duplicates</li><li>Table – Provides details on Duplicate Group Details</li></ul> |
+

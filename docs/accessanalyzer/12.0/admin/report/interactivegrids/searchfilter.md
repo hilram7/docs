@@ -69,3 +69,4 @@ Columns can be added or removed from the table.
 
 Right-click on a column to display a list of the available columns. Select the checkboxes of the
 columns you want to be displayed. Click the up or down arrows to scroll through the list of columns.
+

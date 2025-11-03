@@ -52,3 +52,4 @@ The configurable options on the Registry Browser are:
     - Name – Registry key value
     - Type – Key value type
     - Data – Key value path
+

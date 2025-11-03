@@ -37,3 +37,4 @@ Following is the list of reports for this category:
 | Inactive Computers from X days                       | Returns all the computers which are inactive by specified number of days. |
 | Managed Computers                                    | Returns all managed computers.                                            |
 | Unmanaged Computers                                  | Returns all unmanaged computers.                                          |
+

@@ -30,3 +30,4 @@ The Customer Experience Program is a feature which helps Netwrix improve the qua
 4. Uncheck the box labeled "**Take part in Netwrix Customer Experience Improvement Program**"
 
 Netwrix Auditor will no longer collect usage data
+

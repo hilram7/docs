@@ -20,3 +20,4 @@ the wizard, but the resulting table or view applies all filters.
 
 
 If the preview is satisfactory, click **Next** to continue.
+

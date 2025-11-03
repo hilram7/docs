@@ -39,3 +39,4 @@ With single sign-on, you can now launch any GroupID client without having to sig
 1. Launch the OneLogin portal using the URL provided by your organization and log in. The OneLogin
    dashboard displays the apps configured with OneLogin for single sign-on.
 2. On clicking an app, you will be redirected to it. Authentication will not be required.
+

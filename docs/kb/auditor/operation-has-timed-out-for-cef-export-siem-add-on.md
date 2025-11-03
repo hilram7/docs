@@ -66,3 +66,4 @@ $from = (Get-Date).AddMinutes(-2).ToString("yyyy-MM-ddTHH:mm:sszzz");
 
 - https://docs.netwrix.com/docs/auditor/10_8 API Ports · v10.6)
 - https://docs.netwrix.com/docs/auditor/10_8 Deployment Scenarios · v10.6)
+

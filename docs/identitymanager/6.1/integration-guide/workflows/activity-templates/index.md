@@ -140,3 +140,4 @@ By default, Usercube's workflow engine implements the following transition templ
 - `ContinueWith-Invoked-Invoke`
 - `Persist-Invoked-Invoke`
 - `PersistOnlyResources-Invoked-Invoke`
+

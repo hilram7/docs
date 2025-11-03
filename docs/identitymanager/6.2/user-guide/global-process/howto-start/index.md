@@ -120,3 +120,4 @@ Go directly to the common final steps (step 10).
 12. Define the authentication mode by configuring `SelectUserByIdentityQueryHandlerSetting` (only in
     XML configuration), and [Assign Users a Profile](/docs/identitymanager/6.2/user-guide/set-up/user-profile-assignment/index.md)
     to open the application to end-users.
+

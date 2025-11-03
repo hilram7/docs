@@ -80,3 +80,4 @@ The password rules themselves are not subject to any permissions. All defined ru
 available to all users. The rules are managed from the Main menu.
 
 NOTE: Users can only manage the rules if they have the appropriate user right
+

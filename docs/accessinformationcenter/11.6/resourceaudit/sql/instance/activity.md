@@ -32,3 +32,4 @@ This report is comprised of the following columns:
 - Path – Database object that was acted upon
 - Target Path – Query that triggered the activity event to be stored
 - Process Name – Not populated in SQL Server reports
+

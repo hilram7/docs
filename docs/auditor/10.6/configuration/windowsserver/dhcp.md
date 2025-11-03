@@ -20,3 +20,4 @@ settings (size and retention method). For that, take the steps described below.
 5. Set **Maximum log size** to **4 GB**.
 6. Set the retention method to **Overwrite events as needed (oldest events first)**. Click **OK** to
    save the settings and close the dialog.
+

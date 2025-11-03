@@ -116,3 +116,4 @@ By default, all categories are selected under sensitive data.
 click **Cancel** if no changes were made. Then click **OK** to close the Query Properties window
 
 The job applies the modification to future job executions.
+

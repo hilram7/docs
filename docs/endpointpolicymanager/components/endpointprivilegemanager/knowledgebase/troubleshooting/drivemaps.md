@@ -127,3 +127,5 @@ Troubleshooting Non-EXE rules:
 ![502_5_image-20200121124504-4](/images/endpointpolicymanager/troubleshooting/leastprivilege/502_5_image-20200121124504-4.webp)
 
 ![502_7_image-20200121124504-5](/images/endpointpolicymanager/troubleshooting/leastprivilege/502_7_image-20200121124504-5.webp)
+
+

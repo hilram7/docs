@@ -73,3 +73,4 @@ The .Active Directory Inventory Solution has the following jobs:
 - [3-AD_Exceptions Job](/docs/accessanalyzer/11.6/solutions/activedirectoryinventory/3-ad_exceptions.md)
   – Analyzes the collected data to identify security and provisioning concerns, such as circular
   nesting and stale membership
+

@@ -230,3 +230,4 @@ first delete the link(s) before deleting the identity store.
 - [Identity Stores](/docs/directorymanager/11.0/signin/identitystore/overview.md)
 - [Configure an Identity Store](/docs/directorymanager/11.0/signin/identitystore/configure/configure.md)
 - [Replication Service](/docs/directorymanager/11.0/signin/service/replicationservice.md)
+

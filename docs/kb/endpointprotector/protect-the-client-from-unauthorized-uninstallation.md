@@ -48,3 +48,4 @@ This article explains how you can secure the Netwrix Endpoint Protector (EPP) cl
 ![Screenshot showing Tamper Mode settings in EPP client](./images/ka0Qk000000E7fx_0EMQk00000C51as.png)
 
 3. Update the policies on the endpoint manually or wait for the policies to be automatically updated based on the time set for **Policy Refresh Interval**.
+

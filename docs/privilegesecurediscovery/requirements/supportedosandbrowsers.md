@@ -39,3 +39,4 @@ Privilege Secure requires a Chromium based browser. Microsoft Edge was originall
 non-chromium browser but has since been refactored to be Chromium based (In June 2020, Microsoft
 began automatic rollout of Chromium-based Edge via Windows Update for Windows 7, 8.1, and all
 Windows 10 versions from version 1803 to version 2004).
+

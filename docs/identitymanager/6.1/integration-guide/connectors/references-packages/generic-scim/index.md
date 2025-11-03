@@ -16,3 +16,4 @@ Manages entities in SCIM compatible application.
 | Fulfill                 | Usercube-Fulfill-Scim.dll |
 | Has Incremental Mode    | True                      |
 | Publisher               | Usercube                  |
+

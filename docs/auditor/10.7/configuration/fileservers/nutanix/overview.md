@@ -93,3 +93,4 @@ The following considerations refer to Nutanix Files auditing and reporting:
 - As for the state-in-time data collection, note that effective permissions (as a combination of
   NTFS and Shared permissions) are not calculated properly for the local Administrator group
   members.
+

@@ -17,3 +17,4 @@ Data from the selected categories will be removed from the Access Analyzer datab
 - Audits
 - Sensitive Data
 - Orphaned Rows
+

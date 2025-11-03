@@ -32,3 +32,4 @@ To balance the load while indexing and classifying data in the large-size and ex
 environments (i.e. with over ≥ 16 mln objects to process), it is strongly recommended to deploy
 several NDC Servers and configure **Distributed Query Server** mode for them.
 [See Configuring NDC Servers Cluster and Load Balancing with DQS Mode for more information.](/docs/dataclassification/5.6.2/deployment/deploymentplan/ndcserverclient/distributed_query_server_mode.md)
+

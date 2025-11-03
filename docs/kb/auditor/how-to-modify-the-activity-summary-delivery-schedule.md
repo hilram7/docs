@@ -37,3 +37,4 @@ To modify the Activity Summary delivery schedule, perform the following:
 - State in Time collection is tied to delivery frequency
 - Collecting State in Time more than once a day could potentially affect performance of target systems and the Netwrix Auditor server.
 - Storage consumption on the Netwrix Auditor server will increase significantly
+

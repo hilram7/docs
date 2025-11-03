@@ -36,3 +36,4 @@ To address the slow performance issue, perform the following steps:
 4. Start Netwrix Account Lockout Examiner Service
 
 [![User-added image](images/ka04u000000HcWK_0EM700000004wmE.png)](https://netwrix.secure.force.com/kb/servlet/rtaImage?eid=ka40g000000kAbJ&amp;feoid=00N700000032Pj2&amp;refid=0EM700000004wmE)
+

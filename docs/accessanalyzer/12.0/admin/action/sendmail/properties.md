@@ -26,3 +26,4 @@ Use the following fields to specify the recipient information:
 - Combine multiple messages into a single message when all recipients are the same – Select this
   checkbox to send only one message to each recipient as a result of this action (even recipients
   who appear more than once in the job results)
+

@@ -79,3 +79,4 @@ The following are additional requirements for the Console machine:
 The following permission is required to install and use the application:
 
 - Membership in the local Administrators group for the Activity Monitor Console server
+

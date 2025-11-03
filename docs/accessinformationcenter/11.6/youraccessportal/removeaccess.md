@@ -28,3 +28,4 @@ successfully, click **OK** to close the Remove Access window.
 
 Your access to the resource was removed. The removal action appears on the Request History page. Its
 status is set to Canceled, with you as the Reviewer.
+

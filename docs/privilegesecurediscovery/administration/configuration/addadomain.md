@@ -74,3 +74,4 @@ have Protect Mode enabled **after** they've been scanned.
 **NOTE:** We require a static DC to ensure S1 can correctly detect and account for changes made to
 Groups, OUs, Users, etc. A load balanced connection will cause group updates to not be recognized
 correctly.
+

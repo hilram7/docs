@@ -14,3 +14,4 @@ interfaces: Reports, Results, and Group Membership.
 
 The computer being audited is identified at the top of the interface as part of the interface
 breadcrumb. See the [Computer Reports](/docs/accessinformationcenter/12.0/resourceaudit/computer/overview.md) topic for additional information.
+

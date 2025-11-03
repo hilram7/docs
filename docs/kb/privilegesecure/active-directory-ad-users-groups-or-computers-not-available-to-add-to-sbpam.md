@@ -41,3 +41,4 @@ Recently created Active Directory (AD) users, groups, or computers may not be im
 ![A domain resource as displayed in Netwrix Privilege Secure's web application.](images/ka04u000000HdF1_00N0g000004CA0p_0EM4u000004biML.png)
 
 Upon successful domain sync, the **Last Synchronized** field for the domain will update. All users, groups, and computers in the domain will now be available to be onboarded to Netwrix Privilege Secure.
+

@@ -32,3 +32,4 @@ Any property without a value is not displayed.
 | ----------------------- | -------------------------------------------------------------------------------------- |
 | DisplayName_L1 optional | **Type** String **Description** Display name of the fieldset in language 1 (up to 16). |
 | Identifier required     | **Type** String **Description** Unique identifier of the property group.               |
+

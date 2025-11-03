@@ -161,3 +161,4 @@ you should:
   to set the **Active Directory tombstone lifetime** property to 730 days (default is 180 days). See
   the [Adjust Active Directory Tombstone Lifetime (optional)](/docs/auditor/10.8/configuration/activedirectory/tombstone.md) topic for additional
   information.
+

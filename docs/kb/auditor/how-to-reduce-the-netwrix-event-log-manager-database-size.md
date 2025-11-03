@@ -31,3 +31,4 @@ To configure the SQL database retention settings, do the following:
 3. Click **Apply** to save the changes.
 
 The NetWrix Event Log Manager database size will be reduced during the next data collection.
+

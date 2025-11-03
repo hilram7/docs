@@ -68,3 +68,4 @@ Multi-console is not supported.
 **Step 2 –** Configure the Inventory Scan query.
 
 **Step 3 –** Schedule the .NIS Inventory job group to run as desired
+

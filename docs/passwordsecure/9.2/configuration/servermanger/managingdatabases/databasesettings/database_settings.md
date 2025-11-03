@@ -23,3 +23,4 @@ You can now make the following settings:
 - SAML configuration
 - Deletion of users
 - More options
+

@@ -230,3 +230,4 @@ linked anymore in the GroupID portal.
 **See Also**
 
 - [Link Identity Stores](/docs/directorymanager/11.0/signin/identitystore/link/overview.md)
+

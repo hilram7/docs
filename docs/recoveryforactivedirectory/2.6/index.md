@@ -22,3 +22,4 @@ Native tools don’t make it easy to revert these critical changes — but Netwr
 Directory does. Administrators can quickly rollback and recover Active Directory objects or just a
 single attribute to a known good state, with little to no downtime. They can also restore a domain
 controller or an entire forest to a specific state-in-time image.
+

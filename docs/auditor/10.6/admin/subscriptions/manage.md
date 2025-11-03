@@ -18,3 +18,4 @@ The table below provides instructions on how to manage your subscriptions.
 | Enable or disable subscriptions | Pick a subscription and select On or Off in the Mode column.                                                                                             |
 | Modify subscriptions            | Select the subscription that you want to modify and click Edit at the bottom of the Subscriptions window. Update the subscription and save your changes. |
 | Remove subscriptions            | Click ![delete](/images/activitymonitor/7.1/admin/search/query/delete.webp) icon next to the selected subscription.           |
+

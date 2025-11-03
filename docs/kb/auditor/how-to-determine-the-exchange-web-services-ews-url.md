@@ -40,3 +40,4 @@ There are two methods to find the **URL:**
 4. Type in an **email address** located on the desired **Exchange Server**  
 5. Click **"Test"**  
 6. The URL is listed as **"Availability Service URL"**
+

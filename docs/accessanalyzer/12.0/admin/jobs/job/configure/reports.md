@@ -49,3 +49,4 @@ Report configurations may also be copied to other reports to generate preferred 
 alternate jobs. However, all generated reports can be viewed in the job’s **Results** node.
 
 See the [Reporting](/docs/accessanalyzer/12.0/admin/report/overview.md) topic for additional information.
+

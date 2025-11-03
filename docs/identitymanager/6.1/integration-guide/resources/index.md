@@ -43,3 +43,4 @@ is, the resource to which you plan on assigning roles). More on that
 [later](/docs/identitymanager/6.1/integration-guide/role-assignment/assignments-of-entitlements/index.md).
 
 Resources need a model: the entity model.
+

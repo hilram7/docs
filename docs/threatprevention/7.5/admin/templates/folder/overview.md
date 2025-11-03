@@ -108,3 +108,4 @@ templates to import and configure.
 **Step 5 –** When the operation is complete, click **OK**.
 
 The templates are now available in the [Templates Interface](/docs/threatprevention/7.5/admin/templates/overview.md).
+

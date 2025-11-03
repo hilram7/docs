@@ -100,3 +100,4 @@ Follow the steps below to open and configure the Property Editor.
 **Step 8 –** Click **Set value**.
 
 **Step 9 –** Click **Close** to save the updates.
+

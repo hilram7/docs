@@ -117,3 +117,4 @@ topic for additional information.
 See the
 [Using Remote Work Delivery Manager to Update the Endpoint Policy Manager Client Side Extension](/docs/endpointpolicymanager/components/remoteworkdeliverymanager/videos/tipsandtricks/updateclientsideextension.md)video for
 additional information.
+

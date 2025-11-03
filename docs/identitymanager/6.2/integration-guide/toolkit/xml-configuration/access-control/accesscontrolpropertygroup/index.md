@@ -48,3 +48,4 @@ all the HR sensitive fields for people in his department.
 | ----------------------- | ----------------------------------------------------------------------------------- |
 | DisplayName_L1 required | **Type** String **Description** Display name of the group in language 1 (up to 16). |
 | Identifier required     | **Type** String **Description** Identifier of the group.                            |
+

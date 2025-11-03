@@ -97,3 +97,4 @@ delete events on the selected resource. See the
 The Effective Access report shows that Jazmina has access to the resource through the Group_Manage
 group, and the access is directly applied. See the
 [Effective Access Report](/docs/accessinformationcenter/12.0/resourceaudit/filesystem/sharesubfolder/effectiveaccess.md) topic for additional information.
+

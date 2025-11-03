@@ -275,3 +275,4 @@ installation directory. The default path is:
 This will add the additional Key Exchange `diffie-hellman-group1-sha1` and the additional Ciphers
 `aes128-cbc`, `3des-cbc`, `aes192-cbc`,` aes256-cbc`, required to make old Cisco Machines work with
 remote login.
+

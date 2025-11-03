@@ -39,3 +39,4 @@ Wrong URL was added to the read scope, or the object available via the URL is in
 2. Select the item, and click **Edit item** in the right pane.
 3. In the left pane, select **Read Access**, and select **Sites only** or **Sites and subsites** depending on the monitoring scope.
 4. Add a URL for the SharePoint site you would like to monitor. Verify the URL to confirm it is valid and can be accessed via the specified URL.
+

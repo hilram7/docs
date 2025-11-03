@@ -23,3 +23,4 @@ The overview section shows information for the following:
   [Historical Dashboard](/docs/privilegesecure/4.2/enduser/dashboard/historical.md) topic for additional information.
 
 The table shows information on the selected activity session.
+

@@ -26,3 +26,4 @@ The options on the Category page are:
       database. See the
       [Drop AWS Tables](/docs/accessanalyzer/11.6/admin/datacollector/aws/droptables.md)
       topic for additional information.
+

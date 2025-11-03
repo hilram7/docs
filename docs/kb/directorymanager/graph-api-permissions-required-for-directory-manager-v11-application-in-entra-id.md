@@ -109,3 +109,4 @@ Here is the list of all the Microsoft Graph API application permissions required
 | `AllSites.Read` | Retrieve the content of all SharePoint sites across the tenant under Entitlement Section of Microsoft Entra ID Identity Store on Admin Portal |
 | `AllSites.Write` | Add, edit, and delete documents, list items, and pages of all sites across the tenant |
 
+

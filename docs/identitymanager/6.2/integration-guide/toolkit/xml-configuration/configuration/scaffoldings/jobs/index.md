@@ -39,3 +39,4 @@ sidebar_position: 30
 - [Create Initialization Job](/docs/identitymanager/6.2/integration-guide/toolkit/xml-configuration/configuration/scaffoldings/jobs/createinitializationjob/index.md)
 
     Creates the Initialization Job for the given agent.
+

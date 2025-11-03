@@ -68,3 +68,4 @@ properties.
 
 To add properties manually, click the plus (**+**) button at the bottom of the property window. To
 remove properties, click the minus (-) button.
+

@@ -33,3 +33,4 @@ A GPO with the `maxPasswordAge=0` parameter is applied to the affected accounts.
 ## Resolution
 
 In the corresponding GPO, set the `maxPasswordAge` parameter to any non-zero value. This will allow Netwrix OneSecutre to correctly report the affected accounts.
+

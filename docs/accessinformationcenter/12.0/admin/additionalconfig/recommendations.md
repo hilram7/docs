@@ -34,3 +34,4 @@ would look like this if set to 120 days:
 
 Owner recommendations now use the assigned number of activity days as a sample during an Resource
 Review.
+

@@ -24,3 +24,4 @@ For the SP_TrusteeAccess Job, the host list is set to Local host at the Scoping 
 assigned Connection Profile needs to have rights on the Access Analyzer Console server to access the
 CSV file saved in the job’s directory. The Connection Profile should be set at the **Effective
 Access Audits** > **Scoping** > **Settings** > **Connection** node.
+

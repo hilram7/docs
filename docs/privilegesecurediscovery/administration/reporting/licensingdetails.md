@@ -33,3 +33,4 @@ The time frame can be adjusted to the prior month or week if needed.
 The License Use Details link will give further insight showing median and daily information:
 
 ![Screen_Shot_2022-06-03_at_1.54.L04_PM.webp](/images/privilegesecure/4.2/discovery/admin/reporting/6472622083095_screen_shot_2022-06-03_at_1.54.04_pm.webp)
+

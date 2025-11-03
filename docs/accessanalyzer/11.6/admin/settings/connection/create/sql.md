@@ -26,3 +26,4 @@ The required credentials for SQL Authentication are:
   topic for additional information.)
 - Password – Type the password
 - Confirm – Re-type the password
+

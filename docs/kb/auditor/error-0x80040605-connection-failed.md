@@ -55,3 +55,4 @@ Review the services running in the Netwrix Auditor server − make sure the serv
 ## Related articles
 
 - [Netwrix Auditor Consumes Disk Space — Recommendations](/docs/kb/auditor/netwrix-auditor-consumes-disk-space-recommendations.md)
+

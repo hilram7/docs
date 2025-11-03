@@ -23,3 +23,4 @@ The Identity Manager project's integration cycle consists in developing a config
 successive imports in a test instance.
 
 ![Integration cycle](/images/identitymanager/saas/integration-guide/toolkit/configurationcycle.webp)
+

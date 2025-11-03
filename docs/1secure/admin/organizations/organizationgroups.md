@@ -79,3 +79,4 @@ A dialog box is displayed, prompting you to confirm the deletion of the group.
 **Step 3 –** Click **Yes**.
 
 The organization group is deleted from the system.
+

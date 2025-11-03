@@ -69,3 +69,4 @@ enable LAT preservation** and **Action on changed LAT after scan** dropdown me
       before processing. A warning will be shown. The scan will proceed to the next file.
     - Abort the scan – FSAA will abort the scan. LAT will be updated for the processed file. No
       other files will be processed
+

@@ -23,3 +23,4 @@ topic for additional information.
 
 The drop-down list to the right of the Group by field can be accessed by clicking the down arrow.
 Click an item from the drop-down list to group the report by that category.
+

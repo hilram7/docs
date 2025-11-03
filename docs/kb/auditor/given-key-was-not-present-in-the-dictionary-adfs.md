@@ -65,3 +65,4 @@ The error indicates a Windows-related issue.
   3. Run the PowerShell command from your Netwrix Auditor server again or refresh the view in **Server Manager**. This will recreate the key and rebuild the server feature information.
 
 - Re-create the Group Policy and registry settings. Learn more in [Group Policy error: "The given Key was not present in the dictionary" ⸱ Microsoft 𓂸](https://learn.microsoft.com/en-us/troubleshoot/windows-server/group-policy/cannot-run-group-policy-modeling-wizard)."
+

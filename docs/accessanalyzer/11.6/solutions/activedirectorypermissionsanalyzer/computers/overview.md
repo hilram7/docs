@@ -19,3 +19,4 @@ The jobs in the 4.Computers Job Group are:
 - [AD_LAPSPermissions Job](/docs/accessanalyzer/11.6/solutions/activedirectorypermissionsanalyzer/computers/ad_lapspermissions.md)
   – Identifies Active Directory objects that have access to LAPS attributes and access to computer
   objects that may lead to unintended access to LAPS attributes
+

@@ -45,3 +45,4 @@ data collection.
 **Step 5 –** When the task is successfully completed, click **Finish** to close the window.
 
 The Agent's status is displayed as _Hardened_.
+

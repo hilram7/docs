@@ -65,3 +65,4 @@ The following table describes how data containing passwords of data collection a
 The access level must be thoroughly adjusted as well; regular Netwrix Auditor users don't need the local Administrators rights.
 
 For detailed guidelines, see [Best Practices for Securing Netwrix Auditor](https://kb.netwrix.com/215).
+

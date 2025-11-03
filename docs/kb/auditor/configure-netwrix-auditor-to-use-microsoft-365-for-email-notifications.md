@@ -51,3 +51,4 @@ Refer to the following steps to configure Netwrix products to use Microsoft 365 
 ### Related articles
 
 - https://docs.microsoft.com/en-us/exchange/mail-flow-best-practices/fix-issues-with-printers-scanners-and-lob-applications-that-send-email-using-off#error-authentication-unsuccessful (Fix Issues when Sending Email Using Microsoft 365 ⸱ Microsoft)
+

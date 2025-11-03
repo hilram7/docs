@@ -30,3 +30,4 @@ You can find information about inactive users in your Active Directory domain us
 
 1. Review the report. For that, on the product home screen, click the **Reports** tile and navigate to **Active Directory** > **Active Directory – State-in-Time** > **User Accounts –** **Last Logon Time.** Review the report and apply filters as desired.
 2. Create a dedicated monitoring plan for inactive users using the built-in **Inactive User Tracker** tool. For additional information on how to configure inactive users auditing and review the report, refer to the following article: Inactive User Tracker.
+

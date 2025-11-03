@@ -20,3 +20,4 @@ subfolder levels. Then use the Group Membership pane Changes feature to model th
 selected resource. Finally, review the changes across the entire File System environment in the
 [Modeled Access Changes Report](/docs/accessinformationcenter/12.0/resourceaudit/changemodeling/modeledaccesschanges.md) at the **File System** node. See the
 [Model Changes in the AIC](/docs/accessinformationcenter/12.0/resourceaudit/changemodeling/model.md) topic for detailed instructions on this process.
+

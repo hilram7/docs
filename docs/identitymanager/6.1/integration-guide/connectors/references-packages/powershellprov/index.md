@@ -16,3 +16,4 @@ Fulfills an external system with a custom PowerShell script.
 | Fulfill                 | Usercube-Fulfill-PowerShell.dll |
 | Has Incremental Mode    | False                           |
 | Publisher               | Usercube                        |
+

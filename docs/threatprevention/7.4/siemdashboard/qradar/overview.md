@@ -110,3 +110,4 @@ Directory App for QRadar.
 **Step 5 –** Close the Index Management window, and then deploy the changes within QRadar.
 
 The StealthINTERCEPT logs now have an index.
+

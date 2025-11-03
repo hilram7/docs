@@ -40,3 +40,4 @@ The jobs in the 1.Groups Job Group are:
   Identifies Microsoft Entra ID groups that contain potentially stale users. Users are considered
   stale if they have never logged onto the domain, have not logged onto the domain in the past 30
   days, or are disabled. These group memberships should be reviewed and possibly removed.
+

@@ -60,3 +60,4 @@ Set the working directory's permissions by proceeding as follows:
 ## Next Steps
 
 To continue, [Finalize the Installation](/docs/identitymanager/6.2/user-guide/deploy/production-agent-installation/finalization/index.md)in a few steps.
+

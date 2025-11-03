@@ -19,3 +19,4 @@ Select the source data to be used from the following options:
 - All tables in the database – Targets all tables within the SQL Server database
 
 After selecting the initial scope for the data sources, click **Next**.
+

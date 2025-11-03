@@ -18,3 +18,4 @@ displayed, then it will be necessary to create a group and grant it this level o
 selected resource. Do not forget to run the Enterprise Auditor collection jobs to introduce the new
 group to the Access Information Center. Select the desired group and click **OK**. The Select Group
 window closes and the group appears in the table for the wizard.
+

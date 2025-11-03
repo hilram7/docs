@@ -47,3 +47,4 @@ You will be prompted for the corresponding set of credentials (user name and pas
 
 Netwrix recommends to create a special user account with permissions to access Auditor and Nutanix server.
 ````
+

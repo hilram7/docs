@@ -61,3 +61,4 @@ Follow these steps to back up the index:
 4. Start all services.
 
 For best results, perform these steps weekly to ensure minimal data loss in the event of index corruption.
+

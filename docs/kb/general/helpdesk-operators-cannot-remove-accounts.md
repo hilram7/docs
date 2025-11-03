@@ -42,3 +42,4 @@ In order to grant the permission, perform the following steps:
 4. Restart the **Netwrix Password Manager** service via **Services snap-in**.
 
 ![User-added image](./images/ka04u00000116ex_0EM700000004xLJ.png)
+

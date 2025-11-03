@@ -447,3 +447,4 @@ their content in your own configuration.
 
     Generates the workforce repository based on the data filled in the Workforce Core Solution
     module.
+

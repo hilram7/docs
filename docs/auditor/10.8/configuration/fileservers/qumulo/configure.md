@@ -26,3 +26,4 @@ When you see the green line “_Connected_”, the environment is ready.
 
 For detailed information about Qumulo Web UI. refer to the following Qumulo how-to article:
 [Qumulo Core Audit Logging](https://care.qumulo.com/hc/en-us/articles/360021454193-Qumulo-Core-Audit-Logging).
+

@@ -18,3 +18,4 @@ topic for detailed information on Entitlement.
 - [Manage SharePoint Sites](/docs/directorymanager/11.0/signin/entitlement/manage_1.md)
 - [File Servers](/docs/directorymanager/11.0/welcome/entitlement/fileservers.md)
 - [Explore SharePoint Sites](/docs/directorymanager/11.0/welcome/entitlement/sharepointsites.md)
+

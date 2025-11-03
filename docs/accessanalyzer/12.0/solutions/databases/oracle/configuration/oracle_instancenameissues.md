@@ -37,3 +37,4 @@ Job** produces the following pre-configured report.
 | Report               | Description                                                                        | Default Tags | Report Elements                                                                                                                                                               |
 | -------------------- | ---------------------------------------------------------------------------------- | ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Instance Name Issues | This report highlights default instance names or those containing version numbers. | None         | This report is comprised of two elements: <ul><li>Pie Chart – Displays percentage of instance names with issues</li><li>Table – Provides details of instance issues</li></ul> |
+

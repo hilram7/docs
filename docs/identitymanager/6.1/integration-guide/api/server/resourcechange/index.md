@@ -34,3 +34,4 @@ Returns all the resource changes according to the provided query.
 | Code | Description                | Reference |
 | ---- | -------------------------- | --------- |
 | 200  | The resource changes list. |           |
+

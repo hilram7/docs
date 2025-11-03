@@ -43,3 +43,4 @@ Disable the **Skip Hosts that do not respond to PING** option in the affected jo
 ## Related articles
 
 - https://docs.netwrix.com/docs/auditor/10_8 (Job Properties − Performance Tab · v11.6)
+

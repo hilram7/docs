@@ -28,3 +28,5 @@ Below, the top entry shows an application being denied (because SecureRun is ena
 entry shows an application being allowed by using an EXE policy.
 
 ![544_3_third](/images/endpointpolicymanager/troubleshooting/log/leastprivilege/544_3_third.webp)
+
+

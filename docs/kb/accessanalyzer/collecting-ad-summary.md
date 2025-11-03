@@ -37,3 +37,4 @@ To find this data:
 
 3. Take a screenshot or otherwise capture the values displayed in **Total Users** and **Disabled Users**  
    ![Group_002.png](images/ka0Qk000000Dl4L_0EM4u000008M8x2.png)
+

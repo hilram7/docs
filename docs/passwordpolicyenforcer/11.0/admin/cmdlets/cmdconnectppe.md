@@ -35,3 +35,4 @@ This cmdlet supports the common parameters: **Verbose**, **Debug**, **ErrorActio
 PS C:\> Connect-PPE -d "DCNAME1.COMPANY.COM"
 
 Connection to PPE was established. Connection to Domain "DCNAME1.COMPANY.COM"
+

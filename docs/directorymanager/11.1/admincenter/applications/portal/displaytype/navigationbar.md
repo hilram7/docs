@@ -349,3 +349,4 @@ You can modify the following for a tab:
 7. Click **Remove** for a tab to remove it.
 8. Click **OK**.
 9. Click **Save** on the **Navigation Bar** page.
+

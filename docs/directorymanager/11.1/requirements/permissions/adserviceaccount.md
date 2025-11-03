@@ -161,3 +161,4 @@ permissions the SQL server and database accounts must have for
 
 - [Create an Identity Store](/docs/directorymanager/11.1/admincenter/identitystore/create.md)
 - [Manage an Identity Store](/docs/directorymanager/11.1/admincenter/identitystore/manage.md)
+

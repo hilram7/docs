@@ -31,3 +31,4 @@ iPhones do not support the **Read Only** setting. You must set the device to one
 - **Allow** (for full access)
 - **Deny** (for no access)
 - **Deny access but allow charging**
+

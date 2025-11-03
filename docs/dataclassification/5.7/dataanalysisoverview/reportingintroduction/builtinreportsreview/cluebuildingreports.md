@@ -19,3 +19,4 @@ Review the list of the built-in clue building reports:
 - **RegEx Performance** - Provides a report on the usage of regular expressions and its performance
   during the search (call count, matches, max (ms), etc.). To activate the report, **RegEx
   Performance** feature must be enabled in the **Configuration** → **Core** → **System**.
+

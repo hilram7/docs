@@ -55,3 +55,4 @@ You can configure advanced audit policy to narrow the range of events tracked an
 product, thus preventing your AuditArchive and the Security event log from overfilling. See the
 [Configure Security Event Log Maximum Size](/docs/auditor/10.6/configuration/fileservers/delldatastorage/securityeventlog.md)
 topic for additional information.
+

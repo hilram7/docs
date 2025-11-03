@@ -100,3 +100,4 @@ Active Directory Activity events data to Activity Monitor. Click Save
 See the
 [Netwrix Threat Prevention Documentation](https://helpcenter.netwrix.com/category/threatprevention)
 for additional information on policy configurations.
+

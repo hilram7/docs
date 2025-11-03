@@ -115,3 +115,4 @@ investigation with the following filter:
 
 See the [Investigations Interface](/docs/threatprevention/7.5/reportingmodule/investigations/overview.md) topic for
 additional information.
+

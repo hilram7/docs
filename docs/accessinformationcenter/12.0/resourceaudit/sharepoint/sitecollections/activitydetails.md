@@ -52,3 +52,4 @@ range. It indicates how many users are performing activity per day.
 See the
 [Activity Report Results Pane Features](/docs/accessinformationcenter/12.0/resourceaudit/navigate/overview.md#activity-report-results-pane-features)
 topic for instructions on filtering the trend graph.
+

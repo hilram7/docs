@@ -109,3 +109,4 @@ topic for a diagrammatic representation of this algorithm.
 
 Click **Test Policy** and expand the **View log** to see which policy Password Policy Enforcer
 enforces for a particular user.
+

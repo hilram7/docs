@@ -54,3 +54,4 @@ The format will be shown in the **format** field. The old format is **csv**; the
 **qq audit_set_syslog_config --json**
 
 The change willshould be reflected in the **format** field.
+

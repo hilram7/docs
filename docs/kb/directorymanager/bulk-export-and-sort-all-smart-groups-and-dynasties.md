@@ -72,3 +72,4 @@ Get-SmartGroup | select DisplayName, ManagedGroupType | Sort-Object ManagedGroup
    - `ObjectType`
    - `LdapFilter`
    - `SmartFilter`
+

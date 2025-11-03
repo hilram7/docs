@@ -30,3 +30,4 @@ In this module, you’ll learn:
 * How to position and sell this integrated solution effectively to customers seeking scalable, long-term security
 
 This training is designed to help you, as a <Company /> Sales Representative, uncover stronger opportunities and drive greater value by focusing on the complete PAM Solution — not individual products.
+

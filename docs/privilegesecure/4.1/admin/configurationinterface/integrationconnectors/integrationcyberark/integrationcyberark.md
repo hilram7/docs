@@ -45,3 +45,4 @@ Follow the steps to add the CyberArk Connector.
 **Step 4 –** Click the Save icon to create the new integration connector.
 
 The next step is to import the data from CyberArk.
+

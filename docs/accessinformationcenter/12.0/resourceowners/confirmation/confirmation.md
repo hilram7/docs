@@ -35,3 +35,4 @@ the confirmation. If multiple owners were sent the request, the column remains a
 until the assigned Primary owner replies.
 
 See the [Confirm Ownership Wizard](/docs/accessinformationcenter/12.0/resourceowners/confirmation/confirm.md) topic for additional information.
+

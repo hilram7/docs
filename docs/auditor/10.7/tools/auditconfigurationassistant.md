@@ -137,3 +137,4 @@ those that did not manage to apply will be with the yellow warning sign and expl
 
 **Step 3 –** You can click **Start over** to get to the Start Assessment, fix the issues and perform
 the procedure again, or click **Finish**.
+

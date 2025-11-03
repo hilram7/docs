@@ -77,3 +77,4 @@ or Application Entity. For each Connector or Application Entity create a folder 
 - **_Workflows.xml_** file containing the Workflows configuration for the given connector.
 
 ![Recommendation](/images/identitymanager/6.1/integration-guide/toolkit/recommendations/recommendation.webp)
+

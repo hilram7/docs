@@ -121,3 +121,4 @@ automatically. Use the following table to configure the firewall.
 | Activity Monitor Console to Activity Monitor Agents | TCP       | 4498  | Agent communication |
 | Activity Monitor Agent to Panzura nodes             | TCP/HTTPS | 443   | CloudFS API         |
 | Panzura nodes to Activity Monitor Agent             | TCP/AMQP  | 4497  | Audit events        |
+

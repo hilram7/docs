@@ -32,3 +32,4 @@ The 2.Direct Permissions job group is comprised of:
 - [FS_UnresolvedSIDs Job](/docs/accessanalyzer/11.6/solutions/filesystem/directpermissions/fs_unresolvedsids.md)
   – Reports on unresolved SIDs that have been granted direct permissions on resources from targeted
   file servers
+

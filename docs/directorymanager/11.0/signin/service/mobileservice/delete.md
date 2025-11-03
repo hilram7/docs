@@ -61,3 +61,4 @@ Deleting a Mobile service removes all its deployments and configurations from Gr
 
 1. In Admin Center, select **Applications** in the left pane.
 2. On the **Mobile Service** tab, click the ellipsis button for a service and select **Delete**.
+

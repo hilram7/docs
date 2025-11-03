@@ -47,3 +47,4 @@ Another Query Designer is used to perform targeted searches in the directory. Wh
 search query, you can combine a data source with the directory to search for specific objects. See
 the [Query Based Advanced Search](/docs/directorymanager/11.1/portal/generalfeatures/querysearch.md) topic for additional
 information.
+

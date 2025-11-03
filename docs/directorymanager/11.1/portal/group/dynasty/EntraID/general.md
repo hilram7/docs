@@ -46,3 +46,4 @@ Use this page to specify basic information about the group.
 
 5. Enter a description for the group in the **Description** box.
 6. Click **Next**.
+

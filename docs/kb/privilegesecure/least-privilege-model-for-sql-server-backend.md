@@ -61,3 +61,4 @@ These permissions can then be revoked after installation and upgrade:
 - REFERENCES permission ON `email_settings`: `REVOKE REFERENCES ON email_settings TO [serviceaccount]`
 
 > **IMPORTANT:** It is critical that these permissions be granted to the service account during all installations and upgrades.
+

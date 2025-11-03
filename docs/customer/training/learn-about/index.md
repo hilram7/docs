@@ -30,3 +30,4 @@ You can choose to self-enroll in "Learn About" learning paths available within t
 * [Learn About Netwrix Recovery for Active Directory Learning Path](./recovery-for-ad.md)
 * [Learn About Netwrix Threat Manager Learning Path ](./threat-manager.md)
 * [Learn About Netwrix Threat Prevention Learning Path](./threat-prevention.md)
+

@@ -50,3 +50,4 @@ is the navigation property that links the `Directory_Organization` type to itsel
 | IsExcludedFromRoleMining default value: false | **Type** Boolean **Description** `true` to exclude the dimension from role mining. It means that the dimension is not used as a criteria in the generated rules. |
 | IsHierarchical default value: false           | **Type** Boolean **Description** `true` to define a hierarchical dimension. **Note:** Cannot be used without `ParentProperty`.                                   |
 | ParentProperty optional                       | **Type** Int64 **Description** Specifies the navigational property defining the hierarchy.                                                                       |
+

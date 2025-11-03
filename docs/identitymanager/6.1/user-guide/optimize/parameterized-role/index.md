@@ -114,3 +114,4 @@ If the dimension is specified in the users' context rule, then Usercube will pro
 > For example, concerning the `Title` dimension mentioned above:
 >
 > ![Example - Suggestion](/images/identitymanager/6.1/user-guide/optimize/parameterized-role/parameterizedrole_examplerolesuggestion_v603.webp)
+

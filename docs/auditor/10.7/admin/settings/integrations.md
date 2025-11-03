@@ -28,3 +28,4 @@ In Netwrix Auditor 9.0, Netwrix has updated API schemas. See the
 
 To learn more about Integration API capabilities, refer to the
 [Integration API](/docs/auditor/10.7/api/overview.md).
+

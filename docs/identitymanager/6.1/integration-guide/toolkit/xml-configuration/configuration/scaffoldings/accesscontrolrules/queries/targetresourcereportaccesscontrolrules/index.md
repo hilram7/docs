@@ -36,3 +36,4 @@ Our example generates the following configuration:
 <AccessControlRule Identifier="Administrator_ReportQuery_Custom_Reports_Resources_Resources_LDAP_Entry" DisplayName_L1="Administrator_ReportQuery_Custom_Reports_Resources_Resources_LDAP_Entry" EntityType="LDAP_Entry" Profile="Administrator">  <Entry CanExecute="true" Permission="/Custom/Reports/Resources_LDAP_Entry/View" /></AccessControlRule>
 
 ```
+

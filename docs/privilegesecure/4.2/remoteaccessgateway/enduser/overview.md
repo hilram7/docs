@@ -14,3 +14,4 @@ Secure requires a multi-factor authentication (MFA) solution (Authenticator, D
 for all user accounts. Upon initial login, the user must complete MFA registration in order to
 proceed with using Privilege Secure. It is recommended to check with the organization's
 Administrators for login requirements.
+

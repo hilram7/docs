@@ -69,3 +69,4 @@ Change it to a full path (example):
 3. Save changes and run the tool again.
 
 In case these steps did not help, contact Netwrix Technical Support: https://www.netwrix.com/open_a_ticket.html.
+

@@ -54,3 +54,4 @@ Write permissions for the custom Long-Term Archive service account are misconfig
 
 - Installation − Configure Long-Term Archive Account ⸱ v10.5  
   https://docs.netwrix.com/docs/auditor/10_8/requirements/longtermarchive
+

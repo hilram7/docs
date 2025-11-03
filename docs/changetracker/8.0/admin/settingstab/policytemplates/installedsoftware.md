@@ -21,3 +21,4 @@ frequency governed by the **Repeat** setting. A **No Repeat** setting will ensur
 on a server re-boot which may be appropriate for a host with tightly governed resources.
 
 ![PolicyTemplateInstalledSoftware](/images/changetracker/8.0/admin/settings/policytemplates/policytemplateinstalledsoftware.webp)
+

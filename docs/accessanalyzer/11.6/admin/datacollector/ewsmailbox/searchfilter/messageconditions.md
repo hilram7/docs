@@ -126,3 +126,4 @@ Determine terms for the search using the following options:
 
 - Click **Import CSV** to open a file explorer window to select an appropriate CSV file containing
   search terms
+

@@ -65,3 +65,4 @@ Netwrix Password Secure.
 NOTE: If desired, the document history can be automatically cleaned up. This option can be
 configured on the **Server Manager**. Further information can be found in the section Managing
 databases.
+

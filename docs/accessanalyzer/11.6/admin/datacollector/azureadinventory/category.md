@@ -23,3 +23,4 @@ The two categories are:
 The Scan Entra ID category is the pre-configured setting for the .Entra ID Inventory Job Group.
 Therefore, accessing the Entra ID Inventory DC Wizard from the query within that job group does not
 display the Category wizard page.
+

@@ -16,3 +16,4 @@ The Authentication Attacks dashboard contains the following cards:
   Splunk within the specified timeframe
 
 The specified timeframe is set by default to the last 24 hours, or past day.
+

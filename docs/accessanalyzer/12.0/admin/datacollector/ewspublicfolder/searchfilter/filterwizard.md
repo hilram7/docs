@@ -72,3 +72,4 @@ Determine the time period or range of the search using the following options:
 - Before [Date]
 - After [Date]
 - Between [Date] and [Date]
+

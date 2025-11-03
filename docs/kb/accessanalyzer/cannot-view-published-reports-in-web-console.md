@@ -46,3 +46,4 @@ The account used to run the `Netwrix Access Analyzer Web Server` service does no
 - https://docs.netwrix.com/docs/auditor/10_8 (Administration − Storage)
 - https://docs.netwrix.com/docs/auditor/10_8 Settings − Schedule)
 - https://docs.netwrix.com/docs/accessanalyzer/12_0 (Access Information Center − Database Page)
+

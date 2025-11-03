@@ -38,3 +38,4 @@ Follow the steps below to collect extended Deep Packet Inspection logs for Windo
 4. When the script completes, a Windows Explorer window will open showing the collected files.
 
 5. Archive the logs as a `.zip` file and attach them to your support ticket or thread regarding the issue.
+

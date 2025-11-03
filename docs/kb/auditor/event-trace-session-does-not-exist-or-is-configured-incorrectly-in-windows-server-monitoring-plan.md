@@ -58,3 +58,4 @@ The event trace session does not exist or is configured incorrectly
 
 - Windows Server — Adjusting Event Log Size and Retention Settings ⸱ v10.7
 - Configuration — Windows Server ⸱ v10.7
+

@@ -52,3 +52,4 @@ example, when you have to save subscriptions to a SharePoint location).
 | API                        | Permissions                                                                 |
 | -------------------------- | --------------------------------------------------------------------------- |
 | Office 365 Management APIs | ActivityFeed <br /> <ul><li>ActivityFeed.Read – Read activity data for your organization</li></ul> |
+

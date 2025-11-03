@@ -36,3 +36,4 @@ following preconfigured report:
 | Report | Description                                                       | Default Tags | Report Element                                                                                                                                                                                           |
 | ------ | ----------------------------------------------------------------- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Roles  | This report provides details on roles in the AWS IAM environment. | None         | This report is comprised of the following elements: <ul><li>Stacked Bar Chart – Displays top roles by account</li><li>Table – Shows roles by account</li><li>Table – Provides details on roles</li></ul> |
+

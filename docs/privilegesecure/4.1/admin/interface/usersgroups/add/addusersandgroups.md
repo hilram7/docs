@@ -62,3 +62,4 @@ Follow the steps to add users and groups to the console from AD.
 **Step 5 –** Click Add to add one or more accounts.
 
 The selected accounts are now added to the Privilege Secure console.
+

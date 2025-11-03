@@ -39,3 +39,4 @@ sidebar_position: 110
 #### Basic view
 
 - Tags are properly created when using a predefined right again.
+

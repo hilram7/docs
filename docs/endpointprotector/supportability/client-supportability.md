@@ -177,3 +177,4 @@ These requests are reviewed and prioritized by Netwrix Product Management and ma
 
 Using a supported operating system and staying up to date with the latest version of the Netwrix Endpoint Protector agent ensures optimal performance, access to the latest features, and a smoother support experience. By leveraging a phased rollout strategy and maintaining a proactive update schedule, your organization can confidently manage EPP updates and maintain robust data protection.
 <br/>For more information or assistance with your rollout strategy, please contact the Netwrix support team.
+

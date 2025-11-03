@@ -29,3 +29,4 @@ Is there a way of seeing all the changes that have been made to a particular acc
 Yes, with the **Advanced Reports** feature you can filter data in reports by different fields, including the **User name** field. This feature requires **Microsoft SQL Server** installed, either its full version or free version of **Microsoft SQL Express with Advanced Services**.
 
 For instructions on installing **Microsoft SQL Server** and configuring the **Reporting Services**, refer to the following technical article: https://www.netwrix.com/download/documents/Configuring_Microsoft_SQL_Server_Reporting_Services_Technical_Article.pdf.
+

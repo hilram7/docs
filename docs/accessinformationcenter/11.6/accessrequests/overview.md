@@ -123,3 +123,4 @@ groups. Netwrix recommends notifying them with the following information:
   [Your Access Portal Overview](/docs/accessinformationcenter/11.6/youraccessportal/overview.md)
   topic or download that topic and its subtopics as a PDF and make it available within your
   corporate resources
+

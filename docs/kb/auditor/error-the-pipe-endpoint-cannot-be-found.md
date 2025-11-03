@@ -35,3 +35,4 @@ To resolve the issue please make sure that the Netwrix Account Lockout Examiner 
 If the issue persists, please make sure that you are running the latest version of Account Lockout Examiner:
 
 https://www.netwrix.com/account_lockout_examiner.html
+

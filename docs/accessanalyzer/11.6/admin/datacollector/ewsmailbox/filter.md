@@ -29,3 +29,4 @@ Use `*` and `?` for matching wildcard and single characters.
   for maximum size of a message. The default value is 20000 KB.
 - Limit attachments size to [numerical value] – Select to limit attachment size and define a
   threshold for maximum size of an attachment returned in the scan. The default value is 20000 KB.
+

@@ -28,3 +28,4 @@ When is the password expiration notification sent?
 **Netwrix Password Reset uses the following algorithm to calculate when to send a password expiration notification:**
 
 **Sending date** = *Last password change* (value of the account's `PwdLastset` attribute) + *Maximum password age* (`AD` value) – *Number of days before the upcoming password expiration* (Netwrix Password Reset value).
+

@@ -17,3 +17,4 @@ The Sensitive Data Hunting option contains the following card:
   recorded in the specified timeframe
 
 The specified timeframe is set by default to _All Time_.
+

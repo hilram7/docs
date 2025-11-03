@@ -81,3 +81,4 @@ workflow's execution:
 | Child Element: MainControl             | Set of fields to collect data about the main resource.     |
 | Child Element: RecordControl           | Set of fields to collect data about the resource's record. |
 | Child Element: RecordUniqueItemControl | Set of fields to collect data specific to each record.     |
+

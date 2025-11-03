@@ -29,3 +29,4 @@ Directory Manager provides the following APIs for performing group-specific func
 - [Update Groups](/docs/directorymanager/11.1/APIs/groupapis/updategroups.md)
 - [Update a Smart Group](/docs/directorymanager/11.1/APIs/groupapis/updatesmartgroup.md)
 - [Update Smart Groups](/docs/directorymanager/11.1/APIs/groupapis/updatesmartgroups.md)
+

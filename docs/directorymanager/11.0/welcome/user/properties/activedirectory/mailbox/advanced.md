@@ -57,3 +57,4 @@ Indicates whether to send every email for this user to the alternate recipient a
 **See Also**
 
 - [User Properties](/docs/directorymanager/11.0/welcome/user/properties/overview.md)
+

@@ -38,3 +38,4 @@ User-defined criteria is created in the Criteria Editor, accessed through the **
 **Sensitive Data** node. See the
 [Sensitive Data Discovery Add-On](/docs/accessanalyzer/11.6/sensitivedatadiscovery/overview.md)
 topic for additional information.
+

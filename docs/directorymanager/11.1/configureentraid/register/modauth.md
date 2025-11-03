@@ -43,3 +43,4 @@ $mycert | Export-PfxCertificate -FilePath c:\mycert.pfx -Password $(ConvertTo-Se
 ```
 
 The certificate will be saved on the root of drive c in .pfx format.
+

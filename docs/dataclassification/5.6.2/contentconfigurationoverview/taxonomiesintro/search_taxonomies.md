@@ -67,3 +67,4 @@ the source filter link in the top right of the display, then, select a source:
 ![sourcefilter](/images/dataclassification/5.6.2/taxonomies/sourcefilter.webp)
 
 The filter setting can be stored for the session, or just maintained for the browser window.
+

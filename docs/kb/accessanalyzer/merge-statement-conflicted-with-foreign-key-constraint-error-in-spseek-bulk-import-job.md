@@ -52,3 +52,4 @@ Drop the SharePoint tables and run the scan again. To drop the tables, run the *
   https://docs.netwrix.com/docs/auditor/10_8
 - Could Not Drop Object Referenced by Foreign Key Constraint  
   https://docs.netwrix.com/docs/accessanalyzer/12_0
+

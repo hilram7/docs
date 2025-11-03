@@ -25,3 +25,4 @@ Our example generates the following configuration:
 <Job Identifier="CleanDatabase" DisplayName_L1="Clean Database">  <CleanDataBase Identifier="CleanDatabase_CleanDataBase" DisplayName_L1="Clean Database" DisplayName_L2="Nettoyage de la base de donn�es" Level="0" /></Job>
 
 ```
+

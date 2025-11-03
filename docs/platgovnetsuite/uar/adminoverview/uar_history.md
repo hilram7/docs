@@ -36,3 +36,4 @@ The **Review Notes** tab displays the details for each row in the completed Glob
 down into the data records.
 
 ![Review Notes tab provides additional details](/images/platgovnetsuite/uar/membership_review_notes_tab.webp)
+

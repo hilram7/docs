@@ -19,3 +19,4 @@ settings. See the [History](/docs/accessanalyzer/12.0/admin/settings/history.md)
 
 Click **OK** to save configuration changes and close the Job Properties window. Click **Cancel** if
 no changes were made.
+

@@ -136,3 +136,4 @@ Data protection can be ensured through:
 - A [CyberArk's AAM Credential Providers
   ](/docs/identitymanager/6.2/integration-guide/network-configuration/agent-configuration/cyberark-application-access-manager-credential-providers/index.md) able to store Azure's ```ApplicationId``` and ```ApplicationKey```.
 ````
+

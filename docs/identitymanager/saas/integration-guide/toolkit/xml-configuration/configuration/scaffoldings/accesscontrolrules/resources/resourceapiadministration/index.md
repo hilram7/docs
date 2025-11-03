@@ -36,3 +36,4 @@ Our example generates the following configuration:
 <AccessControlRule Identifier="AdministratorResourceApi_Administration_Directory_User" DisplayName_L1="AdministratorResourceApi_Administration_Directory_User" EntityType="Directory_User" Profile="Administrator">  <Entry CanExecute="true" Permission="/Custom/Resources/Directory_User/Create" />  <Entry CanExecute="true" Permission="/Custom/Resources/Directory_User/Delete" />  <Entry CanExecute="true" Permission="/Custom/Resources/Directory_User/Query" />  <Entry CanExecute="true" Permission="/Custom/Resources/Directory_User/Update" /></AccessControlRule>
 
 ```
+

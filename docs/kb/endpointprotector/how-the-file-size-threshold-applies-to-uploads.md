@@ -28,3 +28,4 @@ How does the file size threshold apply to uploads?
 The **File size threshold** setting is designed to limit uploads at the individual file level, rather than at the aggregate level. By managing limits at the individual level, you gain more granularity when multiple files are uploaded through web-facing applications.
 
 For example, if the file size threshold is set to `1024 MB`, any file smaller than `1 GB` is acceptable. If you upload ten files, each `200 MB`, there will be no restriction. However, if one of the ten files is `1.5 GB`, the upload attempt for that file will be blocked.
+

@@ -28,3 +28,4 @@ Current customers can log in to the Netwrix Customer Portal to download software
 license keys for purchased products. See the
 [Customer Portal Access](https://helpcenter.netwrix.com/bundle/NetwrixCustomerPortalAccess/page/Customer_Portal_Access.html)
 topic for information on how to register for a Customer Portal account.
+

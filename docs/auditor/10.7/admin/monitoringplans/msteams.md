@@ -97,3 +97,4 @@ individual credentials for each of them.
 
 After that, you can use the Microsoft Entra ID management portal to revoke this privileged role and
 assign one of the non-privileged roles instead (for example, _Security Reader_).
+

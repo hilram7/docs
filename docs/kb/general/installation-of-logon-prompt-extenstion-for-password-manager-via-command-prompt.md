@@ -55,3 +55,4 @@ Example:
 ```bash
 msiexec.exe /i prm_client.msi ALLUSERS="1" PM_NOLPE="false" PM_URL=https://prmserver/pm PM_NOREBOOT="true" /quiet.
 ```
+

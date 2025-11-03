@@ -115,3 +115,4 @@ _"regedit"_.
 | ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Netwrix Auditor\Password Expiration Notifier |                                                                                                                                                                                                          |
 | HideEmailAdditionalInfo                                                              | Defines whether to show or hide the header and footer in emails sent to users and their managers (emails sent to administrators always have default header and footer): - 0—Show - Any other number—Hide |
+

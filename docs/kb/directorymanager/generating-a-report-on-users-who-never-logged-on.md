@@ -75,3 +75,4 @@ After clicking **Finish**, the report results will display all users who have ne
 Additional actions you can perform include:
 - Pin Report: Pin the report for quick access on the dashboard.
 - Download: Export the report in formats such as HTML, MS Excel, or PDF.
+

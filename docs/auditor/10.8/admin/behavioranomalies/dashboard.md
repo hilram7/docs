@@ -36,3 +36,4 @@ user activity and investigate each action in details.
 [Review User Profiles and Process Anomalies](/docs/auditor/10.8/admin/behavioranomalies/userprofile.md)
 
 [Review User Profiles and Process Anomalies](/docs/auditor/10.8/admin/behavioranomalies/userprofile.md)
+

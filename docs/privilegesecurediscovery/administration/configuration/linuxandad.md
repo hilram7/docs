@@ -160,3 +160,4 @@ local accounts or AD Directory accounts, we have you covered.
 Depending on the bridging configuration the systems might accept short names or fully qualified
 names. We expect the fully qualified name to always work. A user could theoretically log in with
 `domain\username` OR `username@domain`.
+

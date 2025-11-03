@@ -126,3 +126,4 @@ After the entity type is created with its scalar properties and keys, you can
 [define navigation properties](/docs/identitymanager/6.1/user-guide/set-up/connect-system/entity-type-creation/navigation-property-definition/index.md)
 and/or
 [set the resources' display name](/docs/identitymanager/6.1/user-guide/set-up/connect-system/entity-type-creation/display-name-setting/index.md).
+

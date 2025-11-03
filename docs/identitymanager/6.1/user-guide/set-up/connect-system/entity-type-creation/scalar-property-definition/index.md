@@ -161,3 +161,4 @@ from among scalar properties.
 ![Scalar properties](/images/identitymanager/6.1/user-guide/set-up/connect-system/entity-type-creation/scalar-property-definition/entitytypecreation_scalarpropertieswithoutformat_v522.webp)
 
 Refresh the connections' schemas.
+

@@ -80,3 +80,4 @@ Once generated, the API key will be displayed on the screen. Make sure to copy a
 in a secure location, as it won't be displayed again for security reasons.
 
 **NOTE:** Logons are not collected on the board due to technical limitations from the Meraki API.
+

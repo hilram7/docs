@@ -24,3 +24,4 @@ The configurable options are:
 - SQL Query textbox – Enter the custom SQL script
 - Validate Query – Click to test the query, results display in the box
 - Row limit – Enter a number to limit the rows the query is tested on
+

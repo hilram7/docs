@@ -73,3 +73,4 @@ This example retrieves the two scheduled jobs – GUS1 and GLM6 –through the p
 ```
 'GUS1','GLM6' | Get-Schedule
 ```
+

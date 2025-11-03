@@ -18,3 +18,4 @@ Use the following options to configure the action:
 - Use default domain (controller) – Use the default domain controller for the action
 - Specify domain (controller) to use – Click the ellipsis to open the Browse for Domain window and
   select a domain for the action
+

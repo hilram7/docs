@@ -254,3 +254,4 @@ from replication.
 Click **Remove** for a site to move it to the **Included SharePoint Sites** area.
 
 Step 5 – Click **Save**.
+

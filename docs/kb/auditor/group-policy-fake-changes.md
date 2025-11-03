@@ -38,3 +38,4 @@ To prevent this from happening, we recommend using a single domain controller fo
 2. By default ` %Working Folder%` is `C:\ProgramData\Netwrix Auditor`.
 3. If there is more than one DC listed in that file, it means that the first DC in the list didn't respond at some point and Netwrix had to pick a new one. This could be the reason for fake changes.
 4. If you know a DC which is highly available and stable, feel free to put its FQDN into that file instead of the current ones.
+

@@ -134,3 +134,4 @@ This table explains the functionality that each role can perform on an organizat
 | Turn on/off subscription | Yes | No              | Yes                       |
 | Delete subscription      | Yes | No              | Yes                       |
 | Go to related report     | Yes | No              | Yes                       |
+

@@ -51,3 +51,4 @@ This scheduled job can be viewed through the Microsoft SQL Server Management Stu
 Server Agent** > **Jobs** folder (SiDbMainJob).
 
 ![Database Maintenance job in Microsoft SQL Server Management Studio](/images/threatprevention/7.4/admin/configuration/databasemaintenance/dbmaintenancejob.webp)
+

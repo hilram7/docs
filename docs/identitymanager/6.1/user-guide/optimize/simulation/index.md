@@ -141,3 +141,4 @@ For rules, click on **Access Rules** on the home page in the **Configuration** s
 
 Select the type of rule that you want to check, and find the rules you created with the right
 parameters.
+

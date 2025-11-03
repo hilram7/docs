@@ -180,3 +180,4 @@ The modified domain policy will be installed on the client machines, which are i
 Group Policy Object, upon their next restart. The Windows logon screen appear as follows:
 
 ![Windows Logon screen](/images/directorymanager/11.1/portal/user/manage/windows_screen.webp)
+

@@ -49,3 +49,4 @@ carried out if at least one user retains the right to issue permissions as a res
 rights change will be cancelled with a corresponding message.
 
 :::
+

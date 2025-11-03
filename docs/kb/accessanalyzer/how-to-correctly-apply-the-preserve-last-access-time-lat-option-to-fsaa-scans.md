@@ -44,3 +44,4 @@ For more information, please see the following article: https://docs.netwrix.com
 ## Related Articles
 
 - https://docs.netwrix.com/docs/auditor/10_8 (Scan Settings Tab)
+

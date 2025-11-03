@@ -78,3 +78,4 @@ useradmin domainuser ‑add example\user1 ‑g nwxgroup,"Backup Operators","Powe
 ```
 
 This credential is used within the Connection Profile assigned to the File System scans.
+

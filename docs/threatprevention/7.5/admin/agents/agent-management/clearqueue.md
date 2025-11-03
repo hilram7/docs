@@ -60,3 +60,4 @@ either:
 **Step 6 –** When the task is successfully completed, click **Finish** to close the window.
 
 The SQLite Agent queue is automatically cleared.
+

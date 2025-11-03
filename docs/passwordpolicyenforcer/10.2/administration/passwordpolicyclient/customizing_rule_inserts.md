@@ -63,3 +63,4 @@ shows a sample policy message with the template in blue, a macro in green, and p
 white.
 
 ![the_password_policy_client_2](/images/passwordpolicyenforcer/10.2/administration/the_password_policy_client_2.webp)
+

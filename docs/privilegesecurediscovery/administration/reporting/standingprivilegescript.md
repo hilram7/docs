@@ -37,3 +37,4 @@ Run the script with the following command:
 ```
 s1 db --file /data/db/queries/analytics_admin_changes_per_wave.js | awk 'NR > 8 { print }' > ./analytics_admin_changes_per_wave.txt
 ```
+

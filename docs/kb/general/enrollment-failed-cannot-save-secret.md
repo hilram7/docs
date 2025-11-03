@@ -37,3 +37,4 @@ Netwrix Password Secure is trying to create a `secrets.bin` file in the Netwrix 
 1. Provide the Netwrix Password Secure service account rights with `Modify` and/or `Write` to the Netwrix Password Secure installation directory.
 2. Verify that the account is a domain admin and a local administrator on the Netwrix server where Netwrix Password Secure is installed.
 3. Verify the Administrators group on the Netwrix server has `Modify`/`Write` access to the Netwrix Password Secure installation directory.
+

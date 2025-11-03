@@ -38,3 +38,4 @@ There are two options to force prompting for credentials:
    To do it, go to **Control panel - Internet options - Security** tab. Select Local Intranet zone, click Custom level, in subwindows scroll to the very bottom and under **User Authentication - Logon** select **Prompt for user name and password**.
 
    [![User-added image](./images/ka04u00000116d7_0EM700000004yHw.png)](https://netwrix.secure.force.com/kb/servlet/rtaImage?eid=ka40g000000kAb4&amp;feoid=00N700000032Pj2&amp;refid=0EM700000004yHw)
+

@@ -101,3 +101,4 @@ is; for example, as it appears on the Details tab of Windows Task Manager.
 **Step 5 –** Click **Update** on the File Monitor Settings window.
 
 Any processes added to the list will not have their File System activity reported.
+

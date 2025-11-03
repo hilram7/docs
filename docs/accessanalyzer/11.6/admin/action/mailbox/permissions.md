@@ -137,3 +137,4 @@ Specify permissions using the following options:
 
     - To re-add Anonymous to the folder but not assign any access, select a permission level to
       assign
+

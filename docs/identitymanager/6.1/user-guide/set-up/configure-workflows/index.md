@@ -111,3 +111,4 @@ Validate the process by proceeding as follows:
 
 Once onboarding workflows are configured, integrators can start
 [configuring a connector](/docs/identitymanager/6.1/user-guide/set-up/connect-system/index.md).
+

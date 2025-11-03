@@ -41,3 +41,4 @@ dsacls "CN=Deleted Objects,DC=domain,DC=com" /g domain\\username:LCRP
 - **Module:** SA - DC - ADInventory  
 - **Versions:** All  
 - **Salesforce Article ID:** 000001543
+

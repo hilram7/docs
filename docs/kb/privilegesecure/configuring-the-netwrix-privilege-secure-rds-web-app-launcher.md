@@ -129,3 +129,4 @@ launch-website.exe https://website.com lab\jsmith
 ![image.png](images/ka0Qk0000001EP7_00N0g000004CA0p_0EMQk000001tLo2.png)
 
 Note that the login account in this example connects to the RDS session running the web app launcher as a remote app. The web app launcher will launch the website under the context of the username provided on the command line. The web app launcher will call the API to get the managed password of the user, and will enter it into the password field of the website.
+

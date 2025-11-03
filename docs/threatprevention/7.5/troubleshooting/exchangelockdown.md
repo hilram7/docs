@@ -62,3 +62,4 @@ The Exchange Lockdown policy blocks the folder permission changes.
 
 With both lockdown policies working together, it is possible to block changes to existing
 connections.
+

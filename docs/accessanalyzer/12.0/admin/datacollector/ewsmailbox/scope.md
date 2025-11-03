@@ -16,3 +16,4 @@ Select an option to specify which mailboxes are searched:
 - All mailboxes – Search all mailboxes
 - Select mailboxes from list – Search only specific selected mailboxes. This option enables the
   [EWSMailbox: Scope Select](/docs/accessanalyzer/12.0/admin/datacollector/ewsmailbox/scopeselect.md) page.
+

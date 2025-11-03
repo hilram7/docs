@@ -45,3 +45,4 @@ is, the resource to which you plan on assigning roles). See the
 additional information.
 
 Resources need a model: the entity model.
+

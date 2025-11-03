@@ -50,3 +50,4 @@ the following pre-configured report:
 | Report       | Description                                                    | Default Tags | Report Elements                                                                                                                                                 |
 | ------------ | -------------------------------------------------------------- | ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Large Groups | This report identifies large groups within the audited domains | None         | This report is comprised of two elements: <ul><li>Bar Chart – Displays Top 5 Large Groups</li><li>Table – Provides information on Large Group Details</li></ul> |
+

@@ -14,3 +14,4 @@ all of the categories.
 Properties can be selected individually, or the **Select All**, **Clear All**, and **Reset to
 Defaults** buttons can be used. All selected properties are gathered. Available properties vary
 based on the category selected.
+

@@ -13,3 +13,4 @@ Using Directory Manager portal, you can perform the following actions:
 - [Reset your password](/docs/directorymanager/11.1/portal/user/manage/resetpassword.md)
 - [ Change your password](/docs/directorymanager/11.1/portal/user/manage/changepassword.md)
 - [Unlock your accounts](/docs/directorymanager/11.1/portal/user/manage/unlockaccount.md)
+

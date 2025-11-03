@@ -35,3 +35,4 @@ The table has the following columns:
 - Session ID — Unique identifier for the session
 
 The table columns can be resized and sorted in ascending or descending order.
+

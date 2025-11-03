@@ -37,3 +37,4 @@ the[Registry Inclusion/Exclusion Match Rules ](/docs/changetracker/8.0/admin/mat
 topic for additional information.
 
 ![PolicyTemplateRegistryExclude](/images/changetracker/8.0/admin/settings/policytemplates/policytemplateregistryexclude.webp)
+

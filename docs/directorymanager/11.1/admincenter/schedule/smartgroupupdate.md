@@ -156,3 +156,4 @@ Step 14 – On the Schedules page, click **Save**.
 The schedule is displayed under Smart Group Update. See the
 [View the Schedules in an Identity Store ](manage.md#view-the-schedules-in-an-identity-store) topic
 for more info for additional information.
+

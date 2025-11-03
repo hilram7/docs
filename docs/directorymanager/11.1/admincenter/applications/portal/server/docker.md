@@ -47,3 +47,4 @@ To set file logging and Windows logging levels for a deployment instance, see th
 To delete a portal’s deployment instance, see the
 [Delete a Deployment Instance for a Portal](/docs/directorymanager/11.1/admincenter/applications/portal/delete.md#delete-a-deployment-instance-for-a-portal)
 topic.
+

@@ -34,3 +34,4 @@ The clue type can be set to one of the following:
 
 **NOTE:** If Create Tree Node is selected then these topics shall be added as children of the
 currently selected node in the taxonomy structure.
+

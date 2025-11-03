@@ -39,3 +39,4 @@ are members of the selected group.
 **Step 6 –** Apply settings to your Auditing Entries depending on the access types you want to
 audit. If you want to audit all access types, you need to add separate Auditing Entries for each
 file share. Otherwise, reports will contain limited data and warning messages.
+

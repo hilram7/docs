@@ -25,3 +25,4 @@ Configure the Target Files options:
     - Current value – Displays the current value for the registry key
 
 - INI File Name – Name of the INI file
+

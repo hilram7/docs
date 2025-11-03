@@ -146,3 +146,4 @@ in.
 
 Your custom script block should return the $Credential object passed in, updated with any relevant
 information.
+

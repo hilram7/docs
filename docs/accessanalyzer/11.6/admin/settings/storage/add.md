@@ -71,3 +71,4 @@ database** was selected, the Storage Profile is now linked to the database. Clic
 **OK** to complete the creation of the new Storage Profile.
 
 The new Storage Profile is available to be used by Enterprise Auditor.
+

@@ -56,3 +56,4 @@ The table has the following columns:
       immediately.
 
 The table columns can be resized and sorted in ascending or descending order.
+

@@ -87,3 +87,4 @@ interface by editing the templates. Even the error messages are defined in the t
 edit those too. See the
 [Editing the HTML Templates](/docs/passwordreset/3.23/administration/editing_the_html_templates.md)
 topic of the Administrator's Guide for additional information.
+

@@ -38,3 +38,4 @@ This can be done by using html tags.
 3. Modify the URL (`https://netwrix.com/`) and caption (`Support link`) as needed
 
 ![User-added image](images/ka04u000000HcNU_0EM700000004xUL.png)
+

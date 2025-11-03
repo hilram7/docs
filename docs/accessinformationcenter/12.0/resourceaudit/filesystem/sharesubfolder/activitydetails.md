@@ -57,3 +57,4 @@ the following columns:
 
 The table data grid functions the same way as other table grids. See the
 [Data Grid Features](/docs/accessinformationcenter/12.0/admin/navigate/datagrid.md) topic for additional information.
+

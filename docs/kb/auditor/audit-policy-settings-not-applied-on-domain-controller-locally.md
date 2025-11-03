@@ -37,3 +37,4 @@ This error can also occur when an `audit.csv` file is not allowing the local sec
 
 - `C:\Windows\system32\grouppolicy\machine\microsoft\windows nt\audit\audit.csv`
 - `SYSVOL\domain\Policies\\\{GUID\}\Machine\microsoft\windows nt\Audit`
+

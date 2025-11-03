@@ -290,3 +290,4 @@ a newly created object and the validation process for new users will apply to it
    date, it clears the validation date.  
    If you specify zero (0), the schedule clears the validation date as soon as it expires the user.
 6. Click **Save**.
+

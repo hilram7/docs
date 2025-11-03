@@ -29,3 +29,4 @@ The following components comprises the 5.Domains job group:
 - [AD_KerberoastingRisk Job](/docs/accessanalyzer/12.0/solutions/activedirectory/domains/ad_kerberoastingrisk.md) – Identifies accounts vulnerable to
   kerberoasting. Kerberoasting is a threat where attackers target service accounts in Active
   Directory to steal their passwords.
+

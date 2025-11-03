@@ -43,3 +43,4 @@ Entities can be used to specify any custom words or phrases that should be remov
 plan.
 
 ![configredactionentities](/images/dataclassification/5.7/configuration/configredactionentities.webp)
+

@@ -227,3 +227,5 @@ see we are searching for the word "fire" and finding policies and groups with th
 quickly.
 
 ![web_interface_and_controls_69_312x320](/images/endpointpolicymanager/cloud/interface/computergroups/web_interface_and_controls_69_312x320.webp)
+
+

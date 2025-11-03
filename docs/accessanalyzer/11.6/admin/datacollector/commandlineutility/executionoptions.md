@@ -55,3 +55,4 @@ The Other Settings section provides additional options:
 - Timeout – Timeout limit in seconds for the task to finish
 
     - The default value is 1200 seconds, or 20 minutes
+

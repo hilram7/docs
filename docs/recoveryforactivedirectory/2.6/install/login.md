@@ -71,3 +71,4 @@ the Recovery application account.
 **Step 5 –** Enter the code in the Authentication code field and click **Verify**.
 
 The Recovery Console opens.
+

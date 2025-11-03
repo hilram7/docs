@@ -20,3 +20,4 @@ The following options are available:
 - Advanced Criteria – Use the Filter Builder to create custom triggers when a value meets the
   defined conditions. See the [Advanced Search](/docs/accessanalyzer/12.0/admin/navigate/datagrid.md#advanced-search) topic
   for additional information.
+

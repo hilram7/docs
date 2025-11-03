@@ -34,3 +34,4 @@ AssignedResourceType:Owner.User:FirstName
 In this sample, the property `Owner` of `AssignedResourceType` targets the base type `Resource`.
 Type `User` inherits of `Resource` and owns the `FirstName` property. So, the `FirstName` section of
 the binding expression must be prefixed by `User:`.
+

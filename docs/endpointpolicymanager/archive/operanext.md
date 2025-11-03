@@ -64,8 +64,9 @@ shouldn't do. The very next time the application runs, PolicyPak automatically r
 settings to ensure the experience is the same every time.
 
 That's it. if you're ready to get started using PolicyPak, just click on the
-[https://dev.policypak.com/webinar/](https://dev.policypak.com/webinar/) button on the right, and
+[https://policypak.com/webinar/](https://policypak.com/webinar/) button on the right, and
 we'll look forward to seeing you at a webinar and give you the chance to try PolicyPak out in your
 own test lab.
 
 Thanks so much, and we'll talk to you soon.
+

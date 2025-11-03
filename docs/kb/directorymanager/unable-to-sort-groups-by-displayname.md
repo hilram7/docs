@@ -43,3 +43,4 @@ When you attempt to sort the **My Groups** listing in Netwrix Directory Manager 
 3. After all groups have a **Display Name**, the Netwrix Directory Manager portal will sort group listings correctly by this attribute.
 
 > **NOTE:** You may use bulk editing tools or scripts to update the **Display Name** attribute for multiple groups in Active Directory if needed.
+

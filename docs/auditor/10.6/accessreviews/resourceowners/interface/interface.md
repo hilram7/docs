@@ -66,3 +66,4 @@ suggested by an individual who declined ownership.
 
 A resource description can be supplied by either the Ownership Administrator or the assigned owner,
 and is visible during Resource Review creation.
+

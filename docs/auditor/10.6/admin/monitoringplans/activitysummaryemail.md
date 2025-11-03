@@ -36,3 +36,4 @@ The example Activity Summary provides the following information on Active Direct
 To initiate an on-demand Activity Summary delivery, navigate to the Monitoring Plans section, select
 a plan, click Edit, and then select Update. A summary will be delivered to the specified reciptient,
 listing all activity that occurred since the last data collection.
+

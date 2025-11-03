@@ -30,3 +30,4 @@ FPOLICY_POLICY_NAME=EnterpriseAuditor
 
 When the Activity Agent is configured to monitor a NetApp device, it looks for the FPolicy named in
 the parameter.
+

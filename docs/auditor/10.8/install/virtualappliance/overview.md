@@ -100,3 +100,4 @@ virtual appliance:
 | Total Video Memory | 16 MB                                              |
 | Network adapter    | vmxnet3                                            |
 | Other              | Check and upgrade VMware Tools during power cycle. |
+

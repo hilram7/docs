@@ -63,3 +63,4 @@ topic for additional information.
 
 If you are looking to upgrade the Netwrix Identity Manager version from 6.0 to 6.1 you will not need
 to take any action because the database will automatically be upgraded.
+

@@ -33,3 +33,5 @@ The difference between these two types is that
 
 - The **Folder** path condition only applies to all files in the specified folder.
 - The Folder (recursive) path condition applies to all Descendant files.
+
+

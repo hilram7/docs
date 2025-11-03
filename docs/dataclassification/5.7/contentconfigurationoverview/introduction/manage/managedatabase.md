@@ -122,3 +122,4 @@ The table configuration allows you to choose how each specific entity will be cr
 
 
 ![sqltableconfiguration_thumb_0_0](/images/dataclassification/5.7/admin/sources/database/sqltableconfiguration_thumb_0_0.webp)
+

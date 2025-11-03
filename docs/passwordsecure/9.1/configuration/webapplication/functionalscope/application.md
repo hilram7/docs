@@ -28,3 +28,4 @@ General functions:
 
 NOTE: The Web Application module Applications is based on the client module of the same name
 “Applications”. Both modules differ in scope and design, but the operation is almost identical.
+

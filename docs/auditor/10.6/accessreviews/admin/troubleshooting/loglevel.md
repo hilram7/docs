@@ -35,3 +35,4 @@ within the log file also increase. Change to the desired log level:
 
 Once troubleshooting has finished, it is recommended to return the log level to the default level,
 Info = 2, to prevent the log file from growing too large.
+

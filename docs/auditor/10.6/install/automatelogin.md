@@ -40,3 +40,4 @@ To create a shortcut for automated sign-in:
 5. Click Apply.
 
 You can create as many shortcuts with different parameters as needed.
+

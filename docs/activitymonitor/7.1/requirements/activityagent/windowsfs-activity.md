@@ -48,3 +48,4 @@ It is also necessary to enable the Remote Registry Service on the Activity Agent
 
 For integration between the Activity Monitor and Enterprise Auditor, the credential used by
 Enterprise Auditor to read the activity log files must have also have this permission.
+

@@ -23,3 +23,4 @@ script in the command line.
 | --------------------------- | ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Connection required         | String | Identifier of the corresponding connection.                                                                                                                      |
 | DefaultObjectClass optional | String | Default object class used by the provisioner, for example person, organizationalPerson, and user, etc. Multiple default object classes are separated with <br/>. |
+

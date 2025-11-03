@@ -40,3 +40,4 @@ Step 6 – Enter the information for the given fields:
   password must conform to the rules of the applied password policy for the identity store.
 
 Step 7 – Click **Save**.
+

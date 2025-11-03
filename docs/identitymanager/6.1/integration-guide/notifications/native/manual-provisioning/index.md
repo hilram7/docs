@@ -34,3 +34,4 @@ all entity types, but not receive the corresponding notifications.
 The permission can be configured in an
 [access control entry](/docs/identitymanager/6.1/integration-guide/toolkit/xml-configuration/access-control/accesscontrolrule/index.md)
 so that notifications are disabled.
+

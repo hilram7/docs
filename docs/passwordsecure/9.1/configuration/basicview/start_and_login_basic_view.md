@@ -53,3 +53,4 @@ for the download of the favicons (icon, symbol or logo used by web browsers to m
 recognizable way).
 
 ![LightClient in WebClient](/images/passwordsecure/9.1/configuration/basic_view/start_and_login/wc-lc-en.webp)
+

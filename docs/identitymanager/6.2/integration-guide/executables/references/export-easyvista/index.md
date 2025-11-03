@@ -53,3 +53,4 @@ The server has to be running.
 | --account required                                    | **Type** String **Description** EasyVista account.                                                                                                                                         |
 | --login required                                      | **Type** String **Description** Path of the file used for complete synchronization.                                                                                                        |
 | --password required                                   | **Type** String **Description** EasyVista server password.                                                                                                                                 |
+

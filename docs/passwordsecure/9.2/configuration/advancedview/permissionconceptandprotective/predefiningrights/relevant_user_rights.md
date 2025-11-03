@@ -31,3 +31,4 @@ Nevertheless, the four user rights related to “predefining rights” are expla
   activated: The user can remove the roles via the “x” icon:
 
 ![Permissions](/images/passwordsecure/9.2/configuration/advanced_view/permissionconcept/predefining_rights/relevant_user_rights/relevant_user_rights_2-en.webp)
+

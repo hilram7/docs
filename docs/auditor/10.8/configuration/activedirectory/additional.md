@@ -239,3 +239,4 @@ press Enter. The group policy will be updated.
 domain controllers.
 
 **Step 13 –** Ensure that new GPO settings were applied to the domain controllers.
+

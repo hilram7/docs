@@ -82,3 +82,4 @@ Set of fields to sum up the data collected by `RecordControl` after the workflow
 
 | Property | Details |
 | -------- | ------- |
+

@@ -104,3 +104,4 @@ topic.
    The user will use this user name and password for single sign-on into GroupID using PingOne.
 5. Enter other details of the user, such as first name, last name, and the email address.
 6. Click **Save** to create the user.
+

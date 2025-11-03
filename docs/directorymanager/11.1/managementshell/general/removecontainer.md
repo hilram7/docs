@@ -44,3 +44,4 @@ credentials in the environment variable.
 ```
 Remove-Container -identity "OU=Miscellaneous,OU=Recruiting,DC=HR,DC=Imanami,DC=US" -Credential $Cred
 ```
+

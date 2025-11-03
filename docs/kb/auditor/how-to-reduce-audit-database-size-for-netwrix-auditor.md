@@ -99,3 +99,4 @@ The audit database has now been successfully renamed. Refer to the **Rebuilding 
 3. Review **Size** and **Space Available** parameters.
 
 > **NOTE:** This should be done over the course of several days to get the best estimate of growth.
+

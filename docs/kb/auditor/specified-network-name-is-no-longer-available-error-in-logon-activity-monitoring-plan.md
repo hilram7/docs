@@ -106,3 +106,4 @@ Once completed, this will ensure the renamed domain controller is able to replic
 
 - Logon Activity − Permissions for Logon Activity Auditing ⸱ v10.6  
   https://docs.netwrix.com/docs/auditor/10_8/configuration/logonactivity/overview
+

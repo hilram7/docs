@@ -71,3 +71,4 @@ When the activity agent installation is complete, the status changes to **Instal
 activity agent version populates. The next step is to add hosts to be monitored. See the
 [Monitored Hosts Tab](/docs/activitymonitor/7.1/admin/monitoredhosts/overview.md)
 topic for additional information.
+

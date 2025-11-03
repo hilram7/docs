@@ -15,3 +15,4 @@ any Netwrix Change Tracker Agent and the dedicated Netwrix Agent App Proxy Agent
 section on [Agentless FIM](/docs/changetracker/8.1/admin/matchrulesoverview/registryrules.md) for more information.
 
 ![PolicyTeplatesAgentlessDiagram](/images/changetracker/8.1/admin/settings/policytemplates/policyteplatesagentlessdiagram.webp)
+

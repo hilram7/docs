@@ -14,3 +14,4 @@ all audit interfaces: Reports, Results, and Group Membership.
 
 The user being audited is identified at the top of the interface as part of the interface
 breadcrumb. See the [User Reports](/docs/accessinformationcenter/12.0/resourceaudit/user/overview.md) topic for additional information.
+

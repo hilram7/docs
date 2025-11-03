@@ -50,3 +50,4 @@ successful. See the
 [Permissions by Data Collector (Matrix)](/docs/accessanalyzer/11.6/admin/datacollector/permissionmatrix.md)
 topic for information on the recommended permissions needed on the targeted hosts in order to
 collect data.
+

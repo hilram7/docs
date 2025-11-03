@@ -112,3 +112,4 @@ topic for additional information.
 **Step 5 –** See the
 [Exchange Online Monitoring Scope](/docs/auditor/10.6/admin/monitoringplans/exchangeonline/scope.md)
 topic for additional information.
+

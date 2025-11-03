@@ -29,3 +29,4 @@ The jobs in the 2.Activity Job Group are:
 - [SQL_UnusualActivity Job](/docs/accessanalyzer/11.6/solutions/databases/sql/activity/sql_unusualactivity.md)
   – This job group is designed to highlight any anomalies related to outlying user activity by
   database across all the targeted SQL and Azure SQL server instances.
+

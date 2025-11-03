@@ -20,3 +20,4 @@ The report categories are:
 - Open Files – Returns information on locked and in use files
 - Scheduled Tasks – Returns information on scheduled tasks
 - Sessions – Returns information on local and remote sessions
+

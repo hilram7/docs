@@ -31,3 +31,4 @@ The table has the following columns:
 - Status — Shows status information for the task
 
 The table columns can be resized and sorted in ascending or descending order.
+

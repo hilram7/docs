@@ -32,3 +32,4 @@ This API retrieves the number of groups of the authenticated user.
     "count": 1305
 }
 ```
+

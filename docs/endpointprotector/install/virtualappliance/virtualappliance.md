@@ -15,3 +15,4 @@ Inside, will find detailed instructions, best practices, and troubleshooting tip
 implementation and operation of the Endpoint Protector solution. By tapping into the knowledge
 contained within this guide, you will be equipped to protect your organization's sensitive data and
 maintain robust security protocols.
+

@@ -24,3 +24,4 @@ It contains the following options:
   the
   [System Settings Interface](/docs/threatprevention/7.4/reportingmodule/configuration/interface/interface.md)
   topic for additional information.
+

@@ -185,3 +185,4 @@ The above example will return "jsmith"
 A common use case for this function is to remove known suffixes from Privilege Secure Login Account
 Template masks such as "`%samaccountname%`" to change what the Login Account Template evaluates to
 when an Privilege Secure user provisions an activity session.
+

@@ -163,3 +163,4 @@ integration allows those passwords to be utilized for Privilege Secure activitie
 - Offboard password changing process to Active Directory
 
 ![Bring Your Own Vault LAPS Integration Diagram](/images/privilegesecure/4.2/accessmanagement/install/byovlapsdatabase.webp)
+

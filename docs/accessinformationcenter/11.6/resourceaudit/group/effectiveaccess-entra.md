@@ -86,3 +86,4 @@ The following rights are a normalized representation of the permissions granted 
 - Write – Right to add or modify resources
 - Delete – Right to delete resources
 - Manage – Equivalent to full control over resources
+

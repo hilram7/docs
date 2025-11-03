@@ -35,3 +35,4 @@ The configurable options are:
     - **Remove** – Removes the selected column
 
 Click **Next** to continue the setup, or **Back** to return to the previous page.
+

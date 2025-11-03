@@ -85,3 +85,4 @@ The SQL Job Group includes:
 - [SQL_SecurityAssessment Job](/docs/accessanalyzer/11.6/solutions/databases/sql/sql_securityassessment.md)
   – This job is designed to summarize and categorize the security findings into HIGH, MEDIUM, LOW,
   and NO FINDING categories based on their severity.
+

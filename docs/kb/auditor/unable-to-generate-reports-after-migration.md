@@ -42,3 +42,4 @@ Some files were corrupted in the **Reports** folder after migration.
 3. Remove the **Netwrix Auditor** root folder in SSRS.
 4. On the computer that hosts the Auditor Server, open the **Services** snap-in. You can do this by searching for *Services*.
 5. Restart the **Netwrix Auditor Management Service**. This will recreate the reports folder and resolve the error. The reports will take 5-10 minutes to re-upload.
+

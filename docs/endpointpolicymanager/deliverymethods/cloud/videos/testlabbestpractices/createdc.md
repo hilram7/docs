@@ -98,3 +98,5 @@ talk about what the portal looks like, and we'll go on a complete journey of wha
 Manager Cloud is.
 
 Thanks for watching this video, and keep watching.
+
+

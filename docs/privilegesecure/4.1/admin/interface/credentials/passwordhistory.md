@@ -24,3 +24,4 @@ The window has the following columns:
   table.
 
 The table columns can be resized and sorted in ascending or descending order.
+

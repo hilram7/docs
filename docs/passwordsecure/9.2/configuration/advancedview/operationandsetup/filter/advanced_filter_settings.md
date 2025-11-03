@@ -109,3 +109,4 @@ negations, you can only search e.g. for a tag. Negations make the following quer
 
 **CAUTION:** In order to effectively use negations, it is important that “and links” are always
 enabled. Otherwise operations with negations cannot be modelled mathematically.
+

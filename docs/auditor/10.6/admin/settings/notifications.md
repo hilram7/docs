@@ -58,3 +58,4 @@ window. It will take you to the Health Status dashboard that contains informatio
 activity and system health state. See the
 [Health Status Dashboard](/docs/auditor/10.6/admin/healthstatus/dashboard/overview.md)
 topic for additional information.
+

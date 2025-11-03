@@ -77,3 +77,4 @@ provide this account in the monitoring plan wizard.
     - If you are going to configure Fine Grained Auditing, make sure that you are using Oracle
       Database _Enterprise Edition_. Then grant privileges depending on your Oracle Database
       version.
+

@@ -61,3 +61,4 @@ Data Processing Account has insufficient permissions to write data to the databa
 
 - Audit Database − Configure Default SQL Server Settings · v10.6  
   https://docs.netwrix.com/docs/auditor/10_8
+

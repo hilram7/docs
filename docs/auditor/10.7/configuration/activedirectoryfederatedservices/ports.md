@@ -27,3 +27,4 @@ Tip for reading the table: For example, on the computer where Netwrix Auditor Se
 | 137 through 139                  | UDP      | Netwrix Auditor Server | Domain controllers | Service Control Manager Remote Protocol (RPC) Core Service installation |
 | 445                              | TCP      | Netwrix Auditor Server | Domain controllers | SMB 2.0/3.0                                                             |
 | 5985 (for HTTP) 5986 (for HTTPS) | TCP      | Netwrix Auditor Server | AD FS servers      | Windows Remote Management (WinRM)                                       |
+

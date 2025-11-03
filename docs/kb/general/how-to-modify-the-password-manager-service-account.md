@@ -33,3 +33,4 @@ To modify this account after installation, do the following:
 6. Click **OK** and restart the service.
 
 [![User-added image](./images/ka04u00000116Ro_0EM700000004xUu.png)](https://netwrix.secure.force.com/kb/servlet/rtaImage?eid=ka40g000000kAd0&feoid=00N700000032Pj2&refid=0EM700000004xUu)
+

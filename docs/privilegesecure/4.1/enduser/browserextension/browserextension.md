@@ -18,3 +18,4 @@ the respective stores:
   [Netwrix Privilege Secure (formerly SbPAM) - Microsoft Edge Addons](https://microsoftedge.microsoft.com/addons/detail/stealthbits-privileged-ac/flpcdjheolnofamggbinbnhcmomenhac?msclkid=a17a982bbc0411ecb49e42544afdb67a)
 
 See the Log in Using the Browser Extension topic for additional information.
+

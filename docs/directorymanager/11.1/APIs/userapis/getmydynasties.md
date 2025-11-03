@@ -104,3 +104,4 @@ Use this API to retrieve the dynasties of the authenticated user.
   ]
 }
 ```
+

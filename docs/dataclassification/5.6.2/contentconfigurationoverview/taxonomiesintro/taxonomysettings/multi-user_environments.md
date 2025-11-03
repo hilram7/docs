@@ -35,3 +35,4 @@ Other users will see a closed padlock symbol to indicate the status of the term.
 
 Other users are unable to alter or unlock a term that has been locked by another user. However
 super-users are also able to Unlock a term.
+

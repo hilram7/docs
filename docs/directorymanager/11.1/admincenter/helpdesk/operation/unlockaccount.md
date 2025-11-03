@@ -68,3 +68,4 @@ last time the user changed his or her password, and the lock status of the accou
 has linked his or her accounts that exist in different identity stores, this page displays all
 linked accounts that are locked.  
 To unlock an account, select the check box for it and click **Unlock**.
+

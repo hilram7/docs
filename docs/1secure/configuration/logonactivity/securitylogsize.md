@@ -28,3 +28,4 @@ needed**.
 
 **Step 6 –** Navigate to **Start** > **Run** and type _"cmd"_. Input the `gpupdate /force` command
 and press **Enter**. The group policy will be updated.
+

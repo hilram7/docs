@@ -26,3 +26,4 @@ instructions of the wizard. Review the table below for more information.
 
 The newly created virtual machine named Netwrix Data Classification will appear in the list of
 virtual machines. Right-click and select Start.
+

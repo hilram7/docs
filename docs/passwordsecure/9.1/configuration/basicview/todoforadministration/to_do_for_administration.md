@@ -71,3 +71,4 @@ Setting:
 **Default form** Otherwise, no form can be assigned to the new password.
 
 - Add right to the organisational unit of the user
+

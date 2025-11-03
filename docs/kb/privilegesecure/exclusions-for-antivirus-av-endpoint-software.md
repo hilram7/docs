@@ -65,3 +65,4 @@ The following exclusions should be configured on each server with a remote Sched
 \Program Files\Stealthbits\PAM\ProxyService
 \Program Files\Stealthbits\PAM\SbPAM.SchedulerService
 ```
+

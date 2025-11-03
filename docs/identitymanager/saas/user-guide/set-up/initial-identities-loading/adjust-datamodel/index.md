@@ -115,3 +115,4 @@ In order to validate the process:
     > We change `large` to `extra small`.
 
 4. Verify the test field's displaying mode.
+

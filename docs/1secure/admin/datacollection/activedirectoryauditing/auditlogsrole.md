@@ -21,3 +21,4 @@ Perform this procedure only if the account selected for data collection is not a
     `New-ManagementRoleAssignment -Name "AuditLogsNetwrixRole" -User Corp\jsmith -Role "Audit Logs"`
 
     In this example, the user CORP\jsmith has been assigned the **Audit Logs** role.
+

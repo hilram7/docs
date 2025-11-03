@@ -81,3 +81,4 @@ If an approver does not act on a workflow request within the specified number of
 
 ### Workflow Acceleration Job
 A scheduled job, **Workflow Acceleration**, is predefined in Netwrix Directory Manager for each identity store. By default, this job runs daily to escalate workflow requests according to the acceleration settings and rules. It also generates notifications to inform approvers about pending workflow requests.
+

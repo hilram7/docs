@@ -57,3 +57,4 @@ The URL allowlist is used to allow uploads to specific websites.
 1. In the Netwrix Endpoint Protector Console, navigate to **Content Aware Protection > Content Aware Policies** and edit the policy.
 2. Ensure that the web browsers used by users are included in the **Policy Exit Points**.
 3. Scroll to the policy allowlists, click the **Deep Packet Inspection** tab, select the checkbox next to the allowlist you want to use, and click **Save**.
+

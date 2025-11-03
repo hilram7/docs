@@ -138,3 +138,4 @@ allow you to create customized reports with a vast range of display options (suc
 matrixes, etc.) using Usercube's universes.
 
 [See how to analyze Usercube's data with Power BI](/docs/identitymanager/6.1/integration-guide/governance/reporting/how-tos/connect-powerbi/index.md).
+

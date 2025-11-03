@@ -28,3 +28,4 @@ There are the following additional data source options:
 
 Once you have selected the data source, click **Next** to proceed to the Configure page. See the
 [Configure](/docs/accessanalyzer/12.0/admin/report/chartwizard/configure.md) topic for additional information.
+

@@ -100,3 +100,4 @@ Set **Characters (Complexity)** to require 1 Numeric character.
 Set **Characters (Granular)** to not contain numeric values in the first two positions.
 
 ![Don't allow numeric values in first two positions](/images/passwordpolicyenforcer/11.0/administration/chargranularrestrict4.webp)
+

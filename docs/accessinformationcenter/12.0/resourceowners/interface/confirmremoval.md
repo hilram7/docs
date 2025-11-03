@@ -21,3 +21,4 @@ Removal window opens.
 **Step 2 –** Click Yes to complete the removal process or **No** to cancel it.
 
 The resource no longer appears in the Resource Owners interface.
+

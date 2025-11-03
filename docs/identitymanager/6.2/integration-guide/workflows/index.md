@@ -184,3 +184,4 @@ Identity Manager provides a default display table to show the created/modified r
 you can configure your own.
 
 See the [Display Table](/docs/identitymanager/6.2/integration-guide/toolkit/xml-configuration/user-interface/displaytable/index.md) topic for additional information.
+

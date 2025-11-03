@@ -10,3 +10,4 @@ The following reports are available at the **Teams** node and provide informatio
 Online instances:
 
 - [Teams Scan Summary](/docs/accessinformationcenter/12.0/resourceaudit/sharepoint/teams/teamsscansummary.md)
+

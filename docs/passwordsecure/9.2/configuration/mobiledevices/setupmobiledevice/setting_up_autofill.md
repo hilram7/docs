@@ -31,3 +31,4 @@ may be shown via other apps.
 
 RECOMMENDED: We recommend to use only Netwrix Password Secure for automatic registration and to
 deactivate all other apps here. This prevents possible misunderstandings in the operation.
+

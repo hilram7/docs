@@ -84,3 +84,4 @@ Studio.
       databases begin with WSS*Content*, but they can be customized)
 
 The service account is provisioned with SharePoint database permissions.
+

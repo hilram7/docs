@@ -59,3 +59,4 @@ click the **Will be installed on local hard drive** button.
 **Step 12 –** Click **Next** twice.
 
 **Step 13 –** Wait for the Password Policy Enforcer Mailer to install, then click **Finish** twice.
+

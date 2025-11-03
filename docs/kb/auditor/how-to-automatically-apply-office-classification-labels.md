@@ -54,3 +54,4 @@ At the time of classification the Classifier process will identify any terms tha
 5. Select **"Add"** to add a new **Rule Action**
 6. Under **SharePoint**, select either: **"Write O365 Label"** or **"Remove O365 Label"**
 7. Specify the **label** that should be **written** or **removed** and then select **Save**
+

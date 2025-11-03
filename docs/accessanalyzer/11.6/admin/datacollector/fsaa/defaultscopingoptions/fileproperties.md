@@ -32,3 +32,4 @@ configured.
 
 The FSAA scan collects the tags from the files and stores the information at the folder level, which
 provides a count for the number of occurrences of each tag.
+

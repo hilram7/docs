@@ -128,3 +128,4 @@ Netwrix Threat Manager, or SIEM products. Add a new output for the same host to 
 tab in the Activity Monitor console to be used by the other product. See the
 [Getting Data from NTP for AD Activity Reporting](/docs/threatprevention/7.4/requirements/agent/NTPtoNAM.md)
 topic for additional information.
+

@@ -22,3 +22,4 @@ The jobs in the Collection job group are:
   – This job collects local group membership details from all targeted servers
 - [SG_LocalUsers Job](/docs/accessanalyzer/11.6/solutions/windows/privilegedaccounts/logonrights/collection/sg_localusers.md)
   – This job collects local user accounts from all targeted servers
+

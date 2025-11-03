@@ -60,3 +60,4 @@ This section displays each scanner function and the status:
 - Last Scanner Run Status
 
 ![Configuration and Stas - Scanner Additional Information](/images/platgovsalesforceflashlight/getting_started/config_scan_add_info_800x127.webp)
+

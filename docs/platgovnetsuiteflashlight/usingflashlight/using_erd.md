@@ -41,3 +41,4 @@ To access the ERD view:
    As you click through the ERD diagram, the associated dependencies are displayed. This tool allows
    you to easily understand what customizations are impacted by a given field on the customization
    record.
+

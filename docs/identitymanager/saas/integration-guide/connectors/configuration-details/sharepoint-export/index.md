@@ -807,3 +807,4 @@ From there, it can be launched and debugged (if needed).
 
 After execution, SharePoint Objects resources should be in the `UR_Resources` table of the SQL
 Server database.
+

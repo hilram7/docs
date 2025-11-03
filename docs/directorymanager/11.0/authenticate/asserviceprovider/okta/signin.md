@@ -38,3 +38,4 @@ With single sign-on, you can now launch any GroupID client without having to sig
 1. Launch the Okta portal using the URL provided by your organization and sign in. The Okta
    dashboard displays the apps configured with Okta for single sign-on.
 2. On clicking an app, you will be redirected to it. Authentication will not be required.
+

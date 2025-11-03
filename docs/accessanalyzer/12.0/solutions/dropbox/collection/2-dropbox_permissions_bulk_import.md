@@ -30,3 +30,4 @@ The query for the 2-Dropbox_Permissions Bulk Import job is:
 There are no customization options available for this job. The Summary page of the Dropbox Access
 Auditor Data Collector wizard can be viewed at the **Jobs** > **Dropbox** > **0.Collection** >
 **2-Dropbox_Permissions Bulk Import** > **Configure** > **Queries** node.
+

@@ -49,3 +49,4 @@ Specify the `443` port in the NPS Rest URL. Refer to the following code block fo
 FQDN:port
 https://pam.netwrix.com:443
 ```
+

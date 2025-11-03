@@ -63,3 +63,4 @@ following templates:
 | Client Access | EX: Outlook Web Access Configuration Changes                | No customizations required | None |
 | Client Access | EX: POP3 and IMAP4 Configuration Changes                    | No customizations required | None |
 | Hub Transport | EX: Receive Connector Configuration Changes                 | No customizations required | None |
+

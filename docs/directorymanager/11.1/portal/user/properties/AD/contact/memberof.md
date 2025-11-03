@@ -24,3 +24,4 @@ Enter a search string to locate the required group, or click **Advance** to use 
 
 Select a group in the Member Of list and click **Remove** to remove the contact from the membership
 of that group.
+

@@ -163,3 +163,4 @@ Right-click on the **Security** > **Users** node and select **New User**.
 When all of the users have been assigned to the appropriate SQL Server database roles, complete the
 process by assigning users to roles within the Access Analyzer Console. See the
 [Assign User to Role Members](/docs/accessanalyzer/12.0/admin/settings/access/rolebased/assignroles.md) topic for additional information.
+

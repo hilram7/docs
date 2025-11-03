@@ -13,3 +13,4 @@ or facial recognition. Clicking **Yes** here is sufficient to log in to the data
 using the respective biometric feature.
 
 ![setup face ID](/images/passwordsecure/9.2/configuration/mobiledevices/setup/biometric_login/setup-face-id-en.webp)
+

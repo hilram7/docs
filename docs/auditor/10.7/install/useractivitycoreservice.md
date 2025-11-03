@@ -41,3 +41,4 @@ audited computer or to a file share the target server(s) can access.
 **UACoreSvcSetup.msi** file.
 
 **Step 4 –** Replace _%NAServer%_ with the name of your Netwrix Auditor server.
+

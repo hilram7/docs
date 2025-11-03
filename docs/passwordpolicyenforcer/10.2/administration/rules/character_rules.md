@@ -92,3 +92,4 @@ Password Policy Enforcer has only one Numeric rule, so the second requirement mu
 one of the other rules. Any unused Character rule can be used for this purpose by changing its name
 and default character set. In this Example, the Custom rule was chosen as it was not being used. The
 character set name was changed to "numeric", and the character set was defined as "1234567890".
+

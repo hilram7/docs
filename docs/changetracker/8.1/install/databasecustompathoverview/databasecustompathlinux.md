@@ -111,3 +111,4 @@ In addition it is possible to ask mongo to use smaller files on disk-space const
 the mongod.conf file you can add a further parameter:
 
 smallfiles=true
+

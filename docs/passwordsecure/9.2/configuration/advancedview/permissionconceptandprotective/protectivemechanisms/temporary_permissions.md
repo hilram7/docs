@@ -45,3 +45,4 @@ permissions. To prevent this happening, users with temporary permissions are han
 
 **CAUTION:** There must always be one user who has the “authorize” right to a record, who does not
 only have temporary permissions.
+

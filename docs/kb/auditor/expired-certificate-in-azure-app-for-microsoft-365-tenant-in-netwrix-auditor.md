@@ -39,3 +39,4 @@ No. Netwrix Auditor will reissue the certificate automatically as long as the ap
 - SharePoint Online — Permissions for SharePoint Online Auditing ⸱ v10.6
 - Exchange Online — Permissions for Exchange Online Auditing ⸱ v10.6
 - Teams — Permissions for Teams Auditing ⸱ v10.6
+

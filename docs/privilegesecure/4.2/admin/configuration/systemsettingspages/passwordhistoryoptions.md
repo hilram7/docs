@@ -20,3 +20,4 @@ The page shows details of the password history settings and has the following fe
   1 - 365, Default 30)
 - Save button (only visible when editing) — Saves changes
 - Cancel button (only visible when editing) — Discards changes
+

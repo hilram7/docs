@@ -57,3 +57,4 @@ The PostgreSQL database application is now installed. Nest you can install the N
 Manager Reporting Module application. See the
 [Install the Netwrix Threat Manager Reporting Module](/docs/threatprevention/7.5/install/reportingmodule/application.md) topic for additional
 information.
+

@@ -11,3 +11,4 @@ license key, just paste the code provided into the **Add New License** field and
 License**.
 
 ![SystemSettingsLicense](/images/changetracker/8.1/admin/settings/systemsettingslicense.webp)
+

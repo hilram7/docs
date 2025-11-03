@@ -13,3 +13,4 @@ the log type of Windows Event Log.
 
 Only one log can be targeted per query task. The selected log is displayed at the bottom of the
 wizard page.
+

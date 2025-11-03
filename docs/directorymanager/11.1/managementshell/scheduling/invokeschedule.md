@@ -52,3 +52,4 @@ This example executes all the GUS scheduled jobs with daily running trigger.
 ```
 Get-Schedule -JobType GUS -TriggerType RunDaily -MatchingCriteria And | Select-Object -Property Name | Invoke-Schedule
 ```
+

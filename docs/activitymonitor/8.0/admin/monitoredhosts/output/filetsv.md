@@ -44,3 +44,4 @@ File Operation.
 | Audit was changed (SACL)        | Sac           | Old SACL in SDDL format                                               | New SACL in SDDL format                        |
 | File attributes were changed    | Att           | Old attributes as a hexadecimal number (0xNNN)                        | New attributes as a hexadecimal number (0xNNN) |
 | File is read from a shadow copy | VSS           | Shadow copy creation time in YYYYMMDDThhmmss format (20180905T123456) |                                                |
+

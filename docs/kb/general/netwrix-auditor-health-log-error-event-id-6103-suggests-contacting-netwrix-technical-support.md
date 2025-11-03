@@ -51,3 +51,4 @@ Add antivirus exclusions to both your Netwrix Auditor monitoring plan and to tar
 ## Related Articles
 
 - [Antivirus Exclusions for Netwrix Auditor](/docs/kb/auditor/antivirus-exclusions-for-netwrix-auditor.md)
+

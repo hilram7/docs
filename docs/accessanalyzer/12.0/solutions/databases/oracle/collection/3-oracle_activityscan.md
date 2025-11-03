@@ -83,3 +83,4 @@ The default analysis tasks are:
 - Oracle Activity Import – Creates the SA_AIC_ActivityEventsImport table accessible under the job’s
   Results node
 - Delete Activity Older than 30 Days – Drops Activity from the AIC tables older than 30 days
+

@@ -53,3 +53,4 @@ The table has the following columns:
 - Created — Date timestamp when the item was created
 
 The table columns can be resized and sorted in ascending or descending order.
+

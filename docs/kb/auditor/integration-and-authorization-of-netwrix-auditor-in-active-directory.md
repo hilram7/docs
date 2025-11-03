@@ -36,3 +36,4 @@ Depending on the data source, Netwrix Auditor will implement different protocols
 ## Related articles
 
 - Requirements − Protocols and Ports Required ⸱ v10.6
+

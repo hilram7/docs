@@ -72,3 +72,4 @@ fort additional information.
 Once you acquire licenses from our sales team, you can implement them in two ways.
 [See PolicyPak Solution Methods: Group Policy, MDM, UEM Tools, and PolicyPak Cloud compared. for additional information on ](https://docs.netwrix.com/docs/endpointpolicymanager/licensing/knowledgebase/miscquestions/licensingmethods)
 how to import the licenses.
+

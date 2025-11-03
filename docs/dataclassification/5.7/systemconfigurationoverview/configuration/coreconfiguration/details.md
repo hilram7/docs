@@ -15,3 +15,4 @@ the SQL database.
 To look for a particular property or value, use the search field.
 
 To change the sorting order, use the arrows in the corresponding column.
+

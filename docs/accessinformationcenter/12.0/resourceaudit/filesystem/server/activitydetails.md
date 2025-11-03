@@ -52,3 +52,4 @@ the following columns:
 - Inheritance – Whether or not the Ace is inherited
 - Ace Flags – Inheritance flag description
 - Access Rights – Type of right assigned
+

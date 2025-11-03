@@ -125,3 +125,4 @@ The Configure Scorecard Options window provides the following options:
 
     - Property [1-5] – Select a property from the selected table using the drop-down menu to capture
       and store its values with the scorecard
+

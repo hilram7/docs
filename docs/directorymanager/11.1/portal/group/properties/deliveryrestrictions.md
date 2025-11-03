@@ -35,3 +35,4 @@ performing a search.
 **Remove**
 
 To remove an object from a list, select it and click **Remove** in the respective area.
+

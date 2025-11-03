@@ -123,3 +123,4 @@ These configurations avoid overloading the system with a large number of bulk ac
 
 \*\*Not all bulk actions can be completed on endpoints with an OS other than Windows. We intend to
 include domain joined Linux and Mac in a future version.
+

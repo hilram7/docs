@@ -28,3 +28,4 @@ The jobs in the 0.Collection Job Group are:
 - [5-SQL_ServerSettings Job](/docs/accessanalyzer/12.0/solutions/databases/sql/collection/5-sql_serversettings.md) – This job is designed to collect SQL server
   instance and database configuration settings so that they can be evaluated against recommended
   best practices
+

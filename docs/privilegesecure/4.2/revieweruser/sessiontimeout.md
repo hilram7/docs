@@ -10,3 +10,4 @@ For security reasons, the Privilege Secure Console automatically logs out the us
 of inactivity. A Session Timeout warning message displays after 5
 minutes.![Session time out window](/images/privilegesecure/4.2/accessmanagement/enduser/sessiontimeout.webp)If
 the timeout message displays, click Stay Logged In to continue using the console.
+

@@ -323,3 +323,4 @@ The App Display details are:
 See the
 [App Display Setting](/docs/identitymanager/6.2/integration-guide/toolkit/xml-configuration/metadata/settings/appdisplaysetting/index.md)
 topic for additional information.
+

@@ -56,3 +56,4 @@ Make sure that COM settings on the back-end server are correct:
 2. Ensure properties of the Netwrix Password Manager COM object allow `Remote activation`.
 
    ![User-added image](./images/ka04u00000116Nr_0EM700000005ORx.png)
+

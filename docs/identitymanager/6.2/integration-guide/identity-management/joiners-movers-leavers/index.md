@@ -15,3 +15,4 @@ system.
 See the [Onboarding and Offboarding](/docs/identitymanager/6.2/integration-guide/identity-management/joiners-movers-leavers/on-offboarding/index.md) and
 [Position Change via Records](/docs/identitymanager/6.2/integration-guide/identity-management/joiners-movers-leavers/position-change/index.md) topics for additional information on
 onboarding and offboarding and position changes via records.
+

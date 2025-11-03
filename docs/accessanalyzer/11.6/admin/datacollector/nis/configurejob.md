@@ -57,3 +57,4 @@ topic for instructions on how to create a custom static host list.
 See the
 [Recommended Configuration for the .NIS Inventory Solution](/docs/accessanalyzer/11.6/solutions/nisinventory/recommended.md)
 topic for information on where to assign the Connection Profile and host list.
+

@@ -27,3 +27,4 @@ The table has the following columns:
 - Operating System — Displays the operating system of the resource
 
 The table columns can be resized and sorted in ascending or descending order.
+

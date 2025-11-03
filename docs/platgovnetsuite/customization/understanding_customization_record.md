@@ -99,3 +99,4 @@ report.
 #### Detailed Metadata tab with Data Sources Integration
 
 ![cust_ui_detailed_metadata_data_sources](/images/platgovnetsuite/customizations/cust_ui_detailed_metadata_data_sources.webp)
+

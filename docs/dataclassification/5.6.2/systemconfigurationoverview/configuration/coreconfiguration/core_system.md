@@ -31,3 +31,4 @@ configuration option has an associated “i” which describes the nature of the
 You may need to export the current configuration —to send to the support team for debugging
 purposes. Go to **System Configuration > Config > Settings > Core > System** and in the
 **Configuration Export** section click **Export** button.
+

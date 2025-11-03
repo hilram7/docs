@@ -20,3 +20,4 @@ following options to add and remove filters:
       information
 
 - Clear – Clears any specified filters
+

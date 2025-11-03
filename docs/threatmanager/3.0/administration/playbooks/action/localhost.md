@@ -74,3 +74,4 @@ target client.
   be run under the credentials of the action. Select the credentials from the drop-down list. See
   the [Credential Profile Page](/docs/threatmanager/3.0/administration/configuration/integrations/credentialprofile.md) topic for
   additional information.
+

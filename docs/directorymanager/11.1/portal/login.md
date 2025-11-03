@@ -96,3 +96,4 @@ for your role in the selected identity store, one of the following applies:
 ## Sign Out
 
 In the portal, click your profile info in the top right corner and click **Sign Out**.
+

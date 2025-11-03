@@ -40,3 +40,4 @@ Refer to the following article for additional information on Role Based Access t
 ## Related Articles
 
 - https://docs.netwrix.com/docs/auditor/10_8 (Access — Role Based Access · v11.6)
+

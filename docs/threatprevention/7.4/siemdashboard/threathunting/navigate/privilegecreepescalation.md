@@ -21,3 +21,4 @@ The Privilege Creep/Escalation option contains the following cards:
   recorded in the specified timeframe
 
 The specified timeframe is set by default to _All Time_.
+

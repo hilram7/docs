@@ -19,3 +19,4 @@ The 3.Groups job group is comprised of:
   – Provides details on groups that have no policies assigned to them
 - [AWS_StaleGroups Job](/docs/accessanalyzer/11.6/solutions/aws/groups/aws_stalegroups.md)
   – Highlights groups that have members that are considered stale
+

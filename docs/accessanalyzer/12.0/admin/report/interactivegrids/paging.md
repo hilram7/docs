@@ -23,3 +23,4 @@ Grouping options are disabled for the report.
 When paging is enabled, arrows are displayed that allow you to navigate to the next page, last page,
 previous page, or first page. If the data is filtered, it is indicated at the end of the line. Each
 page contains 10 records.
+

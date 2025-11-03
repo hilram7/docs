@@ -54,3 +54,4 @@ If several matching passwords are found in the database, the desired one must be
 NOTE: Depending on the current state, it may be necessary to authenticate to the app before
 selecting or confirming of the password to be entered. The database then has to be unlocked via the
 password, Touch ID or Face ID.
+

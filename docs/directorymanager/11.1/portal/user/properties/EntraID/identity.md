@@ -74,3 +74,4 @@ The user's photo.
 
 Click the **Edit** icon to launch the Manage Photo dialog box for uploading a photo. The dialog box
 also provides many image editing options, including rotate, crop, flip, and re-size.
+

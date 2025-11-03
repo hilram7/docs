@@ -41,3 +41,4 @@ The current user does not have sufficient permissions to the ` %SAInstallDir%` f
 
 1. Add the user or group to the security permissions on the ` %SAInstallDir%` folder.
 2. Ensure that they have at least **Modify** permission access to the folder and all child objects.
+

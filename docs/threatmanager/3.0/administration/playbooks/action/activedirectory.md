@@ -92,3 +92,4 @@ The Revert Permission Change action reverts a permission change on an Active Dir
 
 See the [Integrations Interface](/docs/threatmanager/3.0/administration/configuration/integrations/overview.md) topic for additional
 information.
+

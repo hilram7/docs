@@ -46,3 +46,4 @@ open the Choose folders to include or Choose folders to exclude window.
 Folders or Exclude Folders list.
 
 After the configuration changes are saved, scans are filtered by the selected public folders.
+

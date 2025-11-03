@@ -122,3 +122,4 @@ Solution:
 As described for scenario 4. If the user was imported in end-to-end mode, you can also log in
 without an AD connection. Users imported in Masterkey mode cannot log in. Therefore, it is
 recommended that you create special, local emergency users for such cases.
+

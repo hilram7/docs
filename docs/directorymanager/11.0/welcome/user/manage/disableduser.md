@@ -71,3 +71,4 @@ Directory.** You can select entire directory or a domain to search active groups
 - [Validate your profile](/docs/directorymanager/11.0/welcome/user/manage/validateprofile.md)
 - [User Properties](/docs/directorymanager/11.0/welcome/user/properties/overview.md)
 - [Portal Settings](/docs/directorymanager/11.0/welcome/generalfeatures/portal.md)
+

@@ -43,3 +43,4 @@ Yes, it is possible to install the Netwrix Endpoint Protector (EPP) Client on ma
 
 - If you are using EasyLock for USB encryption, add **EasyLock** to the **Files and Folders** section in **Security & Privacy**.
 - These steps are suitable for evaluating the product or installing it on a small number of Mac devices. For larger deployments, use third-party tools for mass installation.
+

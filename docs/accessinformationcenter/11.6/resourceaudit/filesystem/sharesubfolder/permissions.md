@@ -100,3 +100,4 @@ The Effective Access report shows that Jazmina has access to the resource throug
 group, and the access is directly applied. See the
 [Effective Access Report](/docs/accessinformationcenter/11.6/resourceaudit/filesystem/sharesubfolder/effectiveaccess.md) topic
 for additional information.
+

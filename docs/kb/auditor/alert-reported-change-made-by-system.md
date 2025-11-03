@@ -34,3 +34,4 @@ Once a change is received, the WHO or WHEN field might be missing. After collect
 To ensure timely delivery, the alert is sent out with as much data collected at the time.
 
 During the next quick data collection Netwrix Auditor will attempt to find the corresponding security event to collect data for missing fields of that change as well as new ones. If your Activity Summary report contains the WHO or WHEN data, the security event was properly written and collected. This won't be reflected in the alert, but data will be present for the activity stated in your daily review or in SQL Server report.
+

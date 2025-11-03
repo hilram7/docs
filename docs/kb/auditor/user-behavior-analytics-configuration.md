@@ -31,3 +31,4 @@ User Behavior Analytics (UBA) is a feature that is currently in a closed enrollm
 ## How can I opt-in for UBA?
 
 To benefit from Netwrix Behavior Anomaly Insight functionality, you will need a special license. Contact your Netwrix sales representative for details.
+

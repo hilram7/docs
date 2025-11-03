@@ -40,3 +40,4 @@ A job exists in the Windows Task Scheduler that references the Netwrix Auditor e
 > **NOTE:** The faulting task can be identified from the following part of the pop-up error message:
 >
 > `Error: Failed to initialize task <Faulting Task Name>`
+

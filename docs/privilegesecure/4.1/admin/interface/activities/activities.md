@@ -175,3 +175,4 @@ website resource.
 The Vault login account will use an account that is checked out of the specified vault to run the
 activity. The password provided by the vault is available to the user via the UI during an active
 session. When a session ends or is canceled, the password is checked into the vault.
+

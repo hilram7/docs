@@ -42,3 +42,4 @@ Refer to the following possible causes for the error message:
 ## Resolution
 
 This error message informs a user of the abruptly ended session. This behavior is expected in case of a manual session termination in Netwrix Privilege Secure or an abrupt restart of the Netwrix Auditor Configuration Server Service.
+

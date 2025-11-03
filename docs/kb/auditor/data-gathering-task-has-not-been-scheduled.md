@@ -42,3 +42,4 @@ Once that is confirmed please try the following.  After each step where a change
 4) Ensure that the following **Group Policy** is not applied to the Netwrix Auditor server - **Network access: Do not allow storage of passwords and credentials for network authentication**.  You can see if it is by opening **Local Security Policy** and navigating to **Security Settings -> Local Policies -> Security Options**.
 
 Note #2 and #3 are more likely to occur after a migration as the credentials are encrypted specifically for the original computer and need to be entered manually.
+

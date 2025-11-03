@@ -27,3 +27,4 @@ information.
   button is inactive while in edit mode.
 - Cancel – Abandons any changes. This button displays when **Edit** is clicked.
 - Close – Exits the Host Details View
+

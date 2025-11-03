@@ -20,3 +20,4 @@ To use the entity diagram:
 5. Click **Open Record** to open the customization record for the item.
 
 ![entity_diagram_800x309](/images/platgovsalesforceflashlight/tools/entity_diagram_800x309.webp)
+

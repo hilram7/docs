@@ -24,3 +24,4 @@ The **Tools** tab accesses:
 - [User Activity](/docs/platgovsalesforce/tools/user_activity.md) displays all activity for a specific user or all users. This tool is used before you can deactivate a user.
 - [Automated Report Clean Up](/docs/platgovsalesforce/tools/automated_report_clean_up.md) runs automatically or on demand using custom rules to find and manage reports.
 - [Change Logs Clean Up](/docs/platgovsalesforce/tools/change_logs_clean_up.md) sets the schedule to run the tool.
+

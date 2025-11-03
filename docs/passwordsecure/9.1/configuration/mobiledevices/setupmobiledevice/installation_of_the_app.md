@@ -32,3 +32,4 @@ The users need the right **Can synchronize with mobile devices.**
 
 [Database properties](/docs/passwordsecure/9.1/configuration/servermanger/databaseproperties/database_properties.md):
 It must be ensured that the Enable mobile synchronization option is set.
+

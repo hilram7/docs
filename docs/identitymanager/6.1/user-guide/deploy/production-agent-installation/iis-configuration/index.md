@@ -72,3 +72,4 @@ Configure the application pool and site by proceeding as follows:
 
 To continue,
 [set the right permissions on the working directory](/docs/identitymanager/6.1/user-guide/deploy/production-agent-installation/directory-permissions/index.md).
+

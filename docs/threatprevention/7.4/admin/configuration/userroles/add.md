@@ -39,3 +39,4 @@ topic for information on granting report access.
 **Step 6 –** Click **OK** to save changes on the Users and Roles window.
 
 User(s) now have the appropriate access rights applied.
+

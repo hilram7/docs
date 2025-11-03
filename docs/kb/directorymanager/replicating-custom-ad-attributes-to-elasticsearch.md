@@ -49,3 +49,4 @@ Netwrix Directory Manager 10 allows you to replicate custom Active Directory (AD
    ![Registry editor showing Replication key and users value](images/ka0Qk000000CtIT_0EMQk00000BQXA7.png)
 
 9. In the Netwrix Directory Manager Management Console, go to the **Replication** tab for the identity store and click **Replicate Now** in the Replication Service area. This starts users-only replication for your domain. Once complete, your custom attribute will be included in Elasticsearch.
+

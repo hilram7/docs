@@ -38,3 +38,4 @@ The Schema and Configuration folder contains the following templates:
 | Sites and Services | Subnet Added                               | New subnet added     | <ul><li>NEW 7.0.1 TEMPLATES</li></ul> |
 | Sites and Services | Subnet Removed            | Subnet removed        | <ul><li>NEW 7.0.1 TEMPLATES</li></ul> |
 
+

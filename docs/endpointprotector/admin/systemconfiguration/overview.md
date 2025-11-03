@@ -240,3 +240,4 @@ certiﬁcation validation setting on the Endpoint Protector Server and synchroni
 Protector Client to retrieve an uninstall command.
 
 :::
+

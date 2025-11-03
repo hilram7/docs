@@ -16,3 +16,4 @@ Click the action you need and configure the necessary settings. For details, see
 ![workflow_step2_action_thumb_0_0](/images/dataclassification/5.6.2/workflows/workflow_step2_action_thumb_0_0.webp)
 
 When finished, proceed to the next step.
+

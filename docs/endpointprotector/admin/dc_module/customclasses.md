@@ -136,3 +136,4 @@ The Oﬄine Temporary Password rights allow the creation of exceptions from appl
 rights surpass all others.
 
 ![Priorities for Device Control Policies](prioritiesdevicecontrol.webp)
+

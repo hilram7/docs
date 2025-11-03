@@ -35,3 +35,4 @@ To recreate the `Netwrix_AlertsDB` database, do the following:
 1. Connect to SQL Server Management Studio and create a backup of your current `Netwrix_AlertsDB` database. Learn more in [Quickstart: Backup and restore a SQL Server database with SSMS ⸱ Microsoft &#129125;](https://learn.microsoft.com/en-us/sql/relational-databases/backup-restore/quickstart-backup-restore-database?view=sql-server-ver16&tabs=ssms).
 2. Then, delete the existing database and create a new one with the name of `Netwrix_AlertsDB`.
 3. On the computer that hosts your Netwrix Auditor Server, start the **Services** snap-in and restart the **Netwrix Auditor Management** service.
+

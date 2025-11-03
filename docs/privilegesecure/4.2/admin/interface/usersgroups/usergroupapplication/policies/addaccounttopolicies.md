@@ -47,3 +47,4 @@ the Policies to Add table.
 **Step 6 –** Click **Okay** to add policies to the role.
 
 The new policy is added to the applicable account.
+

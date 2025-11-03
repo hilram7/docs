@@ -148,3 +148,4 @@ To connect to the API, an access key is required. Follow the steps below to gene
 4. On clicking **Create**, the access key is generated.
 
     ![Access Token window](/images/directorymanager/11.1/admincenter/portal/accesstoken.webp)
+

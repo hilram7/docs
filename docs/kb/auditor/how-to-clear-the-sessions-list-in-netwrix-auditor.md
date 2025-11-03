@@ -26,3 +26,4 @@ To clear the list of sessions, perform the following steps:
 2. Find the path where the audit data is written (for example, `C:ProgramDataNetWrixManagement Console`).
 3. Navigate to **Audit Archive** foder.
 4. Delete **Sessions** folder.
+

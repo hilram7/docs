@@ -16,3 +16,4 @@ Manages entries in Oracle Internet Directory.
 | Fulfill                 | Usercube-Fulfill-Ldap.dll    |
 | Has Incremental Mode    | False                        |
 | Publisher               | Identity Manager             |
+

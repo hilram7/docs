@@ -192,3 +192,4 @@ In order to verify the process:
 scalar rules: if there are numerous properties to be reconciled following the same pattern, then there may be a rule that needs to be changed. See the [Reconcile a Property](/docs/identitymanager/saas/user-guide/administrate/non-conforming-assignment-review/property-reconciliation/index.md) topic for additional information.
 
 Once the steps completed the process is verified.
+

@@ -54,3 +54,4 @@ Here are some examples:
    [Endpoint Policy Manager Admin Templates Manager: Switched Policies (without Loopback)](/docs/endpointpolicymanager/components/admintemplatesmanager/videolearningcenter/admintemplatesmanager/switchedpolicies.md)
 
 There are other uses, but those are the ones that most customers use.
+

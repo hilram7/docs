@@ -75,3 +75,4 @@ C:\Program Files (x86)\Netwrix Auditor\Active Directory Auditing
 - Permissions for AD Auditing: Grant Permissions for 'Deleted Objects' Container — https://docs.netwrix.com/docs/auditor/10_8
 - How to disable User Account Control (UAC) on Windows Server ⸱ Microsoft — https://learn.microsoft.com/en-us/troubleshoot/windows-server/windows-security/disable-user-account-control
 - How can I add permissions to sidHistory attribute? — https://learn.microsoft.com/en-us/answers/questions/973114/how-can-i-add-permissions-to-sidhistory-attribute
+

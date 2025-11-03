@@ -416,3 +416,4 @@ to benefit from the linking.
 - [GroupID Applications](/docs/directorymanager/11.0/signin/applications/applications.md)
 - [GroupID Portal](/docs/directorymanager/11.0/signin/applications/portal/overview.md)
 - [Delete a Portal](/docs/directorymanager/11.0/signin/applications/portal/delete.md)
+

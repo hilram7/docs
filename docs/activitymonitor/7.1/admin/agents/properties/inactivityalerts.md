@@ -128,3 +128,4 @@ variables are available to customize the Syslog and Email message template:
 | %LAST_EVENT_TIME_STAMP_UTC% | Date/Time of the last received event (UTC)                    |
 | %INACTIVITY_PERIOD_MINUTES% | Period of inactivity in minutes                               |
 | %INACTIVITY_PERIOD_HOURS%   | Period of inactivity in hours                                 |
+

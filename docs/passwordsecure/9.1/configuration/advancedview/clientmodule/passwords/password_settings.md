@@ -31,3 +31,4 @@ ribbon in the subsection “Extras”. The settings open up in a new tab.
   the add-on in both cases.
 - **Browser Extensions**: Automatically send login masks: If this option has been activated, the
   login button is automatically pressed after filling in the login information.
+

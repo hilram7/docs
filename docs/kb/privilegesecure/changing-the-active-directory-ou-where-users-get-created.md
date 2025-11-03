@@ -60,3 +60,4 @@ The Active Directory OU where Netwrix Privilege Secure users get created can be 
 After this change, users created or managed by Netwrix Privilege Secure will be created or managed in the newly specified Active Directory OU.
 
 NOTE: Activities that are run with Managed login accounts, and were run before this configuration change was made, may still create user account objects in the SbPAM Users OU. To circumvent this behavior, change the **Login Account Template** on the activity. This will prevent the activity from referencing any historical Postgres data referring to the SbPAM Users OU.
+

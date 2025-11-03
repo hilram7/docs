@@ -302,3 +302,4 @@ You can restore an excluded server in the identity store for replication and ent
    excluded from replication. Click **Remove** for a server to move it to the **Included File
    Servers** area.
 5. Click **Save**.
+

@@ -25,3 +25,5 @@ Note that some items might be restricted to COMPUTER or USER side, and may be ac
 the "wrong" side. For those, you will have to recreate the policies.
 
 ![585_2_jm-2_900x438](/images/endpointpolicymanager/troubleshooting/cloud/585_2_jm-2_900x438.webp)
+
+

@@ -23,3 +23,4 @@ to[](https://www.netwrix.com/active_directory_password_reset_tool.html)[ www.net
 for more information, or to download an evaluation copy.
 
 ![netwrix_password_reset_and_ppe_1105x808](/images/passwordpolicyenforcer/10.2/evaluation/netwrix_password_reset_and_ppe_1105x808.webp)
+

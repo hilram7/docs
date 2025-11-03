@@ -66,3 +66,4 @@ In the main Netwrix Data Classification screen, click **Settings**. In the left 
 > **NOTE:** Direct send does not support SMTP AUTH. You can enter any SMTP credentials to proceed.
 
 Learn more on direct send in [Send Email Using Microsoft 365 or Office 365 ⸱ Microsoft &#129125;](https://learn.microsoft.com/en-us/Exchange/mail-flow-best-practices/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-microsoft-365-or-office-365?redirectSourcePath=%252fen-gb%252farticle%252fhow-to-set-up-a-multifunction-device-or-application-to-send-email-using-office-365-69f58e99-c550-4274-ad18-c805d654b4c4#option-2-send-mail-directly-from-your-printer-or-application-to-microsoft-365-or-office-365-direct-send).
+

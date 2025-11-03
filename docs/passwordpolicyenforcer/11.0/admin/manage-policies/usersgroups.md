@@ -83,3 +83,4 @@ Click **Test Policy** and expand the **View log** to see which policy Password P
 enforces for a particular user.
 
 ![Expand View log under Test to see which policy is enforced](/images/passwordpolicyenforcer/11.0/administration/testviewlog.webp)
+

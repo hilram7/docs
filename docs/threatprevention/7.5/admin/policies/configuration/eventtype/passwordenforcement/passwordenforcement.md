@@ -512,3 +512,4 @@ These settings enable you to enforce all or X number of rules that a candidate p
   is a number you can specify in the adjacent box). For example, if you have enabled 9 rules on this
   filter and specify 5 in the box, then a password must comply with at least 5 of the 9 rules in
   order to be accepted.
+

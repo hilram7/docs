@@ -19,3 +19,4 @@ Tip for reading the table: For example, on the computer where Netwrix Auditor Se
 | Port | Protocol  | Source                 | Target                 | Purpose                                    |
 | ---- | --------- | ---------------------- | ---------------------- | ------------------------------------------ |
 | 514  | UDP / TCP | Monitored file servers | Netwrix Auditor Server | Getting events from monitored file servers |
+

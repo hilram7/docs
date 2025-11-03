@@ -113,3 +113,4 @@ The last backups are displayed in a list on the right.
 
 A tabular overview shows all previous backups. The view can be sorted as usual. Here you can see at
 a glance, when which database was saved and whether the backup was successful.
+

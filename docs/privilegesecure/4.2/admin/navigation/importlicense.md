@@ -46,3 +46,4 @@ Options menu.
 A message indicates the license file uploaded successfully. The license information displays at the
 top of the page, and the expiration banner disappears from the top. See the
 [About Page](/docs/privilegesecure/4.2/admin/navigation/aboutpage.md) topic for additional details available on this page.
+

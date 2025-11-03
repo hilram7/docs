@@ -185,3 +185,5 @@ that run from the specified `.exe `regardless of the user.
 
 video:
 [Reduce or specify Service Account Rights](/docs/endpointpolicymanager/components/endpointprivilegemanager/videolearningcenter/bestpractices/serviceaccountrights.md)
+
+

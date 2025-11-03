@@ -88,3 +88,4 @@ any possible network issues.
 
 The Stealthbits File Activity Monitor App for Splunk can now display activity data from either the
 Stealthbits Activity Monitor or StealthINTERCEPT.
+

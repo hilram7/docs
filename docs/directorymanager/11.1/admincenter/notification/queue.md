@@ -96,3 +96,4 @@ To delete a notification:
         ![send_refresh](/images/directorymanager/11.1/admincenter/notification/send_refresh.webp)
 
         Click the **Delete** icon to delete the selected notifications.
+

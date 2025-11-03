@@ -35,3 +35,4 @@ is moved.
 
 The configuration, Active Directory event data file, and activity log files are now restored on the
 Activity Monitor Agents.
+

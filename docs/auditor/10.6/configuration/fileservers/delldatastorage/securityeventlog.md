@@ -23,3 +23,4 @@ to **Start → Run** and type _"regedit"_.
 and set the **File** value to _"C:\events\security.evt"_.
 
 **Step 7 –** Set the **MaxSize** value to _"4 000 000 000 (decimal)"_.
+

@@ -40,3 +40,4 @@ To remove an object from a list, select it and click **Remove** in the respectiv
 **See Also**
 
 - [Group Properties](/docs/directorymanager/11.0/welcome/group/properties/overview.md)
+

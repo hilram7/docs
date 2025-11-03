@@ -46,3 +46,4 @@ The following columns display the combined direct and inherited rights:
 
 If the selected trustee is a group, the Group Membership pane displays the Active Directory and
 local group membership, including nested groups.
+

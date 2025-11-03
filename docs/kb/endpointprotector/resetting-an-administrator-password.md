@@ -40,3 +40,4 @@ This article explains how to reset an administrator password on the Netwrix Endp
 
 6. If you encounter any issues and are unable to reset the password, create a support ticket via the [Netwrix Support portal](https://www.netwrix.com/support.html) for assistance.
 7. If the server is hosted on your end, the support team will contact you to schedule a remote session for resetting the password in the server's backend.
+

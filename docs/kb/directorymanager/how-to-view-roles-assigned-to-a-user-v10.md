@@ -49,3 +49,4 @@ You can check a user's security role assignment for the following Netwrix Direct
 6. In the **Client Name** list, select a Netwrix Directory Manager client to view the user’s role for that client. To see the user’s role in a specific portal, select the relevant Self-Service portal. To view the user’s highest privileged role in Netwrix Directory Manager, select `None`.  
    ![Client Name list for selecting Directory Manager client](images/ka0Qk000000Du9F_0EMQk00000BQZmz.png)
 7. Click the **Get Role** button. The **Applied Role** area shows the user role for the selected client along with role priority. For `None`, the highest privileged role of the user is displayed, regardless of any client.
+

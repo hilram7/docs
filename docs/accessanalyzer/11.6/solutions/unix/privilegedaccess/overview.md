@@ -20,3 +20,4 @@ The jobs in the 2.Privileged Access job group are:
 - [UX_CriticalFiles Job](/docs/accessanalyzer/11.6/solutions/unix/privilegedaccess/ux_criticalfiles.md)
   – This job provides visibility into owners of critical files within audited Unix and Linux
   environments such as passwd, shadow, sudoers, hosts.deny, and more
+

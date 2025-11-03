@@ -59,3 +59,4 @@ actions which can be explored for additional layers of control over the RDP inte
 
 In this context, it is important to set a policy that forces a disconnected or idle session to also
 log off.
+

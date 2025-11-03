@@ -34,3 +34,4 @@ The User Activity video is already a video file `.avi`, you only need to locate 
 1. In **Netwrix Auditor**, navigate to **Settings** -> **Long-Term Archive** and find the path to your Video Recording files under **Location for sessions recordings**.
 2. Copy the path and paste it into **File Explorer**.
 3. Once there you will see the names of the computers being monitored, the users name, then folders by year, then by Month and day together.
+

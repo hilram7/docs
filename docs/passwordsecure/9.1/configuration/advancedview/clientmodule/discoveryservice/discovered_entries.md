@@ -83,3 +83,4 @@ Description of the **filter with the special options for the Discovery Service e
 5. **Transferred as Password Reset**: Indicates whether a Password Reset can be created via the
    Conversion Wizard
 6. **Discovery service system tasks**: The entries are filtered here based on the System Task.
+

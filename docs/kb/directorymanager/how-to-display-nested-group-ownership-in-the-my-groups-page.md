@@ -43,3 +43,4 @@ Some groups in Active Directory are owned by a security group. You may want memb
 3. Scroll to the bottom of the page and click **Save** to apply your changes.
 
    ![Save button at the bottom of the settings page in Directory Manager Admin Center](images/ka0Qk000000Dxjp_0EMQk00000BYEyH.png)
+

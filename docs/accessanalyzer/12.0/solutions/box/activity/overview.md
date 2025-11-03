@@ -23,3 +23,4 @@ The 1.Activity Job Group is comprised of:
 - [Usage Statistics Job Group](/docs/accessanalyzer/12.0/solutions/box/activity/usagestatistics/overview.md) – Identifies long-term trends of
   activity and usage statistics across your Box environment, highlighting conditions such as most
   active or stale folders
+

@@ -87,3 +87,4 @@ Technically, a passkey is a discoverable FIDO credential linked to a user accoun
 A passkey is associated with both a user account and a website running Netwrix Directory Manager. When a new passkey is created, it is automatically linked to the user ID and the Relying Party ID — in the case of a website hosting Netwrix Directory Manager.
 
 Passkeys are discoverable, meaning they can be automatically detected and utilized by clients for user authentication. When a user initiates the authentication process, the authenticator does not need to know the user's ID. Instead, it uses the Relying Party ID to locate the correct passkey for authenticating against that website. This process eliminates the need for the user to enter their user ID and ensures that a malicious actor cannot trick them into signing in to a fraudulent website.
+

@@ -48,3 +48,4 @@ This article explains how to block and prevent the WhatsApp application from ope
 7. Save the policy and update the policies on the endpoint computers. Ensure you assign the policy to the target computers.  
    ![Assigning the Applications Denylist policy to target computers](images/ka0Qk000000Dzor_0EMQk00000CAgof.png)
 8. Attempt to open the WhatsApp Desktop application to confirm it is blocked.
+

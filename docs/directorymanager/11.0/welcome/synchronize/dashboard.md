@@ -66,3 +66,4 @@ The dashboard comprises of the following cards:
 - [Create a Job Collection ](/docs/directorymanager/11.0/welcome/synchronize/create/create_1.md)
 - [Manage a Job](/docs/directorymanager/11.0/welcome/synchronize/manage/job.md)
 - [Manage a Job Collection ](/docs/directorymanager/11.0/welcome/synchronize/manage/jobcollection.md)
+

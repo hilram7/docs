@@ -54,3 +54,4 @@ If deviations exist between the two versions, these will be highlighted in color
 
 A selected status can be restored via the ribbon. The current state is overwritten and added to the
 history
+

@@ -61,3 +61,4 @@ action.
 - Click **No** to remove only the host for the current host list
 
 The host is no longer in the host list.
+

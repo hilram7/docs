@@ -18,3 +18,4 @@ It is also possible to preview the changes made whilst in the bulk editor. The P
 provides an indication of the number of documents affected, and the resultant score change:
 
 ![bulkeditpreview](/images/dataclassification/5.6.2/taxonomies/bulkeditpreview.webp)
+

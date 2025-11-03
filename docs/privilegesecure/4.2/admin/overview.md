@@ -29,3 +29,4 @@ The product provides the following benefits:
 
 The purpose of this guide is to provide Netwrix Privilege Secure users with the information needed
 to navigate and use the Privilege Secure Console.
+

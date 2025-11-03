@@ -293,3 +293,4 @@ such as the listed before.
 ## Search Form
 
 A shortcut to the Customization Quick Search. You can search by **Name** or **ScriptID**.
+

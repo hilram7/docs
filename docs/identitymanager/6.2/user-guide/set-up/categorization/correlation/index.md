@@ -218,3 +218,4 @@ If a resource is not correlated (or not correctly), then:
 
 - Check the validity of correlation rules.
 - Check the resource's data quality.
+

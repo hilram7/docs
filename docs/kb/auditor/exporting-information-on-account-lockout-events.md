@@ -34,3 +34,4 @@ The Netwrix Account Lockout Examiner console does not have an export feature. Ho
 Netwrix also has another product called Netwrix Event Log Manager for this purpose. This product is able to collect event log entries from multiple computers across the network and centrally store all events in a central location in a compressed format.
 
 For more information, refer to the following link: https://www.netwrix.com/event_log_archiving_consolidation_freeware.html
+

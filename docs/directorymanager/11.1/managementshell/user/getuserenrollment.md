@@ -44,3 +44,4 @@ This example gets user enrollment information through the pipeline operator.
 ```
 'euser1', 'euser2' | Get-UserEnrollment
 ```
+

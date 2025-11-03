@@ -89,3 +89,4 @@ option **Other domain names** can be used to save other forms of the domain name
 
 NOTE: The logon to the client is automatically forwarded to the Autofill Add-on and other clients on
 the same computer. The same applies to logging on to the Autofill Add-on.
+

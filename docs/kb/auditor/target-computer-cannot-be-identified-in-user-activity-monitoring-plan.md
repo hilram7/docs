@@ -59,3 +59,4 @@ Make sure that it is online and reachable, Remote Registry service is enabled.
 - [Detect, Enable and Disable SMBv1, SMBv2, and SMBv3 ⸱ Windows Learn](https://learn.microsoft.com/en-us/windows-server/storage/file-server/troubleshoot/detect-enable-and-disable-smbv1-v2-v3?tabs=server#how-to-detect-status-enable-and-disable-smb-protocols)
 - Installation − Install for User Activity Core Service · v10.6
 - [Manually Update User Activity Core Service](/docs/kb/auditor/manually-update-user-activity-core-service.md)
+

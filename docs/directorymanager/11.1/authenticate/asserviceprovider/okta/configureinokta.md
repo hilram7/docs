@@ -111,3 +111,4 @@ For new users, Okta generates a password and sends it to them by email.
 8. On the **Directory** page, click the **Activate** link for the required user.
 9. On the **Activate Person** dialog box, click **Activate User**.  
    With this, we have successfully configured users within the Okta provider.
+

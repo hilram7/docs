@@ -126,3 +126,4 @@ Grant Usercube directory permissions by proceeding as follows:
     ![Azure AD Export - Grant Admin Consent](/images/identitymanager/6.1/integration-guide/connectors/how-tos/azuread-register/howtos_azuread_exportadminconsent.webp)
 
     You should now see the status displayed as **? Granted for `<name of the organization>`**.
+

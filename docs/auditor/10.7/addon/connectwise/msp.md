@@ -25,3 +25,4 @@ Description_ ﬁeld), including the name of the workstation, the name of the acc
 the time when the event occurred:
 
 ![serviceboard](/images/auditor/10.7/addon/connectwise/serviceboard.webp)
+

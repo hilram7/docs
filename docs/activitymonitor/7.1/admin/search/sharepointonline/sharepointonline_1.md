@@ -51,3 +51,4 @@ The results data grid columns display the following information for each event:
 At the bottom of the search interface, additional information is displayed for selected events in
 the data grid. The Attribute Name, Operation, Old Value, and New Value for the logged event (as
 applicable to the event) are displayed.
+

@@ -48,3 +48,4 @@ This table will help you find detailed information about Risks in the **"Risk As
 | Infrastructure | Servers with inappropriate operating systems | `Windows Server` | `Windows Server\State-in-Time Reports\Windows Server Inventory` |  |
 | Infrastructure | Servers with under-governed Windows Update configurations | `Windows Server` | `Windows Server\State-in-Time Reports\Windows Update Configuration` |  |
 | Infrastructure | Servers with unauthorized antivirus software | `Windows Server` | `Windows Server\State-in-Time Reports\Windows Server Inventory` |  |
+

@@ -92,3 +92,4 @@ On a high level, data collection process for Oracle databases works as follows:
 6. Netwrix Auditor also generates an Activity Summary once a day (by default, at 3 AM) and sends it
    to the specified recipients. This email lists Oracle infrastructure changes and activities
    collected by Netwrix Auditor during the last 24 hours.
+

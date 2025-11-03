@@ -29,3 +29,4 @@ configure all settings for this identity provider.
    topic. Replace references to AD FS with the Okta provider.
 10. Click the **Create Provider** button. The identity provider is created and displayed on the
     **SAML Providers** page.
+

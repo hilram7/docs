@@ -42,3 +42,4 @@ Details:Password changed
 ## Answer
 
 The event you are seeing is an automatic password change for a computer account in Active Directory, which occurs every 30 days by default. Since Domain Controllers are in the auditing scope, the domain computer account was picked up and interpreted as a local user for the DC.
+

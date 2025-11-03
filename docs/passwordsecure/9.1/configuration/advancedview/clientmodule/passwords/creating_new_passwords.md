@@ -88,3 +88,4 @@ passwords cannot be released to other users.
 record is saved. Irrespective of whether predefined rights or rights inheritance is being used, the
 configuration is always carried out in the organisational structure or permissions area. Saving the
 record thus completes the process for creating the password including the issuing of permissions.
+

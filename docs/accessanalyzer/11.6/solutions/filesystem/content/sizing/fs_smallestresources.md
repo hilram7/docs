@@ -35,3 +35,4 @@ produces the following pre-configured report:
 | Report          | Description                                            | Default Tags | Report Elements                                                                                            |
 | --------------- | ------------------------------------------------------ | ------------ | ---------------------------------------------------------------------------------------------------------- |
 | Smallest Shares | Identifies the smallest shares within the environment. | None         | This report is comprised of one element: <ul><li>Table – Provides details on the smallest shares</li></ul> |
+

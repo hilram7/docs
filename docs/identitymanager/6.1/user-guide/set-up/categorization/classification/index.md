@@ -198,3 +198,4 @@ analyze a few samples to ensure that resources are classified in the right resou
   resource type.
 - If the resource is not correlated, check the validity of the classification rules.
 - Check the resource's data quality.
+

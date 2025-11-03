@@ -196,3 +196,4 @@ The table below provides a list of Trusted Device™:
 | Kanguru Defender (2000 & 3000)        | 4                      |
 | SafeStick BE                          | 4                      |
 | Stealth MXP Bio                       | 4                      |
+

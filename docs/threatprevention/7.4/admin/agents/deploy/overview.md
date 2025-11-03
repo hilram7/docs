@@ -145,3 +145,4 @@ status messages display:
 **Step 7 –** Click **Finish** to close the window.
 
 The status of the Agent update will display in the grid on the Agents interface.
+

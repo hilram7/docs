@@ -260,3 +260,4 @@ The following field properties vary from field to field. You can:
    Click **Remove** for a field to remove it.
 8. Click **OK**.
 9. Click **Save** on the **Create Object** page.
+

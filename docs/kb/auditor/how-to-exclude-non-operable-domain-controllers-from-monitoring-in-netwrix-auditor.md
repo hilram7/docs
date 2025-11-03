@@ -56,3 +56,4 @@ To exclude domain controllers from monitoring, refer to the following steps:
 3. Save the changes. Inactive User Tracker will exclude this domain controller.
 
 Refer to the following article for additional information: Monitoring Plans — User Activity Monitoring Scope — v10.6.
+

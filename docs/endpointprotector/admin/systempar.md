@@ -534,3 +534,4 @@ To stop the device remediation session at any time during the time interval, sel
 the Device Control tab in the Endpoint Protector notiﬁer and then click **Revoke Remediation**.
 
 ![ Stopping the device remediation session](revokeremediation.webp)
+

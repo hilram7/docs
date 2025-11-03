@@ -111,3 +111,4 @@ Synchronize the time on both SQL and Netwrix Auditor servers to eliminate clock 
 - Register Service Principal Name for Kerberos Connections – Automatic SPN Registration · Microsoft: https://learn.microsoft.com/en-us/sql/database-engine/configure-windows/register-a-service-principal-name-for-kerberos-connections?view=sql-server-ver16#Auto
 - [Client and Server Cannot Communicate, Because They Do Not Possess a Common Algorithm](/docs/kb/auditor/client-and-server-cannot-communicate-because-they-do-not-possess-a-common-algorithm.md)
 - [Clock Skew Is Too Great](/docs/kb/auditor/clock-skew-is-too-great.md)
+

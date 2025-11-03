@@ -45,3 +45,4 @@ Depending on the error cause, follow the resolution steps below:
 3. If the issue occurs during Logon Activity data collection, try to follow the steps in these articles:
    - [System Cannot Find the Path Specified in Logon Activity Monitoring Plan](/docs/kb/auditor/system-cannot-find-the-path-specified-in-logon-activity-monitoring-plan.md)
    - [Error: Size of Collected Data Files Exceeded Limit in Logon Activity Monitoring Plan](/docs/kb/auditor/error-size-of-collected-data-files-exceeded-limit-in-logon-activity-monitoring-plan.md)
+

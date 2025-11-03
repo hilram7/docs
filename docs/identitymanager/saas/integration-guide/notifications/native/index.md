@@ -45,3 +45,4 @@ The templates for native notifications can be adjusted to specific needs through
 
 See the [Customize a Native Notification](/docs/identitymanager/saas/integration-guide/notifications/native/customize-native-notification/index.md) for
 additional information on how to customize native notifications.
+

@@ -73,3 +73,4 @@ Returns a resource file.
 | Code | Description   | Reference |
 | ---- | ------------- | --------- |
 | 200  | The resource. |           |
+

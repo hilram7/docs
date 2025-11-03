@@ -61,3 +61,4 @@ connection problems, the firewall and, if relevant, the proxy should be checked.
 6. Select the file from this email and then click Open.
 
     ![activated_license](/images/passwordsecure/9.1/configuration/server_manager/main_menu/activated_license.webp)
+

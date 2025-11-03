@@ -51,3 +51,4 @@ explained above. Also the firewall rules must be configured to allow for communi
 applicable servers.
 
 See the [Applet Mode Port Requirements](/docs/accessanalyzer/12.0/requirements/filesystem/scanoptions/applet-mode-scans/appletmodeports.md) topic for firewall rule information.
+

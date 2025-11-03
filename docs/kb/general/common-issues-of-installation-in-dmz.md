@@ -67,3 +67,4 @@ Installation of Password Manager Web-sites in DMZ can cause several issues. **NO
 [![User-added image](./images/ka04u00000116cw_0EM700000005OQL.png)](https://netwrix.secure.force.com/kb/servlet/rtaImage?eid=ka40g000000Xe0L&feoid=00N700000032Pj2&refid=0EM700000005OQL)
 
 **Explanation:** You need to use accounts that the front-end is aware of and which have appropriate rights on the front-end server. Refer to the [KB1368](https://kb.netwrix.com/1368) in case of a non-domain front-end.
+

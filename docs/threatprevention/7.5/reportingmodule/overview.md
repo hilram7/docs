@@ -21,3 +21,4 @@ following topics:
 - [Reporting Module Installation](/docs/threatprevention/7.5/install/reportingmodule/overview.md)
 - [Configuration Menu ](/docs/threatprevention/7.5/reportingmodule/configuration/overview.md)
 - [Investigations Interface](/docs/threatprevention/7.5/reportingmodule/investigations/overview.md)
+

@@ -27,3 +27,4 @@ removing user permissions to systems, applications and databases based on the se
 - #### [RoleMapping](/docs/identitymanager/6.1/integration-guide/toolkit/xml-configuration/provisioning/rolemapping/index.md)
 - #### [SingleRole](/docs/identitymanager/6.1/integration-guide/toolkit/xml-configuration/provisioning/singlerole/index.md)
 - #### [SingleRoleRule](/docs/identitymanager/6.1/integration-guide/toolkit/xml-configuration/provisioning/singlerolerule/index.md)
+

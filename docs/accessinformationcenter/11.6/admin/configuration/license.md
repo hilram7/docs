@@ -62,3 +62,4 @@ completing the steps.
 **Step 3 –** When the upload is complete, click **OK**.
 
 The updated licensed features are now enabled, displayed with green checkmarks.
+

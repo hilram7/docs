@@ -27,3 +27,4 @@ Here is an example showing the Next feature for **Account (StandardObject)** > *
 (Parent:Account)**.
 
 ![DRD entry showing Next option if there are more than 10 entries](/images/platgovsalesforce/tools/drd_next.webp)
+

@@ -58,3 +58,4 @@ A: To make Netwrix Account Lockout Examiner connect to the untrusted IP addresse
 7. Run Netwrix Account Lockout Examiner.
 
 Additionally, if NTLM was disabled according to the Guide (section 2.4.4), it should be re-enabled: https://www.netwrix.com/download/QuickStart/Netwrix_Account_Lockout_Examiner_User_Guide.pdf
+

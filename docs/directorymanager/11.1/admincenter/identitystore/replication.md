@@ -185,3 +185,4 @@ Step 3 – Click **Replication** under Settings in the left pane.
 
 Step 4 – On the Replication page, click **Restore** on the Restore Data card to restore object data
 for the identity store to Elasticsearch.
+

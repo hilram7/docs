@@ -23,3 +23,4 @@ on-premise environment:
 | 445     | TCP      | Enterprise Auditor Console server | `<-->`    | SharePoint Application Server | Remote Registry Connection         |
 | 389/636 | TCP      | Enterprise Auditor Console server | `<-->`    | LDAP server                   | Authentication                     |
 | 80      | TCP      | Enterprise Auditor Console server | `<-->`    | SharePoint Application Server | StealthAUDIT Communication Channel |
+

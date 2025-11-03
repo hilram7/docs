@@ -34,3 +34,4 @@ Yes, it is possible. Such events are omitted by default. To include them in Netw
 4. Save your edits.
 
 Once these changes have been applied, password resets performed by users will be shown in the Netwrix Auditor change reports.
+

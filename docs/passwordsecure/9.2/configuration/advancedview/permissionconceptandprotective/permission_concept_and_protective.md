@@ -136,3 +136,4 @@ This example clearly shows the advantages of the concept. The complete separatio
 users from regular users brings significant advantages. Of course, one does not necessarily exclude
 the other. An administrator can, of course, have full access to the role and also be a member in it!
 The boundaries between the two often overlap, and can be freely defined in Netwrix Password Secure.
+

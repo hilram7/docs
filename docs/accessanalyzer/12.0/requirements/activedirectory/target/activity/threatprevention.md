@@ -50,3 +50,4 @@ All real-time event data from the selected policies is now sent to Activity Moni
 policies can be added to this data stream through the Netwrix Threat Manager Configuration window or
 by selecting the **Send to Netwrix Threat Manager** option on the Actions tab of the respective
 policy.
+

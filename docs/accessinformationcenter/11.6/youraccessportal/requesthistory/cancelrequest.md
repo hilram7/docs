@@ -30,3 +30,4 @@ successfully, click **OK** to close the Cancel Request window.
 
 The request remains on the Request History page, but is no longer pending. Its status is set to
 Canceled, with you as the Reviewer.
+

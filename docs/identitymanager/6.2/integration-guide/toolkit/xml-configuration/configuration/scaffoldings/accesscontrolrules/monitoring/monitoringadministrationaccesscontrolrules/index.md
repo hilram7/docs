@@ -32,3 +32,4 @@ Our example generates the following configuration:
 <AccessControlRule Identifier="Administrator_Monitoring" DisplayName_L1="Administrator_Monitoring" EntityType="Setting" Profile="Administrator">  <Entry CanExecute="true" Permission="/Monitoring" /></AccessControlRule>
 
 ```
+

@@ -29,3 +29,4 @@ Note that events exceeding 4000 symbols are trimmed.
 
 Every time you run the script, Auditor makes a timestamp. The next time you run the script, it will
 start retrieving new Activity Records.
+

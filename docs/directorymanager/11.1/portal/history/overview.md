@@ -55,3 +55,4 @@ Groups History page.
 
 Use the **Most recent objects** setting on the User Settings panel to specify the number of recent
 objects to show on the **My Account History** card on Dashboard.
+

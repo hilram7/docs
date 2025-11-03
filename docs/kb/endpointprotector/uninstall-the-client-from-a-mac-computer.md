@@ -34,3 +34,4 @@ This article explains how you can uninstall the client from a Mac computer using
 3. Follow the on-screen prompts to complete the uninstallation.
 
 > **NOTE:** If you do not have the installation kit, contact your administrator or Netwrix Technical Support team to obtain it.
+

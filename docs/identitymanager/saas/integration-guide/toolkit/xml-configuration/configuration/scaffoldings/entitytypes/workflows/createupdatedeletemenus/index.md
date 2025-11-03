@@ -40,3 +40,4 @@ Our example generates the following configuration:
 <MenuItem Identifier="Search_Directory_Country" DisplayName_L1="Country" DisplayName_L2="Pays">  <MenuItem Identifier="Search_Directory_Country_Create" DisplayName_L1="New" DisplayName_L2="Cr�er" IconCode="Add" Workflow="Directory_Country_Create" /></MenuItem><MenuItem Identifier="View_Directory_Country" DisplayName_L1="Country" DisplayName_L2="Pays">  <MenuItem Identifier="View_Directory_Country_Update" DisplayName_L1="Update" DisplayName_L2="Modifier" IconCode="Edit" Workflow="Directory_Country_Update" />  <MenuItem Identifier="View_Directory_Country_Delete" DisplayName_L1="Delete" DisplayName_L2="Supprimer" IconCode="Cancel" Workflow="Directory_Country_Delete" /></MenuItem>
 
 ```
+

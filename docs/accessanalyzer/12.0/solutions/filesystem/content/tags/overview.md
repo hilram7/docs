@@ -17,3 +17,4 @@ The Tags job group is comprised of:
   from targeted file servers
 - [FS_FileTags Job](/docs/accessanalyzer/12.0/solutions/filesystem/content/tags/fs_filetags.md) – Designed to report on resources classified with metadata file
   tags from targeted file servers
+

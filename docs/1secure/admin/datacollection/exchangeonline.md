@@ -15,3 +15,4 @@ Entra ID application, formerly Azure AD. This app should be created manually by 
 administrative role and assigned required permissions. See the
 [App Registration and Configuration in Microsoft Entra ID](/docs/1secure/configuration/registerconfig/registerconfig.md)
 topic for additional information.
+

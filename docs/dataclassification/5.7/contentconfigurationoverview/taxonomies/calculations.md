@@ -30,3 +30,4 @@ There are three sections:
 - Related—Shows a flat list of terms that were linked by "Boosts" (including chained links).
   Selecting a term will alter the display to show the corresponding clues / boosts / filters for the
   linked term.
+

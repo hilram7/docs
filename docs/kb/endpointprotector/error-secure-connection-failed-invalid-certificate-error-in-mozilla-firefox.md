@@ -37,3 +37,4 @@ To resolve this issue and continue using Mozilla Firefox to access the Endpoint 
 2. Navigate to **Options** > **Advanced** > **Certificates** > **View Certificates**.  
 3. Delete all entries related to the Endpoint Protector Server IP address located in the **Servers**, **Authorities**, and **Others** tabs.  
 4. Close and reopen Mozilla Firefox.
+

@@ -140,3 +140,4 @@ The simulation tool gives another point of view on the role model as it emphasiz
 ![Schema - Role Mining](/images/identitymanager/6.1/integration-guide/role-mining/rolemining_simulationresults.webp)
 
 NETWRIX recommends simulating role mining before applying the results.
+

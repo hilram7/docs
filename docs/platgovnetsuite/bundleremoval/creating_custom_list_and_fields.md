@@ -46,3 +46,4 @@ belongs to and six different check boxes, one for each scenario.
 6. Click **Save**
 
 **Next Step:** [Categorizing Customizations](/docs/platgovnetsuite/bundleremoval/categorizing_customizations.md)
+

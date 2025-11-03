@@ -125,3 +125,4 @@ configurable host properties are:
 
 See the [Host Properties Window](/docs/activitymonitor/8.0/admin/monitoredhosts/properties/overview.md) topic for additional
 information.
+

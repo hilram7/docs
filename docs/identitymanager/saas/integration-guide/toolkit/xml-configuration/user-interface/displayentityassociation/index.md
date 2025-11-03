@@ -14,3 +14,4 @@ An association can be established between two properties of the same display ent
 | Property                            | Details                                                              |
 | ----------------------------------- | -------------------------------------------------------------------- |
 | IsHierarchical default value: false | **Type** Boolean **Description** Is hierarchical entity association. |
+

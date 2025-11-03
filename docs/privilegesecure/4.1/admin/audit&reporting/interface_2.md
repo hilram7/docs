@@ -26,3 +26,4 @@ Click Audit and Reporting to expand the menu. Settings can be configured for:
   — View the log files from within the console
 - [Reporting](/docs/privilegesecure/4.1/admin/audit&reporting/reporting.md)
   – View reports on activity
+

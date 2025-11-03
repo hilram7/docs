@@ -40,3 +40,4 @@ Once the scan is complete, open the Reports tab and select Field Permissions Rep
 also available from the Netwrix Dashboard: **Reports** > **Access Reports** > **Field Permissions**.
 
 ![Field Permissions Report](/images/platgovsalesforce/scanners/field_level_scanner_report.webp)
+

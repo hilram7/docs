@@ -72,3 +72,4 @@ installation.
 The Enterprise Auditor Console has been installed, and two desktop icons have been created:
 Enterprise Auditor and Published Reports. Launch the Enterprise Auditor application to complete the
 initial configuration.
+

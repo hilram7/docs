@@ -216,3 +216,4 @@ Still, data protection can be ensured through an Azure Key Vault safe. See the
 [Azure Key Vault](/docs/identitymanager/6.1/integration-guide/network-configuration/agent-configuration/azure-key-vault/index.md)topic
 for additional
 information.[Azure Key Vault](/docs/identitymanager/6.1/integration-guide/network-configuration/agent-configuration/azure-key-vault/index.md)
+

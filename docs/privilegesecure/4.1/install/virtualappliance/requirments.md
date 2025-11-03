@@ -47,3 +47,4 @@ follows:
 | Total Video Memory | 16 MB                                                               |
 | Network adapter    | vmxnet3                                                             |
 | Other              | VMware Tools will be checked automatically and updated if necessary |
+

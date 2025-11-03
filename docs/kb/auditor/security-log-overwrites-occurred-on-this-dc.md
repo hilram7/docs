@@ -47,3 +47,4 @@ Please increase the maximum size of the Security event log
 - https://docs.netwrix.com/docs/auditor/10_8 File Servers − Configure Event Log Size and Retention Settings ⸱ v10.6)
 
 - https://docs.netwrix.com/docs/auditor/10_8 − Sample Deployment Scenarios ⸱ v10.6)
+

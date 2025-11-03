@@ -42,3 +42,4 @@ following features:
     - CSV – Export to a Comma Separated Value file
     - Excel – Export to an Excel Workbook file
     - Print – Send currently displayed table to printer
+

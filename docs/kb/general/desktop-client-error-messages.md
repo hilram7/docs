@@ -40,3 +40,4 @@ If you are getting error messages on your Desktop Clients for Password Manager a
 
 This value can be distributed across multiple machines by means of `netwrixprm.adm` template for Group policy, located in the Password Manager installation directory.
 The policy is called **Suppress Enrollment Errors**
+

@@ -34,3 +34,4 @@ The Applies To tab provides the following options:
     - Apply to All Hosts – Select this checkbox to use all hosts to query
     - Host List – Select any desired hosts to query. If **Apply to All Hosts** is selected, the list
       is unavailable.
+

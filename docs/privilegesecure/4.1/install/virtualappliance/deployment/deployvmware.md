@@ -29,3 +29,4 @@ you need (datacenter, ESXi host, VM folder or resource pool) and select **Depl
 
 
 **Step 4 –** Select the newly created virtual machine and click **Power On**.
+

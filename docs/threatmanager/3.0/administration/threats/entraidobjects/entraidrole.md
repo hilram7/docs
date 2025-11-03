@@ -41,3 +41,4 @@ Both tables have the following columns:
 - Assignment Type – How was the active role assignment assigned
 - Start Time – When the member is eligible for the role
 - End Time – When the role eligibility expires
+

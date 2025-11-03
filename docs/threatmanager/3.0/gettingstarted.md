@@ -84,3 +84,4 @@ pages are located under the [Configuration Menu](/docs/threatmanager/3.0/adminis
     - [Tag Management Page](/docs/threatmanager/3.0/administration/configuration/integrations/tagmanagement.md)
 - The [Policies Page](/docs/threatmanager/3.0/administration/configuration/policies/overview.md) provides the ability to add
   and configure policies used for threat detection including Honeytoken threats
+

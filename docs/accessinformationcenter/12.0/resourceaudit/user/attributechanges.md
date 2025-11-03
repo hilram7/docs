@@ -17,3 +17,4 @@ This report is comprised of the following columns:
 - Attribute – Active Directory attribute changed for the user
 - Old – Original attribute value
 - New – New attribute value
+

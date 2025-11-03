@@ -36,3 +36,4 @@ Results** button becomes available.
 
 This will run a compare of the two reports, useful for seeing what has caused a score to drop, or to
 establish what the difference is in configuration between two devices.
+

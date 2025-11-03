@@ -85,3 +85,4 @@ at the global level, click **Save** and then **OK** to confirm the changes. Othe
 The vault provides enhanced security through enhanced encryption to various credentials stored by
 the Access Analyzer application. See the [Vault](/docs/accessanalyzer/12.0/admin/settings/application/vault.md) topic for additional
 information.
+

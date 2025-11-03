@@ -20,3 +20,4 @@ Complete the following fields:
 | Re-Index Period          | Specifies how often the source should be checked for changes. The number specifies the period in days.                                                                                                                                   |
 | Document Type            | Used to specify a value which can be used to restrict queries when utilizing the Netwrix Data Classification search index.                                                                                                               |
 | Pause source on creation | Select if you want to make other configuration changes before collection of the source occurs.                                                                                                                                           |
+

@@ -234,3 +234,4 @@ section.
 ![Home - Access Roles](/images/identitymanager/6.1/user-guide/set-up/categorization/resource-type-creation/home_roles_v602.webp)
 
 ![Test Connector](/images/identitymanager/6.1/user-guide/set-up/categorization/resource-type-creation/resourcetype_test_v602.webp)
+

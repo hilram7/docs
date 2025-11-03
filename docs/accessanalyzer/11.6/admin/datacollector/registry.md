@@ -79,3 +79,4 @@ to do the following:
 | ![Add currently selected value](/images/accessanalyzer/11.6/admin/datacollector/addvalue.webp)                          | Add currently selected value                       |
 | ![Delete properties from selection](/images/accessanalyzer/11.6/admin/datacollector/delete.webp)                              | Delete properties from selection                   |
 | ![Go to selected key](/images/accessanalyzer/11.6/admin/datacollector/goto.webp)                                        | Go to selected key                                 |
+

@@ -133,3 +133,4 @@ appsettings.encrypted.agent.json
 | -------------------------------- | ---------------------------------------------------------------------------- |
 | --input-json-file-path required  | **Type** String **Description** Path of the input to-be-encrypted json file. |
 | --output-json-file-path required | **Type** String **Description** Path of the output encrypted json file.      |
+

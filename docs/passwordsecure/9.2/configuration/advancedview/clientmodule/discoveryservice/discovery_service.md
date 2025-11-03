@@ -35,3 +35,4 @@ The **Discovery Service** process can be split into three logical steps:
   in the **Discovery Service module** (e.g. Windows users, services, etc.).
 - **Passwords** or **Password Resets** can then be generated from the data discovered during the
   search.
+

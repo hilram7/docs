@@ -62,3 +62,4 @@ install an agent:
 - [Manually Install the Activity Agent](/docs/activitymonitor/8.0/install/agents/manual.md)
 - [ Manually Install the Linux Agent](/docs/activitymonitor/8.0/install/agents/manuallinux.md)
 - [Manually Install the AD Module](/docs/activitymonitor/8.0/install/agents/manualad.md)
+

@@ -150,3 +150,4 @@ match to be processed by the workflow.
 1. Click **Edit** to open **Edit Workflow Conditions** dialog.
 2. Select the option you need from the **Mode** list. The next steps are similar to those described
    in Specifying Rule Conditions
+

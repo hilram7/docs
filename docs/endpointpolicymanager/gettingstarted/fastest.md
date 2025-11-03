@@ -39,9 +39,9 @@ at: [https://www.policypak.com/demo/](https://www.policypak.com/demo/)
 Endpoint Policy Manager has two login areas, both of which are accessible from the main Customer
 Login page at Endpoint Policy Manager.com:
 
-- [Portal](http://portal.policypak.com/) — On-Prem bits downloads, extras, Endpoint Policy Manager
+- [Portal](https://portal.policypak.com/) — On-Prem bits downloads, extras, Endpoint Policy Manager
   Bootcamp (Free Training), Payment location for monthly usage
-- [Cloud](http://cloud.policypak.com/) — The Endpoint Policy Manager Cloud service
+- [Cloud](https://cloud.policypak.com/) — The Endpoint Policy Manager Cloud service
 
 ![gs1](/images/endpointpolicymanager/gettingstarted/gs1.webp)
 
@@ -134,3 +134,5 @@ secondary user of Endpoint Policy Manager, Welcome!
 
 We strive to give you world-class support and resources. If you need anything at all, please reach
 out!
+
+

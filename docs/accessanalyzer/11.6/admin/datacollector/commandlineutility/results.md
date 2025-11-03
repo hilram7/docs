@@ -14,3 +14,4 @@ selected. It is a wizard page for all profile types.
 Select one or more properties to be returned as columns in the results table. Click **Select All**
 to select all of the properties, or click **Clear All** to clear all the currently selected
 properties. The available properties vary based on the selections on previous wizard pages.
+

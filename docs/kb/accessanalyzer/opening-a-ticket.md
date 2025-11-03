@@ -99,3 +99,4 @@ To export job errors and warnings from the **Messages table**, proceed to the **
 - In NEA v11.6:
 
   - Navigate to **Help** > **About** in the top toolbar.
+

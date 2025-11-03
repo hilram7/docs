@@ -35,3 +35,4 @@ The owner of the target database must have the `sysadmin` role on your SQL Serve
 1. Open **MSSQL Management Console** and connect to your SQL Server.
 2. Select properties of the target database and pick an owner.
 3. Go to **Security->Logins** and grant that account the `sysadmin` role.
+

@@ -37,3 +37,4 @@ In the Attachment types section, configure attachment count types.
 - Add New – Add classifications and provide the file extensions for those classifications
 - Load Defaults – Resets the **Attachment types** configuration to its original settings
 - Remove – Deletes a selected classification from the filter list
+

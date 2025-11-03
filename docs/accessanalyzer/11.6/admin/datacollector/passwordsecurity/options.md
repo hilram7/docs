@@ -26,3 +26,4 @@ The configurable scan options are:
 
 - Return cleartext passwords when possible – Returns stored clear-text passwords to the Enterprise
   Auditor database
+

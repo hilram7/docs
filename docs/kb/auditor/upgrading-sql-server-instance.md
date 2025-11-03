@@ -58,3 +58,4 @@ Refer to the following steps to verify Netwrix Auditor has detected the change a
 - Netwrix Auditor Settings − Audit Database · v10.7: https://docs.netwrix.com/docs/auditor/10_8
 - Requirements − SQL Server Reporting Services · v10.7: https://docs.netwrix.com/docs/auditor/10_8/requirements/overview
 - Upgrade SQL Server ⸱ Upgrade documentation ⸱ Microsoft: https://learn.microsoft.com/en-us/sql/database-engine/install-windows/upgrade-sql-server?view=sql-server-ver16#upgrade-documentation
+

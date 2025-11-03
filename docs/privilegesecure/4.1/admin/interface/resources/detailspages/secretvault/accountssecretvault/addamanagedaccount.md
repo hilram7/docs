@@ -22,3 +22,4 @@ Follow the steps below to add a managed account to the secret vault.
 **Step 3 –** Click **Okay** when finished.
 
 A managed account has been added to the secret vault.
+

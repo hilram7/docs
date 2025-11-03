@@ -248,3 +248,4 @@ Use this API to create a user in a Microsoft Entra ID based identity store.
   "isResyncAble": true
 }
 ```
+

@@ -37,3 +37,4 @@ The issue occurs due to incorrect SQL Server configuration and not related to Ne
 ## Resolution
 
 Repair your SQL Server according to the resolutions from the following article: [SQL Server 2012 error: object reference not set to an instance of an object ⸱ StackOverflow 🙅](https://stackoverflow.com/questions/25574884/sql-server-2012-error-object-reference-not-set-to-an-instance-of-an-object).
+

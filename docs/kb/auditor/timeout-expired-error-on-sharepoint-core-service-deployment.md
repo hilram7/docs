@@ -48,3 +48,4 @@ For additional information on manual deployment of SharePoint Core Service, refe
 - [Software Boundaries and Limits for SharePoint Servers 2016 and 2019 ⸱ Microsoft 🤝](https://learn.microsoft.com/en-us/sharepoint/install/software-boundaries-limits-2019)
 - Requirements − Software Requirements · v10.6
 - Installation − Install for SharePoint Core Service · v10.6
+

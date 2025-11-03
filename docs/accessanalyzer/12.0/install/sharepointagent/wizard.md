@@ -53,3 +53,4 @@ Now that the SharePoint Agent has been installed on the appropriate application 
 used by the SharePoint Solution. See the
 [SharePoint Solution](/docs/accessanalyzer/12.0/solutions/sharepoint/overview.md) topic for instructions on enabling
 agent service scans on the Agent Settings page.
+

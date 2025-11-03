@@ -44,3 +44,4 @@ You can run the PPE Mailer from the command line to deliver e-mail immediately, 
 Running `PPEMail.exe` with the `/send` parameter disables simulation mode. Any e-mails that are due to be sent today are sent immediately. `PPEMail.exe` can identify a wider range of configuration errors when run in this mode. Use the `/send` parameter judiciously to avoid sending duplicate e-mails to users.
 
 To test e-mail delivery options without sending any e-mails to users, run `PPEMail.exe` with the `/test` parameter followed by your e-mail address. For example, `PPEMail.exe /test testaccount@netwrix.com`. This will send one test e-mail to your mail server or pickup folder.
+

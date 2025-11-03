@@ -52,3 +52,4 @@ A direct database query is performed when the filter is executed. The list searc
 within the query already made.
 
 NOTE: The list search is hidden by default and can be activated with “Ctrl + F”
+

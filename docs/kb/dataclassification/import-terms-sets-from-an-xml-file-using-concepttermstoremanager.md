@@ -50,3 +50,4 @@ Import a term set structure from an XML file via the `conceptTermStoreManager` u
 10. Click **Begin Import**.
 
 Imported term sets will now be available!
+

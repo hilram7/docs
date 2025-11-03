@@ -148,3 +148,4 @@ To connect to the API, an access key is required. Follow the steps below to gene
 
 - [GroupID Applications](/docs/directorymanager/11.0/signin/applications/applications.md)
 - [GroupID Portal](/docs/directorymanager/11.0/signin/applications/portal/overview.md)
+

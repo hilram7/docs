@@ -20,3 +20,4 @@ The job groups in the 7.Activity Job Group are:
 - [Usage Statistics Job Group](/docs/accessanalyzer/11.6/solutions/sharepoint/activity/usagestatistics/overview.md)–
   Identifies long term trends of activity across your SharePoint environment highlighting most
   active sites and users as well as stale users
+

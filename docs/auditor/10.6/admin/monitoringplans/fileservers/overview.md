@@ -590,3 +590,4 @@ Follow the steps to exclude specific user activity.
 ![Specify Filters](/images/auditor/10.6/admin/monitoringplans/fileservers/item_computer_exclude_users.webp)
 
 After configuring all filters, click **Add** to save them and return to the item settings.
+

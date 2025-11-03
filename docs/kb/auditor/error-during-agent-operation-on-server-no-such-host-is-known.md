@@ -56,3 +56,4 @@ If the DNS-records are not registered correctly, perform the steps below:
 1. On each problematic server, launch the command prompt: click **Start /** **Run**, type in `cmd` and press **Enter.**
 2. Type in the `ipconfig /registerdns` command and press **Enter**.
 3. As a result, the DNS records will be registered for your servers.
+

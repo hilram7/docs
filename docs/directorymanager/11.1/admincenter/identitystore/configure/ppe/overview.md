@@ -129,3 +129,4 @@ Step 5 – Select **Delete.** A warning confirmation is displayed when you delet
 
 When you delete a policy from Directory Manager it is deleted from the policy OU of Password Policy
 Enforcer on the domain the policy will not be available to PPE users as well.
+

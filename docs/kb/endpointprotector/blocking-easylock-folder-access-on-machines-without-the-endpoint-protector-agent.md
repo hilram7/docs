@@ -31,3 +31,4 @@ This article explains how you can prevent access to EasyLock-protected folders f
 2. Enable the **Endpoint Protector Client presence required** option.
 3. Save the changes.  
    ![Endpoint](images/servlet_image_3f1c3b331cfe.png)
+

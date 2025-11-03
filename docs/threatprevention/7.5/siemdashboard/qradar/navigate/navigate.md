@@ -66,3 +66,4 @@ Dashboards have several cards with a graphical format. Each of these cards have 
 features:
 
 - Graph parts can be toggled on and off by clicking on individual elements in the legend
+

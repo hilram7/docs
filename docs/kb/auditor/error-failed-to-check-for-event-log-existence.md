@@ -42,3 +42,4 @@ To diagnose the issue, perform the following test:
 ## Resolution
 - If you can connect successfully, resolve the issue by turning off the **Network Traffic Compression** option in the **Event Log Manager** settings.
 - Alternatively, perform the procedure described in the Microsoft Knowledge Base article: http://support.microsoft.com/kb/926642.
+

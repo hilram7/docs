@@ -22,3 +22,4 @@ Remember, automatic weekly reminders can be configured on the
 [Notifications Page](/docs/accessinformationcenter/11.6/admin/configuration/notifications.md)
 of the Configuration interface.
 :::
+

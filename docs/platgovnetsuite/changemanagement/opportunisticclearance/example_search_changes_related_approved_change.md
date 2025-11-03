@@ -26,3 +26,4 @@ An administrator needs to change a workflow and search condition.
     ![opp_clearance_case4-2](/images/platgovnetsuite/change_management/opp_clearance_case4-2.webp)
 
 2. The change is compliant.
+

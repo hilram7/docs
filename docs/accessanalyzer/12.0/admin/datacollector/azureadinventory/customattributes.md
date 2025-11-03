@@ -112,3 +112,4 @@ required attributes to import the custom attributes. Click Next to continue.
 **Step 5 –** On the Summary page, review your selections and click **Finish**.
 
 The selected attributes display on the Custom Attributes page of the Entra ID Inventory DC wizard.
+

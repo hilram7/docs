@@ -204,3 +204,4 @@ administrators.
 - Report is restored. Restored reports have a different internal ID from their original version.
 - Updates the **Date Last Used, Retained/Restored** to the current date.
 - Adds the report to the **Automated Report Clean Up** > **Retained Reports** list.
+

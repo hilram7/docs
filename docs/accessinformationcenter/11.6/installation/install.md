@@ -82,3 +82,4 @@ The installation wizard placed an Netwrix Access Information Center icon on the 
 to the
 [First Launch](/docs/accessinformationcenter/11.6/admin/firstlaunch.md)
 topic for next steps.
+

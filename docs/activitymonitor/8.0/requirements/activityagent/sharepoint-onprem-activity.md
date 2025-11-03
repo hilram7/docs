@@ -48,3 +48,4 @@ SharePoint will create the audit logs to be monitored by the Netwrix Activity Mo
 by Access Analyzer. See the Microsoft
 [Configure audit settings for a site collection (SharePoint 2013/2016/2019)](https://support.office.com/en-us/article/Configure-audit-settings-for-a-site-collection-a9920c97-38c0-44f2-8bcb-4cf1e2ae22d2)
 article for additional information.
+

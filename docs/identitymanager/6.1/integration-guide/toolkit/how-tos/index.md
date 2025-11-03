@@ -15,3 +15,4 @@ procedures.
     Generate in a folder the XML files based on the configuration found in the database.- ####
     [Adjust Scaffolded Configuration](/docs/identitymanager/6.1/integration-guide/toolkit/how-tos/adjust-scaffoldings/index.md)
     Adjust the XML configuration elements created by scaffoldings.
+

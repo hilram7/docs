@@ -70,3 +70,4 @@ The domain account used to connect GroupID with SQL Server must:
 See Also
 
 - [Configuration Tool](/docs/directorymanager/11.0/about/configure/configure.md)
+

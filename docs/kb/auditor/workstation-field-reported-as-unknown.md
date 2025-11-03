@@ -57,3 +57,4 @@ This could be caused by one of the following reasons:
 - Monitoring Plans − Data Collecting Account ⸱ v10.6.
 - Active Directory – Adjust Security Event Log Size and Retention · v10.6
 - Configuration – Active Directory · v10.6
+

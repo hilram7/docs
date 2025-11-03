@@ -76,3 +76,4 @@ Examples:
 
 The Dell CEE registry key is now properly configured to forward event to the Activity Monitor
 activity agent.
+

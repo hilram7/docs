@@ -19,3 +19,4 @@ Complete the following fields:
 | Who should the email be sent from?            | Select a user registered in Netwrix Data Classificationadministrative web console in the field or go to the Specific recipients below and specify one or more email addresses outside your organization.                  |
 | What sort of immediate alerts should be sent? | Select the appropriate alerting level: do not receive any alerts at all, receive errors only, or get both: emails for errors and warnings. [See System Health for more information.](/docs/dataclassification/5.7/dashboards.md) |
 | Should a daily health summary be sent?        | Select whether you want to receive daily summary on the product health.                                                                                                                                                   |
+

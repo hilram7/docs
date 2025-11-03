@@ -60,3 +60,4 @@ The following permission is required to install the application:
 
 While physical machines are always preferred, we fully support the use of virtual machines.
 Microsoft® Hyper-V® and VMWare® ESX®/ESXi™ are supported hyper visors.
+

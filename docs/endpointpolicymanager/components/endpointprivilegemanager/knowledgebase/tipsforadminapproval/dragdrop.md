@@ -27,3 +27,5 @@ to Medium or Low, stopping at the first one which works.
 ![402_1_q3-img-1](/images/endpointpolicymanager/leastprivilege/elevate/402_1_q3-img-1.webp)
 
 ![402_2_q3-img-2](/images/endpointpolicymanager/leastprivilege/elevate/402_2_q3-img-2.webp)
+
+

@@ -44,3 +44,4 @@ Provide the URL for your SharePoint farm (Central Administration) in the FQDN fo
 4. On the **General** tab, provide the Central Administration address in the FQDN format (e.g., `http://sharepointserver.local:8080`).
 5. Save your edits.
 6. On the Netwrix Auditor server host, open the **Services** snap-in and make sure that the **Netwrix Auditor for SharePoint Audit Service** is running.
+

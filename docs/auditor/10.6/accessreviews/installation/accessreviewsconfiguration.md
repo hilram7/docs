@@ -54,3 +54,4 @@ Follow the steps to configure Access Reviews in the Netwrix Auditor.
 **Step 5 –** Click **Save** or **Save & Close**.
 
 Netwrix Auditor Access Reviews is configured and ready to use in the Netwrix Auditor.
+

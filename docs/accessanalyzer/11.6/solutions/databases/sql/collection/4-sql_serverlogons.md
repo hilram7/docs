@@ -25,3 +25,4 @@ Do not modify the query. The query is preconfigured for this job.
     - See the
       [SMARTLog Data Collector](/docs/accessanalyzer/11.6/admin/datacollector/smartlog/overview.md)
       topic for additional information
+

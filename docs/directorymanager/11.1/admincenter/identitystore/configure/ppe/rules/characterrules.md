@@ -72,3 +72,4 @@ This is done by using two of the Character rules:
 Set **Characters (Complexity)** to require 1 Numeric character.
 
 Set **Characters (Granular)** to not contain numeric values in the first two positions.
+

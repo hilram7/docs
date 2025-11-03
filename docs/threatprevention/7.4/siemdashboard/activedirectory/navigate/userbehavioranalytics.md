@@ -24,3 +24,4 @@ The User Behavior Analytics dashboard contains the following cards:
   behavior anomalies over the specified time interval
 
 The specified timeframe is set by default to the last 24 hours, or past day.
+

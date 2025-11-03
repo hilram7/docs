@@ -158,3 +158,4 @@ deployments.
     ![New org credentials](/images/platgovsalesforce/installing_strongpoint/orgs_credentials_new.webp)
 
 4. Click **Save**.
+

@@ -195,3 +195,4 @@ This line must be added to a specific location within the XML script. See below:
 
 Once this line has been added to the job's XML script and the XML file is saved, files with no
 extensions are included in scans for the job.
+

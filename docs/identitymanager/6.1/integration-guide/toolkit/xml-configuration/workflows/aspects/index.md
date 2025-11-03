@@ -25,3 +25,4 @@ aspects to perform some specific actions at given workflow steps.
     Launches a workflow.- ####
     [NotificationAspect](/docs/identitymanager/6.1/integration-guide/toolkit/xml-configuration/workflows/aspects/notificationaspect/index.md)
     Sends a notification email to one or several users.
+

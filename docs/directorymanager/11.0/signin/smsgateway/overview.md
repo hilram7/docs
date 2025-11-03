@@ -33,3 +33,4 @@ to an identity store.
 - [Manage SMS Gateway Accounts](/docs/directorymanager/11.0/signin/smsgateway/manage.md)
 - [Implement and Deploy a Custom SMS Gateway](/docs/directorymanager/11.0/signin/smsgateway/implementcustom.md)
 - [Authentication Policy](/docs/directorymanager/11.0/signin/authpolicy/authpolicy.md)
+

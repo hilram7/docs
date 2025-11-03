@@ -20,3 +20,4 @@ Exports data from a SQL database.
 When creating a connection to a database which is not handled by Usercube's packages, you'll need to
 fill in the `ProviderDllName` and `ProviderClassFullName` properties of the
 [SQL connector using the procedure given in the example](/docs/identitymanager/6.1/integration-guide/connectors/references-connectors/sql/index.md).
+

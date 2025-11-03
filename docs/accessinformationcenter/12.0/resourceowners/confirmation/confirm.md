@@ -48,3 +48,4 @@ The selected owners receive an email from the Access Information Center asking i
 of the assigned resource. See the
 [Owner Confirmation Request Email](/docs/accessinformationcenter/12.0/owneroverview/confirmationrequest.md) topic for additional
 information.
+

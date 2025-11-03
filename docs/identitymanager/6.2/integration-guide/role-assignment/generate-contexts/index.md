@@ -175,3 +175,4 @@ position then the next position will be anticipated.
 
 The choice of the position to extend can be configured by leveraging the `SortKeyExpression` in the
 position [Record Section](/docs/identitymanager/6.2/integration-guide/toolkit/xml-configuration/provisioning/recordsection/index.md).
+

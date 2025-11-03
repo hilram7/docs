@@ -70,3 +70,4 @@ Upon completion, Netwrix Auditor will launch. To confirm integrity, run the foll
 
 - [Upgrading to the Latest Version](https://docs.netwrix.com/docs/auditor/10_8/install/upgrade)
 - [Upgrade Increments for Netwrix Auditor](/docs/kb/auditor/upgrade-increments-for-netwrix-auditor.md)
+

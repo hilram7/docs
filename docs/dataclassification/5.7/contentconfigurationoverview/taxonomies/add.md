@@ -25,3 +25,4 @@ For the full list of supported taxonomies, refer to
    console; large taxonomies will be imported by the background services.
 4. Browse for your custom taxonomy file.
 5. Select Upload.
+

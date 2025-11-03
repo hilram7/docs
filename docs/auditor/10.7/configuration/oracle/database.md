@@ -194,3 +194,4 @@ Also, remember to do the following:
   [Permissions for Oracle Database Auditing](/docs/auditor/10.7/configuration/oracle/permissions.md) topic for additional information.
 - Configure ports. See the [Oracle Database Ports](/docs/auditor/10.7/configuration/oracle/ports.md) topic for additional information about
   ports and protocols required for auditing.
+

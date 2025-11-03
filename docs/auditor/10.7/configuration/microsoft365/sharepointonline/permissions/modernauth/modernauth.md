@@ -151,3 +151,4 @@ See the following Microsoft article for additional information on how to obtain 
 Then, create a corresponding monitoring plan in Netwrix Auditor and add an item (Office 365 tenant)
 to it. See the [Microsoft Entra ID](/docs/auditor/10.7/admin/monitoringplans/microsoftentraid/overview.md)
 topic for additional information.
+

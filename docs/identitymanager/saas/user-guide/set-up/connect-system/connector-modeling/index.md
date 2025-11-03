@@ -497,3 +497,4 @@ Beyond avoiding repetition, this makes the model easily adaptable if new element
 > attributes provides the means to add objects without creating new entity types.
 >
 > ![AD_Entry Example](/images/identitymanager/saas/user-guide/set-up/connect-system/connector-modeling/connectormodel_adentry.webp)
+

@@ -33,3 +33,4 @@ password for one of these accounts is no longer valid, it will impact applicatio
 Additionally, if the Builtin Administrator account remains enabled, it may be necessary to reset the
 password. See the [Update Credential Passwords](/docs/accessinformationcenter/12.0/admin/troubleshooting/credentialpasswords.md) topic for additional
 information.
+

@@ -98,3 +98,4 @@ Guide on registering linux system with Postman (using API)
 Guide on registering linux system with QuickStart
 
 - [Linux Simplified - 2.18+](/docs/privilegesecurediscovery/administration/configuration/linuxsimplified2.18+.md)
+

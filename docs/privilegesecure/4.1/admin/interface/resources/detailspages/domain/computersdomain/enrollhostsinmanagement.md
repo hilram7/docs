@@ -23,3 +23,4 @@ Follow these steps to add a computer as NPS Managed Resource:
 **Step 6 –** Click **Okay**.
 
 Now this computer is added as NPS Managed Resource.
+

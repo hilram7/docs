@@ -176,3 +176,4 @@ owner assigned to the resource(s) in this review. By default, the application is
 notifications only to the primary owner. However, this can be customized on the Configuration >
 Notifications page to send notifications to all assigned owners. See the
 [Notifications Page](/docs/accessinformationcenter/12.0/admin/configuration/notifications.md) topic for additional information.
+

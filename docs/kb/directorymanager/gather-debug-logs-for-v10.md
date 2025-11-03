@@ -120,3 +120,4 @@ You can manually collect logs from the following locations. `X` refers to the in
   `C:\Program Files\Imanami\GroupID 10.0\ElasticSearch\elasticsearch-6.2.4\logs`
 
 Once logs have been collected, compress and send the full logs folder as a ZIP file.
+

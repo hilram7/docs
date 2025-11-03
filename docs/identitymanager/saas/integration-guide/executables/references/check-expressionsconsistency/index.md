@@ -31,3 +31,4 @@ In Custom/User/Directory User Connector.xml(12), Method "System.Linq.Enumerable.
 | ------------------------------------- | ------ | ------------------------------------------------------------------------------------------------- |
 | --database-connection-string required | String | SQL database connection string.                                                                   |
 | --output-path                         | String | Full path of the folder in which the file containing expression compilation errors will be saved. |
+

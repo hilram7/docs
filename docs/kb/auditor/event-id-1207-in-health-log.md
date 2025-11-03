@@ -44,3 +44,4 @@ The Netwrix Auditor for SharePoint Core Service version is different from the cu
 ## Related articles
 
 - Installation — Install for SharePoint Core Service · v10.6
+

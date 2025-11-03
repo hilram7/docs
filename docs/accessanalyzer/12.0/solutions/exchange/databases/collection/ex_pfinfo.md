@@ -27,3 +27,4 @@ Do not modify the query. The query is preconfigured for this job.
 The following query is included in the EX_PFInfo Job:
 
 - Exchange Public Store Information – Collects Exchange Public Store information
+

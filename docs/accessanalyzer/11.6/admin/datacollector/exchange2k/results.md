@@ -15,3 +15,4 @@ Properties can be selected individually or the **Check All**, **Uncheck All**, o
 buttons can be used. All Selected properties will be gathered. Click **Expand All** to expand all
 properties, or **Collapse All** to collapse all properties. Available properties vary based on the
 category selected.
+

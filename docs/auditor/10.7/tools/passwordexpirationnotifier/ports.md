@@ -16,3 +16,4 @@ domain (target), allow inbound connections to the local 389 TCP port.
 | ---------------------------- | -------- | ---------------------- | ------------------ | ------------------- |
 | Password Expiration Notifier |          |                        |                    |                     |
 | 389                          | TCP      | Netwrix Auditor Server | Domain controllers | LDAP Common queries |
+

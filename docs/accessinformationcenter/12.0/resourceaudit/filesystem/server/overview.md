@@ -15,3 +15,4 @@ The following reports are available at the server level:
 - [Sensitive Content Details Report](/docs/accessinformationcenter/12.0/resourceaudit/filesystem/server/sensitivecontentdetails.md)
 - [Sensitive Content Summary Report](/docs/accessinformationcenter/12.0/resourceaudit/filesystem/server/sensitivecontentsummary.md)
 - [Share Activity Summary Report](/docs/accessinformationcenter/12.0/resourceaudit/filesystem/server/shareactivitysummary.md)
+

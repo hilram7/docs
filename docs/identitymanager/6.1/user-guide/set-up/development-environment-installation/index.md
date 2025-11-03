@@ -41,3 +41,4 @@ screens.
 
 Once the development environment is ready, integrators can start
 [creating the workforce directory](/docs/identitymanager/6.1/user-guide/set-up/initial-identities-loading/index.md).
+

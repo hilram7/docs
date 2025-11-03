@@ -43,3 +43,4 @@ The 404 error code means that there are no portals at the specified URL.
    2. `HKLMSoftware[Wow6432Node]NetWrixPassword Manager Self-Service client (is used if there is no value in the 1st key)`
 
    ![User-added image](./images/ka04u00000116c8_0EM7000000052KG.png)
+

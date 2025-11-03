@@ -109,3 +109,4 @@ Value: `Bearer YOURTOKEN`
 ## Related Articles
 
 - My Dashboard — App Registrations · Entra ID: https://portal.azure.com/#view/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/~/RegisteredApps
+

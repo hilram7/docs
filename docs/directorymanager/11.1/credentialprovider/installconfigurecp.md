@@ -3238,3 +3238,4 @@ Complete list of common Windows credential provider CLSIDs for filtering:
 **Document End**
 
 *For the latest version of this documentation, visit: https://www.netwrix.com/groupid-credential-provider-docs*
+

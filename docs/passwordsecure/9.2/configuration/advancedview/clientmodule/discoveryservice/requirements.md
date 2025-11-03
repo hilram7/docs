@@ -63,3 +63,4 @@ Server 2003) – port 1025-5000 (TCP) or a static WMI port
    the computer (e.g. Client01). In Netwrix Password Secure V8, the **DNS request** is the preferred
    function for determining the computer name. If no result is delivered, a request via **NetBIOS**
    is made.
+

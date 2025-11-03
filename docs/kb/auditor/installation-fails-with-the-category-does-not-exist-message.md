@@ -54,3 +54,4 @@ There are two ways to resolve the issue:
 4. If **UAC** is currently configured in **Admin Approval Mode**, the **User Account Control message appears**. Click **Continue**.
 5. Clear the **Use User Account Control (UAC) to help protect your computer** check box, and then click **OK**.
 6. Click **Restart Now** to apply the change right away, or click **Restart Later**, and then close the **User Accounts tasks** window.
+

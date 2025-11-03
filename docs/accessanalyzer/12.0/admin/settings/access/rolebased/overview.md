@@ -51,3 +51,4 @@ enabled, an NEAUsers local group is created on the Access Analyzer server with t
 permissions to the Access Analyzer application directory. When a user is assigned a role, they are
 added to the NEAUsers group to give them the necessary access. See the
 [Assign User to Role Members](/docs/accessanalyzer/12.0/admin/settings/access/rolebased/assignroles.md) topic for additional information.
+

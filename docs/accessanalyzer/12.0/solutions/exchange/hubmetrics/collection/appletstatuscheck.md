@@ -23,3 +23,4 @@ Do not modify the query. The query is preconfigured for this job.
 The following query is included with the .AppletStatusCheck Job:
 
 - Terminate Process – Terminates the metrics applet process
+

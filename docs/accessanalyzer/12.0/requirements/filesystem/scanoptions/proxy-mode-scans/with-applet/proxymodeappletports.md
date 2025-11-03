@@ -58,3 +58,4 @@ The following firewall setting is also required when targeting a Windows file se
 Configure target hosts to respond to ping requests.
 
 :::
+

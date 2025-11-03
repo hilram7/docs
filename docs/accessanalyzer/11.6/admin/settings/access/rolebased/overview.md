@@ -50,3 +50,4 @@ The first Enterprise Auditor user assigned a role must be an Administrator. Assi
 user role officially enables Role Based Access within Enterprise Auditor. See the
 [Configuring Roles](/docs/accessanalyzer/11.6/admin/settings/access/rolebased/configureroles.md)
 topic for additional configuration details.
+

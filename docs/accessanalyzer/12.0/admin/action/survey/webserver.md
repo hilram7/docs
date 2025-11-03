@@ -20,3 +20,4 @@ The configurable options are:
       the web server containing the scripts used to build and operate the survey web page
 
 - URL (Survey root path) – Specify the root path of the web page location
+

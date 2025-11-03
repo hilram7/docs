@@ -39,3 +39,4 @@ Consider it to simply be an installation on another network. Netwrix recommends 
 3. Make sure you applied the license. You will need a license for Netwrix Auditor no matter where it is used.
 
 If you are using an internal file server, make sure Netwrix Auditor is able to access it across the internet or a VPN if you have a tunnel set up. For additional information on required protocols and ports that must be opened, refer to the following article: [Protocols and Ports](https://docs.netwrix.com/docs/auditor/10_8/requirements/ports)
+

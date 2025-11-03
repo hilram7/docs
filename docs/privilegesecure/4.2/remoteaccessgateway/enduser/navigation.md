@@ -32,3 +32,4 @@ The buttons have these functions:
       [Product Tour](/docs/privilegesecure/4.2/remoteaccessgateway/enduser/producttour.md) topic for additional information.
     - Logout — Signs the user out of the current session and opens the Login screen
     - About — Shows version and license information for the console
+

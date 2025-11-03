@@ -136,3 +136,4 @@ script in the command line.
 
 The available actions (clean duplicates; purge; optimize) are all optional, but at least one must be
 used in the executable command.
+

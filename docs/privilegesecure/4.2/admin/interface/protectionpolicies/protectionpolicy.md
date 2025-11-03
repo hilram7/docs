@@ -27,3 +27,4 @@ Schedule to the policy. See the following topics for additional information:
 - [Resources Tab for Protection Policies](/docs/privilegesecure/4.2/admin/interface/protectionpolicies/resources/resources.md)
 - [Allowed Members Tab for Protection Policies](/docs/privilegesecure/4.2/admin/interface/protectionpolicies/allowedmembers.md)
 - [Schedule Tab for Protection Policies](/docs/privilegesecure/4.2/admin/interface/protectionpolicies/schedule.md)
+

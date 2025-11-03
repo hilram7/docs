@@ -40,3 +40,4 @@ The table lists process that will be excluded, displaying columns for Process Na
 
 Click **OK** to commit the modifications. Click **Cancel** to discard the modifications. The output
 Properties window closes.
+

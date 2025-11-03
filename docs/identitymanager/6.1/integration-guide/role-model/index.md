@@ -68,3 +68,4 @@ It applies all the configured rules, thus:
   [provisioning rules](/docs/identitymanager/6.1/user-guide/set-up/provisioning-rule-creation/index.md);
 - detecting assignments in the managed systems that do not comply with the policy, see the
   [review of non-conforming assignments](/docs/identitymanager/6.1/user-guide/administrate/non-conforming-assignment-review/index.md).
+

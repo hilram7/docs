@@ -44,3 +44,4 @@ take effect.
 **Step 8 –** Login to the virtual machine and ensure date/time/time-zone are set correctly, and that
 DNS is properly configured (forward and reverse lookup) to resolve all Active Directory domains and
 network resources that are to be managed by Netwrix Privilege Secure.
+

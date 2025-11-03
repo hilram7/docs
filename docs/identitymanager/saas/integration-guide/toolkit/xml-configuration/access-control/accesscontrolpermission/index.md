@@ -24,3 +24,4 @@ Each connected user has access to all the permissions from the Profile Rules he 
 | ------------------------------------- | -------------------------------------------------------------------------------------------- |
 | BlockInheritance default value: false | **Type** Boolean **Description** Disable the possibility to inherit descendants permissions. |
 | Identifier required                   | **Type** String **Description** Identifier of the permission.                                |
+

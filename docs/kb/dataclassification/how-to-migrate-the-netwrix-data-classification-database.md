@@ -79,3 +79,4 @@ Follow these steps to migrate the Netwrix Data Classification database:
 
 - [Create a Full Database Backup ⸱ Microsoft](https://learn.microsoft.com/en-us/sql/relational-databases/backup-restore/create-a-full-database-backup-sql-server?view=sql-server-ver16#SSMSProcedure)
 - [Restore a Database Backup Using SSMS ⸱ Microsoft](https://learn.microsoft.com/en-us/sql/relational-databases/backup-restore/restore-a-database-backup-using-ssms?view=sql-server-ver16#a-restore-a-full-database-backup)
+

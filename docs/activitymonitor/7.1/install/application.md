@@ -48,3 +48,4 @@ The Activity Monitor Console installs with a 10-day, 1-host license key. After c
 installation, see the
 [Import License Key](/docs/activitymonitor/7.1/install/importlicensekey.md)
 topic for instructions on importing an organization’s license key.
+

@@ -35,3 +35,4 @@ To create the second instance of Self-Service portal, do the following:
 **NOTE**: In this case all the Branding settings  (logo, support phone/link, prdefined domaine, etc) will be copied too. However changing of these settings via the Administrative portal will only affect the original Self-Service portal.
 
 Refer to the following KB for instructions on hiding domain list and setting predefined domain for portals: https://kb.netwrix.com/2062
+

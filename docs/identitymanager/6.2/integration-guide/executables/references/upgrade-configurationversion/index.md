@@ -33,3 +33,4 @@ In this example, the configuration files are in the folder "C:/identitymanagerDe
 |                      |                                                                                                                                   |
 | ---                  | ---                                                                                                                               |
 | --log-level optional | **Type** LogLevel **Description** Level of log information among: `Verbose`; `Debug`; `Information`; `Warning`; `Error`; `Fatal`. |
+

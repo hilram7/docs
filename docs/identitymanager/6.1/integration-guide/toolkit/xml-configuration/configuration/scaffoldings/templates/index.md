@@ -34,3 +34,4 @@ sidebar_position: 50
     [ViewTemplateAdaptable](/docs/identitymanager/6.1/integration-guide/toolkit/xml-configuration/configuration/scaffoldings/templates/viewtemplateadaptable/index.md)
     Implements a default display name for the resources of a given entity type, displays the
     resources in an adaptable table, and give the permissions to view the resources.
+

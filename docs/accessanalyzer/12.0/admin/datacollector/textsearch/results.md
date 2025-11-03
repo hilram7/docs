@@ -22,3 +22,4 @@ based on the category selected.
     - GBytes
 
 - Only return results for files with at least one match
+

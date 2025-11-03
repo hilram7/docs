@@ -59,3 +59,4 @@ Because the AAD Scan appends the data to the core tables you are able to separat
 - Module: Access Analyzer - DC - AzureADInventory  
 - Versions: 7.0+  
 - Legacy Article ID: 2164
+

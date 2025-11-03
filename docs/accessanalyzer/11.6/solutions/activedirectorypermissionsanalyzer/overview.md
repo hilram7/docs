@@ -95,3 +95,4 @@ The job groups and jobs in the Active Directory Permissions Analyzer Solution ar
   vulnerabilities to escalate privileges from a non-privileged user to administrator with only a few
   steps. This job generates the shortest path between every non-privileged user to a domain
   administrative group, total domain compromise, or access to sensitive data.
+

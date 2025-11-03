@@ -158,3 +158,4 @@ To establish the affected servers, refer to the following steps:
    1. Open the folder `C:\Program Files (x86)\Netwrix Auditor\User Activity Video Recording` in the Netwrix server.
    2. Copy the **UACoreSvcSetup.msi** file to each cloned server.
    3. Install it manually.
+

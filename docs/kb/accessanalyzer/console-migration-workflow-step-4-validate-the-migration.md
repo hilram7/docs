@@ -45,3 +45,4 @@ After completing Steps 1-3, please verify the following:
 
 - [Console Migration Workflow](/docs/kb/accessanalyzer/console-migration-workflow.md)
 - [Console Migration Workflow: Step 3—Rebuild the Console](/docs/kb/accessanalyzer/console-migration-workflow-step-3-rebuild-the-console.md)
+

@@ -13,3 +13,4 @@ The Results pane displays all views for the selected console section.
 The Results pane displays all views for the selected console section. This includes solution, job
 group, and job descriptions, configuration views, native and materialized data tables and views, and
 reports.
+

@@ -68,3 +68,4 @@ The jobs and job groups in the Windows Solution are:
   identify critical security configurations that leave the environment vulnerable to attack. The
   result is a report which provides a listing of findings by severity and category with
   corresponding details that can be used to prioritize and remediate security issues.
+

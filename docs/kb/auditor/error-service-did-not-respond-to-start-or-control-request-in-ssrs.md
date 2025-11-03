@@ -78,3 +78,4 @@ Apply one of the following options to resolve the issue:
 - Uninstall SQL Server Reporting Services and install the application on the Auditor server.
 
   > **IMPORTANT:** This resolution applies only to SQL Server Standard and Enterprise editions.
+

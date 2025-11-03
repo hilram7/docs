@@ -23,3 +23,4 @@ The 0.Collection Job Group is comprised of:
   – Takes the data that has been collected from Box and imports it to the Enterprise Auditor
   database to be analyzed in order to provide detailed reports on Box access rights, policies,
   configurations, activities, and content
+

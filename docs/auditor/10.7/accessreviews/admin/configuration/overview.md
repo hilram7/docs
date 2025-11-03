@@ -20,3 +20,4 @@ It has the following pages:
   notification options, and owner reminder settings
 - [Database Page](/docs/auditor/10.7/accessreviews/admin/configuration/database.md) – Configure the connection to the database
 - [Diagnostics Page](/docs/auditor/10.7/accessreviews/admin/configuration/diagnostics.md) – Download logs and enable debug log level for troubleshooting
+

@@ -23,3 +23,4 @@ The table displays the following information for each match found on the selecte
       Address or Phone)
 
 Click **Close** to return to the review.
+

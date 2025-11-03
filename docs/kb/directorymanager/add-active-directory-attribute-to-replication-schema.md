@@ -51,3 +51,4 @@ Add new or custom Active Directory (AD) attributes to the Netwrix Directory Mana
    ![Add Replication Attributes in Replication Settings in Directory Manager 11](images/ka0Qk000000EMa9_0EMQk00000BZgCY.png)
 7. In the prompt, search for the new or missing attribute, select it, and click **Save**.  
    ![Searching for attributes in Replication Settings in Directory Manager 11](images/ka0Qk000000EMa9_0EMQk00000BZgUI.png)
+

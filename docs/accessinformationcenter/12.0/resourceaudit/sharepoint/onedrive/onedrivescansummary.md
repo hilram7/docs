@@ -17,3 +17,4 @@ This report is comprised of the following columns:
 - Url – Path to the OneDrive for Business personal site
 - Resources – Count of resources that reside under each personal site
 - Exceptions – Count of exceptions found in the personal site
+

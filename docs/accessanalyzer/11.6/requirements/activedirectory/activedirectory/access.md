@@ -242,3 +242,4 @@ The following variables are referenced for Active Directory Least Privileged Mod
 `CN=Schema,CN=Configuration,DC=company,DC=com`
 
 `%DOMAINDN%`" is the distinguished name of the accessed domain object; `DC=company,DC=com`
+

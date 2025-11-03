@@ -98,3 +98,5 @@ In this method, the Endpoint Policy Manager Least Privilege Manager SecureRun co
 will ignore inline commands, and all processes like this will continue.
 
 ![538_8_hfkb-1008-img-op-03-01_1379x575](/images/endpointpolicymanager/troubleshooting/leastprivilege/securerun/538_8_hfkb-1008-img-op-03-01_1379x575.webp)
+
+

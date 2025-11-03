@@ -65,3 +65,4 @@ topic for additional information.
 **Step 6 –** Click **Save**.
 
 Integration settings with a Netwrix product are now configured.
+

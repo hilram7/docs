@@ -50,3 +50,4 @@ for Business changes are reported as SharePoint Online.
 | Document    | - Name - Permissions - URL - Data categories |
 | Team        | - Members - Name                             |
 | Folder      | - Permissions                                |
+

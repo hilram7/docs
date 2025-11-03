@@ -170,3 +170,4 @@ the collected data in the SQL Server database.
 
 The query is now configured to target the network share where the Activity Monitor domain activity
 logs are archived.
+

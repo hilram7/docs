@@ -13,3 +13,4 @@ In this case you can click the Languages link beside each clue and select any su
 available languages:
 
 ![cluelanguages](/images/dataclassification/5.7/admin/taxonomies/cluelanguages.webp)
+

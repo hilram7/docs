@@ -60,3 +60,4 @@ Settings**.Settings.
 ![update_taxonomy](/images/dataclassification/5.7/requirements/update_taxonomy.webp)
 
 The upgrade is now complete.
+

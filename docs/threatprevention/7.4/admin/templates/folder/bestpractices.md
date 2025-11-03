@@ -53,3 +53,4 @@ being locked down or blocked!
 | OU Structure Lockdown              | USE CAUTION WITH ALL LOCKDOWN TEMPLATES <br />Utilizes the built-in “OU Structure - >Allow Perpetrators” – Lockdown Perpetrators Collection. <br />Change the AD Perpetrator tab to ALLOW instead of BLOCK, fill in the built-in collection, and add the desired OUs to protect.                 | None |
 | User Lockdown of Delete, Move, Rename and Modify Events         | USE CAUTION WITH ALL LOCKDOWN TEMPLATES <br />Utilizes the built-in “User Lockdown - Allow Perpetrators” – Lockdown Perpetrators Collection. <br />Change the AD Perpetrator tab to ALLOW instead of BLOCK, and fill in the built-in Allow Lockdown Perpetrator Collection, and add the desired Users to protect. | None |
 
+

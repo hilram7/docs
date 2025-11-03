@@ -14,3 +14,4 @@ categories.
 Properties selected on the Results page are listed. Select the property or properties to act as the
 Rowkey. Properties can be selected individually, or the **Select All** and **Clear All** buttons can
 be used.
+

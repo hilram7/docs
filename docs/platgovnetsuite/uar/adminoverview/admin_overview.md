@@ -40,3 +40,4 @@ Here is an example of the Admin dashboard displayed when you log in:
       the UAR list and selecting the review.
 
 - **Owners with Open Reviews** displays all of the owners with the number of open reviews.
+

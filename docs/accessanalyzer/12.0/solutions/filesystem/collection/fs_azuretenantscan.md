@@ -89,3 +89,4 @@ The job has the following query:
 
 - Azure Tenant Scan – Scans the targeted Azure tenant and produces a host list containing the
   storage accounts to target for Azure Files scans
+

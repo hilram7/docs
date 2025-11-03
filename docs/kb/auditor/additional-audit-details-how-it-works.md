@@ -72,3 +72,4 @@ This functionality is available in the following reports for each audited system
 - All Group Policy Changes by Groups With Originating Workstation
 
 By default, these reports show all changes to the monitored environment grouped by the groups to which users who made the changes belong. If you want to get the information on the changes performed by members of a specific group, select this group (or several groups) in the corresponding filter, and the report will return data on the changes performed only by members of the selected.
+

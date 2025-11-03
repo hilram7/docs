@@ -18,3 +18,4 @@ topic for additional information.
 **New Product Name!**
 
 With the v7.0 release, Stealthbits Activity Monitor has been renamed Netwrix Activity Monitor.
+

@@ -34,3 +34,4 @@ When you review the **Risk Assessment Overview** dashboard, some infrastructure 
 2. If the report does not contain any data about the issues showed on the dashboard, you need to check an out-of-date State-in-Time snapshots for the Monitoring Plan in which those servers are listed.
 3. For that, navigate to a problematic monitoring plan, click **Edit Data Source** -> **Manage State-in-Time Snapshots**.
 4. The date of the current snapshot should be today's date. If not, wait a day or two for the data to update.
+

@@ -28,3 +28,4 @@ upgrading from 11.5, the following applies:
   defaults to the new AIC location (`C:\Program Files\STEALTHbits\Access Information Center\`)
 - If the current installation resides in a custom location, the install wizard Destination Folder
   page keeps the same custom location
+

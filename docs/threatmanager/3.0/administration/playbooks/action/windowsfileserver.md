@@ -42,3 +42,4 @@ This action saves the file hash to the properties of the threat.
   Credential profiles are configured on the
   [Integrations Interface](/docs/threatmanager/3.0/administration/configuration/integrations/overview.md). If not specified, the
   action will be run as the credentials of the Action Service.
+

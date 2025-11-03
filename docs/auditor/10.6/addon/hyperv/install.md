@@ -71,3 +71,4 @@ additional information.
 
 Run the **install.ps1** PowerShell script from the add-on folder. It will configure and register a
 Windows scheduled task that will run periodically every 15 min to retrieve audit data from SCVMM.
+

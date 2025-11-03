@@ -103,3 +103,4 @@ Secure, but you as an MSP are responsible for deleting the database in the SQL s
 existing backups.
 
 ![successfull-deletion-msp-en](/images/passwordsecure/9.2/configuration/server_manager/msp/changes_in_ac/customers_module/successfull-deletion-msp-en.webp)
+

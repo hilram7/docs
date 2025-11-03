@@ -75,3 +75,4 @@ The default analysis tasks are:
 
 -   **1. Create Event Name Table** – Creates the SA_SPAC_EventNames table associated with SPAC
 -   **2. Create Views** – Creates the views associated with SPAC
+

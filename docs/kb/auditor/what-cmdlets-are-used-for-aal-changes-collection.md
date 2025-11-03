@@ -54,3 +54,4 @@ Get-ManagementRoleAssignment -RoleAssignee USERNAME@Domain.onmicrosoft.com -Role
 ```
 
 Reference: https://docs.microsoft.com/en-us/exchange/remove-a-role-from-a-user-or-usg-exchange-2013-help
+

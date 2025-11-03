@@ -26,3 +26,4 @@ In order to exclude all "User Account Locked Out" events from reports in Netwrix
 2. Open the `unomitproplist.txt` file
 3. Remove the `*.lockoutTime` line OR just add `#` to the beginning of the line (for example, `#*.lockoutTime`)
 4. Save the file
+

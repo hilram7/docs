@@ -127,3 +127,4 @@ parameters.
 
 For rules, follow the instructions about
 [assignment rules](/docs/identitymanager/6.1/user-guide/optimize/assignment-automation/automate-role-assignment/index.md).
+

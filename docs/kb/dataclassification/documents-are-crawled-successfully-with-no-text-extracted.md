@@ -49,3 +49,4 @@ If you experience intermittent issues extracting a particular document type, you
 - Missing iFilter: If the content type is configured to use iFilters, make sure that the correct iFilter pack is installed on all servers that NDC is installed on.
 - Password Protected Documents: Opening password-protected documents is not currently supported.
 - Corrupt Files: Try opening the file manually to verify it. Microsoft Office documents can sometimes be recovered by opening and resaving the file.
+

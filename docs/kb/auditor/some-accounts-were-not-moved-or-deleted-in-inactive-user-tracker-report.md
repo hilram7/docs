@@ -41,3 +41,4 @@ If you still encounter reports showing the `Cannot delete the account` status fo
 - The data collection account used by IUT does not have sufficient rights and permissions. Refer to the following article for additional information on roles, rights, and permissions required for Inactive User Tracker data collection account: Monitoring Plans — Data Collecting Account.
 
 - The account has the **Protect object from accidental deletion** checkbox checked in **Properties** > **Object**. This is a Windows Active Directory feature to prevent the deletion and moving of flagged objects without admin intervention. IUT cannot override this feature; you must manually edit the flag.
+

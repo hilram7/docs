@@ -52,3 +52,4 @@ Perform the following steps to update the database schema:
 
 - 0.Collection Job Group — 2-SPAA_SystemScans Job · v11.6  
   https://docs.netwrix.com/docs/auditor/10_8
+

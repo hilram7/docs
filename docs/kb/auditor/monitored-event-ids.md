@@ -35,3 +35,4 @@ Here is the detailed list of monitored events:
 | `4625`                      | `529-539*`      | Failure | An account failed to log on - actual invalid logon event              |
 
 *In Windows XP/2003 actual invalid logons can be logged as any of 10 events with IDs between 529 and 539
+

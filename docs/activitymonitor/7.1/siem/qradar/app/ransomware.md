@@ -37,3 +37,4 @@ is packaged with this application. In order to adjust this rule to better suit a
 needs, please refer to the IBM QRadar
 [Rule management](https://www.ibm.com/support/knowledgecenter/SS42VS_7.2.6/com.ibm.qradar.doc/c_qradar_rul_mgt.html)
 article on how to modify rules.
+

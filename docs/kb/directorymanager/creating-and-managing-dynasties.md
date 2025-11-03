@@ -67,3 +67,4 @@ The three templates are configurable, whereas the custom Dynasty can fulfill num
 8. If you selected **Now** for your update options, a parent Dynasty will be created with the name provided on the **Group Options** page, and child groups will be created according to the configured template.
 
 > **NOTE:** The Dynasty created in this article is just an example; you can customize the naming template, separator, inheritance, and much more.
+

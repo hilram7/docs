@@ -23,3 +23,4 @@ See the [Selection Windows](/docs/threatprevention/7.5/admin/policies/configurat
 
 The selection is displayed in the appropriate box of the AD Account filter, the AD Context filter,
 or the AD Objects and Containers filter.
+

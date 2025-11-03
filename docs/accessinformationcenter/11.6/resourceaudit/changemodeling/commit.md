@@ -51,3 +51,4 @@ Click **Commit**. The Action Running window opens while the changes listed in th
 to the targeted domain. When the **Action completed successfully** message displays, click
 **Close**. The changes that were just committed are reflected immediately in the Resource Audit
 interface reports.
+

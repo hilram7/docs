@@ -54,3 +54,4 @@ Examples from the `omitpathlist.txt`:
 
 9. `*ScheduledTasksClass*.*MicrosoftWindowsCustomer Experience Improvement ProgramServer*`  
    Specifies that data related to the Windows Customer Experience Improvement Program scheduled tasks will not be included.
+

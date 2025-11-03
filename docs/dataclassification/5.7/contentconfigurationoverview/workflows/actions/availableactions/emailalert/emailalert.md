@@ -37,3 +37,4 @@ When finished, slick **Save** to close the dialog and return to email action set
 To modify action settings for the certain workflow, select the workflow and use the Advanced UI
 window, as described in the
 [Modify Email Alert action settings](/docs/dataclassification/5.7/contentconfigurationoverview/workflows/actions/availableactions/emailalert/modifyemailalertaction.md) section.
+

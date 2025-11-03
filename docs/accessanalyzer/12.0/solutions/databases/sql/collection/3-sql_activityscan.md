@@ -92,3 +92,4 @@ The default analysis tasks are:
 
 - AIC Import – Activity– Creates the SA_AIC_ActivityEventsImport table accessible under the job’s
   Results node.
+

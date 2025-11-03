@@ -115,3 +115,4 @@ Step 13 – On the Schedules page, click **Save**.
 The schedule is displayed under **Reports**. See the
 [View the Schedules in an Identity Store ](manage.md#view-the-schedules-in-an-identity-store)topic
 for details.
+

@@ -51,3 +51,4 @@ Ensure that you have a RADIUS server installed and configured in your environmen
    > NOTE: If there are other properties before the **closing }**, ensure that they are all separated by a single comma.
 
 6. You may now assign the new RADIUS authentication connector to users and groups in SbPAM.
+

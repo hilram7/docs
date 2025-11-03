@@ -42,3 +42,4 @@ The Remote Desktop File will be downloaded automatically.
 
 **Step 8 –** In the Windows Security dialog, provide the Netwrix Privilege Secure Global
 Administrator credentials you specified on the step 3 and log on to the instance.
+

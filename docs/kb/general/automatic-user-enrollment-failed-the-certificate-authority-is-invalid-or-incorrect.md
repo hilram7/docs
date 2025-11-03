@@ -61,3 +61,4 @@ To resolve the issue, either obtain a signed third-party SSL certificate, or dep
 - Also make sure that the name of the server stored in the certificate matches the name you specified on the Password Manager client setup.
 
 More screenshots here: [Deploying a Self-Signed Root Certificate with Group Policy](http://unixwiz.net/techtips/deploy-webcert-gp.html)
+

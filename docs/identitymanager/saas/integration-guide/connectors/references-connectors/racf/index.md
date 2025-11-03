@@ -117,3 +117,4 @@ This connector has no credential attributes, and therefore does not use
 
 Still, data protection can be ensured through an
 [Connection](/docs/identitymanager/saas/integration-guide/toolkit/xml-configuration/connectors/connection/index.md) safe.
+

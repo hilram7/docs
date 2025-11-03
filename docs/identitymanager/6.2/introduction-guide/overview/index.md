@@ -94,3 +94,4 @@ See the [Governance](/docs/identitymanager/6.2/introduction-guide/overview/gover
 ## Examples
 
 Let's read some [Use Case Stories](/docs/identitymanager/6.2/introduction-guide/overview/use-cases/index.md).
+

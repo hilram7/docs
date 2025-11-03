@@ -38,3 +38,4 @@ identified for scoping.
       which this query will be scoped.
     - Field containing EmailAddressDNs – This list will be populated with columns from the selected
       table. Select the appropriate column from the list.
+

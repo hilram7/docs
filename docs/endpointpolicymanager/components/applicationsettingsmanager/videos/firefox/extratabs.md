@@ -57,3 +57,5 @@ homepage, of course. And if on Windows 10 he were to go to "options" here, he is
 
 So that's it. It's easy as pie to use PolicyPak to remove the first run experience on Firefox and
 make it the way you intended. Hope this helps you out and talk to you soon.
+
+

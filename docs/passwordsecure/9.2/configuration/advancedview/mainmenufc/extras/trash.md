@@ -22,3 +22,4 @@ The following functions are available:
 
 - **Empty entire bin**: The entire recycle bin is permanently deleted, so none of these passwords
   can be recovered.
+

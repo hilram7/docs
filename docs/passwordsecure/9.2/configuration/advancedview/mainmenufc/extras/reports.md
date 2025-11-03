@@ -55,3 +55,4 @@ Automated sending of reports via system tasks
 
 In general, reports are not manually created but are automatically sent to defined recipients. This
 is apossible via system tasks, which can run processes of this nature at set times.
+

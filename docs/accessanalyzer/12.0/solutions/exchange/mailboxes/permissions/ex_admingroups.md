@@ -35,3 +35,4 @@ the following pre-configured report:
 | Report                         | Description                                                                            | Default Tags | Report Elements                                                                                                                                   |
 | ------------------------------ | -------------------------------------------------------------------------------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Exchange Administration Groups | This report shows effective membership for the default Exchange Administration groups. | None         | This report is comprised of two elements: <ul><li>Bar Chart – Displays largest admin groups</li><li>Table – Provides membership details</li></ul> |
+

@@ -50,3 +50,4 @@ NOTE: Non-delivery reports are sent if an SMTP server is configured for the iden
 **See Also**
 
 - [Group Properties](/docs/directorymanager/11.0/welcome/group/properties/overview.md)
+

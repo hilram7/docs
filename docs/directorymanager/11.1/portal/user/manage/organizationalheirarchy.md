@@ -34,3 +34,4 @@ Step 4 – You can:
 - Click a user’s name to view his or her profile
 - Click a user’s email address to send an email to him or her
 - Use the Export button to export the chart to a PNG file
+

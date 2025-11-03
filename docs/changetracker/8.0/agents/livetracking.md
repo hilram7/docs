@@ -56,3 +56,4 @@ activity.
 
 On Linux devices, The Gen 7 Agent uses Sysdig to capture low level data like who made the change.
 See Github's article [Sysdig](https://github.com/draios/sysdig/) for additional information.
+

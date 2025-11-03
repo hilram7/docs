@@ -23,3 +23,4 @@ The Threats list divides the threats into the following sections:
 
 Select a threat from the list to display the threat's configuration options to the right of the
 Threats box.
+

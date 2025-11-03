@@ -41,3 +41,4 @@ Delete servers no longer in the environment from host lists, as these lists cont
 If you have removed the machine from the host management, and the next day you see it in the list again, it is possible that the machine is still in AD. During an AD host discovery query, all computers in AD will be added to the host list. Once the machine is removed from AD, and then removed from the host list, it should no longer show on the host lists.
 
 **Module:** SA - DC - Active Directory; SA - DC - ADInventory
+

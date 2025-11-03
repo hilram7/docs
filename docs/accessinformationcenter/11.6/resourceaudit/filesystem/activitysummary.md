@@ -23,3 +23,4 @@ This report is comprised of the following columns:
 - Statistics – Roll-up information of the number of operations that have been performed by a trustee
   on a file or folder
 - Recent Events – Date of the most recently scanned operations event
+

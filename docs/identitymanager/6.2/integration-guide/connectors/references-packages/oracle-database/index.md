@@ -29,3 +29,4 @@ To use this package, `Oracle.ManagedDataAccess.Core` needs to be
 The DLL in the "Oracle.ManagedDataAccess" package isn't compatible with .NET 8
 
 :::
+

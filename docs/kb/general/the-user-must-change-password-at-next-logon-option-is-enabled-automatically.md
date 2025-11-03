@@ -42,3 +42,4 @@ Similar behavior occurs during the Change password procedure, but the password i
 ---
 
 To prevent this issue, you can disable the **Use AD password policy settings** option (**Admin Portal** -> **Domains** -> **Edit**) and configure the password policy through Netwrix Password Manager (**Admin Portal** -> **Settings** -> **Password Policy** tab).
+

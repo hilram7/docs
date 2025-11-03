@@ -141,3 +141,4 @@ This article outlines the process of adding Microsoft Entra ID (formerly Azure A
     ![User-added image](images/ka0Qk0000003IQD_0EM4u000004bUlH.png)
 
     When using the SAML log-in option, the user will be redirected to sign in to Microsoft Entra ID. Upon successful authentication, the user will be redirected to the Netwrix Privilege Secure UI as their now signed-in user.
+

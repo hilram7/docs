@@ -62,3 +62,4 @@ To resolve this error, refer to the following steps:
      ![Run Job image](images/ka0Qk000000CgOT_0EMQk00000Aqj6X.png)
    - In the Reports pane, click the **Kebab menu** (three vertical dots) next to **Configure** and select **Generate**.  
      ![Generate image](images/ka0Qk000000CgOT_0EMQk00000Aqj6Y.png)
+

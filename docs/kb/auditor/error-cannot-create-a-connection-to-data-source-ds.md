@@ -65,3 +65,4 @@ Perform the following steps to specify the credentials to access the Reporting S
 
 - Requirements for SQL Server to Store Audit Data — SQL Server · v10.6: https://docs.netwrix.com/docs/auditor/10_8/requirements/overview
 - SQL Server Reporting Services · v10.6: https://docs.netwrix.com/docs/auditor/10_8/requirements/overview
+

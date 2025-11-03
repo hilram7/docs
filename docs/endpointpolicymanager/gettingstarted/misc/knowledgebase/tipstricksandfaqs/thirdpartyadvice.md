@@ -135,3 +135,4 @@ The basics for how to take existing Group Policy settings (from CIS Benchmarks o
 use with Endpoint Policy Manager MDM can be found
 [Reduce GPOs (and/or export them for use with Endpoint Policy Manager Cloud or with MDM)](/docs/endpointpolicymanager/deliverymethods/grouppolicy/videos/tipsandtricks/exportgpos.md)
 and [Endpoint Policy Manager and Microsoft Intune](/docs/endpointpolicymanager/deliverymethods/mdm/videos/gettingstarted/microsoftintune.md).
+

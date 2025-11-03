@@ -103,3 +103,4 @@ changes will look like. The Substitution Tokens will display without supplied va
 application.
 
 The modifications to the HTML email templates are in use by the notification emails.
+

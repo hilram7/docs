@@ -68,3 +68,4 @@ table and it is immediately moved to the Credentials to Add table.
 
 The new credential(s) are added to the access policy and are shown in the
 [Credentials Tab for Credential Based Access Policies](/docs/privilegesecure/4.1/admin/interface/accesspolicy/credentialbasedpolicytabs/credentials/credentials.md).
+

@@ -51,3 +51,4 @@ Options available vary based upon the category selected.
         - Remove – Remove selected attachment type from the list
 
 - Large Attachment Threshold (KB) – Default is 500
+

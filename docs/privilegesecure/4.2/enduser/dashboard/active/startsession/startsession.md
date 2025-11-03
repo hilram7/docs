@@ -55,3 +55,4 @@ For RDP, a pop-up message is displayed in the session window.
 ![extendsessionssh](/images/privilegesecure/4.2/accessmanagement/enduser/dashboard/extendsessionssh.webp)
 
 For SSH the user can extend by typing **Ctrl+X** when prompted.
+

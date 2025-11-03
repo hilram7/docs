@@ -60,3 +60,4 @@ release criteria.
 
 **CAUTION:** The combination of seals and temporary permissions is not recommended if the user with
 permissions to issue a release has only been given temporary permissions.
+

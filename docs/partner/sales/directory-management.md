@@ -29,3 +29,4 @@ Upon completion of this module, sellers will be able to:
 * Uncover the issues addressed by directory management
 * Recognize the potential targets for directory management
 * Deliver the value proposition of the Netwrix Directory Management Solution
+

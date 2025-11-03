@@ -17,3 +17,4 @@ All selected properties are gathered.
 This information is not available within the standard reference tables and views. Instead, this
 information can be viewed in the SA_ADInventory_DEFAULT table, which is created when any of these
 properties are selected.
+

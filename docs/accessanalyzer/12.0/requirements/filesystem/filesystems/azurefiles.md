@@ -96,3 +96,4 @@ the File System Access Auditor Data Collector Wizard. See the
 or
 [Configure the (SEEK) File System Scan Query](/docs/accessanalyzer/12.0/solutions/filesystem/collection/1-seek_system_scans.md#configure-the-seek-file-system-scan-query)
 topic for additional information.
+

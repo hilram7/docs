@@ -38,3 +38,4 @@ take a while. Ensure the script execution completed successfully. The Netwrix Au
 
 By default, the Netwrix Auditor **Integration** event log size is set to **1GB**, and retention is
 set to "_Overwrite events as needed_".
+

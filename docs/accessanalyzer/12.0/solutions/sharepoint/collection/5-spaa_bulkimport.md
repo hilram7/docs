@@ -81,3 +81,4 @@ The default analysis tasks are:
 -   **3. Import new functions (for SA SPAA)** – Creates functions used in the SharePoint Solution
 -   **4. Create exception schema** – Creates the SA_SPAA_Exceptions table
 -   **5. Create views** – Creates views visible through the Results node
+

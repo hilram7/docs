@@ -105,3 +105,4 @@ Failed to update the agent on the following server: %server%
 - [Windows Server Troubleshooting: RPC server is unavailable ⸱ Microsoft](https://social.technet.microsoft.com/wiki/contents/articles/4494.windows-server-troubleshooting-rpc-server-is-unavailable.aspx)
 - Сonnection Issue when TLS 1.2 Is Required
 - [Server Hardware Performance Considerations ⸱ Microsoft](https://learn.microsoft.com/en-us/windows-server/administration/performance-tuning/hardware/)
+

@@ -31,3 +31,4 @@ Will Netwrix Endpoint Protector's Content Aware Protection detect and block docu
 Netwrix Endpoint Protector's Content Aware agent will detect and block documents with sensitive content only if the archives are not password protected. If an archive is password protected, the agent cannot scan its contents.
 
 > **NOTE:** To help prevent leaks of sensitive data through archives, use the file type filter and select all archive types.
+

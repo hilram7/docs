@@ -17,3 +17,4 @@ The Settings tab accesses:
 - [SP Credentials/Test Connection](/docs/platgovsalesforce/settings/credentials.md) sets up the credentials for the connected app. Required to run
   Scanners. Tests the connection to help troubleshoot connectivity issues.
 - [Upgrade / Downgrade Package](/docs/platgovsalesforce/installingstrongpoint/license_manager.md) modifies your license.
+

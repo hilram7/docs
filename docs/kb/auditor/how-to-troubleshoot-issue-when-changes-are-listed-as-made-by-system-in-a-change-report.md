@@ -61,3 +61,4 @@ Navigate to one of the possible solutions that correspond to the issues describe
      - Navigate to the Audit Archive directory for the monitored domain Managed Object and copy files with `*.ADEVT` extension whose name starts with the domain controller name you found on previous step  and that were created  the day you received the report  (see previous step) and one day after (e.g. if you received summary report at 3 A.M on Wednesday, gather `*.ADEVT` files for the corresponding domain controller which was created on Tuesday and Wednesday.  If you are gathering this data on Thursday, please also include files created on Thursday).
      - Netwrix Auditor tracing log files (the entire contents of the **Tracing** subfolder of the `%Netwrix Auditor installation folder%Active Directory Auditing` folder).
      - Archive these files and contact Netwrix technical support.
+

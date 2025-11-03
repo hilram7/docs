@@ -31,3 +31,4 @@ Here is an example additional reviewer dashboard showing new assignments.
     - **Delete** icon deletes all notifications.
     - Click the link in the notification to open the specific review. This is a shortcut to opening
       the UAR list and selecting the review.
+

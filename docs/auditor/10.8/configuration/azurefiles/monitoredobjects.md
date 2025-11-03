@@ -21,3 +21,4 @@ Examine the list of actions that have been audited and reported by Azure Files d
 | Removed | + | + | + |
 | Remove (failed attempt) | – | – | – |
 | Copied | – | – | – |
+

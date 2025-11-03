@@ -61,3 +61,4 @@ Note that group membership add/remove operations will be needed if access contro
 Once the activity is configured, it can be added to an access policy in the usual manner, and used to run an activity.  
 ![image.png](images/ka0Qk00000013dN_0EMQk000001xx6j.png)  
 ![image.png](images/ka0Qk00000013dN_0EMQk000001xx9x.png)
+

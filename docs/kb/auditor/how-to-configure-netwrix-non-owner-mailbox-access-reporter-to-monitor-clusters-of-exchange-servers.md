@@ -34,3 +34,4 @@ To monitor a cluster of Exchange servers, specify IP addresses of all Exchange s
 1. Specify the IP addresses of all Exchange servers that have the Mailbox role and belong to the monitored cluster.
 2. Add those IP addresses to the **Non-owner Mailbox Access Reporter Exchange server list**.
 3. For details about excluding data and omit lists, see the Help Center article: [https://helpcenter.netwrix.com/Omit_lists/Omit_list_ES.html](https://helpcenter.netwrix.com/Omit_lists/Omit_list_ES.html).
+

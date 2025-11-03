@@ -54,3 +54,4 @@ You may see icons missing in the Netwrix Access Analyzer Web Console.
 ### Related articles
 
 - [Block untrusted fonts in an enterprise ⸱ Microsoft](https://learn.microsoft.com/en-us/windows/security/threat-protection/block-untrusted-fonts-in-enterprise#fix-apps-having-problems-because-of-blocked-fonts)
+

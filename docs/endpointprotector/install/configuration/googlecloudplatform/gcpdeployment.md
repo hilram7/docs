@@ -55,3 +55,4 @@ To create a Firewall rule, on the Google Cloud Platform Console, follow these st
 - check the tcp box and enter 64848
 
 ![Editing firewall rules](editrules.webp)
+

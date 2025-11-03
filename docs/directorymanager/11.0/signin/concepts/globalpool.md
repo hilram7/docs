@@ -44,3 +44,4 @@ To search for a security question in the list, enter a search string in the sear
 - [Set up Authentication via Security Questions](/docs/directorymanager/11.0/signin/authpolicy/setupauth/securityquestions.md)
 - [Set a Password Policy ](/docs/directorymanager/11.0/signin/securityrole/policy/password.md)
 - [Manage the Local Question Pool](/docs/directorymanager/11.0/signin/identitystore/configure/securityquestions.md)
+

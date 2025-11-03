@@ -48,3 +48,5 @@ seeing the System-Wide lockdown) is shown in this figure.
 ![148_3_ff3](/images/endpointpolicymanager/applicationsettings/preconfigured/firefox/148_3_ff3.webp)
 
 Note that the lockdown via System-Wide config file is not present on the user side.
+
+

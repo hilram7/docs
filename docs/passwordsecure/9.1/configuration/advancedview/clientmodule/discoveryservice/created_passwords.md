@@ -38,3 +38,4 @@ Points 1-7 are described below:
 This data can then be used to create a **Password Reset** for the user for the discovered
 **Discovery Service entry**. The **Password Reset** is activated via the corresponding trigger that
 has been set.
+

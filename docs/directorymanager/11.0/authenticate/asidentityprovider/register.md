@@ -79,3 +79,4 @@ service provider.
 5. The **Login URL** box displays a URL. On clicking it, the user is redirected to the GroupID Login
    page where GroupID is acting as an identity provider. If the user is already logged into GroupID,
    he/she will be auto-authenticated; else the user will have to provide the credentials.
+

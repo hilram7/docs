@@ -26,3 +26,4 @@ configured for the identity store.
 
 - [Create an AD User](/docs/directorymanager/11.0/welcome/user/create/activedirectory/user.md)
 - [Create an AD Contact](/docs/directorymanager/11.0/welcome/user/create/activedirectory/contact.md)
+

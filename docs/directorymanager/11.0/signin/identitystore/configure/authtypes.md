@@ -101,3 +101,4 @@ To sign in using the QR code, see the
 - [Configure Second Factor Authentication](/docs/directorymanager/11.0/signin/authpolicy/sfa.md)
 - [Configure Multifactor Authentication](/docs/directorymanager/11.0/signin/authpolicy/mfa.md)
 - [Set Up Authentication Types](/docs/directorymanager/11.0/signin/authpolicy/setupauth/overview.md)
+

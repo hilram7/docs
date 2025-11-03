@@ -37,3 +37,4 @@ archive via an API Server:
 
 - Refresh token – After generation, it must replace the old Access Token from the SAM API Server
   configuration in the Connection Profiles required to connect to the API Server
+

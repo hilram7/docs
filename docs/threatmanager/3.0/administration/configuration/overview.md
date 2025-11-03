@@ -27,3 +27,4 @@ It contains links to the component configuration and settings interfaces:
   job. See the [System Health Interface](/docs/threatmanager/3.0/administration/configuration/systemhealth/overview.md) topic for additional information.
 - System Settings – Provides access to system logs, user access controls, licensing, and more. See
   the [System Settings Interface](/docs/threatmanager/3.0/administration/configuration/systemsettings/overview.md) topic for additional information.
+

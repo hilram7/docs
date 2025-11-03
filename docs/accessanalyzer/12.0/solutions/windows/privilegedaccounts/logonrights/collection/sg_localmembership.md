@@ -40,3 +40,4 @@ The default analysis task is:
 
 - Update LocalMembers – Creates an interim processing table in the database for use by downstream
   analysis and report generation
+

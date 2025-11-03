@@ -90,3 +90,4 @@ Proposed customizations do not work for custom forms and custom reports, since t
 Script IDs. NetSuite is currently working on this, but it is still in development. For searches,
 **ReSpider Now** uses the permissions of the current logged in user. If the user does not have the
 correct permission set, the search shows as private.
+

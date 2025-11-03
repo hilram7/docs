@@ -21,3 +21,4 @@ Use the following options to scope the scan to specific mailboxes:
 - Select All – Selects all mailboxes in the list
 - Deselect All – Deselects all selected mailboxes from the list
 - Remove – Select mailboxes from the Selected box and click to remove them from the list
+

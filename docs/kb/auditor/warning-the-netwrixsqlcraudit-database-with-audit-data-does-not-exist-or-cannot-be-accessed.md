@@ -41,3 +41,4 @@ Depending on the issue cause, try one of the following solutions:
 2. Make sure that the account under which Netwrix Auditor is running has enough privileges on the SQL Server. Make sure it is assigned the **db_owner** role.
 3. Grant all **db_owners** of the monitored databases rights to write into the **NetWrixSQLCRAudit** database. Alternatively, replace all **db_owner** accounts with the account under which Netwrix Auditor runs.
 4. In SQL Server Management Studio, right-click the monitored database and select **Properties**, navigate to the **Options** tab. Make sure that the **Compatibility level** is set to the SQL Server version that is currently running.
+

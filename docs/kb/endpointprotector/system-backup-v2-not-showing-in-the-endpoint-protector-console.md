@@ -32,3 +32,4 @@ Why is System Backup V2 not showing up in the Netwrix Endpoint Protector console
 This scenario applies to Netwrix Endpoint Protector virtual appliances hosted on the Netwrix AWS platform. If System Backup V2 is not visible in the console, you will need intervention from a Netwrix Support engineer.
 
 Please create a support ticket via the Netwrix Support portal for assistance: https://www.netwrix.com/support.html
+

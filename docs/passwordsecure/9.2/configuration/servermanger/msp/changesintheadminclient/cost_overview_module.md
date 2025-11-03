@@ -12,3 +12,4 @@ This view can be filtered by month (2). If you use your own billing system, you 
 displayed or filtered values as a CSV file (3).
 
 ![Cost overview](/images/passwordsecure/9.2/configuration/server_manager/msp/changes_in_ac/cost_overview/cost-overview-en_998x722.webp)
+

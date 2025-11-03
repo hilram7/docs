@@ -77,3 +77,4 @@ a privileged account on the domain, it does and should have greater capabilities
 account, with greater attention paid to it.  If the same account is used for both Scan and Protect
 Mode, this can easily lead to accidentally setting entire domains to enforce Protect Mode before the
 correct preparations have been made, with potentially disastrous consequences for an organization.
+

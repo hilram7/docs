@@ -41,3 +41,4 @@ By clicking on the plus sign there is a possibility to add more tabs.
 
 These tabs are organizational units that the user can see. By default, the tabs **"All passwords"**
 and **"Personal"** are stored.
+

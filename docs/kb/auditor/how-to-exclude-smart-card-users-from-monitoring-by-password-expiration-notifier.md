@@ -30,3 +30,4 @@ Perform the following steps:
 3. Create the new DWORD `IgnoreUsersWithSmartCardsSettings` value under this key and set it to `1`.
 
 Note: The shortest way to learn the Monitoring plan GUID would be looking up the trace file for the following line: `Profile: {0}`
+

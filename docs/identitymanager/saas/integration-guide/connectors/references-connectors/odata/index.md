@@ -139,3 +139,4 @@ If the connection column describes a sub-property, then the name should have the
 >
 > Note that we have here `UserName` which is a single property, and `FamilyName` which is a
 > sub-property of `Name`, hence the name `Name:FamilyName` as the `ConnectionColumn`.
+

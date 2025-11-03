@@ -106,3 +106,4 @@ Refer to the following steps:
 3. Verify the target address, modify it if required, and save the changes.
 
 > **IMPORTANT:** Once you've introduced the change, stop and start the `Netwrix Auditor Add-on for Generic Linux Service` on your Netwrix Auditor host.
+

@@ -86,3 +86,4 @@ This report displays a list of all customizations in your account that were dele
 you to easily spot undesired removals and resolve them quickly.
 
 ![Deleted Customizations](/images/platgovnetsuiteflashlight/using_flashlight/deletedcustos_800x309.webp)
+

@@ -131,3 +131,4 @@ For example:
 29. When you connect to the Remote Desktop Services server, you will only have access to the published RemoteApp (in this case, ADUC). The RDP session does not offer a full desktop environment, since this is an Interactive App Launch for a specified program.
 
 ![Screenshot of a Netwrix Privilege Secure Interactive App Launch demonstrating an RDP session that opened the ADUC program on the target Remote Desktop Services server.](images/ka0Qk0000005qSb_0EM4u000004bl1a.png)
+

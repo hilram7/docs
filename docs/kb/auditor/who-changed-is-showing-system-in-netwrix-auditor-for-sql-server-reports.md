@@ -39,3 +39,4 @@ For example: you have changed the column parameters. This action must be capture
 You can always prove the system changes by reviewing the SQL Server native auditing logs. In order to do that please open the SQL Server Profiler application and open SQL traces from `C:\Program Files\Microsoft SQL Server\MSSQL10_50.MSSQLSERVER\MSSQL\Log`
 
 Note: the path above may vary depending on the version of SQL Server you have installed.
+

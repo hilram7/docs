@@ -129,3 +129,4 @@ Information Center Console navigation path, or breadcrumb.
 In this example, the path is **Home > Resource Audit**. If a link from a resource report is used to
 view a particular user audit, it would read **Home > Resource Audit > User Audit**. Clicking any
 part of the path takes you to that interface.
+

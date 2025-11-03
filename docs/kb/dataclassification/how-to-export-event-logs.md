@@ -37,3 +37,4 @@ How To Export the Netwrix Data Classification Event Logs?
 
    For example, when exporting the Application event log from server named `SRV01`, enter `Application_SRV01`.
 6. In **Save as type**, select **Event Files.**
+

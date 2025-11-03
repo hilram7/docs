@@ -32,3 +32,4 @@ Using this API, the authenticated user can get the number of groups the user is
     "count": 32
 }
 ```
+

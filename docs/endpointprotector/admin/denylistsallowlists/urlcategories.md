@@ -33,3 +33,4 @@ Once the URL category is created, it will be displayed on the URL category list 
 available when creating or editing a Content Aware Protection policy.
 
 ![ Creating a new URL category](newurlcategory.webp)
+

@@ -27,3 +27,4 @@ options:
 - No, the query results do not contain a mailbox folder identification column – Selecting this
   enables the Folder Conditions page, used to identify specific folders to target. See the
   [Mailbox: Folder Conditions](/docs/accessanalyzer/12.0/admin/action/mailbox/folderconditions.md) topic for additional information.
+

@@ -38,3 +38,5 @@ message.
 **Step 6 –** Click **Finish** to save the policy.
 
 ![577_6_image-20230927114305-7_599x423](/images/endpointpolicymanager/leastprivilege/elevate/577_6_image-20230927114305-7_599x423.webp)
+
+

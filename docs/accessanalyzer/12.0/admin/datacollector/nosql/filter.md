@@ -108,3 +108,4 @@ The Build / Edit Pattern window has the following features:
     selection is validated using the **Validate Selections** button on the Filter page.
 
     :::
+

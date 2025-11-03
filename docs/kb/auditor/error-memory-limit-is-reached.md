@@ -47,3 +47,4 @@ Increase the resource pool on your Netwrix Auditor server. Refer to the followin
 
 - [Hardware Requirements](https://docs.netwrix.com/docs/auditor/10_8/requirements/console)
 - [Antivirus Exclusions for Netwrix Auditor](/docs/kb/auditor/antivirus-exclusions-for-netwrix-auditor.md)
+

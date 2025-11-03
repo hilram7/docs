@@ -43,3 +43,4 @@ Our example generates the following configuration:
 <AccessControlRule Identifier="Workforce/Administration/Directory_User_ManageAccounts_ManageAccounts_Directory_User" DisplayName_L1="Workforce/Administration/Directory_User_ManageAccounts_ManageAccounts_Directory_User" EntityType="Directory_User" Profile="Administrator">  <Entry CanExecute="true" Permission="/Custom/ManageAccounts/Directory_User" /></AccessControlRule>
 
 ```
+

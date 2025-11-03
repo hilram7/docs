@@ -36,3 +36,4 @@ The table has the following columns:
 - Active Session Count — Displays the number of active sessions on the resource
 
 The table columns can be resized and sorted in ascending or descending order.
+

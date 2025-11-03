@@ -57,3 +57,4 @@ For detailed information about our support policies and recommended upgrade path
 
 The subsequent sections will detail the deployment, setup, and configuration steps necessary to
 implement Endpoint Protector and begin protecting your endpoints against data breaches effectively.
+

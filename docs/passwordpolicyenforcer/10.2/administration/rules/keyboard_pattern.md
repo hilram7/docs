@@ -58,3 +58,4 @@ patterns because of these differences. Please report any missed patterns to
 [Netwrix Support](https://www.netwrix.com/support.html).
 
 :::
+

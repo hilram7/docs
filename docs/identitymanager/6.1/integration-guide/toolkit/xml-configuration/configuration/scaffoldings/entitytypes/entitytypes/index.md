@@ -23,3 +23,4 @@ sidebar_position: 10
     Creates the search bar for the entity without criteria.- ####
     [TargetResourceReportMenus](/docs/identitymanager/6.1/integration-guide/toolkit/xml-configuration/configuration/scaffoldings/entitytypes/entitytypes/targetresourcereportmenus/index.md)
     Creates the Item menu for the entity's report so that it is displayed in the report view.
+

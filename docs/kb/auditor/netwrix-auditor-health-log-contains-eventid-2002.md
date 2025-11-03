@@ -45,3 +45,4 @@ Provide a name for your custom Data Collecting Account in the `domain\\user` for
 3. Click **Edit Item** on the right.
 4. On the **General** tab, provide the account name in the `domain\\user` format (e.g., `corp\\administrator`) under **Custom account**.
 5. Save your edits.
+

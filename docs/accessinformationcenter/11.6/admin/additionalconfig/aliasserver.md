@@ -38,3 +38,4 @@ desired alias server host name is `AccessInformation.NWXTech.com`:
 **Step 3 –** Save and close the `AccessInformationCenter.Service.exe.config` file.
 
 Notification hyperlinks now use the supplied alias server host name.
+

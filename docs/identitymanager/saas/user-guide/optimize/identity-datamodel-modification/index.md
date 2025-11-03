@@ -121,3 +121,4 @@ In order to verify the process:
 - [Generate Reports](/docs/identitymanager/saas/user-guide/administrate/reporting/index.md) with indicators, for example, on the
   number of workers per type or per organization (through Identity Manager's predefined reports, the
   Query module or Power BI), to ensure that Identity Manager's content sticks to reality.
+

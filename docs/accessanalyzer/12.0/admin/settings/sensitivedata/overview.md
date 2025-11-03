@@ -26,3 +26,4 @@ The tabs in the Sensitive Data node are:
   [Criteria Tab](/docs/accessanalyzer/12.0/admin/settings/sensitivedata/criteria.md) topic for additional information.
 - False Positives – Configure False Positive exclusion filters. See the
   [False Positives Tab](/docs/accessanalyzer/12.0/admin/settings/sensitivedata/exclusions/overview.md) topic for additional information.
+

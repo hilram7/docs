@@ -30,3 +30,4 @@ ReportQuery it is recommended to also create the linked
 | Identifier required         | **Type** String **Description** Report query Identifier.                                                        |
 | Query required              | **Type** String **Description** The report query written following Usercube EBNF Grammar rules.                 |
 | ReturnedEntityType required | **Type** Int64 **Description** Returned Entity Type ID. The entity type can be seen as the FROM of a sql query. |
+

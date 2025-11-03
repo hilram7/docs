@@ -28,3 +28,4 @@ The table has the following columns:
 - Last Login — Date timestamp for the last time the user logged into the application
 
 The table columns can be resized and sorted in ascending or descending order.
+

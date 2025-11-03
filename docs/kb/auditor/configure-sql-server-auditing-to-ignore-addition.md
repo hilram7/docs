@@ -78,3 +78,4 @@ SET @table_name = N'%target_table_name%'
 4. Repeat for every target table.
 
 While the target database, table, or column will be shown as excluded in Netwrix Auditor, audit data will be collected.
+

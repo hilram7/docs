@@ -40,3 +40,4 @@ Information Center starts the action.
 The Access Information Center sends an email to the requester with the note entered on the Add Notes
 wizard page. The access request is removed from the Pending Requests tab. It will appear on the
 Request History tab.
+

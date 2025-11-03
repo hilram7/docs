@@ -22,3 +22,4 @@ Information about the configuration console tabs can be found in the following t
 - [Security Tab](/docs/passwordreset/3.3/administration/configuringpasswordreset/security_tab.md)
 - [Permissions Tab](/docs/passwordreset/3.3/administration/configuringpasswordreset/permissions_tab.md)
 - [About Tab](/docs/passwordreset/3.3/administration/configuringpasswordreset/about_tab.md)
+

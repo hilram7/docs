@@ -43,3 +43,4 @@ Resources can be imported to Netwrix Privilege Secure from a CSV file, where eac
    - In the bottom-right dropdown, select a **Service Account** that has previously been added to Netwrix Privilege Secure. This Service Account will be used to scan each resource being added.
    - When the desired Service Account is selected, click **+ Add** to start the resource import. You can wait and view the status of each host scan, or close the window to allow scanning to continue in the background.
    - As resources are imported, you will see them appear on the **Resources** page, along with information gathered by the host scan such as Operation System, DNS Host Name, and IP Address.
+

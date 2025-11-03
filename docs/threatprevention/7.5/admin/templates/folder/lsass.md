@@ -13,3 +13,4 @@ The **Templates** > **Microsoft** > **LSASS** folder contains the following temp
 | LSASS Guardian - Monitor | No customizations required. Detects attempts by other processes to alter the LSASS process  | None |
 | LSASS Guardian - Protect | No customizations required. Prevents attempts by other processes to alter the LSASS process | None |
 
+

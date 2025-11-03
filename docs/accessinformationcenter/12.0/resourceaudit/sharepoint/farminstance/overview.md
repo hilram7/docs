@@ -16,3 +16,4 @@ information for both on-premise farms and online instances, unless otherwise spe
 - [Scan Summary Report](/docs/accessinformationcenter/12.0/resourceaudit/sharepoint/farminstance/scansummary.md)
 - [Sensitive Content Details Report](/docs/accessinformationcenter/12.0/resourceaudit/sharepoint/farminstance/sensitivecontentdetails.md)
 - [Sensitive Content Summary Report](/docs/accessinformationcenter/12.0/resourceaudit/sharepoint/farminstance/sensitivecontentsummary.md)
+

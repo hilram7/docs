@@ -62,3 +62,4 @@ Switch the radio button to the **Run whether user is logged on or not** option i
 4. In the Properties window, switch the security option to the **Run whether user is logged on or not** option.
 
 > **NOTE:** Alternatively, you can change the designated user to keep the **Run only when user is logged in** feature on. To change the user, click the **Change User or Group...** button in the **Properties** window. Specify the new user.
+

@@ -87,3 +87,4 @@ The job groups in the PostgreSQL Solution are:
   configuration settings
 - [Sensitive Data Job Group](/docs/accessanalyzer/12.0/solutions/databases/postgresql/sensitivedata/overview.md) - Designed to provide insight into where
   sensitive data exists and who has access to it across all the targeted PostgreSQL databases
+

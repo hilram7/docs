@@ -51,3 +51,4 @@ Review the following for additional information:
   need and view reports in a web browser.
 - See the [View Reports](/docs/auditor/10.7/admin/reports/view.md) topic for additional information on how to apply filters to
   reports.
+

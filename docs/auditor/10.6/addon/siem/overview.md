@@ -91,3 +91,4 @@ This add-on works as response action to the alert, as follows:
 See the
 [Configure a Response Action for Alert](/docs/auditor/10.6/admin/alertsettings/responseaction.md)
 topic for additional information on the alert response actions and CSV file.
+

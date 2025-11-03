@@ -18,3 +18,5 @@ with EastSalesUser1 when a Endpoint Policy Manager Least Privilege Manager rule 
 affect EastSalesUser1.
 
 ![649_1_img-1_950x524](/images/endpointpolicymanager/leastprivilege/649_1_img-1_950x524.webp)
+
+

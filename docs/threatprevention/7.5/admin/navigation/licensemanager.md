@@ -145,3 +145,4 @@ See the following topics for additional information:
 - [LDAP Monitoring Event Type](/docs/threatprevention/7.5/admin/policies/configuration/eventtype/ldapmonitoring/ldapmonitoring.md)
 - [LDAP Lockdown Event Type](/docs/threatprevention/7.5/admin/policies/configuration/eventtype/ldaplockdown.md)
 - [LDAP Bind Monitoring Event Type](/docs/threatprevention/7.5/admin/policies/configuration/eventtype/ldapbindmonitoring.md)
+

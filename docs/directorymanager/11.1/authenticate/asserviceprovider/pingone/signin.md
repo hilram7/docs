@@ -39,3 +39,4 @@ again.
    The PingOne dashboard will be displayed. It lists the apps configured with PingOne for single
    sign-on.
 2. On clicking an app, you will be redirected to it. Authentication will not be required.
+

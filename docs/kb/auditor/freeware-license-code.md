@@ -84,3 +84,4 @@ Download Netwrix Service Monitor Freeware: https://www.netwrix.com/windows_servi
 - License code: `EhEQEhoaEhEQEhoaDhASFxEb`
 
 Download Workstation Power Saving Manager: https://www.netwrix.com/power_saving_energy_conservation_freeware.html
+

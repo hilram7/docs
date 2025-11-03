@@ -36,3 +36,4 @@ To enable the policy
 3. Switch policy state to Enabled.
 
 When finished, run the `gpupdate /force` command to force group policy update
+

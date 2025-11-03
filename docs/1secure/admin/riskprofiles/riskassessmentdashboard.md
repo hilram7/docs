@@ -314,3 +314,4 @@ one if needed.
 [Add a Subscription](/docs/1secure/admin/searchandreports/subscriptions.md#add-a-subscription) topic for additional
 information on adding a subscription, starting at Step 6. Remember to select the Include Low Risks
 check box if you want to include low risks in the report.
+

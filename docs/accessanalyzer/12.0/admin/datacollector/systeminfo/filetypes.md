@@ -15,3 +15,4 @@ and one for count. It is a wizard page for the category of File Shares.
 To enable counting file types, select the **Count file types** checkbox. To add new file types,
 click **Add New**. To load a list of default file types for counting, click **Load Defaults**. To
 remove a file type, select the file type and click **Remove**.
+

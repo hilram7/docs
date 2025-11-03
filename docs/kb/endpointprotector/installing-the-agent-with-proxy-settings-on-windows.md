@@ -37,3 +37,4 @@ Follow the steps below to install the EPP agent with proxy settings on Windows:
 5. You can enter a proxy IP address, DNS name, or fully qualified domain name (`FQDN`) in the `proxy IP` field.  
    
 6. After installation is complete, wait a few minutes for processing. Then, check the **Device Control** > **Computers** section in the Netwrix Endpoint Protector Web Console to verify that the computer has been added to the list.
+

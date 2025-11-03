@@ -16,3 +16,4 @@ see the permissions and sources of the entity for a given profile.
 | EntityType optional | **Type** String **Description** Identifier of the entity type involved in the scaffolding. |
 | Profile optional    | **Type** String **Description** Identifier of the profile involved in the scaffolding.     |
 | Property optional   | **Type** String **Description** Identifier of the property involved in the scaffolding.    |
+

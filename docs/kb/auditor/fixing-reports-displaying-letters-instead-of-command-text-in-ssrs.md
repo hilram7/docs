@@ -49,3 +49,4 @@ This operation can be done using Group Policy. You need to locate the Group Poli
 5. Select `DISABLED` from the PROTECTED MODE selection box.
 
 If this solution didn't help, please contact Netwrix Technical Support.
+

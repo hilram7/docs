@@ -244,3 +244,4 @@ The following table lists the default values that are reset:
 | Search results per page                        | 25                                               |
 | Display additional group ownership check boxes | Not selected                                     |
 | Display Additional Manager Direct Reports      | Not selected                                     |
+

@@ -120,3 +120,4 @@ text box, and the path to the script file and other parameters in the **Paramete
 
 
 ![configuring_npr_7](/images/passwordpolicyenforcer/11.0/passwordreset/administration/configuring_npr_7.webp)
+

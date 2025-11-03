@@ -15,3 +15,4 @@ Follow the steps to delete a False Positive Exclusion Filter.
 **Step 2 –** Click **Save** on the Sensitive Data view to save changes.
 
 The false positive exclusion filter has been successfully deleted.
+

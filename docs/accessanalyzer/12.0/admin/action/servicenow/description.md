@@ -36,3 +36,4 @@ Create a report using the following options:
         ![Save ServiceNow Template window](/images/accessanalyzer/12.0/admin/action/servicenow/savetemplate.webp)
 
         Enter a name for the template, and click **OK**.
+

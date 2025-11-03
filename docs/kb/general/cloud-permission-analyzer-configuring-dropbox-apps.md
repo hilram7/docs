@@ -78,3 +78,4 @@ This article will cover the process of configuring Netwrix Cloud Permission Anal
    - `Dropbox Access Token` = Token, generated during step 4.2 of the Dropbox Configuration process
 
 3. Return to the overview page and wait for the Collection to finish.
+

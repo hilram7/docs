@@ -12,3 +12,4 @@ These guides will help you set up notifications with practical step-by-step proc
     Set a template other than the default one for native notifications.- ####
     [Set Notifications' Languages](/docs/identitymanager/6.1/integration-guide/notifications/how-tos/set-language/index.md)
     Set the language for all notifications.
+

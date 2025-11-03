@@ -43,3 +43,4 @@ This article explains how to set up an account lockout alert in Netwrix Auditor 
    ![User-added image](images/ka04u000000HcRf_0EM70000000xMZw.png)
 
 6. Hit **OK** and follow the rest of the prompts for filling in the specified e-mail address the alert will go to.
+

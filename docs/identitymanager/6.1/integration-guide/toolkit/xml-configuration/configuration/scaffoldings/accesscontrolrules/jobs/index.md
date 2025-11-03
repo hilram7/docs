@@ -40,3 +40,4 @@ sidebar_position: 30
     Generates access control to update the task instances.- ####
     [WorkflowFulfillmentControlRules](/docs/identitymanager/6.1/integration-guide/toolkit/xml-configuration/configuration/scaffoldings/accesscontrolrules/jobs/workflowfulfillmentcontrolrules/index.md)
     Generates the execution rights to launch Fulfillment workflow for a given profile.
+

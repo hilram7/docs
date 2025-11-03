@@ -138,3 +138,4 @@ Right-click on a row in the data grid to open the right-click menu.
 - Event Tracker – Opens the [Event Tracker Window](/docs/threatprevention/7.5/admin/policies/configuration/recentevents/eventtracker.md) for the selected event/data row
 - [Execute PS Script](/docs/threatprevention/7.5/admin/policies/configuration/recentevents/executepsscript.md) – Opens a Windows Explorer window to the scripts folder.
   Enables users to run a PowerShell script for the selected event/data row.
+

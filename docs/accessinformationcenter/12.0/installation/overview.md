@@ -123,3 +123,4 @@ Supported browsers for the Netwrix Access Information Center include:
 ## Screen Resolution Requirement
 
 Supported screen resolution of 1368 x 768 or greater.
+

@@ -55,3 +55,4 @@ The following firewall ports are needed:
 **For AWS Data Collector**
 
 - 443
+

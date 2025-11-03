@@ -42,3 +42,4 @@ This article explains how to create custom eDiscovery policies and manage scans 
    - Select either a **clean scan** for a full assessment or an **incremental scan** which is recommended after an initial clean scan.
 
 5. When scan results are available, choose the **Action** to **Inspect found items** or navigate to the **Scan Results and Actions** section within the eDiscovery expansion tree in the Management Console.
+

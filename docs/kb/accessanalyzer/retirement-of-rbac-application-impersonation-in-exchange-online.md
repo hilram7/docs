@@ -32,3 +32,4 @@ No, this change does not impact Netwrix Access Analyzer. It continues to access 
 ## Related Article
 
 - [**Retirement of RBAC Application Impersonation in Exchange Online – Microsoft**](https://techcommunity.microsoft.com/t5/exchange-team-blog/retirement-of-rbac-application-impersonation-in-exchange-online/ba-p/4062671)
+

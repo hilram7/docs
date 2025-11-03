@@ -88,3 +88,4 @@ Follow the instructions below to configure the Netwrix Directory Manager Portal:
 14. Launch the **Netwrix Directory Manager Portal**. The new attributes should appear under the **Groups** tab under **Advanced**.
 
    ![Final portal attributes screenshot](images/ka0Qk000000E76T_0EMQk00000BdPQ1.png)
+

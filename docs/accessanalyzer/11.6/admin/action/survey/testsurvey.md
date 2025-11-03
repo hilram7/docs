@@ -16,3 +16,4 @@ The configurable options are:
 - Survey full test – Once the survey configuration test passes inspection, a full survey can be
   tested against a single user (for example, your own email account) to verify a survey matches
   design criteria
+

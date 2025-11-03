@@ -24,3 +24,4 @@ The required credentials for Task (Local) and Task (Domain) are:
   **Settings > Application** node
 - Password – Type the password
 - Confirm – Re-type the password
+

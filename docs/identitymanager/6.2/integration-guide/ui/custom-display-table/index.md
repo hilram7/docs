@@ -75,3 +75,4 @@ Here is the visualization of this display table on the interface:
 
 See the [Display Table](/docs/identitymanager/6.2/integration-guide/toolkit/xml-configuration/user-interface/displaytable/index.md)
 topic for additional information.
+

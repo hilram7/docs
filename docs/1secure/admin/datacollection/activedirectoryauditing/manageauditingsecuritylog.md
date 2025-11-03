@@ -34,3 +34,4 @@ press **Enter**. The group policy will be updated.
 domain controllers.
 
 **Step 9 –** Ensure that new GPO settings applied on any audited domain controller.
+

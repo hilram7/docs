@@ -242,3 +242,4 @@ After completing the Azure Files configuration:
 3. **Validate Data Collection**: Confirm audit events are being collected
 
 For detailed instructions on creating the monitoring plan, see the [Azure Files Monitoring Plan](/docs/auditor/10.8/admin/monitoringplans/azurefiles.md) documentation
+

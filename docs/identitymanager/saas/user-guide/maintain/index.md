@@ -27,3 +27,4 @@ sidebar_position: 60
 - [Troubleshoot](/docs/identitymanager/saas/user-guide/maintain/troubleshooting/index.md)
 
     How to troubleshoot Identity Manager when facing technical issues.
+

@@ -55,3 +55,4 @@ password.
 ![tags](/images/passwordsecure/9.2/enduser/tags.webp)
 
 Step 4 – Click **Save**, and you are done!
+

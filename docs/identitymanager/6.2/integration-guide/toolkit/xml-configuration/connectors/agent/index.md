@@ -16,3 +16,4 @@ Contains all the running agents.
 | Identifier required     | **Type** String **Description** Agent Identifier.                                      |
 | State default value: 0  | **Type** Int32 **Description** Agent Status ("Unknown"=0, "Online"=1 and "Offline"=2). |
 | URI optional            | **Type** String **Description** Agent URI.                                             |
+

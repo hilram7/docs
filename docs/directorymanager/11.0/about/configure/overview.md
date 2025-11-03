@@ -20,3 +20,4 @@ Use the Configuration Tool to configure a new GroupID server. The tool configure
 See Also
 
 - [Configuration Tool](/docs/directorymanager/11.0/about/configure/configure.md)
+

@@ -21,3 +21,4 @@ See the Scoping Options tab setting topics to target individual resources for th
 - [Scan Settings Tab](/docs/accessanalyzer/12.0/admin/datacollector/fsaa/defaultscopingoptions/scansettings.md)
 - [File Details Tab](/docs/accessanalyzer/12.0/admin/datacollector/fsaa/defaultscopingoptions/filedetails.md)
 - [File Properties (Folder Summary) Tab](/docs/accessanalyzer/12.0/admin/datacollector/fsaa/defaultscopingoptions/fileproperties.md)
+

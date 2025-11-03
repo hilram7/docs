@@ -70,3 +70,4 @@ Yes, you are able to migrate audit databases to another Microsoft SQL Server ins
 - [SQL Server Reporting Services](https://docs.netwrix.com/docs/auditor/10_8/requirements/overview)
 - [How to Prepare the Netwrix Server for a SQL Upgrade](/docs/kb/auditor/how-to-prepare-the-netwrix-server-for-a-sql-upgrade.md)
 - [Deploying the Report Server Database](/docs/kb/auditor/deploying-the-report-server-database.md)
+

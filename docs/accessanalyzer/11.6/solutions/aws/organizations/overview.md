@@ -21,3 +21,4 @@ The 1.Organizations job jroup is comprised of:
 - [AWS_MemberAccountUsers Job](/docs/accessanalyzer/11.6/solutions/aws/organizations/aws_memberaccountusers.md)
   – Highlights users that are not located in the primary AWS Identity Source, which is generally the
   Master AWS Account for the Organization
+

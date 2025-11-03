@@ -163,3 +163,4 @@ The SPAC scan can utilize the same app registration as SPAA/SPSEEK. Follow steps
         ![](./images/ka0Qk000000D6nZ_0EMQk00000Bl54M.png)
 
     - **Activity archive UNC path:** UNC Path of agent's archive (on the Agents tab), if applicable.
+

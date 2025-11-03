@@ -48,3 +48,4 @@ The following action tasks are deselected by default:
 
 - Restore Permissions – Restores permission inheritance to quarantined files where activity has
   occurred
+

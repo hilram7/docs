@@ -90,3 +90,4 @@ Having configured the app, you can upload its application certificate.
 1. Open **Microsoft Entra admin center**.
 2. Select **Azure Active Directory > Overview** section for the required Exchange Online organization.
 3. Locate the **Tenant ID** and copy it to a safe location.
+

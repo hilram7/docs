@@ -33,3 +33,4 @@ Note: This only includes the main function algorithm; advanced features are not 
 5. The number of days before the password expires in is determined based on the Maximum Password Age as well as the value of `pwdLastSet`.  
 6. PEN checks whether the user matches the conditions specified in the settings (e.g. list of users whose password expires in xx days, notification options and advanced settings).  
 7. If the user matches the conditions then it is added to the report, if not, then the next user in the list is processed.
+

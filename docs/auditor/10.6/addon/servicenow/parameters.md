@@ -101,3 +101,4 @@ reopen automatically.
 | NewState                       | Defines a ticket status once it is reopened. By default, new. To specify another status, provide its ID in the `<NewState>` tag (e.g., 1 for new).                                                                                   |
 
 **NOTE:** Stop and then restart the service every time you update any of configuration files.
+

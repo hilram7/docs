@@ -238,3 +238,4 @@ the initial configuration process after installation.
 
 For second level security of the SQL Server database, use the script provided in the
 [Database Permissions](#database-permissions) section.
+

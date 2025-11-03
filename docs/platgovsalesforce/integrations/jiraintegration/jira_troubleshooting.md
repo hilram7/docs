@@ -77,3 +77,4 @@ Solution:
 
 Refer to [Connected App](jira_walkthrough_example.md#connected-app) Connected App for more
 information on setting up the connected app.
+

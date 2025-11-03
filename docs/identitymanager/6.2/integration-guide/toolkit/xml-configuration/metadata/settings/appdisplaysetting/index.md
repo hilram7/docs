@@ -98,3 +98,4 @@ topic for additional information.
 | Preview (optional)                                | String  | Documentation unavailable.                                                                                                                                                                      |
 | PrimaryColor (optional)                           | String  | HEX code of the color for the highlighted buttons.                                                                                                                                              |
 | SecondaryColor (optional)                         | String  | HEX code of the color for the background of the authentication screen.                                                                                                                          |
+

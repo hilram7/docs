@@ -69,3 +69,4 @@ provides passwordless sudo for all commands.
 **Step 11 –** Test that sudo works without password: `sudo date`
 
 **Step 12 –** Done. Exit out of all terminals.
+

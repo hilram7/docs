@@ -68,3 +68,4 @@ execution.
 | Child Element: RecordControl        | Set of fields to collect data about the resource's record.                                    |
 | Child Element: MainSummaryControl   | Set of fields to sum up the data collected by `MainControl` after the workflow's execution.   |
 | Child Element: RecordSummaryControl | Set of fields to sum up the data collected by `RecordControl` after the workflow's execution. |
+

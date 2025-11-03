@@ -28,3 +28,4 @@ Sometimes, for the file servers with high-level services activity running under 
 ---
 
 **NOTE:** **Netwrix Auditor** will send you email reports with warnings about the audit configuration. This will not affect the reporting functionality and the product will monitor user accounts that belong to the selected group successfully.
+

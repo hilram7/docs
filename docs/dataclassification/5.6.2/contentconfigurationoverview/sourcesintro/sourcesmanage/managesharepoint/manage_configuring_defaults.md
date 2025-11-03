@@ -30,3 +30,4 @@ subsite configurations. Available options are listed in the table below.
 ![sharepointadvancedspecialfieldmappings_thumb_0_0](/images/dataclassification/5.6.2/sources/sharepointadvancedspecialfieldmappings_thumb_0_0.webp)
 
 ![sharepointadvancedsourcecontentmappings_thumb_0_0](/images/dataclassification/5.6.2/sources/sharepointadvancedsourcecontentmappings_thumb_0_0.webp)
+

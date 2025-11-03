@@ -44,3 +44,4 @@ For a similar group, three attributes are displayed:
    similar groups. By default, the _mail_ and _expiration policy_ attributes are selected.
 10. Click **OK**.
 11. Click **Save** on the **Card View** page.
+

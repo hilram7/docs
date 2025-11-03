@@ -22,3 +22,4 @@ Specify the following settings:
 | **Subject**             | Specify the template for email subject. The template can contain dynamic values that will be obtained from the crawled content (e.g. _[cs:PageUrl]_). **TIP:** To get the list of available fields, click the **details** link.                                                                         |
 | **Email Body Template** | Specify the template for email body. The template can contain dynamic values that will be obtained from the crawled content (e.g. _[cs:PageUrl]_). **TIP:** To get the list of available fields, click the **details** link.                                                                            |
 
+

@@ -235,3 +235,4 @@ exit and restart the Access Analyzer application.
 If all Schedule Service Accounts are removed and only the local System account remains, Access
 Analyzer cannot create or run scheduled tasks unless the local system account has adequate
 permissions.
+

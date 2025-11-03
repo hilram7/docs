@@ -51,3 +51,4 @@ fields.
 [Add Approval Workflow](/docs/privilegesecure/4.2/admin/interface/accesspolicy/connectionprofiles/connectionprofileapproval.md) topic for additional information.
 
 The new connection profile is added to the Connection Profiles list.
+

@@ -19,3 +19,4 @@ The required credentials for Dropbox are:
 - Access Token – Copy and paste the access token after it has been generated from the Scan Options
   page of the DropboxAccess Data Collector configuration wizard. See the Dropbox for User
   Credentials topic for additional information.
+

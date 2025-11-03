@@ -26,3 +26,4 @@ Why does the WiFi connection not work after the WiFi rights are set to **Allow A
 
 ## Answer
 If your computer does not have a local network or internet connection, changes to WiFi rights cannot be delivered from the Endpoint Protector server to the client. As a result, setting WiFi rights to **Allow Access** will not enable WiFi until the computer is reconnected to the network and can receive updates from the Endpoint Protector server.
+

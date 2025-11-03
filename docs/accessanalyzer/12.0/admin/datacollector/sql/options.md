@@ -97,3 +97,4 @@ The sensitive data scan settings are:
 :::tip
 Remember, Sensitive Data Discovery is required to use the sensitive data collection option.
 :::
+

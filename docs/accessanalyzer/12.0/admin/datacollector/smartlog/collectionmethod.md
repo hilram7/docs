@@ -35,3 +35,4 @@ is selected.
 - Connection retries count – The number of times to retry a failed connection. The default is 15.
 - Retry delay (ms) – The time between retries of a failed connection. The default is 5000
   milliseconds (5 seconds).
+

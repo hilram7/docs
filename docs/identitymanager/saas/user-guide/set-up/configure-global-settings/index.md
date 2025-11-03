@@ -52,3 +52,4 @@ the following will be visible on the certification screen:
 ![accesscertificationonlyapprovedeny-disabled](/images/identitymanager/saas/user-guide/set-up/configure-global-settings/accesscertificationonlyapprovedeny-disabled.webp)
 
 This is how the user's experience can be customized directly from the UI.
+

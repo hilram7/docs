@@ -43,3 +43,4 @@ Netwrix Directory Manager supports exporting and importing Smart Group query def
    ![Importing a Smart Group query in Directory Manager Query Designer](images/ka0Qk000000EYwH_0EMQk00000BpBfq.png)
 8. Click **Preview** to confirm that the query returns the expected results.
 9. Complete the remaining steps of the Smart Group wizard to save your changes.
+

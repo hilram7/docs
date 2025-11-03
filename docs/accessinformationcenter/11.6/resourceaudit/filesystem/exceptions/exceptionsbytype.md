@@ -53,3 +53,4 @@ The following columns display the combined direct and inherited rights:
   inherited allow rights
 - Deny Mask – Bitmask corresponding to Windows ACE permission bits for combined direct inherited
   deny rights
+

@@ -88,3 +88,4 @@ The following ports must be open for communication between Privilege Secure and 
 | **443**   | HTTPS (TCP) | Privilege Secure Server | ![arrow](/images/privilegesecure/4.2/accessmanagement/requirements/arrow.webp)                                   | Azure                 | Azure Graph API Access                  |
 | 6523      | TCP         | Privilege Secure Server | ![arrow](/images/privilegesecure/4.2/accessmanagement/requirements/arrow.webp)                                   | Remote Proxy          | Leaf Nodes                              |
 | 6524      | TCP         | Privilege Secure Server | ![arrow](/images/privilegesecure/4.2/accessmanagement/requirements/arrow.webp)                                   | Remote Proxy          | Cluster Nodes                           |
+

@@ -33,3 +33,4 @@ extended up to the specified days for the identity store.
 ```
 Extend-User -Identity "CN=ImanamiUser100,OU=BulkUsers,DC=gid,DC=local"
 ```
+

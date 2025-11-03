@@ -80,3 +80,4 @@ PRC_Config.reg, otherwise the old settings will remain.
 
 You can access the Password Reset Client from the Windows Logon and Unlock Computer screens. Click
 the **Reset password...** command link to display the Password Reset menu.
+

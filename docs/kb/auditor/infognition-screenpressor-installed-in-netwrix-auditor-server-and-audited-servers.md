@@ -41,3 +41,4 @@ In case the codec was deleted, and you'd like to reinstall the codec, you can do
 ### Related articles
 
 - [ScreenPressor ⸱ Infognition](http://www.infognition.com/ScreenPressor/)
+

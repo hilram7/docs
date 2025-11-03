@@ -50,3 +50,4 @@ credentials in an environment variable.
 ```
 Update-Group -SearchContainer "OU=Training,DC=HR,DC=Imanami,DC=US" -Credential $Cred
 ```
+

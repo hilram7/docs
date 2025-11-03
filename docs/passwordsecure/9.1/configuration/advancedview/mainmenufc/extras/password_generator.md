@@ -67,3 +67,4 @@ used for generating these passwords is always the previously defined default. Th
 
 The generated passwords are saved in a text file in the local user directory and can be opened
 immediately if desired.
+

@@ -29,3 +29,4 @@ users' data via profile rules.
 | Profile required                  | **Type** Int64 **Description** Identifier of the profile.                                                                                                                                            |
 | StartDate default value: 19000101 | **Type** DateTime **Description** Assignment start date.                                                                                                                                             |
 | User required                     | **Type** Int64 **Description** Identifier of the user.                                                                                                                                               |
+

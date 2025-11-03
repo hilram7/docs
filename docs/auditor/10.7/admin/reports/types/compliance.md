@@ -31,3 +31,4 @@ Review the following for additional information:
 
 - See the [View Reports](/docs/auditor/10.7/admin/reports/view.md) topic for additional information on how to find the report you
   need and view reports in a web browser.
+

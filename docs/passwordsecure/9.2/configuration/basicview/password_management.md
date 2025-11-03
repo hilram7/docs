@@ -66,3 +66,4 @@ cursor. The control button will appear.
 When you click the button, you will be offered the "Edit" and "Delete" options, among others.
 
 ![options record light client](/images/passwordsecure/9.2/configuration/basic_view/password_management/options-en.webp)
+

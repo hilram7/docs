@@ -71,3 +71,4 @@ In order to verify the process:
   with indicators, for example, on the number of workers per type or per organization (through
   Usercube's predefined reports, the Query module or Power BI), to ensure that Usercube's content
   sticks to reality.
+

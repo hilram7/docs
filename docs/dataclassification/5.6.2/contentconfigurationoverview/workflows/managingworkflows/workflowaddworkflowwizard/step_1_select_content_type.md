@@ -24,3 +24,4 @@ which content sources of that type should be included in processing.
 Click Next to proceed.
 
 See also: [Content Sources](/docs/dataclassification/5.6.2/contentconfigurationoverview/sourcesintro/sources_intro.md).
+

@@ -23,3 +23,5 @@ for powershell.exe). That rule can be found in
 [When Endpoint Policy Manager SecureRun(TM) is turned on, PowerShell won't run. How can I re-enable this?](/docs/endpointpolicymanager/components/endpointprivilegemanager/knowledgebase/tipssecurerun/enablepowershell.md)
 
 :::
+
+

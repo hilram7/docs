@@ -46,3 +46,4 @@ Events processed may be viewed by selecting the SIEM service in the Service Node
 - Account – The Account associated with the event, if appropriate
 - Activity – The Activity associated with the event, if appropriate
 - User Name – The User Name associated with the event, if appropriate
+

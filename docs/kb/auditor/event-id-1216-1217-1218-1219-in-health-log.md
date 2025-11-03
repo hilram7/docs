@@ -71,3 +71,4 @@ Netwrix Auditor is unable to collect data on group membership of users who made 
 
 - Monitoring Plans − SharePoint · v10.6
   https://docs.netwrix.com/docs/auditor/10_8)
+

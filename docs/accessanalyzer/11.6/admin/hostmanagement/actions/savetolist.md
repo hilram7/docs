@@ -19,3 +19,4 @@ Activities pane, click **Save Selected To List**. The Host List Wizard opens wit
 in the Host list box on the Manual Host Entry page. See the
 [Add Hosts](/docs/accessanalyzer/11.6/admin/hostmanagement/actions/add.md)
 topic for information on creating a host list.
+

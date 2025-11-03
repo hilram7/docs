@@ -29,3 +29,4 @@ Each definition file is accessible in JSON format on URL
 The Swagger UI page is accessible anonymously but each call from this page to the API must have an
 authenticated context. To do so, you only need to be logged to the application from the same browser
 instance (Authentication is carried by a cookie).
+

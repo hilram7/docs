@@ -107,3 +107,4 @@ By default, this folder contains the following saved investigations:
 | User Primary Group Changed | Created when a user's group is changed typically from Domain Users to another group | Two filter statements set: <br /><ul><li>Attribute 1 = Event Sub-Operation</li><li>Operator 1 = Equals</li><li>Filter 1 = Primary Group Changed</li></ul><p>AND</p><ul><li>Attribute 2 = Object Class</li><li>Operator 2 = Equals</li><li>Filter 2 = user</li></ul> |
 
 You can save additional investigations to this folder.
+

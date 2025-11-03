@@ -76,3 +76,4 @@ v4.0+ Console.
 
 For additional information on how to deploy agents manually, see the
 [Agent Information](/docs/activitymonitor/8.0/install/agents/agents.md) topic.
+

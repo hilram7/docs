@@ -27,3 +27,4 @@ The **Web Application** is based both optically and also in its operation on the
 Secure client. As usual, users can only access the data for which they also have permissions. The
 installation is described in the section
 [Installation Web Application](/docs/passwordsecure/9.1/installation/installationwebapplication/installation_web_application.md)
+

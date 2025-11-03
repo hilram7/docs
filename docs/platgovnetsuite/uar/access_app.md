@@ -35,3 +35,4 @@ Dashboards are role specific. There are common elements for all the dashboards.
 - **Charts**: Visual representation of the current reviews. Admin and Owner only.
 - **Notifications**: system notifications about your reviews. Admin, Owner and Additional Reviewer
   only.
+

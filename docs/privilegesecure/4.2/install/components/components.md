@@ -125,3 +125,4 @@ access to Privilege Secure will consume a license after their first login. This 
 users, regardless of role (Administrator, Reviewer, User, or Custom Role). See
 [Import the License File](/docs/privilegesecure/4.2/admin/navigation/importlicense.md) topic for additional information.
 :::
+

@@ -31,3 +31,4 @@ $sw.WriteLine(("EventName: " + $helper.EventName))
 See the
 [Default PowerShell 4.0 Script](/docs/threatprevention/7.4/admin/policies/configuration/actions/powershell.md#default-powershell-40-script)
 topic for the full example script.
+

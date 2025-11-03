@@ -61,3 +61,4 @@ Using this API, you can join a group as per the specified membership type.
     "status": 0
 }
 ```
+

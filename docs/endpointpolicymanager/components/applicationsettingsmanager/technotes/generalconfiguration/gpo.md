@@ -12,3 +12,5 @@ that the person creating the licensing GPO doesn't have rights to do so. So, try
 If that fails, this
 [https://docs.netwrix.com/docs/endpointpolicymanager/licensing/knowledgebase/troubleshooting/licensinggpo](https://docs.netwrix.com/docs/endpointpolicymanager/licensing/knowledgebase/troubleshooting/licensinggpo)
 demonstrates how you can definitely get it to work.
+
+

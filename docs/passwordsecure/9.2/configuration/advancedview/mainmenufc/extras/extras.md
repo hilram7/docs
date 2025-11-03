@@ -21,3 +21,4 @@ work-saving features that in total simplify the process of working with Netwrix 
 - [Seal templates](/docs/passwordsecure/9.2/configuration/advancedview/mainmenufc/extras/seal_templates.md)
 - [Tag manager](/docs/passwordsecure/9.2/configuration/advancedview/mainmenufc/extras/tag_manager.md)
 - [Image management](/docs/passwordsecure/9.2/configuration/advancedview/mainmenufc/extras/image_manager.md)
+

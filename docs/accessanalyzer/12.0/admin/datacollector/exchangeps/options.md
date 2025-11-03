@@ -35,3 +35,4 @@ The following options can be configured:
         - Delimiter – Enter the desired delimiter to be used between values
 
     - First-value only
+

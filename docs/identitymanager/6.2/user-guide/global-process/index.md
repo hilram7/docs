@@ -26,3 +26,4 @@ intertwine.
 - [How to Implement a New System](/docs/identitymanager/6.2/user-guide/global-process/howto-newsystem/index.md)
 
     How to add a new system to the solution.
+

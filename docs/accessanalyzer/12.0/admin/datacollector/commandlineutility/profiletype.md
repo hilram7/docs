@@ -19,3 +19,4 @@ The options on the Profile Type page are:
   Editor pages.
 
 The profile type selected may alter the availability of the subsequent wizard steps.
+

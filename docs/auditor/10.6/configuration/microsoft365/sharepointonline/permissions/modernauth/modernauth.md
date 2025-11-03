@@ -157,3 +157,4 @@ Then, create a corresponding monitoring plan in Netwrix Auditor and add an item 
 tenant) to it. See the
 [Microsoft Entra ID](/docs/auditor/10.6/admin/monitoringplans/microsoftentraid/overview.md)
 topic for additional information.
+

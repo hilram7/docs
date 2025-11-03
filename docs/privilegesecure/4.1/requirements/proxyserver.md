@@ -55,3 +55,4 @@ customized during Action Service installation:
 - \Program Files\Stealthbits\PAM\ActionService
 - \Program Files\Stealthbits\PAM\ActionServiceWorker
 - \Stealthbits\PAM\ProxyService\
+

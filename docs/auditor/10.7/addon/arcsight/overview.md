@@ -52,3 +52,4 @@ The add-on was renamed due to HPE acquisition by Micro Focus. The former add-on 
 Auditor Add-on for HPE ArcSight. This name may still be present in the add-on files and
 documentation. ArcSight trademarks and registered trademarks are property of their respective
 owners.
+

@@ -41,3 +41,4 @@ To resolve the issue, check the account the service uses. To do that:
 1. On the computer where the Netwrix Auditor Server resides, navigate to the **Services** snap-in.
 2. Right-click the **Netwrix Auditor Core Service** and select **Properties**.
 3. Switch to the **Log On** tab and make sure that the **Log on as** option is set to `NETWORK SERVICE`. If not, browse for the `NETWORK SERVICE` account and click **Apply**.
+

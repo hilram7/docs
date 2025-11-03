@@ -12,3 +12,4 @@ Following browser extensions can be installed: 
 - [Microsoft Edge](/docs/passwordsecure/9.1/installation/installationbrowseraddon/microsoft_edge.md)
 - [Mozilla Firefox](/docs/passwordsecure/9.1/installation/installationbrowseraddon/mozilla_firefox.md)
 - [Safari](/docs/passwordsecure/9.1/installation/installationbrowseraddon/safari.md)
+

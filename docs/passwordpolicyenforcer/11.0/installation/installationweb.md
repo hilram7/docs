@@ -78,3 +78,4 @@ previous version. There is no need to manually uninstall previous versions.
 
 **Step 2 –** Restore any customized HTML templates and images after upgrading. Do not restore
 PPEWeb.dll from the backup as it belongs to the previous version.
+

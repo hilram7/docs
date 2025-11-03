@@ -71,3 +71,4 @@ want to perform a complete synchronization, even for CSV connections with only a
 | ---                              | ---                                                                                                                           |
 | --regex optional                 | **Type** No Value **Description** The file name is a regex so we find the last generated corresponding file.                  |
 | --separator optional             | **Type** String **Description** Defines the separator if different than `,`.                                                  |
+

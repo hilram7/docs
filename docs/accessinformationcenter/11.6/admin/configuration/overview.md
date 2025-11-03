@@ -27,3 +27,4 @@ It has the following pages:
 - [Notifications Page](/docs/accessinformationcenter/11.6/admin/configuration/notifications.md)
   – Configure the SMTP server, email security settings, notification options, and owner reminder
   settings
+

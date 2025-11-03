@@ -136,3 +136,4 @@ You can remove an attribute from the body of an object card.
    _Contact_, _Group_, or _Mailbox_ to manage the card for.
 6. In the **Name** list, click **Remove** for an attribute to remove it.
 7. Click **Save**.
+

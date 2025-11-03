@@ -64,3 +64,4 @@ reside within an OU with the Allow Read Members and Allow Write Members rights d
 Active Directory service account, attempting to change Active Directory membership from within the
 Access Information Center will result in an error message. See the
 [Service Account Delegation](/docs/accessinformationcenter/12.0/admin/troubleshooting/delegation.md) topic for additional information.
+

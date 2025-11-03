@@ -102,3 +102,4 @@ and click **OK**.
 
 When the LSASS process terminated event alert is triggered, an email notification is sent to the
 assigned (step 3) recipient(s).
+

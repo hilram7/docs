@@ -82,3 +82,4 @@ Update-MgUser -UserPrincipalName 'user@company.com' -UserType 'Member'
 - Install Azure Active Directory PowerShell for Graph — Installing the Azure AD Module — Microsoft: https://docs.microsoft.com/en-us/powershell/azure/active-directory/install-adv2?view=azureadps-2.0#installing-the-azure-ad-module
 - Install Azure Active Directory PowerShell for Graph — Connect to Azure AD — Microsoft: https://docs.microsoft.com/en-us/powershell/azure/active-directory/install-adv2?view=azureadps-2.0#connect-to-azure-ad
 - Add or Update User Profile Information and Settings — Microsoft: https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/how-to-manage-user-profile-info
+

@@ -119,3 +119,4 @@ Go directly to the common final steps (step 10).
     XML configuration), and
     [assign profiles to users](/docs/identitymanager/6.1/user-guide/set-up/user-profile-assignment/index.md)
     to open the application to end-users.
+

@@ -55,3 +55,4 @@ sidebar_position: 50
 
     Implements a default display name for the resources of a given entity type, displays the
     resources in an adaptable table, and give the permissions to view the resources.
+

@@ -38,3 +38,4 @@ is selected in the Edit Conditions box.
 
 To append text to the attachment or body, select the checkbox to enable editing and enter the
 desired text to append in the textbox.
+

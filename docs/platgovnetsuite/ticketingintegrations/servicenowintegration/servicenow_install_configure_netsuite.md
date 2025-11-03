@@ -166,3 +166,4 @@ modify this to only allow configured users to see the tab.
     `var allowedCIs = ['fe1cc02c735423002728660c4cf6a7dc','b4fd7c8437201000deeabfc8bcbe5dc1'];`
 
 7. Click **Update**.
+

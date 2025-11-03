@@ -53,3 +53,4 @@ If the issue persists, check that Authentication options are configured properly
 6. Make sure that `"Anonymous Authentication"` is disabled.
 
 ![User-added image](images/ka04u000000HcUx_0EM700000004wyt.png)
+

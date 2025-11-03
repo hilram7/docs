@@ -64,3 +64,4 @@ and/or Sensitive Data Discovery Auditing scans. Proceed to the
 topic for instructions.
 
 This credential is used within the Connection Profile assigned to the File System scans.
+

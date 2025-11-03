@@ -25,3 +25,4 @@ Netwrix Password Reset sends emails to AD users when their passwords are about t
 
 1. In Netwrix Password Reset, select the **Send report to the users' managers** check-box.
 2. Using the **Active Directory Users and Computers** tool, specify the manager's email address for a service account. The manager will be notified about the service account password expiration.
+

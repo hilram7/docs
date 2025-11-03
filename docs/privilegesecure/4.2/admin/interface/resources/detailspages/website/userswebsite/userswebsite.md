@@ -36,3 +36,4 @@ The table has the following columns:
 - Created — Date timestamp when the account was created
 
 The table columns can be resized and sorted in ascending or descending order.
+

@@ -75,3 +75,4 @@ If there is a message stating to refresh the connection's schema, then:
 Start by making sure that the connection's schema is refreshed by clicking on **Refresh all schemas** on the connector page, and verify that there is no error.
 
 If the message is still displayed, then it means that the previously selected connection table no longer exists in the managed system. In this case, either the table's name simply changed, or the table is not relevant anymore. Then you should find a relevant table in the **Source** dropdown list.
+

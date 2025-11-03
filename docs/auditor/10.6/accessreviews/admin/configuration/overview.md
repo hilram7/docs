@@ -24,3 +24,4 @@ It has the following pages:
   Configure the connection to the database
 - [Diagnostics Page](/docs/auditor/10.6/accessreviews/admin/configuration/diagnostics.md)
   – Download logs and enable debug log level for troubleshooting
+

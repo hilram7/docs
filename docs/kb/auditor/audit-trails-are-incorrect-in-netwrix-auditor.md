@@ -44,3 +44,4 @@ Follow the steps below to resolve the issue:
 5. Click **Apply**. The server will propagate all permissions to the target folders.
 
 Setting up permissions manually will ensure that Netwrix is detecting the settings and that correct Security log events are written on the file server.
+

@@ -143,3 +143,4 @@ the profile.
 
 See the [Dimension](/docs/identitymanager/6.2/integration-guide/toolkit/xml-configuration/metadata/dimension/index.md) topic for
 additional information.
+

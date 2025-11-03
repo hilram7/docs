@@ -44,3 +44,4 @@ To enable the traffic compression option, do the following:
 2. Select **Active Directory** data source.
 3. Double-click it or click **Edit data source**.
 4. Check **"Enable network traffic compression"** option.
+

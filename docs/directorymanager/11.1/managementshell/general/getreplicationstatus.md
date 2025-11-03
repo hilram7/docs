@@ -30,3 +30,4 @@ are replicated to Elasticsearch and the time elapsed since last replication.
 ```
 Get-ReplicationStatus -IdentityStoreName AdStore8
 ```
+

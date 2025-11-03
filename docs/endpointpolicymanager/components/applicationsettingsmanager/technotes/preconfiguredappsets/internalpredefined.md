@@ -37,3 +37,5 @@ Column shows N/A, the Pak doesn't. You can see two entries without Internal ILT,
 does in this example:
 
 ![257_2_pp-predefined-targeting](/images/endpointpolicymanager/applicationsettings/preconfigured/itemleveltargeting/368_1_pp-predefined-targeting.webp)
+
+

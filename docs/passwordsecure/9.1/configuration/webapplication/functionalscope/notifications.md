@@ -14,3 +14,4 @@ sidebar_position: 60
 
 The Web Application module permissions is based on the same called client module notifications. Both
 modules differ in range and design. However, the handling is almost the same.
+

@@ -42,3 +42,4 @@ The datagram size exceeds the maximum transmission unit (MTU) in the correspondi
 ## Resolution
 
 Reduce the number of symbols in the custom policy rule messages.
+

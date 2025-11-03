@@ -64,3 +64,4 @@ The Daily Summary can also be disabled / enabled, this functionality sends out a
 outstanding problems each morning.
 
 ![configaddhealthnotification](/images/dataclassification/5.7/configuration/configaddhealthnotification.webp)
+

@@ -41,3 +41,4 @@ When installing Netwrix Data Classification there are 12 default Taxonomies that
 2. Navigate to **Global Settings** found in the blue banner near the top of the page  
 3. Click **Add**, you will then be prompted with three options, in this situation we will be clicking **Upload**  
 4. The next screen will prompt you to browse for the XML that you intend to upload. Once you’ve specified the correct file location, click **Next** and then **save**. You have successfully uploaded the taxonomy.
+

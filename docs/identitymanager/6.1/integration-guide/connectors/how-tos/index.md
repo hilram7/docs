@@ -46,3 +46,4 @@ These guides will help you set up connectors with practical step-by-step procedu
     [Set up SharePoint's Export and Synchronization](/docs/identitymanager/6.1/integration-guide/connectors/how-tos/sharepoint-export/index.md)
     Set up a SharePoint connector to extract data from your SharePoint instance into CSV source
     files that will be fed to the synchronization task and to Usercube's resource repository.
+

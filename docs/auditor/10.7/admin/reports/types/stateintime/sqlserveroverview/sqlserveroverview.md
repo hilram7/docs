@@ -19,3 +19,4 @@ To instruct Netwrix Auditor to collect data needed for these reports, make sure 
 for state-in-time reports** option is selected in the corresponding monitoring plan properties. See
 the [Settings for Data Collection](/docs/auditor/10.7/admin/monitoringplans/create.md#settings-for-data-collection)
 topic for additional information. By default, data collection will run daily at 4 AM.
+

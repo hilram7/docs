@@ -87,3 +87,4 @@ organization.
 ![Home page for user with no User Role or Resource Ownership](/images/accessinformationcenter/11.6/admin/homeyouraccess.webp)
 
 Users can view current access, request access, and view request history.
+

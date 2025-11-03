@@ -101,3 +101,4 @@ NOTE:
 
 - The **IP address** is not always available in the description of the **Failed logon attempt** events.
 - If you are looking for full description for another event, the described steps are similar except the specified **Event IDs** will be different.
+

@@ -39,3 +39,4 @@ With single sign-on, you can now launch any GroupID client without having to sig
 2. From the **Sign in to one of the following sites** list, select a relying party trust.  
    This list contains the relying party trusts configured with AD FS for single sign-on.
 3. Click **Sign in**; you will be redirected to it. Authentication will not be required.
+

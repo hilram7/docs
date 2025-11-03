@@ -10,3 +10,4 @@ The Tweak Options tab on a SQL Server host's properties window is used to conf
 operations for SQL activity monitoring.
 
 ![Tweak Options Tab](/images/activitymonitor/7.1/admin/monitoredhosts/properties/tweakoptionstab.webp)
+

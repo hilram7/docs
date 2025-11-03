@@ -35,3 +35,4 @@ This behavior is expected. Changes to the Operating System, Operating System Ver
 If these attributes were changed manually, Netwrix Auditor will report the corresponding user account that introduced these changes.
 
 > **NOTE:** Once you restart the client with changed attributes, Active Directory represented by System will modify these attributes to be reported by System.
+

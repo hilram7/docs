@@ -80,3 +80,4 @@ The passwords for users of Windows Task Scheduler can be changed using this scri
 name** of the computer on which the task will run and the **name** of the task itself are entered.
 
 ![planned task](/images/passwordsecure/9.2/configuration/advanced_view/clientmodule/passwordreset/scripts/password_safe_scripts_9-en.webp)
+

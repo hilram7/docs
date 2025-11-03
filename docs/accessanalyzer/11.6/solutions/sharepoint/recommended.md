@@ -189,3 +189,4 @@ but it is dependent upon the 0.Collection Job Group and the user-modified CSV fi
 The jobs contained in the group use custom SQL scripts to render views on collected data. SQL views
 are used to populate report element tables and graphs. Changing or modifying the group, job, or
 table names results in no data displayed within the reports or the Access Information Center.
+

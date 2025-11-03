@@ -37,3 +37,4 @@ Secure.
 **Step 5 –** Click **Submit**.
 
 Secure WinRM connection has been configured for the selected host.
+

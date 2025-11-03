@@ -44,3 +44,4 @@ Select the All checkbox to search all scopes, or select specific scoping levels:
 
 Only LDAP queries using the selected security options and search scope levels will have events
 reported by the Agent.
+

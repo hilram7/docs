@@ -36,3 +36,4 @@ Deleted or Modified** and under **Warning it says Not Archived**
 7. Once your customizations are processed and archived, your customizations are listed under **Can be
 Safely Deleted or Modified**. Your [archive folder](/docs/platgovnetsuite/cleanup/set_up_archive_folder.md) has the CSV file you
 can download. The file name has the field type and the script ID.
+

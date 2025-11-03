@@ -21,3 +21,4 @@ The 4.Content job group is comprised of:
   information from targeted file servers
 - [Tags Job Group](/docs/accessanalyzer/12.0/solutions/filesystem/content/tags/overview.md) – Designed to report on content classification information from
   targeted file servers
+

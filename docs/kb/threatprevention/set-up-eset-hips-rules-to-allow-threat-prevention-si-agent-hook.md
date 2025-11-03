@@ -65,3 +65,4 @@ How to set up ESET HIPS rules to allow Threat Prevention SI Agent hook?
 
 - [Create a HIPS rule and enforce it on a client workstation using ESET PROTECT (8.x – 10.x) ⸱ ESET 🛡️](https://support.eset.com/en/kb8018-create-a-hips-rule-and-enforce-it-on-a-client-workstation-using-eset-protect)
 - [Enable or disable HIPS in ESET products (15.x–16.x) ⸱ ESET 🛡️](https://support.eset.com/en/kb2811-enable-or-disable-hips-in-eset-products)
+

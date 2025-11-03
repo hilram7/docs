@@ -34,3 +34,4 @@ Credential Group. See the
 topic for additional information.
 
 The new credential group is added to the console and is shown in the Credential Groups list.
+

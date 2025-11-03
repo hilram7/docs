@@ -206,3 +206,4 @@ the changes induced by a creation/modification/deletion in roles and navigation 
 Once the role catalog is established, integrators can start role officer management.
 
 The role catalog is also a prerequisite for [Manage Risks](/docs/identitymanager/saas/user-guide/optimize/risk-management/index.md) management.
+

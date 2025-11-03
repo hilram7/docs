@@ -21,3 +21,4 @@ _Remember,_ deploying the add-on on the same machine with the Auditor Server.
 | Okta Connection Settings    | Specify server address in the '_https://example.okta.com/_' format and SSWS token.                                                                                                                                                  |
 | Netwrix Connection Settings | Specify settings to connect to Auditor: - Server address – provide the address of the Auditor Server host. - Username – Provide the name of the account used to connect to Auditor. - Password – Provide password for this account. |
 | Summary                     | Review the Add-On settings.                                                                                                                                                                                                         |
+

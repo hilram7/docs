@@ -45,3 +45,4 @@ Let's read some
 [Learn more on access certification](/docs/identitymanager/6.1/user-guide/administrate/access-certification/index.md).
 
 [Learn more on risk management](/docs/identitymanager/6.1/user-guide/optimize/risk-management/index.md).
+

@@ -19,3 +19,4 @@ The configurable options are:
 Click **Finish** to save the configuration changes, or **Back** to return to the previous page. If
 no changes were made, it is a best practice to click **Cancel** to close the Unix Data Collector
 Wizard to make sure that no accidental settings are saved.
+

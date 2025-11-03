@@ -41,3 +41,5 @@ to **Medium-plus**. This will allow the application to run as desired, but not g
 end-user to change system files.
 
 ![998_4_image-20240201214648-4](/images/endpointpolicymanager/troubleshooting/error/leastprivilege/998_4_image-20240201214648-4.webp)
+
+

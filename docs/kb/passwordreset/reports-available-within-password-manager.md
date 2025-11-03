@@ -32,3 +32,4 @@ To get to the Reports page:
 2. Click the **Reports** button under **Summary**.
 
 [![User-added image](./images/ka04u00000116SD_0EM700000005OFm.png)](https://netwrix.secure.force.com/kb/servlet/rtaImage?eid=ka40g000000Xe0Q&feoid=00N700000032Pj2&refid=0EM700000005OFm)
+

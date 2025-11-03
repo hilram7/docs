@@ -207,3 +207,4 @@ If your firewall performs Stateful Packet Inspection, then only create a rule fo
 request datagram as the firewall will automatically recognize and allow the response datagram.
 
 :::
+

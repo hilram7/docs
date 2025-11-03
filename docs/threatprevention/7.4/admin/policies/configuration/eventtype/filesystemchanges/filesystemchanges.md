@@ -252,3 +252,4 @@ Select the radio button for the desired monitoring filter:
 - Failure – Only monitors failed events
 - Both Success and Failure – Monitors all events that are within the scope of the respective filters
   for the event type
+

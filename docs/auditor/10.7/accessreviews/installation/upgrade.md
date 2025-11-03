@@ -70,3 +70,4 @@ will be visible on the Entitlement Reviews tab.
 
 After the upgrade has been confirmed to be successful, you can optionally remove/delete the old
 installation directory: `...\Netwrix\Access Information Center`.
+

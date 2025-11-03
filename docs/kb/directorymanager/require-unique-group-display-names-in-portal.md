@@ -46,3 +46,4 @@ To prevent duplicate group names, you can configure Netwrix Directory Manager to
 8. After this configuration, when a user tries to create a group from the Self-Service portal with a display name that already exists, the portal will not allow it.
 
 > **NOTE:** If you have multiple portals, you must configure the unique display name setting separately for each portal.
+

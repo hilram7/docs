@@ -174,3 +174,4 @@ Select navigation rules and find the rule(s) you created with the right paramete
 > Our example would look like:
 >
 > ![Example - Generated Rule](/images/identitymanager/6.1/user-guide/set-up/single-roles-catalog-creation/role-naming-rule-creation/namingrulecreation_exampleruleresult_v523.webp)
+

@@ -17,3 +17,4 @@ This section lists the errors common to all APIs.
 | 5.    | 500        | Internal server error | An exception or error occurred in API       |
 | 6.    | 501        | Not implemented       | Required function is not implemented by API |
 | 7.    | 503        | Service unavailable   | API service is not available      |
+

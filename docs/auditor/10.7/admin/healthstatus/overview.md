@@ -13,3 +13,4 @@ following topics for additional information:
 - [Self-Audit](/docs/auditor/10.7/admin/healthstatus/selfaudit.md)
 - [Health Summary Email](/docs/auditor/10.7/admin/healthstatus/summaryemail.md)
 - [Netwrix Auditor Health Log](/docs/auditor/10.7/admin/healthstatus/dashboard/healthlog.md)
+

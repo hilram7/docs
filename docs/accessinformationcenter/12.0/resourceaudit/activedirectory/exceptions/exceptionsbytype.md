@@ -87,3 +87,4 @@ selected trustee:
 - Manager Logon – Trustee account for group manager
 - Manager Department – Department of group manager
 - Manager Mail – Email address for group manager
+

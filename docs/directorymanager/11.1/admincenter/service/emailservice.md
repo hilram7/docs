@@ -45,3 +45,4 @@ You can manage the following settings for the Email service:
 - [Start or Stop a Service](dataservice/manage.md#start-or-stop-a-service)
 - [View the Deployment Settings for a Service](dataservice/manage.md#view-the-deployment-settings-for-a-service)
 - [Specify Log Settings for a Service](dataservice/manage.md#specify-log-settings-for-a-service)
+

@@ -36,3 +36,4 @@ There are some best practices that can help you to properly upgrade your SQL.
 
 - Read about prerequisites and instructions in this article: [Upgrade to a different edition of SQL Server (Setup) ⸱ Microsoft 👍](https://learn.microsoft.com/en-us/sql/database-engine/install-windows/upgrade-to-a-different-edition-of-sql-server-setup?view=sql-server-ver16)
 - Read how to Migrate Netwrix Databases to Another MS SQL Server Instance
+

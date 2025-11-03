@@ -62,3 +62,4 @@ receive notifications in a supported language by personalizing the language sett
 - [GroupID Applications](/docs/directorymanager/11.0/signin/applications/applications.md)
 - [Create a GroupID Portal](/docs/directorymanager/11.0/signin/applications/portal/create.md)
 - [Delete a Portal](/docs/directorymanager/11.0/signin/applications/portal/delete.md)
+

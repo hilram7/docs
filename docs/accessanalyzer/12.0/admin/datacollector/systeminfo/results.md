@@ -14,3 +14,4 @@ category. It is a wizard page for all categories.
 Properties can be selected individually or the **Check all**, **Uncheck all**, and **Reset to
 defaults** buttons can be used. All selected properties are gathered. Available properties vary
 based on the category selected.
+

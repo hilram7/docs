@@ -43,3 +43,4 @@ Create a new 2048 bit certificate using your certificate authority tool.
 Then import and upload it to to Azure for SharePoint Online app per normal configuration insctructions.
 
 For additional information on how to prepare the certificate for your Azure AD app, refer to the following article: Step 1: Prepare application certificate.
+

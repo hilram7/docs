@@ -128,3 +128,4 @@ The Replay Viewer for Website Host Sessions window has the following features:
 - Ended — Indicates when the activity ended.
 - Duration — Indicates how long the Activity ran for until it either reached its scheduled end time
   or was manually canceled by the user or an Privilege Secure administrator
+

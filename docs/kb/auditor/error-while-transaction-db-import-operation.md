@@ -49,3 +49,4 @@ Follow the steps below to resolve the error:
 3. Add **SharePoint Online** data source and the item with the tenant account back to the monitoring plan.
 4. Create a new client secret for your SharePoint Online app.
 5. Update the monitoring plan and check if the removed file was recreated.
+

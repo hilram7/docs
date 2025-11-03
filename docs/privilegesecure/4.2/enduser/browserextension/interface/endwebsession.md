@@ -35,3 +35,4 @@ If the extension has been configured to not end the Activity sessions on web ses
 Activity can be closed by clicking on the red icon. See the
 [Activities Tab for the Browser Extension](interface.md#activities-tab-for-the-browser-extension)
 topic for additional information.
+

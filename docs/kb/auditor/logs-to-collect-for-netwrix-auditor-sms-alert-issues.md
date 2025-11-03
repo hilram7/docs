@@ -43,3 +43,4 @@ Follow the steps below to collect the necessary logs:
 10. Copy the **NwArchiveSvc** folder to another location, compress it, and attach it to the corresponding ticket in the Netwrix Customer Portal: https://www.netwrix.com/sign_in.html.
 11. When done, remove the `AlertsSender.ini` file from the **AuditCore** folder.
 12. Restart the **Netwrix Auditor Core Service** and the **Netwrix Auditor Archive Service** again to stop verbose logging once testing is complete.
+

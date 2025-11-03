@@ -92,3 +92,5 @@ See the following Knowledge Base articles for Least Privilege Manager.
 - [How to Resolve Could not establish trust relationship for the SSL or TLS Secure Channel error message](/docs/endpointpolicymanager/components/endpointprivilegemanager/knowledgebase/netwrixprivilegesecure/establishtrust.md)
 - [How does the Netwrix Privilege Secure MMC UI relate to the Endpoint Policy Manager MMC UI?](/docs/endpointpolicymanager/components/endpointprivilegemanager/knowledgebase/netwrixprivilegesecure/mmc.md)
 - [How can I create Endpoint Policy ManagerLeast Privilege Manager policies with Netwrix Privilege Secure (even when the Endpoint Policy Manager Client Side Extension is unlicensed?)](/docs/endpointpolicymanager/components/endpointprivilegemanager/knowledgebase/netwrixprivilegesecure/createpolicies.md)
+
+

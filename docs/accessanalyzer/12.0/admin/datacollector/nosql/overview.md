@@ -56,3 +56,4 @@ the following pages, which change based upon the query category selected:
 - [NoSQL: Filter](/docs/accessanalyzer/12.0/admin/datacollector/nosql/filter.md)
 - [NoSQL: Results](/docs/accessanalyzer/12.0/admin/datacollector/nosql/results.md)
 - [NoSQL: Summary](/docs/accessanalyzer/12.0/admin/datacollector/nosql/summary.md)
+

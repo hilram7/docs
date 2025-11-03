@@ -34,3 +34,4 @@ You can uninstall Credential Provider using one of the following:
     object, is applied on it. This removes the installed Credential Provider from all client
     workstations. Once it is removed from the client workstation, the user must restart it again to
     remove the links from the Windows logon screen.
+

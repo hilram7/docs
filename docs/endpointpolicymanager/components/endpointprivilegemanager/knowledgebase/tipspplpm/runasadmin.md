@@ -113,3 +113,5 @@ Here’s an example when this option is selected:
 
 Now users can perform the same Run as administrator type of operation, but they will need to use the
 Endpoint Policy Manager-supplied Run as administrator with Netwrix PolicyPak.
+
+

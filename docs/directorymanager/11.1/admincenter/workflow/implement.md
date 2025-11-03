@@ -261,3 +261,4 @@ user-defined workflows; system workflows cannot be deleted.
    user-defined workflow and select **Delete Workflow**.
 5. Click **Delete** on the confirmation dialog box.
 6. Click **Save**.
+

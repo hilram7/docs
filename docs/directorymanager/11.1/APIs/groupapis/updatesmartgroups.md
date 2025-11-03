@@ -48,3 +48,4 @@ This API updates multiple Smart Groups whose identities are provided in the requ
     "status": 0
 }
 ```
+

@@ -26,3 +26,4 @@ The options on the Index Update Options page are:
   selecting them from the table. Enable a schema for indexing by selecting the checkbox next to it.
   Right-click in the table to show options for **Check All**, **Clear All**, **Check All Selected
   Items**, and **Clear All Selected Items**.
+

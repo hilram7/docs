@@ -83,3 +83,4 @@ the data collecting account the access to a local Administrators group - the res
 where the permission will be granted.
 
 Netwrix Privilege Secure is ready to use as an account for data collection.
+

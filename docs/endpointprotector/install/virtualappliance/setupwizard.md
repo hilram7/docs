@@ -52,3 +52,4 @@ the appliance is correctly set up and accessible.
 
 **Step 4 –** Select **Apply**. The virtual appliance is now accessible from the conﬁgured IP
 Address. (e.g., https:// 192.168.7.94).
+

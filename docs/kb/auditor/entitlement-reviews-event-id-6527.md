@@ -53,3 +53,4 @@ Netwrix Auditor Access Reviews is no longer installed.
 ```
 
 Click **OK** to proceed to the configuration tool.
+

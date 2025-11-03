@@ -23,3 +23,4 @@ Do not modify the query. The query is preconfigured for this job.
 The query is:
 
 - Database Sizing - Returns size details for the selected MySQL databases
+

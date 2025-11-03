@@ -128,3 +128,4 @@ then click **OK**.
 
 By default, Sensitive Data Criteria configured at the global Settings level is inherited down to the
 applicable solutions.
+

@@ -48,3 +48,4 @@ This XML element gives the following result:
 ![Workflow in resource view](/images/identitymanager/saas/integration-guide/ui/how-tos/create-menu-items/workflowinresourceview.webp)
 
 ![All workflow in resource view*](/images/identitymanager/saas/integration-guide/ui/how-tos/create-menu-items/allworkflowinresourceview.webp)
+

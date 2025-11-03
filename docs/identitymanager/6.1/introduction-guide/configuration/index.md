@@ -53,3 +53,4 @@ This is the end of the introduction guide, so you should now be able to dive int
 [Learn more about the XML configuration schema](/docs/identitymanager/6.1/integration-guide/toolkit/xml-configuration/index.md).
 
 [Learn more about network configuration](/docs/identitymanager/6.1/integration-guide/network-configuration/index.md).
+

@@ -52,3 +52,4 @@ will use this account to manage the sudo privileges on the system.
 ## Versions
 
 This configuration is available in versions 2.18 and later.
+

@@ -15,3 +15,4 @@ the configuration options available at the bottom of the page.
 
 Select the checkboxes next to the user details attributes to enable them for editing when running
 the action.
+

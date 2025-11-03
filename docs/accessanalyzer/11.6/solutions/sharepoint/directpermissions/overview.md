@@ -41,3 +41,4 @@ The 1.Direct Permissions Job Group is comprised of:
 - [SP_UnresolvedSIDs Job](/docs/accessanalyzer/11.6/solutions/sharepoint/directpermissions/sp_unresolvedsids.md)
   – Identifies Unresolved SIDs that have permissions to any SharePoint resources. Unresolved SIDs
   can be safely cleaned up without affecting user access.
+

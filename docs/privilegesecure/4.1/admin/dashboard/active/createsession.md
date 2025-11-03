@@ -62,3 +62,4 @@ the session, or log in through a client.
 See the
 [Start Activity Session](/docs/privilegesecure/4.1/admin/dashboard/active/startsession.md)
 topic for additional information.
+

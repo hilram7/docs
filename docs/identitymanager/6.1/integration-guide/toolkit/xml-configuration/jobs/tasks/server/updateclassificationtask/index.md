@@ -35,3 +35,4 @@ A task entity type defines the entity type on which the task is applied.
 | Property            | Details                                                                                         |
 | ------------------- | ----------------------------------------------------------------------------------------------- |
 | EntityType required | **Type** Int64 **Description** Identifier of the entity type that the task is to be applied on. |
+

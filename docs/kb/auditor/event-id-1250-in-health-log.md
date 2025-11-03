@@ -39,3 +39,4 @@ An invalid web application URL was specified during monitoring plan creation.
 
 1. Navigate to **Monitoring Plans** > select the **`%affected_SP_monitoring_plan%`** and click **Edit** > click **Edit item** in the right pane.
 2. In the **Changes** tab, verify the affected web application URL under the **Specific SharePoint objects** section. Make sure the web application has not been deleted from the audited SharePoint farm.
+

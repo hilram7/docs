@@ -71,3 +71,4 @@ Use these processes to Clean up Individual Customization or Clean Up Multiple Cu
 13. Click **Save**.
 
     ![flagging_mass_customizations](/images/platgovsalesforce/clean_up/flagging_mass_customizations.webp)
+

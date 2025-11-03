@@ -50,3 +50,4 @@ The resulting files are saved in `C:/identitymanagerDemo/ConfTransformed`.
 | --- | --- |
 | --output   required | __Type__    String   __Description__ Path of the folder where the result will be saved. |
 ````
+

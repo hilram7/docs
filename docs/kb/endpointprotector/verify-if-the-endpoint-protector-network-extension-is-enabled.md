@@ -45,3 +45,4 @@ systemextensionsctl list
 
 1. In the console, navigate to **System Settings** > **Network** > **Filters** > **Filters & Proxies**.
 2. Verify that the Endpoint Protector network extension is present and that the status shows **Enabled**.
+

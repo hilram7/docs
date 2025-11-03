@@ -24,3 +24,4 @@ The License Info section displays the following:
 The License section provides a method for importing a new license, which is not applicable to the
 Netwrix Threat Manager Reporting Module application. The application comes with a Report Only
 license that does not expire.
+

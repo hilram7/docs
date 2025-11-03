@@ -94,3 +94,4 @@ This function can be used to print out all filtered records in detailed view as 
 
 NOTE: It should be noted that the amount of data generated via this function can quickly become very
 large.
+

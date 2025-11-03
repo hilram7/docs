@@ -19,3 +19,4 @@ account. Simply use the _switch account_ function to achieve this.
       password.
     - Click **Login as a different user** to sign in with an account not listed on this page.
     - Click **Logout completely** to sign out of all the accounts listed on this page.
+

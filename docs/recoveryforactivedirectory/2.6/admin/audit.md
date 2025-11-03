@@ -23,3 +23,4 @@ The following information is displayed for an event:
 To view the details of an event, click the arrow next to it to expand it.
 
 ![Audit Event Details](/images/recoveryforactivedirectory/2.6/admin/auditeventdetails.webp)
+

@@ -24,3 +24,4 @@ Tip for reading the table: For example, on the computer where Netwrix Auditor Se
 | 80 443                             | TCP      | Netwrix Auditor Server | Exchange server | PowerShell connections                                                                                                 |
 
 \* - for Exchange 2010 only
+

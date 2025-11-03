@@ -54,3 +54,4 @@ Most **sources** also support disabling security on a more granular basis by sel
 
 - **Microsoft Entra ID (formerly Azure AD)** — Instructions for a **Microsoft Entra ID** deployment can be found as a separate KB article
 - **ADFS 3.0** — Instructions for an **ADFS** deployment can be found within the partners site in the **Documentation** section (**QS AD FS Configuration Guide**)
+

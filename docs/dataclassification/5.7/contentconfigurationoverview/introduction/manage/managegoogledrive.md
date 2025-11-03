@@ -115,3 +115,4 @@ _gdrive://corp/Year2020/\*.xlsx_
 6. Finally, click **Save** and close the window.
 
 Any item that matches the excluding filter will be ignored.
+

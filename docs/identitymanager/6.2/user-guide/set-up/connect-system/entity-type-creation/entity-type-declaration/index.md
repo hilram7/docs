@@ -85,3 +85,4 @@ If the message is still displayed, then it means that the previously selected co
 longer exists in the managed system. In this case, either the table's name simply changed, or the
 table is not relevant anymore. Then you should find a relevant table in the **Source** dropdown
 list.
+

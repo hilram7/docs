@@ -36,3 +36,4 @@ the past. This update affects the following properties:
 | AssignedResourceScalarSQL optional     | **Type** String **Description** The sql to find all AssignedResourceScalar for update. _Alternative definition_: If _TaskType_ is: - SqlCmdTask: SQL Command to execute                  |
 | AssignedResourceTypeSQL optional       | **Type** String **Description** The sql to find all AssignedResourceType for update. _Alternative definition_: If _TaskType_ is: - SqlCmdTask: Database provider assembly qualified name |
 | Identifier optional                    | **Type** String **Description** Unique identifier of the task.                                                                                                                           |
+

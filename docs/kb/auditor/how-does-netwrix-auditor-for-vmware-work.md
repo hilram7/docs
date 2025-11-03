@@ -39,3 +39,4 @@ For example:
 2. The first event Netwrix Auditor for VMware expects to get in the current data collection will be same - generated on 12/27/2022 at 6:26 AM (because events in the event chain should be inseparably linked with each other)
 
 In other cases (when the first received event was generated later than 12/27/2022 at 6:26 AM) the product will consider this as an event overwrite - because this means that some event chain pieces are missing. Audit events are stored in different places for different VMware products, for a standalone ESXi server events are retained in memory and how back they go depends on the available memory. vCenter pulls events from its managed ESXi servers and stores them in the vCenter Event Database.
+

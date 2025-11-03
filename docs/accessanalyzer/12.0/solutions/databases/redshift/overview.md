@@ -82,3 +82,4 @@ The following job groups comprise the Redshift Job Group:
 
     - [Redshift_SensitiveData Job](/docs/accessanalyzer/12.0/solutions/databases/redshift/sensitive_data/redshift_sensitivedata.md)
     - [Redshift_SensitiveDataPermissions Job](/docs/accessanalyzer/12.0/solutions/databases/redshift/sensitive_data/redshift_sensitivedatapermissions.md)
+

@@ -28,3 +28,4 @@ The Forensics Job Group is comprised of:
   that have occurred over the past 30 days
 - [Box_Sharing Job](/docs/accessanalyzer/12.0/solutions/box/activity/forensics/box_sharing.md) – Provides details on sharing activity that has occurred over
   the past 30 days
+

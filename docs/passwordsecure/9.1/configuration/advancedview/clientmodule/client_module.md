@@ -44,3 +44,4 @@ are sorted.
 
 NOTE: The previously described visibility of the modules is a basic requirement for viewing and
 sorting them in the navigation options
+

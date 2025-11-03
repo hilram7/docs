@@ -100,3 +100,4 @@ Start-Service -Name "NwUserActivitySvc"
 
 - Uninstall Netwrix Auditor — Delete Netwrix Auditor User Activity Core Service · v10.7  
   https://docs.netwrix.com/docs/auditor/10_8
+

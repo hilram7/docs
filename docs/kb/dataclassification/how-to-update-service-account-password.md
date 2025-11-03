@@ -113,3 +113,4 @@ Check for the current Netwrix Data Classification version on any of the Netwrix 
 12. Repeat for the other service folder.
 
 13. Go to `c:\inetpub\wwwroot\NDC` (or ConceptQS) and repeat the same process as above (classify by type and launch `ConceptConfig.exe`).
+

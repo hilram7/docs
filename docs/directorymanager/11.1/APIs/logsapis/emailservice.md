@@ -24,3 +24,4 @@ Use this API to get Email service logs. See the
 ```
 
 Save the encrypted response as a zip file to a desired location.
+

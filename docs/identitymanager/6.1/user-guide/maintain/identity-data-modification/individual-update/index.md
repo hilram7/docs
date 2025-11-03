@@ -76,3 +76,4 @@ In order to verify the process, check that the right data is displayed in the di
 involved user.
 
 ![Home Page - Directory User](/images/identitymanager/6.1/user-guide/set-up/configure-workflows/home_directoryuser_v523.webp)
+

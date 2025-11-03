@@ -208,3 +208,4 @@ Our example would look like:
 ![Example - Generated Rule](/images/identitymanager/saas/user-guide/set-up/single-roles-catalog-creation/role-naming-rule-creation/namingrulecreation_exampleruleresult_v523.webp)
 
 The verification of role creation has been completed.
+

@@ -72,3 +72,4 @@ topic for additional information.
 **Cancel** if no changes were made. Then click **OK** to close the Query Properties window.
 
 If changes were made, the 1-Dropbox_SDD Scan job has now been customized.
+

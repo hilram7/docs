@@ -106,3 +106,4 @@ Waits for the given text in the received data e.g.: `WaitFor,Credentials`
 ## WaitForPrompt
 
 Waits for any of the prompts specified from the console Prompts list or the `AddPrompt` commands
+

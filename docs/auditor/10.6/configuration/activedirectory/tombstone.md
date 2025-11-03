@@ -44,3 +44,4 @@ information on how to install the ADSI Edit utility.
     ![manualconfig_adsi_tombstone_winserver2016](/images/auditor/10.6/configuration/activedirectory/manualconfig_adsi_tombstone_winserver2016.webp)
 
 5. Click **Edit**. Set the value to _"730"_ (which equals 2 years).
+

@@ -39,3 +39,4 @@ To manually enable advanced SQL tracing, follow these simple steps:
 | Successful SQL logons | `sqlcr_sp_logon_success.sql` |
 | *If all logon boxes are checked* | `sqlcr_sp_logon_success_failed.sql` |
 |  |  |
+

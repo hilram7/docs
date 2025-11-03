@@ -11,3 +11,4 @@ procedures.
 
 - #### [Review Prolonged Entitlements](/docs/identitymanager/6.1/integration-guide/governance/how-tos/review-prolonged-entitlements/index.md)
     Allow a manager to review the permissions prolonged by a grace period.
+

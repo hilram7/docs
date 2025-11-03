@@ -61,3 +61,4 @@ default values should be used.
 | TaskLimit             | 8             | Specifies number of threads and queues for concurrent handling of events.                                                                                                                |
 | QueueSizeLimit        | 1000          | Specifies maximum number of events to keep in queue before saving to temporary storage or sending to Netwrix API.                                                                        |
 | QueueTimeLimit        | 5             | Specifies the length of timeout before events from queue (not full) are saved to temporary storage or sent to Netwrix API: - From 5 to 300 — timeout in seconds. - -1 — disable timeout. |
+

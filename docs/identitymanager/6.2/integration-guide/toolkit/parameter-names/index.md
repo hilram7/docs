@@ -70,3 +70,4 @@ For example, dimensions are identified by a number going from 0 to 127 in decima
 The [Context Rule](/docs/identitymanager/6.2/integration-guide/toolkit/xml-configuration/provisioning/contextrule/index.md) support _128_ dimension
 parameters going from `B0` to `B3V` using the **base32hex**`0` to `3V` numbers to identify a
 dimension.
+

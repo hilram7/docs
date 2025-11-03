@@ -37,3 +37,4 @@ Netwrix Endpoint Protector includes an improved method for Printer and MTP Conte
 5. Restart the machines protected by Netwrix Endpoint Protector.
 
 > **NOTE:** This feature is only available for Windows. A computer restart is required each time this feature is enabled or disabled.
+

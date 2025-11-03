@@ -78,3 +78,4 @@ topic for additional instructions on configuring the Schedule Service Account.
 Remember, these credentials must be for a user with local Administrator privileges or rights to
 the Windows Task Folder and the System 32 Task folder on the Enterprise Auditor Console server.
 :::
+

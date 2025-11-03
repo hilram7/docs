@@ -115,3 +115,4 @@ The table has the following columns:
 - Last Logon — Date timestamp for the last time the account authenticated
 
 The table columns can be resized and sorted in ascending or descending order.
+

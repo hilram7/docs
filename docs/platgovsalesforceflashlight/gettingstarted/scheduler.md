@@ -18,3 +18,4 @@ To use the scheduler tool:
 2. Toggle **Enabled**/**Disabled**by the category. Your selections are automatically saved.
 3. Select the **Frequency**, **Day** and **Time**. Your selections are automatically saved.
 4. Click any menu item to close the **Scheduler**.
+

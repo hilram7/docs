@@ -61,3 +61,4 @@ Use the reporting feature in Netwrix Directory Manager to create a list of all g
     > **NOTE:** The report is listed on the template's page. You can create multiple reports from the same template.
 14. To download the report, click **Download** and select the format for the report (PDF, Excel, or HTML).
 15. You can also pin the report to the **Dashboard** by clicking **Pin Report**.
+

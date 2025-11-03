@@ -30,3 +30,4 @@ The right of the page shows details of the selected service:
 - [Proxy Service](/docs/privilegesecure/4.2/admin/configuration/servicenodes/servicenodes/proxy.md)
 - [Scheduler Service](/docs/privilegesecure/4.2/admin/configuration/servicenodes/servicenodes/scheduler.md)
 - [SIEM Service](/docs/privilegesecure/4.2/admin/configuration/servicenodes/servicenodes/siem.md)
+

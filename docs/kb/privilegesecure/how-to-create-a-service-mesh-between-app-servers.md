@@ -137,3 +137,4 @@ For detailed steps on moving the recording locations, see How to Change the Path
 - [Configuring and Upgrading in High Availability Mode and Using Remote Services Configurations](/docs/kb/privilegesecure/configuring-and-upgrading-in-high-availability-mode-and-using-remote-services-configurations.md)
 - [How to Configure Encryption Keys in Multiple NPS Server Environments](/docs/kb/privilegesecure/how-to-configure-encryption-keys-in-multiple-nps-server-environments.md)
 - [Port, Firewall, and Datacenter Requirements](https://docs.netwrix.com/docs/privilegesecurediscovery/requirements/portsandfirewalls#firewall-rules)- [How to Change the Path Where Session Recordings Are Stored](/docs/kb/privilegesecure/how-to-change-the-path-where-session-recordings-are-stored.md)
+

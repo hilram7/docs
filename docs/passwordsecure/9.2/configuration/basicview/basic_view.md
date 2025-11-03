@@ -29,3 +29,4 @@ views can be set via rights and settings. Read more in chapter
 The Basic view is installed directly with the Web Application, so you don’t need any special
 installation. For further information, visit the
 chapter[Installation Client](/docs/passwordsecure/9.2/installation/installationclient/installation_client.md)
+

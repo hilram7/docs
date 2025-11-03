@@ -132,3 +132,4 @@ Recording Details
 - Activity — Displays the name of the activity
 - Proxy Session Started — Indicates when the activity started. This refers to when the activity’s
   actions were executed and not when the user was logged on to the resource.
+

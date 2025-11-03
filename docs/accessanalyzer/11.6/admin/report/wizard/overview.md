@@ -53,3 +53,4 @@ page, configure widgets for each element of the layout.
 Your configuration has been saved. For information on how to view your report, see the
 [Viewing Generated Reports](/docs/accessanalyzer/11.6/admin/report/view.md)
 topic.
+

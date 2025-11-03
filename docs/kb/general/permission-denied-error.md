@@ -57,3 +57,4 @@ Invalid authentication settings might also cause this error.
 3. In the **Authentication** list, enable either **Windows Authentication** or **Basic Authentication**, and disable all other authentication options.
 
 ![User-added image](./images/ka04u00000116d1_0EM700000004xcK.png)  ![User-added image](./images/ka04u00000116d1_0EM700000004xcP.png)
+

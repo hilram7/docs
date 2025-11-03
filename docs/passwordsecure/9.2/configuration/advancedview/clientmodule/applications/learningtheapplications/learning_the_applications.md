@@ -87,3 +87,4 @@ future. Pressing the button directly opens the linked application.
 **CAUTION:** With respect to permissions, applications are subject to the same rules as for
 passwords, roles or documents. It is possible to separately define which group of users is permitted
 to use each application.
+

@@ -236,3 +236,4 @@ settings. This button is enabled if the default settings have been modified.
 **Step 8 –** Click **Save**.
 
 The risk metric is added back to the risk profile.
+

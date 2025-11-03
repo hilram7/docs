@@ -38,3 +38,4 @@ Refer to the following steps to complete the PPE upgrade:
 6. Upgrade and reboot other DCs.
 
 > **NOTE:** Once you complete the steps provided above, you can upgrade the **PPE** client installations.
+

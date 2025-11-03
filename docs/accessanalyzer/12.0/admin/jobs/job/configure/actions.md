@@ -77,3 +77,4 @@ The options for the Actions node right-click menu are:
 - Run Job – Starts job execution for the selected job
 - Add Instant Job – Opens the [Instant Job Wizard](/docs/accessanalyzer/12.0/admin/jobs/instantjobs/overview.md)
 - Create Job (Ctrl + Alt + A) – Creates a new job at the same location as the selected job
+

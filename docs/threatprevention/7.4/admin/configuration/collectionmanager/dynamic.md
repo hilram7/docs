@@ -208,3 +208,4 @@ Two tables are created during the installation/upgrade process for the File Path
 
 - Folders with Sensitive Data Collection – dc_file_path_SensitiveDataFolders table
 - Open Shares Collection – dc_file_path_OpenShares table
+

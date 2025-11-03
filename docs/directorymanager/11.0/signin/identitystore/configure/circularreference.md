@@ -49,3 +49,4 @@ What do you want to do?
    with dynamic membership** check box to skip the replication of members of a dynamic group in
    Microsoft Entra ID based identity store.
 5. Click **Save**.
+

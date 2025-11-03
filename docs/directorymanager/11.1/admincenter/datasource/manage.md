@@ -59,3 +59,4 @@ Step 2 – On the Data Sources page, click the tab for the provider for which yo
 data source.
 
 Step 3 – Click **Delete** for a data source to delete it.
+

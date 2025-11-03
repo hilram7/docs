@@ -26,3 +26,4 @@ knowledge_article_id: kA00g000000H9dOCAS
 ## Details
 
 When collecting data on permission changes, **Netwrix Auditor** employs native SharePoint audit (**SPaudit**) and also runs data collections on SharePoint ContentDB every 30 minutes. In some cases (for example, after enabling the **Publishing** feature on the site collection) objects are created and therefore logged by **Netwrix Auditor** with their system names. For example, `$Resources:cmscore,RoleNameViewer`. That is why the display name of the system-created objects can be reported incorrectly in the **"What"** column in reports and Change Summaries.
+

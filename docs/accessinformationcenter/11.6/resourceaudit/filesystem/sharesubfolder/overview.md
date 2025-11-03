@@ -14,3 +14,4 @@ The following reports are available at the share and subfolder levels:
 - [Exceptions Report](/docs/accessinformationcenter/11.6/resourceaudit/filesystem/sharesubfolder/exceptions.md)
 - [Permissions Report](/docs/accessinformationcenter/11.6/resourceaudit/filesystem/sharesubfolder/permissions.md)
 - [Sensitive Content Report](/docs/accessinformationcenter/11.6/resourceaudit/filesystem/sharesubfolder/sensitivecontent.md)
+

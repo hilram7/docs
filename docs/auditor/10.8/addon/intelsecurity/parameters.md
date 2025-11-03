@@ -41,3 +41,4 @@ Type - Action_ pair may be identical for several data sources (e.g., Object='Use
 Action='Added'); thus, excluding DataSource from calculation may lead to the same EventID
 (duplicates). See the [Run the Add-On with PowerShell](/docs/auditor/10.8/addon/ibmqradar/powershell.md) topic for
 additional information about duplicates.
+

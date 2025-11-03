@@ -110,3 +110,4 @@ This completes the registration process of GroupID in Microsoft Entra ID.
 See Also
 
 - [Register in Microsoft Entra ID](/docs/directorymanager/11.0/configureentraid/register/overview.md)
+

@@ -40,3 +40,4 @@ Re-create registration for your app in the **Microsoft 365 Admin Center** and cr
 
 1. Sign into the **Microsoft 365 Admin Center** and re-create the registration for your app. For additional information on how to register your app, refer to the following article: Permissions for SharePoint Online Auditing.
 2. After that, create a new monitoring plan for SharePoint Online and remove the old one in Netwrix Auditor. For additional information on how to create a monitoring plan, refer to the following article: SharePoint Online Plans.
+

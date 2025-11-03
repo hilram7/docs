@@ -21,3 +21,4 @@ The jobs in the 3.Sharing job group are:
 - [UX_Samba Job](/docs/accessanalyzer/11.6/solutions/unix/sharing/ux_samba.md)
   – This job identifies potentially insecure Samba share configurations which are categorized by
   their risk level
+

@@ -112,3 +112,4 @@ Domain 2 and deploy it there
   same name as the primary GPCR domain
 
   ![758_3_image-20200130171300-2](/images/endpointpolicymanager/grouppolicycompliancereporter/758_3_image-20200130171300-2.webp)
+

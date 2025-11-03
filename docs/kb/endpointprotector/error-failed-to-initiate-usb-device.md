@@ -30,3 +30,4 @@ Why does the error message "Failed to initiate USB device" appear when attemptin
 You see this error on macOS when the **Allow Access if TD1+, otherwise Read Only** right is applied. Due to operating system limitations, you cannot launch applications from a device when read-only access is enforced. As a result, when you start EasyLock from **Finder**, you see the "Failed to initiate USB device" error.
 
 To launch EasyLock, use the **Netwrix Endpoint Protector Client** or **Notifier** and click the **mini USB icon**. This method allows Netwrix Endpoint Protector to grant the necessary access for EasyLock to run on the USB device.
+

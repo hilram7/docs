@@ -26,3 +26,4 @@ An activity Instance can have at most 20 actors.
 | DisplayName_L1 required | **Type** String **Description** Display name of the task in language 1 (up to 16).                                                                                                        |
 | OpenIdClient required   | **Type** String **Description** Connection client for the task.                                                                                                                           |
 | Identifier optional     | **Type** String **Description** Unique identifier of the task.                                                                                                                            |
+

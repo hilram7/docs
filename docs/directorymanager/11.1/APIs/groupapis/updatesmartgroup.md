@@ -33,3 +33,4 @@ This API updates a Smart Group, identity of which is provided in the endpoint U
     "status": 0
 }
 ```
+

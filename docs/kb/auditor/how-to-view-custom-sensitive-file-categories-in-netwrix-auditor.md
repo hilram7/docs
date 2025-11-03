@@ -54,3 +54,4 @@ Refer to the following steps:
 4. Set up your sources to include target files for the modified taxonomy. Wait for the files to be crawled and classified.
 
 The corresponding Netwrix Auditor report will include the used taxonomy and file owner.
+

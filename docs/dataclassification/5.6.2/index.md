@@ -28,3 +28,4 @@ Major benefits:
 - Reduce costs and risks by getting rid of unneeded data
 - Meet privacy and compliance requirements for information governance
 - Respond to legal requests without putting your business on hold
+

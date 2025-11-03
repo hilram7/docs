@@ -40,3 +40,4 @@ script in the command line.
 ```
 <AccessControlRule Identifier="BulkResourceReconciliationAccessControlRules_AssignedResourceType_Administrator_Directory_User" DisplayName_L1="Bulk reconciliate resources AssignedResourceBinary User" EntityType="AssignedResourceType" Profile="Administrator">  <Entry CanExecute="true" Permission="/Custom/ProvisioningPolicy/MassReconciliateResources/Directory_User" /></AccessControlRule><ReconciliateResourcesAccessControlRules EntityType="Directory_User" Profile="Administrator"/>
 ```
+

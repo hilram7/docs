@@ -20,3 +20,4 @@ information. This window displays the current connection settings for the Event 
 Credentials and/or SQL Server host information can be changed in the DB Connection Manager
 application. See the [DB Connection Manager Wizard](/docs/threatprevention/7.5/install/dbconnectionmanager.md) topic for
 additional information.
+

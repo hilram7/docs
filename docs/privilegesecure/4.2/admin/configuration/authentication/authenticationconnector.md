@@ -39,3 +39,4 @@ appendices for additional information on how to configure third party Authentica
 **Step 5 –** Click **Save** to create the new authentication connector.
 
 The new authentication connector is added to the Connectors list.
+

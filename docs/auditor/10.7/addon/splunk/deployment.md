@@ -188,3 +188,4 @@ installation directory of the old add-on for Splunk. Store that file content to 
 
 **Step 3 –** Install the new add-on. When prompted for Continuation Mark, enter that
 Netwrix*Auditor* Activity_Records_to_Event_Log_Add-on_Cookie.bin file content.
+

@@ -26,3 +26,4 @@ Settings and Layout** [3]. The Filter Set Name window opens.
 
 The saved filtered view becomes a node in the Navigation pane under the Investigate node. Select the
 node to return to the saved filtered Investigate view.
+

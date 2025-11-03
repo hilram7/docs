@@ -80,3 +80,4 @@ Click on the field to highlight it, and enter the **Yubico Key** by touching the
 ![yubico stick](/images/passwordsecure/9.2/configuration/advanced_view/clientmodule/organisationalstructures/multifactorauthentication/yubico/yubico_yubikey_2-en.webp)
 
 The user is now logged on.
+

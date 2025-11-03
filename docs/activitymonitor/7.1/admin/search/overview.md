@@ -97,3 +97,4 @@ The search results data grid can be exported to a CSV/JSON file.
 
 Once the search results are configured as desired, click the Export button located at the top left
 corner of the window. Set the name and location of the CSV/JSON file.
+

@@ -37,3 +37,4 @@ You get these events from your Netwrix Auditor Server because during the data co
 This event is being generated for each attempt to access a file share within a network that is considered as normal behavior according to Microsoft.
 
 Learn more about this event in 5140(S, F): A network share object was accessed ⸱ Microsoft: https://learn.microsoft.com/en-us/windows/security/threat-protection/auditing/event-5140
+

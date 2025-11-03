@@ -237,3 +237,4 @@ pingcastle --healthcheck --api-endpoint <endpoint> --api-key <key> --level Full
 The API can be browsed using the link found in the agent page:
 
 ![](/images/pingcastle/prouser/image15.webp)
+

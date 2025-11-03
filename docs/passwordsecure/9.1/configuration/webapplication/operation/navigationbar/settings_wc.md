@@ -71,3 +71,4 @@ The following settings are not available on the Web Application:
 **Account**
 
 Here it is possible to change the password of the logged in user.
+

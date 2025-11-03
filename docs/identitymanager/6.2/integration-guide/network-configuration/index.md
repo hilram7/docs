@@ -203,3 +203,4 @@ Configuration encompasses:
   [Agent Configuration](/docs/identitymanager/6.2/integration-guide/network-configuration/agent-configuration/index.md)topic for additional information.
 - The Logger configuration. See the [Monitoring](/docs/identitymanager/6.2/integration-guide/monitoring/index.md)topic for additional
   information.
+

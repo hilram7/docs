@@ -21,3 +21,4 @@ There are two options for specifying an account:
 
 Click **OK**. The Specify account window closes, and the account is added to the field where the
 window was opened.
+

@@ -47,3 +47,4 @@ Additionally, the Netwrix Endpoint Policy Manager documentation offers two video
 ![image.png](./images/ka04u00000116HU_0EM4u000007ci9R.png)
 
 12. You should now be able to launch the indicated program with elevated privileges by right-clicking and selecting the Netwrix Endpoint Policy Manager context menu entry.
+

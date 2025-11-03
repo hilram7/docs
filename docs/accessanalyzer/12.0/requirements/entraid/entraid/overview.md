@@ -33,3 +33,4 @@ topic for additional information.
 The following firewall ports are needed by the AzureADInventory and Entra Data Collectors:
 
 - TCP 80 and 443
+

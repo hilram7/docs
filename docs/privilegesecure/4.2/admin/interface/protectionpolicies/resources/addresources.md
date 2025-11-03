@@ -64,3 +64,4 @@ Resources table.
 
 The new resource(s) are added to the protection policy and are shown on the
 [Resources Tab for Protection Policies](/docs/privilegesecure/4.2/admin/interface/protectionpolicies/resources/resources.md).
+

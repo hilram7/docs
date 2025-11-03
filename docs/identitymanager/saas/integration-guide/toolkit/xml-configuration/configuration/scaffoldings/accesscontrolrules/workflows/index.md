@@ -20,3 +20,4 @@ sidebar_position: 110
 - [Workflow Overview Control Rules](/docs/identitymanager/saas/integration-guide/toolkit/xml-configuration/configuration/scaffoldings/accesscontrolrules/workflows/workflowoverviewcontrolrules/index.md)
 
     Generates the permissions to access the workflow supervision page.
+

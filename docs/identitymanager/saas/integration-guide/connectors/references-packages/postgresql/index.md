@@ -18,3 +18,4 @@ Export data from a PostgreSQL database.
 | Publisher               | Identity Manager                |
 | ProviderClassFullName   | Npgsql.NpgsqlFactory            |
 | ProviderDllName         | Npgsql.dll                      |
+

@@ -59,3 +59,4 @@ To do this, follow these steps:
 5. Double-click `MaxPacketSize`, type `1` in the **Value data** box, click to select the **Decimal** option, and then click **OK**.
 6. Quit Registry Editor.
 7. Restart your computer.
+

@@ -51,3 +51,4 @@ You can also transfer and terminate your direct reports while you validate your 
 
 To view any changes made to your direct reports, see the
 [My Direct Reports' History](/docs/directorymanager/11.1/portal/history/mydirectreport.md) topic for additional information.
+

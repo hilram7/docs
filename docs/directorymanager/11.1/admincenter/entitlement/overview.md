@@ -111,3 +111,4 @@ resources, revoke permissions, and more.
 
 Entitlement-related permissions for a security role are discussed in the
 [Entitlement](/docs/directorymanager/11.1/admincenter/securityrole/permissions.md#entitlement) topic.
+

@@ -46,3 +46,4 @@ Start **Netwrix Auditor Archive Service**:
    1. In the main **Netwrix Auditor** menu, select **Monitoring Plans**.
    2. Select your SharePoint monitoring plan and click **Edit**.
    3. Click **Update** under the **Monitoring Plan** section.
+

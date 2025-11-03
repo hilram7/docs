@@ -14,3 +14,4 @@ for SQL activity monitoring.
 Copy and paste the SQL Script into a SQL query and execute to enable the Activity Monitor to obtain
 IP addresses of client connections. Click **Check Status** to check if the trigger is properly
 configured on the SQL server.
+

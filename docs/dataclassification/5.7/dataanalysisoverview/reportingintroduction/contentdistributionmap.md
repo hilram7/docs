@@ -26,3 +26,4 @@ or excluding specific sources / source-groups.
 
 You can zoom in to a particular area of the chart by left-clicking in that area; left clicking on
 the title will allow exporting of that specific node. Right-clicking will zoom back out again.
+

@@ -99,3 +99,4 @@ Step 1 – Click the **View Note** button next to a history item to view or remo
 Step 2 – Click the **Edit Note** button and remove the note.
 
 Step 3 – Click **Update Note**.
+

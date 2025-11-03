@@ -92,3 +92,4 @@ automatically deletes it from the directory.
 1. On the left navigation bar, click **Groups** and then select the **My Groups** tab.
 2. Go to **My Expired Groups** tab and select the required group and click **Renew** on the toolbar.
 3. Click **OK** to confirm the renewal.
+

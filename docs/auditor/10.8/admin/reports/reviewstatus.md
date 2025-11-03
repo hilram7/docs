@@ -43,3 +43,4 @@ Each report has a set of filters which help organize audit data in the most conv
 [View Reports](/docs/auditor/10.8/admin/reports/view.md) topic for additional information. You can also create a subscription to any
 report you want to receive on a regular basis. See the [Subscriptions](/docs/auditor/10.8/admin/subscriptions/overview.md)
 topic for additional information.
+

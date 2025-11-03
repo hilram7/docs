@@ -150,3 +150,4 @@ solution:
 
 - For File-level Auditing – SQL Server standard edition or higher required
 - For File Activity Auditing – SQL Server Enterprise Edition is required
+

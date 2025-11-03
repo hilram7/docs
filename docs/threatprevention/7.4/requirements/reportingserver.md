@@ -74,3 +74,4 @@ the server’s firewall permits. The supported browsers are:
 - Apple Safari
 - Microsoft Edge
 - Mozilla Firefox
+

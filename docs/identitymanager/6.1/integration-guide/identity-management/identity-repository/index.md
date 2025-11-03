@@ -66,3 +66,4 @@ data that:
     > For example, if a user's position title ("manager" for instance), defines what users currently
     > do, and thus what permissions they need, then you should make sure to fill in a property
     > storing the position's title in the workforce repository.
+

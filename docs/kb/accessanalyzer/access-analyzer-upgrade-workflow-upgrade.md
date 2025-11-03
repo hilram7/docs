@@ -60,3 +60,4 @@ Follow these steps to upgrade the **Sensitive Data Discovery Add-on (SDD):**
 1. Download the latest SDD version from the [My Products ⸱ Netwrix 🡥](https://www.netwrix.com/my_products_int.html) and transfer the installer to the Access Analyzer Console server.
 
    > **IMPORTANT:** Unblock the installer. In **Properties**, select the **Un**
+

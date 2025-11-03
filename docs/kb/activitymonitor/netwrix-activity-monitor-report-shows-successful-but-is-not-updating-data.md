@@ -54,3 +54,4 @@ To verify a feature's licensing in NEA, refer to the following steps:
 2. Scroll down to the **File System Licensed Features** section to confirm the licensed features.
 
 If needed, contact the Netwrix Account Owner, Enterprise Account Manager (EAM), or Customer Success Manager (CSM) to negotiate the proper functionality and licensing required for the customer.
+

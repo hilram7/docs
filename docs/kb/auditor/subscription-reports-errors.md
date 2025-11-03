@@ -70,3 +70,4 @@ The item '/Netwrix Auditor/%Report_name%' cannot be found.(rsItemNotFound)
 
 - Configure Windows Authentication on the Report Server — Configure a Report Server to Use Windows Integrated Security · Microsoft:  
   https://learn.microsoft.com/en-us/sql/reporting-services/security/configure-windows-authentication-on-the-report-server?view=sql-server-ver16#configure-a-report-server-to-use-windows-integrated-security
+

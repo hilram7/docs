@@ -43,3 +43,4 @@ layout.
 
 Your configuration has been saved. For information on how to view your report, see the
 [Viewing Generated Reports](/docs/accessanalyzer/12.0/admin/report/view.md) topic.
+

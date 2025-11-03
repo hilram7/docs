@@ -38,3 +38,4 @@ sidebar_position: 1
 
     - [Your Access Portal Overview](/docs/accessinformationcenter/12.0/youraccessportal/overview.md) topic and subtopics
       are written for domain users who want to request access or view their own request history.
+

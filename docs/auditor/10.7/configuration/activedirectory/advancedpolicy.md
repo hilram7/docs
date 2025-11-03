@@ -65,3 +65,4 @@ To do it, perform the following steps:
 5. Run the following command to update group policy:
 
     `gpupdate /force`
+

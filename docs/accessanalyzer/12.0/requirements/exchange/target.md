@@ -185,3 +185,4 @@ The following firewall ports are needed:
 - TCP 135
 - TCP 445
 - Randomly allocated high TCP ports
+

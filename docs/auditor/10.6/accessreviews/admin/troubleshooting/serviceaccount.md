@@ -46,3 +46,4 @@ Then click **OK**. The Properties window closes.
 Restart or Stop and Start the service for this change to take affect.
 
 The Netwrix Auditor Access Reviews service is now running with the supplied Windows account.
+

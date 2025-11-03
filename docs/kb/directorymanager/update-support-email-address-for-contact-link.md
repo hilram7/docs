@@ -39,3 +39,4 @@ The Netwrix Directory Manager application portal includes a **Contact** link at 
    ![Support group/administrator's email address field in Directory Manager](images/ka0Qk000000EMdN_0EMQk00000Ba6IH.png)
 4. Click **Save**.
 5. Click the **Contact** link in the portal to verify that your specified email address appears in the 'To' box of your default email application.
+

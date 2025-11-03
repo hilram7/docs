@@ -63,3 +63,4 @@ In the bottom section, the checkbox options affect the execution of the applet:
   allows other normal priority applications to take precedent over the scan when consuming
   processing power and system resources. Running at low priority allows the scan to run with little
   or no impact on the applet host.
+

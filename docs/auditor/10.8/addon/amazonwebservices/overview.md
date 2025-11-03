@@ -51,3 +51,4 @@ leveraging the Integration API. Download the latest add-on version in the Add-on
 
 See the [Integration API](/docs/auditor/10.8/api/overview.md) topic for additional information about schema
 updates.
+

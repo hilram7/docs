@@ -139,3 +139,4 @@ users.
 To configure a display table different from the default one provided by Identity Manager, see the
 [Customize Display Tables](/docs/identitymanager/6.2/integration-guide/ui/custom-display-table/index.md) topic for additional
 information.
+

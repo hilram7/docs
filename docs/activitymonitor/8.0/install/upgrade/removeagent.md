@@ -16,3 +16,4 @@ To only remove the server from the Agents list, click Remove. To also uninstall 
 from the server, click Uninstall and remove. During the uninstall process, the status will be
 Uninstalling. If there are any errors, the list of errors appears in the **Agent messages** box.
 When the activity agent uninstall is complete, it is removed from the Agents list.
+

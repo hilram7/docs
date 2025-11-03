@@ -58,3 +58,4 @@ SharePoint on-premise farms and SharePoint Online instances:
 - [Exceptions Report](/docs/accessinformationcenter/11.6/resourceaudit/sharepoint/exceptions.md)
 - [Sensitive Content Summary Report](/docs/accessinformationcenter/11.6/resourceaudit/sharepoint/sensitivecontentsummary.md)
 - [Server Summary Report](/docs/accessinformationcenter/11.6/resourceaudit/sharepoint/serversummary.md)
+

@@ -55,3 +55,4 @@ alternative application names in the server certificate.
 - Assign the just installed agent to this application by selecting it and click "Assign Agent(s)"
 - It takes about 20 minutes until the agent is correctly connected to your application and you can
   proceed.
+

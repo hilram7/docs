@@ -47,3 +47,4 @@ configuration from the server. Apache is subsequently restarted via systemctl re
 
 The Web Application is now ready to use and can be directly started. Further information can be
 found at the end of this section under "SCalling up the Web Application".
+

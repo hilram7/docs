@@ -69,3 +69,4 @@ If no property appears in the display name auto-completion, then:
 ![No Property](/images/identitymanager/saas/user-guide/set-up/connect-system/entity-type-creation/display-name-setting/entitytypecreation_troubleprop_v602.webp)
 
 Ensure that the created properties are saved by clicking on **Save & Close** > **Save** at the top right corner of the screen.
+

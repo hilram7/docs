@@ -29,3 +29,4 @@ Use the Text Entry box to compose an introductory message. Above the text box is
 containing various Microsoft Word-style editing tools. Use the editor to personalize the content and
 appearance of each message. Use the Insert field option to insert dynamic text from the specified
 data table.
+

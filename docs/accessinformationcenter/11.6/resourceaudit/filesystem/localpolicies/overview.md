@@ -11,3 +11,4 @@ node, but the following reports are available at the local policy level:
 
 - [Effective Policy Report](/docs/accessinformationcenter/11.6/resourceaudit/filesystem/localpolicies/effectivepolicy.md)
 - [Policy Report](/docs/accessinformationcenter/11.6/resourceaudit/filesystem/localpolicies/policy.md)
+

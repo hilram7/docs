@@ -62,3 +62,4 @@ other summaries.
   as part of match hits
 - Cancel – Exit the Sensitive Data Criteria Editor without saving changes
 - Save – Save changes made to the currently selected criteria
+

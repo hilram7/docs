@@ -45,3 +45,4 @@ Verify the monitoring for the affected domain is enabled − review the state of
 ## Related articles
 
 - Monitored Domains − Domain Event Outputs · v7.0
+

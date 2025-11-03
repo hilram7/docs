@@ -203,3 +203,4 @@ Using this API, you can fetch multiple groups from an identity store.
     }
 ]
 ```
+

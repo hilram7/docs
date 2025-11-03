@@ -45,3 +45,4 @@ There are two options to resolve the issue:
    - Close **Registry Editor** and restart the computer.
 
 2. If your company policy restricts disabling UAC then run the Threat Prevention installer `.MSI` file from admin PowerShell console and follow the normal installation procedure.
+

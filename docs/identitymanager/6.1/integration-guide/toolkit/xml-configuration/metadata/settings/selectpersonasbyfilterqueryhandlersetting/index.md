@@ -27,3 +27,4 @@ This setting is used to filter the entity type used by authentication mechanism.
 | PersonTypeFilterProperty optional                            | **Type** String **Description** Defines the filter property                                                                                   |
 | PhotoProperty optional                                       | **Type** String **Description** The documentation is not yet available.                                                                       |
 | ResourceDisplayNameProperty optional                         | **Type** String **Description** Represents the display property.                                                                              |
+

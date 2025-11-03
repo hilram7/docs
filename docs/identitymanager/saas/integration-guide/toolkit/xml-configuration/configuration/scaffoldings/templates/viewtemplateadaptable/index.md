@@ -47,3 +47,4 @@ Our example generates the following configuration:
 <EntityTypeDisplayName Id="101" EntityType="Directory_PresenceState" /><EntityTypeDisplayTableAdaptable Id="502" EntityType="Directory_PresenceState" /><ViewAccessControlRules Id="188" EntityType="Directory_PresenceState" Profile="Administrator" />
 
 ```
+

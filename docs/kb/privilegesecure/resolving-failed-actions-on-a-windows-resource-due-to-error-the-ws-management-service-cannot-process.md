@@ -62,3 +62,4 @@ Get-ItemProperty -Path "HKLM:\Software\Policies\Microsoft\Windows\WinRM\Service\
 ![User-added image](images/ka04u000000HcZv_0EM4u000004bUop.png)
 
 To resolve the error, set this GPO to either **Enabled** or **Not Configured**. In a domain environment, you should make this change via a domain-configured GPO rather than manually modifying the registry key on the target resource.
+

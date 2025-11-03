@@ -27,3 +27,4 @@ To Hide or Show menu items:
    To **Show** items that have been hidden: Select one or more from the right and click \< to move
    them to the left. Use \<\< to move all the items.
 5. Click **Save** when you are finished.
+

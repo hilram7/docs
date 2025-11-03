@@ -32,3 +32,4 @@ The maximum number of endpoints for which you can enable File Tracing and File S
 - You can further optimize performance by adjusting settings such as the maximum file size for File Tracing and File Shadowing.
 
 If you have questions about optimizing this feature or experience performance issues, contact Netwrix Technical Support by opening a support ticket on the [Netwrix Help Center](https://www.netwrix.com/support.html).
+

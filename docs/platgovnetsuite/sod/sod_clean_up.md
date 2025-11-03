@@ -40,3 +40,4 @@ Saved Searches are:
 - **Employees with Multiple Roles Summary** identifies users with multiple roles.
 - **Current Global Permission** identifies users with global permissions, which can cause conflicts.
   Best practice is to not use global permissions on a long-term basis.
+

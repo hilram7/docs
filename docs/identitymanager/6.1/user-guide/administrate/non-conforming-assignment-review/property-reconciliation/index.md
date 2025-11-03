@@ -179,3 +179,4 @@ the current values for several resources simultaneously.
 
 In order to verify the process, check that the changes you ordered appear on the corresponding
 user's page in the directory.
+

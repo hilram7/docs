@@ -82,3 +82,4 @@ detected by the monitored host. The credentials can be updated in the monitored 
 
 See the [Inactivity Alerts Tab](/docs/activitymonitor/8.0/admin/monitoredhosts/properties/inactivityalerts.md) topic for
 additional information.
+

@@ -47,3 +47,4 @@ Alternatively ubuntu.com can be whitelisted instead of all ubuntu URLs individua
 
 - [http://launchpad.net/](http://launchpad.net/)
 - [https://launchpad.net/](https://launchpad.net/)
+

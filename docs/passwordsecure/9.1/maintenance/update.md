@@ -119,3 +119,4 @@ Apache. With IIS the `WebSocket Protocol` becomes necessary. Further information
 chapter
 [Webserver](/docs/passwordsecure/9.1/installation/requirements/webserver/webserver.md).
 This applies to version 8.5.0.14896 or newer.
+

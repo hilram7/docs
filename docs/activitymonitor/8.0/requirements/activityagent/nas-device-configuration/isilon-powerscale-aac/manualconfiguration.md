@@ -87,3 +87,4 @@ need to set the Host Aliases parameter in the Activity Monitor Console:
 
 Next, it is time to configure the monitoring agent on the Windows server to monitor the
 Isilon/PowerScale device.
+

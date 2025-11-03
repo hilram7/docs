@@ -63,3 +63,4 @@ column containing the host names. The selected column is highlighted in the prev
 The Import Hosts window closes, and the imported list of host names is added in the Host list box on
 the Manual Host Entry page of the Host List Wizard. Click **Next** to proceed with configuring the
 host list. See the [Add Hosts](/docs/accessanalyzer/12.0/admin/hostmanagement/actions/add.md) topic for additional information on the Host List Wizard.
+

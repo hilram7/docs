@@ -75,3 +75,4 @@ Configure the selected tables to be queried:
 
 - Field name – Select the desired table and the available fields will populate the Field names box.
   Select the field containing the public folder names.
+

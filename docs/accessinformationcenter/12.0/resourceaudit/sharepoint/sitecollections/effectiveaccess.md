@@ -93,3 +93,4 @@ This table provides the insight necessary to make modifications to a trustee's a
 a trustee has three sources of access to the selected resource. One source is directly applied, and
 two sources are through permissions granted to another trustee. In order for this trustee’s access
 to the selected resource to be changed, each of these source paths must be taken into consideration.
+

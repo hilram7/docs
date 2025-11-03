@@ -24,3 +24,4 @@ For single sign-on using GroupID, we can choose any of the following ways:
    On clicking it, the user is redirected to the GroupID login page where GroupID is acting as an
    identity provider. If the user is already logged into GroupID, he/she will be auto-authenticated;
    else the user will have to provide the credentials.
+

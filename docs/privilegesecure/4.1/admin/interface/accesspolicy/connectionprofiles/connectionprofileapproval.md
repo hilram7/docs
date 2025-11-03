@@ -128,3 +128,4 @@ session as well.
 
 The new Approval Workflow is added to the Connection Profile. See the Approvals Dashboard topic for
 additional information on how to approve a requested session.
+

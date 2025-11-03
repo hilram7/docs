@@ -29,3 +29,4 @@ This section contains the following information on how to use Netwrix Auditor:
 - Description of the main product features
 - Netwrix standalone tools
 - Network traffic compression
+

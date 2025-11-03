@@ -21,3 +21,4 @@ The following options are available:
   defined conditions. See the
   [Advanced Search](/docs/accessanalyzer/11.6/admin/navigate/datagrid.md#advanced-search)
   topic for additional information.
+

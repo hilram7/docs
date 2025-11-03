@@ -15,3 +15,4 @@ Follow the steps to edit the workflow settings.
    [Configure a Workflow using Advanced dialog](/docs/dataclassification/5.7/contentconfigurationoverview/workflows/actions/availableactions/createworkflow.md) topic.
 
 ![add_workflows_rules_list_thumb_0_0](/images/dataclassification/5.7/admin/workflows/add_workflows_rules_list_thumb_0_0.webp)
+

@@ -76,3 +76,4 @@ must use one or more authentication types that you enrolled your account with.
         2. On the next page, click **Authenticate and Continue**.
         3. Provide the biometric information you enrolled your account with, or with the PIN given
            in the Windows Hello sign-in options.
+

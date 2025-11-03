@@ -65,3 +65,4 @@ display data in the report accordingly.
 - Policies – Choose **All** or **Enabled Only** to display all policies or enabled only policies in
   the report
 - Events – Select **All**, **Blocking** and/or **Monitoring** event(s) to display in the report
+

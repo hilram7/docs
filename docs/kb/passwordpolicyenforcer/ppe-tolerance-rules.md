@@ -47,3 +47,4 @@ PASSWORD
 ```
 
 Notice that there are fewer searches and so Netwrix Password Policy Enforcer is less likely to find a match (more tolerant). In this example, `PASSWORD` would still be matched. So increasing the tolerance makes Netwrix Password Policy Enforcer more tolerant of shorter matches in the file. It didn't find `SWORD`, but it still found `PASSWORD`.
+

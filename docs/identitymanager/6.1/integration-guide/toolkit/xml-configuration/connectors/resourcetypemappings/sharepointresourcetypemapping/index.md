@@ -15,3 +15,4 @@ Any resource type mapping must be configured with the same identifier as the rel
 <SharePointResourceTypeMapping Identifier="SharePoint_Entity_NominativeUser" Connection="SharePointExportFulfillment">  <Property Property="Name" IsDNProperty="true" />  <Property Property="Collection" IsParentProperty="true" /></SharePointResourceTypeMapping>
 
 ```
+

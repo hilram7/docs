@@ -57,3 +57,4 @@ To grant or deny permission to create specific objects in the Netwrix Directory 
 When you allow the role to create *groups* and *contacts* using the portal, the result will look like this:
 
 ![User portal showing only group and contact creation options](images/ka0Qk000000CuJN_0EMQk00000BSXSX.png)
+

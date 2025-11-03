@@ -109,3 +109,4 @@ The MAPI-based data collectors require both Access Analyzer MAPI CDO and Microso
 to be installed on the Access Analyzer Console server. Once these have been installed, configure the
 **Settings** > **Exchange** node for proper connection to the Exchange server. See the
 [Exchange](/docs/accessanalyzer/12.0/admin/settings/exchange.md) topic for additional information.
+

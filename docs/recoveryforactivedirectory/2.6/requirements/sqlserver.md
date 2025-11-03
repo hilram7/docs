@@ -57,3 +57,4 @@ The following additional considerations are recommended for the SQL Server:
 - Microsoft SQL Server supports TLS 1.2, which requires the Recovery for Active Directory server to
   have either SQL Server Native Client 11 or Microsoft Ole DB 18 installed.
 - _Optional_: SQL Server Management Studio installed on the Recovery for Active Directory server
+

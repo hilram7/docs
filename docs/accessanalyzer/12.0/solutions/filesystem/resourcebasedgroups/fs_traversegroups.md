@@ -254,3 +254,4 @@ share.
 
 The permissions for traverse groups are applied based on the previously created resource based
 groups. Users retain access to nested folders.
+

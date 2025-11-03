@@ -80,3 +80,4 @@ When using a Lockdown Event Type, it is necessary to decide between Block or All
   that filter category
 - Allow – Only allows items added to the list and blocks all others. If the list is left blank, it
   allows all items for that filter category.
+

@@ -107,3 +107,4 @@ source will appear in the **Data source** list. As a next step, click **Add item
 object for monitoring. See the
 [Add Items for Monitoring](/docs/auditor/10.6/admin/monitoringplans/datasources.md#add-items-for-monitoring)
 topic for additional information.
+

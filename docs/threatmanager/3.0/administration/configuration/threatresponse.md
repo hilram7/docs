@@ -104,3 +104,4 @@ Threat Manager has the following preconfigured third-party applications target a
 
 See the [Action Configuration for Playbook Steps](/docs/threatmanager/3.0/administration/playbooks/action/overview.md) topic for
 additional information.
+

@@ -39,3 +39,4 @@ indicates the current column and sort order being used for the results.
 -  **Components Deployed**: Number of components deployed.
 
 ![Deployment Rollback Report](/images/platgovsalesforce/reports/report_deploy_rollbacks.webp)
+

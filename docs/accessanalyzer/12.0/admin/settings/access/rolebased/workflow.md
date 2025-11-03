@@ -88,3 +88,4 @@ assigned: global, job group, job, or report configuration.
 :::tip
 Remember, a user with only the Report Viewer role is unable to access the Access Analyzer Console.
 :::
+

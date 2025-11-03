@@ -150,3 +150,4 @@ the Identity Manager interface.
 | PlaceHolderText_L1 optional     | String      | Property place holder text.                                                                                                                                                                                                       |
 | Tile optional                   | Int64       | Identifier of the tile.                                                                                                                                                                                                           |
 | ToolTipText_L1 optional         | String      | Property tool tip text.                                                                                                                                                                                                           |
+

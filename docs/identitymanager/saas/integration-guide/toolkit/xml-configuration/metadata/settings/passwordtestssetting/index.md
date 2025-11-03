@@ -41,3 +41,4 @@ including at least one digit, one lowercase letter, one uppercase and one specia
 , '^.*[A-Z].*
 , '^.*[^A-Za-z0-9].*
 ` |
+

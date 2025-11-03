@@ -140,3 +140,4 @@ and create a Change Request based on the differences.
     ![Select Customizations with Differences and create a Change Request](/images/platgovsalesforce/tools/compare_env_create_cr.webp)
 
 3. Click **Create Change Request** to continue.
+

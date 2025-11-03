@@ -64,3 +64,4 @@ Regenerate the Activity Summary:
 
 - [How to Save and Zip Netwrix Auditor System Health Event Log](/docs/kb/auditor/how-to-save-and-zip-netwrix-auditor-system-health-event-log.md)
 - [My Tickets · Netwrix](https://www.netwrix.com/tickets.html#/tickets/open)
+

@@ -47,3 +47,4 @@ Set of fields to sum up the collected data after the workflow's execution.
 
 | Property | Details |
 | -------- | ------- |
+

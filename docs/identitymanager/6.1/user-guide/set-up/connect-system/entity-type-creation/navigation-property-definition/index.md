@@ -199,3 +199,4 @@ You can find the **Reload** button either on the green warning, or on the connec
 After the entity type is created with its scalar properties and keys, and navigation properties, you
 can
 [set the resources' display names](/docs/identitymanager/6.1/user-guide/set-up/connect-system/entity-type-creation/display-name-setting/index.md).
+

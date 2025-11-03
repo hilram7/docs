@@ -29,3 +29,4 @@ Use the following options to enter header values:
     - Select a field using the drop-down menu, place the cursor in the cell of the desired Key or
       Value, and click the blue down-arrow to add it to the selected cell
     - Manually enter a field in the cell
+

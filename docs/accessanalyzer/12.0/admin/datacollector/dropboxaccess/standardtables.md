@@ -57,3 +57,4 @@ Data Collector:
 | ------------------------ | ------------------------------------------------------------------------------------------ |
 | SA_Dropbox_MatchesView   | Surfaces all relevant data about the files, its location, and the type of criteria found   |
 | SA_Dropbox_MatchHitsView | Surfaces all actual sensitive data discovered within files which matched selected criteria |
+

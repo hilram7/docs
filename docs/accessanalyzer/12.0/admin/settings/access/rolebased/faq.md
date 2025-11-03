@@ -106,3 +106,4 @@ view any reports.
 
 However, if both the Access Analyzer server and the AD group are in the same domain, the AD group
 can be either a local group, global group, or universal group.
+

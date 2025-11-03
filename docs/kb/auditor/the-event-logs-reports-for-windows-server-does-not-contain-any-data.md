@@ -39,3 +39,4 @@ To review your data in these reports, you should configure a monitoring plan for
    ![User-added image](images/ka04u0000011776_0EM4u000008Ls7s.png)
 3. Perform any test changes, for example, log in to a server for which you want to review data in reports.
 4. Wait for 10 - 15 minutes for changes to take effect and run reports.
+

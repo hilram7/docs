@@ -75,3 +75,4 @@ The export mimics the table with any sort, filter, or column modifications. The 
 can then be distributed as desired. The Excel file presents an easy to read format, including
 information about the selected table and resource at the top. The CSV file displays column headers
 in the first row.
+

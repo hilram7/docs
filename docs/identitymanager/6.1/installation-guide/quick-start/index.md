@@ -100,3 +100,4 @@ From there, you can start setting up Usercube via the **Settings** page which is
 Then, Netwrix recommends following the user guide to start the configuration of your IGA project
 from scratch. See the [User Guide](/docs/identitymanager/6.1/user-guide/index.md)
 topic for additional information.
+

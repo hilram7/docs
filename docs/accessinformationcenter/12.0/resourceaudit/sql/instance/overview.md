@@ -15,3 +15,4 @@ The following reports are available at the instance level:
 Remember, instance permissions are populated at the **Instance Permissions** node. See the
 [Instance Permissions Node Report](/docs/accessinformationcenter/12.0/resourceaudit/sql/instancepermissions/overview.md) topic for additional
 information.
+

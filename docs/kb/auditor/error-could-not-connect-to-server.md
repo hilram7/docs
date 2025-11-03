@@ -63,3 +63,4 @@ Refer to the list of possible causes for the error:
 - [Enable TCP/IP Protocol in SQL Server](/docs/kb/auditor/enable_tcpip_protocol_in_sql_server.md)
 - [Configure SQL Server to listen on a specific TCP port — Assign a TCP/IP port number to the SQL Server Database Engine ⸱ Microsoft](https://learn.microsoft.com/en-us/sql/database-engine/configure-windows/configure-a-server-to-listen-on-a-specific-tcp-port?view=sql-server-ver15#assign-a-tcpip-port-number-to-the-sql-server-database-engine)
 - [Specify Custom SQL Server Port for Netwrix Auditor Audit Database](/docs/kb/auditor/specify-custom-sql-server-port-for-netwrix-auditor-audit-database.md)
+

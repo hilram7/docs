@@ -27,3 +27,4 @@ Follow the steps to add activity groups to the console.
   [Add Activities Window](/docs/privilegesecure/4.2/admin/interface/activities/activitygroups/addactivities.md) topic for additional information.
 
 The new activity group is added to the console and is shown in the Activity Groups list.
+

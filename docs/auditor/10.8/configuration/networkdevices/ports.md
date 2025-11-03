@@ -20,3 +20,4 @@ Tip for reading the table: For example, on the computer where Netwrix Auditor Se
 | ---- | -------- | ------------------------- | ---------------------- | ------------------------------------- |
 | 514  | UDP      | Monitored network devices | Netwrix Auditor Server | Getting events from monitored devices |
 | 443  | TCP      | Netwrix Auditor Server    | Cisco Meraki Dashboard | \*.meraki.com                         |
+

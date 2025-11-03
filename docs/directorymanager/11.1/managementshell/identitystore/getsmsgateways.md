@@ -27,3 +27,4 @@ This example lists all the configured SMS gateways in Directory Manager.
 ```
 Get-SmsGateways
 ```
+

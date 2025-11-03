@@ -38,3 +38,4 @@ Explorer closes and returns to the console.
 
 The License Key is now imported into Threat Manager. The license information is displayed in the
 License Info section at the top of the page.
+

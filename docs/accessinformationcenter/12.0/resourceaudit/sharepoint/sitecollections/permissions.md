@@ -60,3 +60,4 @@ This table is blank unless an **Explicit Permissions** icon is attached to the r
 Resources pane. See the [Resources Pane](/docs/accessinformationcenter/12.0/resourceaudit/navigate/resource.md#resources-pane) topic for
 additional information. This table is comprised of the same columns as the primary report, with the
 exception that it does not have the **Roles** column.
+

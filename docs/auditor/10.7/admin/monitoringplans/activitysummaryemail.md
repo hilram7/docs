@@ -39,3 +39,4 @@ listing all activity that occurred since the last data collection.
 
 To disable Activity Summary Emails, you need to disable notifications in the settings. See the
 [Notifications](/docs/auditor/10.7/admin/settings/notifications.md) topic for additional information.
+

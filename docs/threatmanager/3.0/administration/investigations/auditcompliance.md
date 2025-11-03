@@ -43,3 +43,4 @@ By default, this folder contains the following saved investigations:
 | Watchlist User Activity | All activity by watchlist users | One filter statement set: <br /><ul><li>Attribute = Tag (Effective)</li><li>Operator = Equals</li><li>Filter = Watchlist</li></ul> |
 
 You can save additional investigations to this folder.
+

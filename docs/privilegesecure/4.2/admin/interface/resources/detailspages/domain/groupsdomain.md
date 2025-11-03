@@ -30,3 +30,4 @@ The table has the following columns:
 - Distinguished Name — Displays the distinguished name of the object
 
 The table columns can be resized and sorted in ascending or descending order.
+

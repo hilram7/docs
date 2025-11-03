@@ -17,3 +17,4 @@ checkbox. Only one instance can be selected at a time.
 
 In the **Instance data** box, select the checkboxes next to the desired properties to return during
 query execution.
+

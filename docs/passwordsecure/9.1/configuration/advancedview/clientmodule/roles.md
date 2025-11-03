@@ -81,3 +81,4 @@ NOTE: The roles module is based on the
 [Roles module](/docs/passwordsecure/9.1/configuration/webapplication/functionalscope/roles_module.md)
 of the Web Application. Both modules have a different scope and design but are almost identical to
 use.
+

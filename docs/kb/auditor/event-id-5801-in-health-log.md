@@ -55,3 +55,4 @@ Refer to the respective resolution for the cause in your environment:
 
 - https://docs.netwrix.com/docs/privilegesecure/4_2 (Connection Profiles Page — Add COnnection Profile · v4.2)
 - https://docs.netwrix.com/docs/auditor/10_8 Auditor Settings — Netwrix Privilege Secure · v10.7)
+

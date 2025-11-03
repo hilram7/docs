@@ -74,3 +74,4 @@ userName=<username>&password=<password>&grant_type=password&client_Id=self
 **Example**
 
 ![POST Token (Bearer)](/images/threatprevention/7.5/eperestsite/token.webp)
+

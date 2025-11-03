@@ -31,3 +31,4 @@ The CSV file when opened in Excel is opened in a Win1251 Charset.
 
 ## Resolution
 1. Use the data import feature of **Microsoft Excel** and import the CSV file in `UTF8` format.
+

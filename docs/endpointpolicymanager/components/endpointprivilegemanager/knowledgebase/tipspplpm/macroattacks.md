@@ -17,3 +17,5 @@ But besides that, or if you had noprotection in place, when Netwrix Endpoint Pol
 supported Endpoint Policy Manager Least Privilege Manager types including scripts, EXEs, MSIs, JARs
 and more, since the downloadable payload would be owned by the User and not Administrator, Trusted
 Installer, or anyone one the SecureRun list.
+
+

@@ -225,3 +225,4 @@ future: {
 };
 
 export default config;
+

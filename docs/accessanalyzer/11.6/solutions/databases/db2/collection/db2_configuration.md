@@ -30,3 +30,4 @@ Once the connection is established, it applies to all jobs in the 0.Collection j
 not apply to any other job groups. For additional information on establishing a database connection,
 see
 [1-Db2_SensitiveDataScan](/docs/accessanalyzer/11.6/solutions/databases/db2/collection/db2_sensitivedatascan.md).
+

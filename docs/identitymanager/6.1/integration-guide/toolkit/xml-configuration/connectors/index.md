@@ -14,3 +14,4 @@ sidebar_position: 20
 - #### [EntityAssociationMapping](/docs/identitymanager/6.1/integration-guide/toolkit/xml-configuration/connectors/entityassociationmapping/index.md)
 - #### [EntityTypeMapping](/docs/identitymanager/6.1/integration-guide/toolkit/xml-configuration/connectors/entitytypemapping/index.md)
 - #### [PasswordResetSettings](/docs/identitymanager/6.1/integration-guide/toolkit/xml-configuration/connectors/passwordresetsettings/index.md)
+

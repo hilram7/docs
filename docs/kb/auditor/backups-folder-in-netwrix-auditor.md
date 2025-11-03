@@ -31,3 +31,4 @@ The **Backups** folder located in `C:\ProgramData\Netwrix Auditor\Backups` occup
 It is strongly recommended to keep the backups for supported versions. Once a version is not supported, it is safe to delete the corresponding backups. As of August 2023, there are 3 supported versions (10, 10.5, and 10.6). Refer to the following link for additional information on supported versions of Netwrix Auditor: https://www.netwrix.com/supported_versions.html#na.
 
 > **NOTE:** The **Backups** folder contains backups for prior versions of Netwrix Auditor in case some files are corrupted during an upgrade. It may contain backups for all versions previously used in your environment.
+

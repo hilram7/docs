@@ -123,3 +123,4 @@ The add-on is compatible with:
 
 - Microsoft System Center Virtual Machine Manager 2019 and 2016
 - Netwrix Auditor 9.9 and later
+

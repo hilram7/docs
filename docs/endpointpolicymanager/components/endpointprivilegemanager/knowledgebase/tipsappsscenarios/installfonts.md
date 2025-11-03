@@ -272,3 +272,5 @@ $fontsFolderPath = Get-SpecialFolder($CSIDL_FONTS)    Process-Arguments
    ![467_11_img-7](/images/endpointpolicymanager/leastprivilege/elevate/467_11_img-7.webp)
 
 8. Run `GPUPDATE /FORCE` on the client machine.
+
+

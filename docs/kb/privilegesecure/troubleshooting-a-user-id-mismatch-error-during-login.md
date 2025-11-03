@@ -33,3 +33,4 @@ When logging into the Netwrix Privilege Secure console, you may receive a "User 
 1. Log out of all active Netwrix Privilege Secure sessions.
 2. Clear your browser's cookies.
 3. Reattempt login using your desired account. You should now be able to successfully log in.
+

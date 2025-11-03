@@ -28,3 +28,4 @@ The query is preconfigured for this job. Never modify the query.
 The query for the SG_GroupPolicy job is:
 
 - GroupPolicy – Collects group policy information
+

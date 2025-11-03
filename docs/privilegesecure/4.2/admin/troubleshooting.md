@@ -210,3 +210,4 @@ for RDP Session: Keyset does not exist" error will appear and the RDP file won't
 
 - Rest URL - This setting determines the Rest API URL that is used to send REST calls to the Netwrix
   Privilege Secure Web service.
+

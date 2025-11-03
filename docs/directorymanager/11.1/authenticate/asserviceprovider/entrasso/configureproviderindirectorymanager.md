@@ -56,3 +56,4 @@ Manager authentication login on the Directory Manager client's login page.
 
 Step 11 – Click the **Create Provider** button. The identity provider is created and displayed on
 the SAML Providers page.
+

@@ -35,3 +35,4 @@ The following risks are posed by joining NPS to a domain:
 1. A domain-joined server can have its security compromised through group policy controls, as policy inheritance may not be blocked for the server.
 2. If a privileged domain account is compromised, the NPS server is then a potential target for lateral movement attacks.
 3. A key use case of NPS is to provide dynamic domain administrator access to users. If a user is provided with domain administrator privileges, the user would then have domain administrator access to the NPS server. This would allow for malicious actions that would compromise the security of the NPS Server, up to and including tampering with the audit trail after performing malicious actions.
+

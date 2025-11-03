@@ -70,3 +70,4 @@ The following ports must be open for communication between Privilege Secure and 
 | 6520      | TCP         | Privilege Secure server | ![arrow](/images/privilegesecure/4.1/accessmanagement/requirements/arrow.webp)                                   | Remote Proxy          | Register Proxy Service                  |
 | 6500      | TCP         | Privilege Secure server | ![arrow](/images/privilegesecure/4.1/accessmanagement/requirements/arrow.webp)                                   | Remote Action Service | Register Action Service                 |
 | **443**   | HTTPS (TCP) | Privilege Secure Server | ![arrow](/images/privilegesecure/4.1/accessmanagement/requirements/arrow.webp)                                   | Azure                 | Azure Graph API Access                  |
+

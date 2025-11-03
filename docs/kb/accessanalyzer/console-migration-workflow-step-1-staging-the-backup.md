@@ -100,3 +100,4 @@ Within the `NAA_Migration` folder, create a folder named **AIC**, and add the fo
 
 - [Console Migration Workflow](/docs/kb/accessanalyzer/console-migration-workflow.md)
 - [Console Migration Workflow: Step 2—Prepare the Database](/docs/kb/accessanalyzer/console-migration-workflow-step-2-prepare-the-database.md)
+

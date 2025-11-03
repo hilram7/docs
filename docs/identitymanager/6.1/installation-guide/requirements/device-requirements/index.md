@@ -69,3 +69,4 @@ useful to comfortably edit
 
 Let's move on to the requirements for
 [Usercube's database](/docs/identitymanager/6.1/installation-guide/requirements/database-requirements/index.md).
+

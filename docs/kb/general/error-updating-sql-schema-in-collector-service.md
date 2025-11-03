@@ -70,3 +70,4 @@ Invalid configuration: Error updating SQL schema
 
 - https://docs.netwrix.com/docs/dataclassification/5_7 (Requirements to Install Netwrix Data Classification − Accounts and Required Permissions · v5.7)
 - https://docs.netwrix.com/docs/dataclassification/5_7 (Install Netwrix Data Classification − Configure NDC SQL Database · v5.7)
+

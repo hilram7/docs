@@ -59,3 +59,4 @@ Further information for storage small environments can be found here:
 **NOTE:** Bandwidth: We roughly estimate 0.3 to 0.5 Mbps per endpoint. As an example for 30,000
 endpoints expect to use 50-100GB per month. This is a general guideline and not a hard set value.
 Amounts may vary depending on use and other factors.
+

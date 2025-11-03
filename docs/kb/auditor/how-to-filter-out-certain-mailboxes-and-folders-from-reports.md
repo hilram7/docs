@@ -35,3 +35,4 @@ How do I filter out certain mailboxes and folders from product reports?
 ## Notes
 
 - NOTE: If compression service is not enabled, the `Mailbox_Name/Folder_Name` lines are ignored.
+

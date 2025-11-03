@@ -92,3 +92,4 @@ This condition is set with the **Dictionary** rule.
 ![Enable the sample dictionary](/images/passwordpolicyenforcer/11.0/evaluation/evaldict.webp)
 
 When you have added all the rules, click **Save** to save your new policy.
+

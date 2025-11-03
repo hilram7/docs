@@ -28,3 +28,4 @@ For every **EntityType**, a matching SQL view is created from the UR_Resource ta
 | DisplayName_L1 required | **Type** String **Description** Display name of the task in language 1 (up to 16).                                                                                                        |
 | OpenIdClient required   | **Type** String **Description** Connection client for the task.                                                                                                                           |
 | Identifier optional     | **Type** String **Description** Unique identifier of the task.                                                                                                                            |
+

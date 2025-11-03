@@ -44,3 +44,4 @@ This article outlines the process of adding a VMware vCenter web application (we
    ![User-added image](images/ka04u000000HcZr_0EM4u000004bUlW.png)
 
 4. There should now be a vSphere activity in the Netwrix Privilege Secure Browser Extension, with the ability to select it to create a session (click once) and then launch vSphere (click again).
+

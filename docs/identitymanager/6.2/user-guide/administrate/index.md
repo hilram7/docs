@@ -78,3 +78,4 @@ In the Admin section you can do the following:
 - [Review Assigned Roles](/docs/identitymanager/6.2/user-guide/administrate/assigned-roles/index.md)
 
     How to review user permissions grouped by roles.
+

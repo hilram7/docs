@@ -29,3 +29,4 @@ An Administrator needs to create a new record type.
 2. The logs are compliant.
 
     ![opp_clearance_case2-3](/images/platgovnetsuite/change_management/opp_clearance_case2-3.webp)
+

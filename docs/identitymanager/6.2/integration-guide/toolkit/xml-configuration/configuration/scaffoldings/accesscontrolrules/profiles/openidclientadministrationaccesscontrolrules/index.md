@@ -11,3 +11,4 @@ sidebar_position: 20
 | Property         | Details                                                                                |
 | ---------------- | -------------------------------------------------------------------------------------- |
 | Profile required | **Type** String **Description** Identifier of the profile involved in the scaffolding. |
+

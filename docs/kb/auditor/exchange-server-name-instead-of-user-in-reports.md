@@ -70,3 +70,4 @@ LogLevel : Verbose
 ```
 
 Once `LogLevel` is set to `Verbose`, Netwrix Auditor will receive the `ModifiedProperties` and `ModifiedObjectResolvedName` information and will be able to display the correct user in the **Who changed** column for group membership changes.
+

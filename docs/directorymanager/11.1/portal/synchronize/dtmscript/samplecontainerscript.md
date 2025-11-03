@@ -76,3 +76,4 @@ sidebar_position: 10
     DTM.Result = "CN=Users,DC=dc2000,DC=imanami,DC=biz"
     End If
     ```
+

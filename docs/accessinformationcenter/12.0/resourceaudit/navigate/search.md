@@ -29,3 +29,4 @@ Center user.
 The last searched object is always at the top of the list. A timestamp indicates when the search was
 conducted. The historical searches included within this box were conducted by the logged in Access
 Information Center user.
+

@@ -147,3 +147,4 @@ describes in detail the individual steps, from the initial release request to th
 
 - [Seal overview](/docs/passwordsecure/9.2/configuration/advancedview/permissionconceptandprotective/protectivemechanisms/seals/seal_overview.md)
 - [Release mechanism](/docs/passwordsecure/9.2/configuration/advancedview/permissionconceptandprotective/protectivemechanisms/seals/release_mechanism.md)
+

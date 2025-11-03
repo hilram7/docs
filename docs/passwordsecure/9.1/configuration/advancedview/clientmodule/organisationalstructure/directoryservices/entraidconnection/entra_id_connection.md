@@ -174,3 +174,4 @@ successfully.
 3. Set the checkboxes for "openid" and "profile" just under "OpenId permissions"
 4. Click on "Add permissions"
 5. Click on "Grant admin consent for YOUR_AD_NAME"
+

@@ -74,3 +74,4 @@ On the **License** page in the Configuration Tool, you can view:
 - **Key:** The license key associated with the number.
 - **Licenses:** Number of machines the license covers.
 - **Module:** The licensed module(s). "All" appears if using a full license."
+

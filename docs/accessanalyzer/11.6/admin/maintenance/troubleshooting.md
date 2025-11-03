@@ -81,3 +81,4 @@ Below are two types of FSAA trace logs created while in local, applet, or proxy 
 When running StealthAUDITRPC as a service, the parent trace log reads as:
 
 - StealthAUDITRPC.log
+

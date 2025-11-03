@@ -108,3 +108,4 @@ Virtual deployment is recommended.
 | CPUs               | Any modern CPU (e.g. Intel or AMD 32 bit, 2 GHz) | Any modern 2 CPUs (e.g. Intel Core 2 Duo 2x or 4x 64 bit, 3 GHz) |
 | RAM                | 2 GB                                             | 8 GB                                                             |
 | Disk space         | 200 MB                                           |                                                                  |
+

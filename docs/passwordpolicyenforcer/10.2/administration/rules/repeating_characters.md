@@ -17,3 +17,4 @@ consecutive repeating characters (SssS).
 - Choose the maximum number of consecutive repeating characters that passwords can contain from the
   **consecutive repeating characters** drop-down list.
 - Click the **Messages** tab to customize the Password Policy Client rule inserts.
+

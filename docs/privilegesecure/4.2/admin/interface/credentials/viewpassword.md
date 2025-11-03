@@ -17,3 +17,4 @@ The window has the following features:
 - Eye icon — Reveals the password
 - Copy to Clipboard — Copies the value to the clipboard
 - Cancel — Closes the View Password window
+

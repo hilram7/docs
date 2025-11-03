@@ -54,3 +54,4 @@ Netwrix Directory Manager validates data according to rules for uniqueness and s
 
 ## Applying the Textbox Display Type to a Portal Field
 Apply the textbox display type to a field, such as the *group name* field in the group creation wizard. When a user enters a group name, the portal validates it according to the regular expression and checks for uniqueness in the directory or external data source. The portal displays an error message in real time if the entry does not pass these checks.
+

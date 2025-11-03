@@ -24,3 +24,4 @@ Directory Manager provides the following APIs to perform user-specific functions
 - [Get My Smart Groups](/docs/directorymanager/11.1/APIs/userapis/getmysmartgroups.md)
 - [Get a User](/docs/directorymanager/11.1/APIs/userapis/getuser.md)
 - [Get Users](/docs/directorymanager/11.1/APIs/userapis/getusers.md)
+

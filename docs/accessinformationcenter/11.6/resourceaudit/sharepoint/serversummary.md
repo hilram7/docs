@@ -21,3 +21,4 @@ This report is comprised of the following columns:
 - Sites – Count of sites on the farm/instance
 - Exceptions – Count of exceptions on the farm/instance
 - Last Scanned – Date and timestamp of the last Enterprise Auditor scan
+

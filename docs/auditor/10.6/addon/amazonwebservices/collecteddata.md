@@ -16,3 +16,4 @@ Follow the steps to work with collected data.
 
 You might want to apply a filter to narrow down your search results to the NetwrixAPI data source
 only.
+

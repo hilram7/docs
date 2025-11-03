@@ -27,3 +27,4 @@ IT risk of making changes to the system. For example, they warn you if changing 
 a workflow or a script.
 
 ![drd](/images/platgovsalesforce/customizations/drd.webp)
+

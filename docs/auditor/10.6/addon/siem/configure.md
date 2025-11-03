@@ -46,3 +46,4 @@ This add-on requires you to specify the following parameter:
 | Parameter            | Description                                                                                            | Example                                                                                         |
 | -------------------- | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- |
 | NetwrixPathToCsvData | Specify path to the auxiliary CSV file storing the data of activity records associated with the alert. | `%ProgramData%\Netwrix Auditor\   AuditCore\AuditArchive\   AlertsToolLauncher\   Csv\file.csv` |
+

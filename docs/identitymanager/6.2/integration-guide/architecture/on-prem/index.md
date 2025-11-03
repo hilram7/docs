@@ -33,3 +33,4 @@ The database is a critical item, and thus should be set up with a mirror. The da
 have lower CPU and RAM and be on a different location.
 
 Identity Manager recommends using an incremental backup.
+

@@ -46,3 +46,4 @@ The following are the software requirements for Netwrix Data Classification inst
 
 **Antivirus**
 - Netwrix recommends adding NDC Index files to the list of exclusions (white list) of any installed antivirus. These files have _.CSE_ extension.
+

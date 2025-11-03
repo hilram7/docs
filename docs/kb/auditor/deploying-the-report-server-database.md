@@ -83,3 +83,4 @@ Netwrix Auditor should now be able to process and generate reports.
 
 - SQL Server State-In-Time Reports · v10.6  
   https://docs.netwrix.com/docs/auditor/10_8
+

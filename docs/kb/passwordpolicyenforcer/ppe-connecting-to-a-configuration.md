@@ -49,3 +49,4 @@ A local configuration is used by only one computer, so it does not replicate to 
 Domain configurations are stored in the `CN=Password Policy Enforcer 9.0,CN=System` object.  
 Local configurations are stored in the `HKLM\SOFTWARE\ANIXIS\Password Policy Enforcer 9.0\` registry key.  
 Users with write permission to these objects can configure PPE.
+

@@ -117,3 +117,4 @@ account.
 Manager Action Service in the Services window and clicking Restart.
 
 Once restarted, the Threat Manager Action Service will use the specified service account.
+

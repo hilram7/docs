@@ -25,3 +25,4 @@ Use the following fields to specify the recipient information:
 - Combine multiple messages to a recipient into one message when all recipients are the same –
   Select this option to send only one message to each recipient as a result of this action (even
   recipients who appear more than once in the job results)
+

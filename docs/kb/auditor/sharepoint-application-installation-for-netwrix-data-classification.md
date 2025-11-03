@@ -122,3 +122,4 @@ Please complete the necessary fields. If you are an Office 365 customer you will
 ### If you would like to continue with the deployment of the SharePoint Application:
 
 [Follow this article](https://kb.netwrix.com/5505)
+

@@ -11,3 +11,4 @@ metadata. A binding is a path of scalar/navigation properties used to configure 
 keys.
 
 ## Child Element: Property
+

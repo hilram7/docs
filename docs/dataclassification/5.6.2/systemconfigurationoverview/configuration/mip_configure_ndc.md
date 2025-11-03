@@ -23,3 +23,4 @@ the following steps to enable MIP labels:
 **NOTE:** Any labels and policies in API should be migrated / synced with O365 Security &
 Compliance. Review the following Microsoft article for more information:
 [To migrate Azure Information Protection labels](https://docs.microsoft.com/en-us/azure/information-protection/configure-policy-migrate-labels#to-migrate-azure-information-protection-labels)
+

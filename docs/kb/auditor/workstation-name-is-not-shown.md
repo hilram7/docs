@@ -33,3 +33,4 @@ Because Netwrix Account Lockout Examiner processes Windows security logs, it onl
 [![User-added image](images/ka04u00000118ES_0EM700000004udP.png)](https://netwrix.secure.force.com/kb/servlet/rtaImage?eid=ka40g0000004KSJ&feoid=00N700000032Pj2&refid=0EM700000004udP)
 
 The field can be empty for events where a local computer account was locked out due to a local policy or as a result of computer synchronization with a mobile device.
+

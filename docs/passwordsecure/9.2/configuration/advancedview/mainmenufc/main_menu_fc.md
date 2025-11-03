@@ -21,3 +21,4 @@ This makes it easy to access the settings at any time and in any module.
 - [Administration](/docs/passwordsecure/9.2/configuration/advancedview/mainmenufc/administration.md)
 - [Import](/docs/passwordsecure/9.2/configuration/advancedview/mainmenufc/import.md)
 - [Export](/docs/passwordsecure/9.2/configuration/advancedview/mainmenufc/export/export.md)
+

@@ -126,3 +126,4 @@ arrangement:
   statements and logical connectives
 - Best Fit (all columns) –  Adjusts the width of the columns to display all the data within the
   cells
+

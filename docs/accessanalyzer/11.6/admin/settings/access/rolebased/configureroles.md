@@ -164,3 +164,4 @@ Right-click on the **Security** > **Users** node and select **New User**.
 
 When all of the users have been assigned to the appropriate SQL Server database roles, complete the
 process by assigning users to roles within the Enterprise Auditor Console.
+

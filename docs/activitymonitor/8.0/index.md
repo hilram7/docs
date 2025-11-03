@@ -13,3 +13,4 @@ into a wide spectrum of human and machine data interactions with a standardized 
 to gain deeper visibility into activity associated with the access, use, and modification of data.
 
 See the [Getting Started](/docs/activitymonitor/8.0/gettingstarted.md) topic for additional information.
+

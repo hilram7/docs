@@ -27,3 +27,4 @@ A developer plans to make changes to a Suitelet, including the Suitelet library 
 2. The logs are compliant.
 
     ![opp_clearance_case1-3](/images/platgovnetsuite/change_management/opp_clearance_case1-3.webp)
+

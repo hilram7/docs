@@ -44,3 +44,4 @@ Configure a custom filter using the following format:
 - ARN should follow the format: `arn:aws:s3:::<bucket_name>/<key_name>`
 
 Click **Save** to add the custom filter to the Filter S3 Objects page.
+

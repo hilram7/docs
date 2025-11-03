@@ -38,3 +38,4 @@ process.
 ![emailresponsedeclined2](/images/accessinformationcenter/12.0/resourceowners/email/emailresponsedeclined2.webp)
 
 You can now close the browser window.
+

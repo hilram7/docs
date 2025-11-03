@@ -63,3 +63,4 @@ The buttons below the table enable you to perform the following actions:
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Cancel     | Opens the Cancel Request window. This button is only enabled for a selected pending requests. See the [Cancel Request Window](/docs/accessinformationcenter/12.0/youraccessportal/requesthistory/cancelrequest.md) topic for additional information. |
 | View Notes | Opens the View Notes window for the selected request. Clicking on the Notes icon in the table will also open the View Notes window. Click **OK** to close the window.                       |
+

@@ -66,3 +66,4 @@ In addition to the steps above, consider the following points when adding anothe
 
 - [Security Advisory ADV-2025-004 ⸱ Netwrix &#129125;](https://security.netwrix.com/Advisories/ADV-2025-004)
 - [Security Advisory ADV-2025-013](https://community.netwrix.com/t/adv-2025-013-hard-coded-password-in-netwrix-directory-manager-formerly-imanami-groupid-v10-and-earlier/13945)
+

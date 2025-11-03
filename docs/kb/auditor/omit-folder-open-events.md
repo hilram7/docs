@@ -29,3 +29,4 @@ How to exclude Folder Opened event type from Non-owner Mailbox Access reports?
 3. Find the line `#actFolderOpen`;
 4. Remove the `#` at the beginning of the line to be like that `actFolderOpen` (without quotes);
 5. Save the file.
+

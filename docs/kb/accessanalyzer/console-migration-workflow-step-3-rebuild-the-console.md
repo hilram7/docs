@@ -146,3 +146,4 @@ If using any of the below, please recreate the certificate for the new NAA Conso
 - [Netwrix Access Analyzer for Exchange Online](https://docs.netwrix.com/docs/accessanalyzer/12_0/requirements/exchange/exchangeonline/access)
 - [Secured Published Reports Site (HTTPS)](https://docs.netwrix.com/docs/accessanalyzer/12_0/admin/settings/access/rolebased/securereports)
 - [Secured AIC Site (HTTPS)](https://docs.netwrix.com/docs/accessinformationcenter/12_0/installation/secure)
+

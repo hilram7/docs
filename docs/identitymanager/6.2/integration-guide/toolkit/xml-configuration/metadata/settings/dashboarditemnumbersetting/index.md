@@ -20,3 +20,4 @@ defined, the default value is 3. The value must be greater than 0 and less than 
 | ResourceReconciliationSection optional        | **Type** String **Description** Number of links to display in the Reconciliation Review section. The default value is 3. The value must be greater than 0 and less than or equal to 5. |
 | RoleReconciliationSection optional            | **Type** String **Description** Number of links to display in the Role Reconciliation section. The default value is 3. The value must be greater than 0 and less than or equal to 5.   |
 | RoleReviewSection optional                    | **Type** String **Description** Number of links to display in the Role Review section. The default value is 3. The value must be greater than 0 and less than or equal to 5.           |
+

@@ -30,3 +30,4 @@ For a proper function of the automatic deletion, the following must be defined:
 - all paths where the automatic cleanup of the backup files is to be performed.
 
 ![setup automatic backup cleanup](/images/passwordsecure/9.1/configuration/server_manager/main_menu/backup_settings/automatic_backup_cleanup/automated-deletion-of-backups-2-en.webp)
+

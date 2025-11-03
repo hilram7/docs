@@ -32,3 +32,4 @@ per Device Groups basis – See the [Device Groups](/docs/changetracker/8.0/admi
 ![devices](/images/changetracker/8.0/admin/settings/devices.webp)
 
 Check the Devices tab to ensure that updates have been deployed as expected.
+

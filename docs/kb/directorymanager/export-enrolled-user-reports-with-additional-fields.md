@@ -102,3 +102,4 @@ However, you cannot add additional fields to the exported file using the Passwor
    get-aduser -identity "enter the name of user" -Properties *
    ```
    You can copy any additional attributes you want to include and add them to the export commands above.
+

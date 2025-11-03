@@ -114,3 +114,4 @@ being locked down or blocked.
 | Service Accounts        | AD: Modifications of Service Accounts            | Utilizes built-in "Service Accounts" – Objects Collection. Add service accounts to be monitored to this collection         | None |
 | Service Accounts        | AD: Moves and Renames of Service Accounts        | Utilizes built-in "Service Accounts" – Objects Collection. Add service accounts to be monitored to this collection          | None |
 | Service Accounts        | AD: Password Set on Service Accounts             | Utilizes built-in "Service Accounts" – Objects Collection. Add service accounts to be monitored to this collection          | None |
+

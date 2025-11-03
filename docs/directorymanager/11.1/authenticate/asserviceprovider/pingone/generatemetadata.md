@@ -39,3 +39,4 @@ for this same portal.
 3. The **Client** drop-down list displays the Directory Manager clients for the identity store.
    Select the client for which you have already generated the consumer URL.
 4. Click **Download** to download the metadata file to your machine.
+

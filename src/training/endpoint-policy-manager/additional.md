@@ -12,3 +12,4 @@ This product was formerly named Netwrix PolicyPak.
 
 * Cyber Security Boot Camp: Effectively Enforce a Least Privilege Strategy
 * Netwrix Connect – Endpoint Management: Native and Add-On Tooling to Increase Security
+

@@ -35,3 +35,4 @@ resources are selected to avoid accidentally changing the settings.
 **Step 6 –** Deselect the resources to avoid accidentally changing the settings.
 
 The selected resources are updated to use the specified service account.
+

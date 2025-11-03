@@ -64,3 +64,4 @@ Clear the cache by proceeding as follows:
 2. In the **Data Load** tab, click on **Clear Cache**.
 
     ![Clear Cache](/images/identitymanager/saas/integration-guide/governance/reporting/how-tos/connect-powerbi/powerbi_clearcache.webp)
+

@@ -44,3 +44,4 @@ The Ownership Status section contains a confirmation chart.
 
 It displays a graphical representation of the percentage of resources assigned to you that have been
 confirmed.
+

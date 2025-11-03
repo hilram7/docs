@@ -20,3 +20,4 @@ In this sense, the server service represents the interface between the client an
 The Server Manager is responsible for configuring the server service. It allows the central
 administration of the databases without having access to the SQL server. This is a huge advantage
 with regards to organization and authorizations.
+

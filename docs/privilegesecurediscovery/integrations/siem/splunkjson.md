@@ -102,3 +102,4 @@ reference the Privilege Secureapplication within Splunk.
 
 More information on Splunk source types can be viewed here: 
 [https://docs.splunk.com/Documentation/SplunkCloud/8.2.2203/Data/Whysourcetypesmatter](https://docs.splunk.com/Documentation/SplunkCloud/8.2.2203/Data/Whysourcetypesmatter)
+

@@ -20,3 +20,4 @@ The 6.S3 Permissions job group is comprised of:
   permissions on AWS S3 buckets and bucket objects
 - [AWS_OpenBuckets Job](/docs/accessanalyzer/12.0/solutions/aws/s3permissions/aws_openbuckets.md) – Identifies buckets that have permissions assigned to
   everyone at the top level of the AWS S3 bucket
+

@@ -137,3 +137,4 @@ Use the buttons above the Exclude Perpetrators and Exclude Collections areas to 
   [List of Collections Window](/docs/threatprevention/7.4/admin/configuration/collectionmanager/listcollections.md)
   to the appropriate Collection category.
 - The Remove (x) button deletes the selected item(s) from that box.
+

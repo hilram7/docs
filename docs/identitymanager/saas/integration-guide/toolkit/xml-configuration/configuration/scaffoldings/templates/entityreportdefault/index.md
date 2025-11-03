@@ -25,3 +25,4 @@ The scaffolding generates the following scaffoldings:
 | ------------------- | ------------------------------------------------------------------------------------------ |
 | EntityType required | **Type** String **Description** Identifier of the entity type involved in the scaffolding. |
 | Profile required    | **Type** String **Description** Identifier of the profile involved in the scaffolding.     |
+

@@ -22,3 +22,4 @@ connections to the remote 1433 TCP port. On the computer hosting the default SQL
 | 1433                 | TCP      | Netwrix Cloud Agent | Default SQL Server Instance | Connection to the default named instance server. Port 1433 is the default connections port, however, you can configure another TCP port. |
 | 1434                 | UDP      | Netwrix Cloud Agent | SQL Server Browser Service  | Service that helps to resolve named instance servers                                                                                     |
 | Dynamic: 1024 -65535 | TCP      | Netwrix Cloud Agent | Named SQL Server Instance   | Connection to the named instance servers                                                                                                 |
+

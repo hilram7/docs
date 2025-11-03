@@ -39,3 +39,4 @@ Our example generates the following configuration:
 <AccessControlRule Identifier="Administrator_Job_JobLog" DisplayName_L1="Administrator - Management for Task" DisplayName_L2="Administrator - Gestion des Task" EntityType="Task" Profile="Administrator">  <Entry CanExecute="true" Permission="/Jobs/RunJob/GetLog" /></AccessControlRule>
 
 ```
+

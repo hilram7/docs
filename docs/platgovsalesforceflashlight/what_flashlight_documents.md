@@ -23,3 +23,4 @@ sorted by Type and by Category.
 | Configuration          | Data Quality settings such as Duplicate Rules, Matching Rules, and Validation Rules. Other general settings |
 
 ![Metadata Categories](/images/platgovsalesforceflashlight/metadata_categories_800x511.webp)
+

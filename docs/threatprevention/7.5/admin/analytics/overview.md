@@ -87,3 +87,4 @@ the monitored incidents and configuring the analytic type:
 - [Kerberos Weak Encryption Analytic Type](/docs/threatprevention/7.5/admin/analytics/kerberosweakencryption.md) – Reports on Kerberos tickets
   with RC4_HMAC_MD5 encryption
 - [Forged PAC Analytic Type](/docs/threatprevention/7.5/admin/analytics/forgedpac.md) – Reports on Kerberos tickets with modified PAC
+

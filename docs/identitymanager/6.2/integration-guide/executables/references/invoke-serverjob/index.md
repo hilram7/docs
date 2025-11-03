@@ -36,3 +36,4 @@ To know the task launch orders in job use the following exe: Usercube-Get-Job St
 | --force-synchronization-provisioning (-f) optional | **Type** Int64 **Description** Forces execution when the threshold is reached or exceeded.                                        |
 | --task-type (-c) optional                          | **Type** String **Description** The first task found with this type is launched.                                                  |
 | --task-string-contains (-s) optional               | **Type** String **Description** Launches all tasks with an identifier containing the given value.                                 |
+

@@ -45,3 +45,4 @@ Content Type Extraction Methods.
 | .xml              | XML              |
 | .zip              | Archive          |
 | .7z               | Archive          |
+

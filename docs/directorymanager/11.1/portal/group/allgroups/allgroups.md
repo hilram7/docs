@@ -132,3 +132,4 @@ Step 5 – All active groups that match the specified criterion are displayed.
 Step 6 – You can add additional filters by clicking **Add Filter.**
 
 Step 7 – To undo the filters, click **Reset Filter.** It will remove all the criteria set before.
+

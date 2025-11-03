@@ -44,3 +44,4 @@ Example of `Connect-SIEnterpriseManager` using two of the above parameters:
 
 PowerShell is now ready to manage Threat Prevention policies, collections, EPE settings, and
 integration settings with Netwrix Threat Manager.
+

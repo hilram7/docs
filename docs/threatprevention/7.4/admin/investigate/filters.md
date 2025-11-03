@@ -116,3 +116,4 @@ also clear all filters by clicking the Reset Filters button on the ribbon betwee
 categories and the data grid. Filtered views can also be saved. See the
 [Saved Investigations](/docs/threatprevention/7.4/admin/investigate/saved.md)
 topic for additional information.
+

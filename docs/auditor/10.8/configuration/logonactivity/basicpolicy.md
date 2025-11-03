@@ -32,3 +32,4 @@ the [Configure Advanced Audit Policies](/docs/auditor/10.8/configuration/logonac
 5. Run the following command to update group policy:
 
     `gpupdate /force`
+

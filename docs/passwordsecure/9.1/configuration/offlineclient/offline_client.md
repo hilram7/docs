@@ -58,3 +58,4 @@ not form part of offline databases.
 Otherwise, all records for which the user has the **export right** are synchronised.
 
 Records with **password masking** are adopted into the offline database and can be used as normal.
+

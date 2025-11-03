@@ -149,3 +149,4 @@ can be viewed and actions such as deleting, encrypting or decrypting ﬁles can 
 
 You can apply an action to each item individually or, can select multiple items and apply the action
 simultaneously by using the Choose action button.
+

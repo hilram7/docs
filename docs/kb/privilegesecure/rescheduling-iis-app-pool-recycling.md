@@ -35,3 +35,4 @@ Periodic app pool recycling is a necessary IIS process, and as such the Netwrix 
 4. You can change the default value of `1740 minutes (29 hours)` to **Specific time(s)** in order to recycle the application pool either less frequently, and/or to recycle the application pool during off-peak hours. Click **Next**.
 5. Click **Finish** to save your new app pool recycling schedule.  
    ![image.png](images/ka0Qk0000000zl3_0EM4u000008LyfW.png)
+

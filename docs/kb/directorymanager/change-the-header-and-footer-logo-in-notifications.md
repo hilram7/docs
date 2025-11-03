@@ -59,3 +59,4 @@ WHERE id = 1;
 ```
 
 After executing the query, all future notifications will display the updated image.
+

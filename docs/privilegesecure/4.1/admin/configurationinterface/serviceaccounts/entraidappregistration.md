@@ -100,3 +100,4 @@ in a hybrid Microsoft Entra ID tenant, all attempts to change an account's passw
 Enabling Password Writeback is not specific to Privilege Secure. See the
 [Open Enable Azure Active Directory password writeback](https://docs.microsoft.com/en-us/azure/active-directory/authentication/tutorial-enable-sspr-writeback)
 Microsoft article for additional information.
+

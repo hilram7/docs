@@ -30,3 +30,4 @@ for the Identity Manager application hosted on `usercube.mycompany.com` must us
 endpoints.
 
 The scope to access to the Identity Manager API is `usercube_api`.
+

@@ -63,3 +63,4 @@ entitlements he needs in order to work, but not more to prevent security breache
 ## Next Steps
 
 Let's learn about Identity Manager [Architecture](/docs/identitymanager/6.2/introduction-guide/architecture/index.md).
+

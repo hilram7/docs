@@ -52,3 +52,4 @@ specified in the Group Life Cycle policy for the identity store. The job does no
 that neither has an owner nor a default approver.
 
 Deleted groups are locked for further operations until renewed.
+

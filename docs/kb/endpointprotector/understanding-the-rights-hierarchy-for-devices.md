@@ -41,3 +41,4 @@ The rights hierarchy for devices, from lowest to highest, is as follows:
    ![System Settings page showing precedence configuration for Computer or User Rights](images/ka0Qk000000DzNR_0EMQk00000BmNLl.png)
 
 2. **Custom Classes** have the highest priority and override all other rights. Use Custom Classes to globally set rights for a device or class of devices identified by VID, PID, and Serial Number.
+

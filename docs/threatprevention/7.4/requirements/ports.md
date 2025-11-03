@@ -248,3 +248,4 @@ Manager:
 | Communication Direction        | Protocol | Ports | Description      |
 | --------------- | -------- | ----- | ----------- |
 | Agent Server to Threat Manager | TCP/UDP  | 10001 | Data event stream to Threat Manager |
+

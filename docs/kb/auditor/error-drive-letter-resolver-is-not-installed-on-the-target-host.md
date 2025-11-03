@@ -46,3 +46,4 @@ Consider that using this service will also minimize network load and speed up st
 
 - Monitored Object Types, Actions, and Attributes: File Servers ⸱ v10.5: https://docs.netwrix.com/docs/auditor/10_8
 - Monitored Object Types, Actions, and Attributes: File Servers ⸱ v10.6: https://docs.netwrix.com/docs/auditor/10_8
+

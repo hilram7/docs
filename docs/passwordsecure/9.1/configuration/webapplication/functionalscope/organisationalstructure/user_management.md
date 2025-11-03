@@ -18,3 +18,4 @@ When creating new users, you must pay attention to whether it is a **User (Basic
 **Advanced User (View)**.
 
 ![installation_with_parameters_166](/images/passwordsecure/9.1/configuration/web_applicaiton/functional_scope/organisational_structure/user_management/installation_with_parameters_166.webp)
+

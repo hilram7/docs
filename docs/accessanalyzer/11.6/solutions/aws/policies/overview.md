@@ -29,3 +29,4 @@ The 5.Policies job group is comprised of:
 - [AWS_UserPolicies Job](/docs/accessanalyzer/11.6/solutions/aws/policies/aws_userpolicies.md)
   – Provides details outlining user policy assignment. This includes where the policy is assigned,
   directly or at a group level, and if the policy assignment has been duplicated.
+

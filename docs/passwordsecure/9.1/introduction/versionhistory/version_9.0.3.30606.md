@@ -11,3 +11,4 @@ sidebar_position: 50
 #### DesktopClient
 
 - The PuTTY Client has been updated to version 0.81.
+

@@ -49,3 +49,4 @@ sidebar_position: 80
     [RoleNamingAccessControlRules](/docs/identitymanager/6.1/integration-guide/toolkit/xml-configuration/configuration/scaffoldings/accesscontrolrules/rolemodels/rolenamingaccesscontrolrules/index.md)
     Generates the permissions to configure and launch the automatic creation of roles and rules
     based on naming conventions.
+

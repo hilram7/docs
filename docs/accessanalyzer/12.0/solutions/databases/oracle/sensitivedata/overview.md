@@ -19,3 +19,4 @@ The jobs in the 5.Sensitive Data Job Group are:
 - [Oracle_SensitiveDataPermissions Job](/docs/accessanalyzer/12.0/solutions/databases/oracle/sensitivedata/oracle_sensitivedatapermissions.md) – This job is designed
   to provide all types of permissions on database objects containing sensitive data across all the
   targeted Oracle database servers
+

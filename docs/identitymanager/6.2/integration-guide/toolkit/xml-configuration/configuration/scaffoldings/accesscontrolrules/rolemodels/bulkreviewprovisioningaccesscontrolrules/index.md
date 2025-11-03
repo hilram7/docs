@@ -37,3 +37,4 @@ Our example generates the following configuration:
 <AccessControlRule Identifier="BulkReviewProvisioning_AssignedResourceType_Administrator_Directory_User" DisplayName_L1="Mass reconciliate resources AssignedResourceBinary User" EntityType="AssignedResourceType" Profile="Administrator">  <Entry CanExecute="true" Permission="/Custom/ProvisioningPolicy/BulkReviewProvisioning/Directory_User" /></AccessControlRule><ReviewProvisioningAccessControlRules EntityType="Directory_User" Profile="Administrator"/>
 
 ```
+

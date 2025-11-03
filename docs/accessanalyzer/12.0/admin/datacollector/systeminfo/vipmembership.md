@@ -19,3 +19,4 @@ click **Remove selected**. To clear the list, click **Clear list**.
 To select users or groups to add to the VIPList members table, click **Select users or groups** to
 open the Select User or Group browser window and add a user or group. To import a file, click
 **Import from file** to open the Import File Dialog browser window.
+

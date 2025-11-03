@@ -269,3 +269,4 @@ The filter options and logical operators are:
 - Filter Criteria – The filter criteria (blue text) can be changed by clicking on it and typing in
   the textbox that appears. The Custom Filter builder wildcards can also be used in the Set Filter
   builder.
+

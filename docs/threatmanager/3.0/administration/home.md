@@ -46,3 +46,4 @@ The Home page displays the following tables:
   occurred. Click on the computer to go to the Computer Details page.
 - Watchlist – The Watchlist table displays users with the Watchlist tag and a count of any
   associated threats
+

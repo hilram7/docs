@@ -37,3 +37,4 @@ Our example generates the following configuration:
 <DisplayTable Identifier="Directory_Country" DisplayTableDesignElement="adaptable" EntityType="Directory_Country" IsEntityTypeDefault="true">  <Column CanBeFiltered="true" DisplayBinding="DisplayName" IsDisplayInSummaryView="true" IsResizable="true" IsSortable="true" />  <Column CanBeFiltered="true" DisplayBinding="Identifier" IsDisplayInSummaryView="true" IsResizable="true" IsSortable="true" />  <Column CanBeFiltered="true" DisplayBinding="ISOCode" IsDisplayInSummaryView="true" IsResizable="true" IsSortable="true" /></DisplayTable>
 
 ```
+

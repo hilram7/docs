@@ -25,3 +25,4 @@ When the error occurs, you can view or download the debugging log:
 3. Filter the **Date** to the date specified in the error message.
 4. Filter the **Log Level** to **DEBUG**
 5. Download the log transcript as a CSV file or to Excel using the buttons on the form.
+

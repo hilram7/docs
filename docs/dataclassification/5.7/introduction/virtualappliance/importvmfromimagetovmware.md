@@ -31,3 +31,4 @@ select **File\_\_**>\_**\_Deploy OVF Template**.
 | Ready to Complete    | Review your virtual machine settings. Click Finish to exit the wizard.                                                                                                                                                        |
 
 **Step 3 –** Select the newly created virtual machine and click Power On.
+

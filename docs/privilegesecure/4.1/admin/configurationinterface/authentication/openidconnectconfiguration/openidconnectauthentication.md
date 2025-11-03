@@ -73,3 +73,4 @@ When the user has been created click on their name and you will see the User Det
 
 If the application you want to use is not listed, click the ‘Assign Applications’ button and select
 it.
+

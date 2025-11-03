@@ -17,3 +17,4 @@ Following is the list of reports for this category:
 | --------------------------------------------------------------- | ----------------------------------------------- |
 | Mail-enabled users and contacts with a phone number (Exchange). | Returns all recipients who have a phone number. |
 | User and contacts with a phone number.                          | Returns all recipients who have a phone number. |
+

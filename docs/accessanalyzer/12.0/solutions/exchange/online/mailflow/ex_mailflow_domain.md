@@ -55,3 +55,4 @@ produces the following pre-configured report:
 | Report               | Description                              | Default Tags | Report Elements                                                                                                                              |
 | -------------------- | ---------------------------------------- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | Top Domains By Count | Displays top domains by recipient count. | None         | This report is comprised of two elements: <ul><li>Bar Chart – Displays top domains</li><li>Table – Provides details on top domains</li></ul> |
+

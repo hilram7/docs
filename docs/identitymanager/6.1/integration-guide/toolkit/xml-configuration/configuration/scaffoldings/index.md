@@ -334,3 +334,4 @@ their content in your own configuration.
 - #### [WorkforceModule](/docs/identitymanager/6.1/integration-guide/toolkit/xml-configuration/configuration/scaffoldings/workforce/workforcemodule/index.md)
     Generates the workforce repository based on the data filled in the Workforce Core Solution
     module.
+

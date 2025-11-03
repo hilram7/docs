@@ -82,3 +82,4 @@ The table displays the following information:
 See the
 [User Access Page](/docs/threatprevention/7.4/reportingmodule/configuration/interface/useraccess.md)
 topic for additional information.
+

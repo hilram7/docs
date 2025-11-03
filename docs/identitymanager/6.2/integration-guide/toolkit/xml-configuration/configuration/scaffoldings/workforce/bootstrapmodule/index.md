@@ -8,3 +8,4 @@ sidebar_position: 10
 
 Generates the default settings required to start using Identity Manager and the Workforce Core
 Solution module.
+

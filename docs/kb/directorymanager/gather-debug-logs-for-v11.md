@@ -179,3 +179,4 @@ You can use the Logs Dump feature to collect and dump your required logs to a sp
    - If you select **Event Viewer**, the **Event Logs** list becomes available. Expand the list and select the logs you want to capture. These correspond to logs maintained by Windows Event Viewer.
    - If you select **IIS**, the **Websites** list becomes available. Expand it and select the websites for which you want to collect logs.
 6. Click **Download**. Netwrix Directory Manager will generate a zip file with the selected application log files and download it to your web browser Downloads folder.
+

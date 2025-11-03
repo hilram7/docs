@@ -89,3 +89,4 @@ After installing the URL Rewrite module, perform these steps:
 These steps allow the self-service portal to be accessible via the short URL `http://<servername>` instead of `http://<servername>/pm`.
 
 **NOTE:** If you want to make the self-service portal accessible from an external network, create a DNS alias (CNAME) for the Password Manager self-service portal address. See the Microsoft documentation for details: https://learn.microsoft.com/en-us/windows-server/networking/core-network-guide/cncg/server-certs/create-an-alias-cname-record-in-dns-for-web1
+

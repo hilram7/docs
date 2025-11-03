@@ -40,3 +40,4 @@ time. This should not be viewed as a continuing or reliable view of all errors o
 
 **Yesterday’s Script Errors**: Summary of all the available errors logged in the system for various
 scripts for the previous day.
+

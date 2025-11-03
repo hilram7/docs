@@ -109,3 +109,4 @@ Then, identify which files should be processed via a particular language pack:
 - [Turkish](https://www.netwrix.com/download/products/DDC/TesseractLanguagePacks/tur.traineddata)
 - [Ukrainian](https://www.netwrix.com/download/products/DDC/TesseractLanguagePacks/ukr.traineddata)
 - [Vietnamese](https://www.netwrix.com/download/products/DDC/TesseractLanguagePacks/vie.traineddata)
+

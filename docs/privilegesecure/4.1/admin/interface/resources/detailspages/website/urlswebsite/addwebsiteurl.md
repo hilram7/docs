@@ -39,3 +39,4 @@ Only applicable to Microsoft Entra ID and Website resources.
 **Step 5 –** Click Save to accept changes.
 
 The URL is added to the resource and shown on the URLs tab.
+

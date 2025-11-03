@@ -106,3 +106,4 @@ and _Password_ won't be needed.
 Now, you're all set to start using Identity Manager.
 
 Enjoy the benefits of your new Identity and Access Management solution.
+

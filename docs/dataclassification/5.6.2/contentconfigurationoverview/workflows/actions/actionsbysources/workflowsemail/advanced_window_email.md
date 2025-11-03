@@ -21,3 +21,4 @@ Specify the following settings:
 | **SMTP Config**         | Choose a preconfigured SMTP server to use when sending the email. This also defines who the email will show as being sent from. For more information, see [Email Alert](/docs/dataclassification/5.6.2/contentconfigurationoverview/workflows/actions/actionsbysources/workflowsemail/workflows_email.md) section. |
 | **Subject**             | Specify the template for email subject. The template can contain dynamic values that will be obtained from the crawled content (e.g. _[cs:PageUrl]_). **TIP:** To get the list of available fields, click the **details** link.                                     |
 | **Email Body Template** | Specify the template for email body. The template can contain dynamic values that will be obtained from the crawled content (e.g. _[cs:PageUrl]_). **TIP:** To get the list of available fields, click the **details** link.                                        |
+

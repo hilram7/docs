@@ -33,3 +33,4 @@ You can also use the following option buttons:
 - Run Cleaner—Run built-in tool to automate maintenance operations.
   [See Index Maintenance for more information.](/docs/dataclassification/5.7/systemconfigurationoverview/administration/indexmaintenance/indexmaintenance.md)
 - Reset Cache—Force the QS caches to be reset.
+

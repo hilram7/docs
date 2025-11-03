@@ -180,3 +180,4 @@ You can still use Universal licenses via GPO and/or MDM/XML method. The updated 
 latest CSEs is as follows:
 
 ![840_7_image_950x724](/images/endpointpolicymanager/troubleshooting/license/840_7_image_950x724.webp)
+

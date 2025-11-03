@@ -59,3 +59,4 @@ The paths entered can be file or folder names.
 **Step 7 –** Save the policy.
 
 The NAS paths are now added to the list of paths to be monitored.
+

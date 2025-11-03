@@ -60,3 +60,4 @@ Refer to the following possible causes based on the error description:
 3. Verify the correct SharePoint Central Administration URL is specified in the monitoring plan settings via **Monitoring Plans** > select `%SharePoint_plan%` > **Edit** > select the item and click **Edit item** > modify the **SharePoint Central Administration URL** > click **Save & Close**.
 
 4. Specify one **Host Name** for the Central Administration site in IIS Bindings.
+

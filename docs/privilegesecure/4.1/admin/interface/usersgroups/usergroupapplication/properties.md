@@ -18,3 +18,4 @@ The Properties tab has the following fields:
 - Email — Displays the associated email address, if available
 - SamAccountName — Displays the sAMAccountName for the account
 - User Principal Name — Displays the UPN value for the account
+

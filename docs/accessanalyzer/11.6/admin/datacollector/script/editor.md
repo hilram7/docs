@@ -35,3 +35,4 @@ See the
 and
 [Script Example 2: Command Query](/docs/accessanalyzer/11.6/admin/datacollector/script/example2.md)
 topics for additional information.
+

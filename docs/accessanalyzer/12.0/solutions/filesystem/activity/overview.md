@@ -24,3 +24,4 @@ The 5.Activity job group is comprised of:
   potentially suspicious activity event information from targeted file servers
 - [Usage Statistics Job Group](/docs/accessanalyzer/12.0/solutions/filesystem/activity/usagestatistics/overview.md) – Designed to report on usage statistics
   from targeted file servers
+

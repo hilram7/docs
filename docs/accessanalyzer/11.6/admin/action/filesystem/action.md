@@ -22,3 +22,4 @@ The following options are available:
   from a Enterprise Auditor Console, it remains installed after the action is completed for other
   Enterprise Auditor consoles to perform actions using the same applet service. This setting removes
   the action’s applet service from that host.
+

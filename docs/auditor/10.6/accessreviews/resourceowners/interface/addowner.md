@@ -18,3 +18,4 @@ Enter a name in the search field to find and select users from Active Directory,
 a drop-down menu as you type. If multiple domains are known to the application, ensure the correct
 domain is selected from the drop-down menu. Click **OK** and the Add Owner window closes. The
 selected user appears in the Owner list.
+

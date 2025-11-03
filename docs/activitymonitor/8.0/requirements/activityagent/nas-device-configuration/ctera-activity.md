@@ -187,3 +187,4 @@ Agent, the status changes to ACTIVE. If not, review the error message and check 
 See the
 [Managing the Edge Filer Syslog Service](https://kb.ctera.com/docs/managing-the-edge-filer-syslong-service)
 article in the CTERA Portal Global Administrator Guide for additional information.
+

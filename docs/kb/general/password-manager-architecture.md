@@ -69,3 +69,4 @@ The client part uses web-requests (IE engine) to connect to the Password Manager
 ## Summary
 
 Both Password Manager Client and Web Clients connect to the web service via the HTTP or HTTPS protocol. The web service, in turn, connects to Password Manager Service via the RPC protocol. The Password Manager Service holds a secure profile database in the local file system, and communicates with Active Directory via encrypted LDAP and RPC channels.
+

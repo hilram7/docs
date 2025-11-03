@@ -19,3 +19,4 @@ The categories are:
   associated with certain files and folders in the environment. This option is selected by default.
 - File or Folder Permissions – Scans files or folders for permission settings and effective
   permission results for both users and groups
+

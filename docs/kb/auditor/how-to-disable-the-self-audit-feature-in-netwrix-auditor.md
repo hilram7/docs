@@ -31,3 +31,4 @@ The **Self-Audit** feature enables Netwrix Auditor to keep track of configuratio
 4. Uncheck the box labeled "Collect data for Self-Audit"
 
 Configuration changes will no longer be logged by Netwrix Auditor
+

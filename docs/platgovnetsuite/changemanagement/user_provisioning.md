@@ -106,3 +106,4 @@ Error** field reports the Change Request is in process until all of the runs are
 
 To view the list of all User Access change requests: **Strongpoint** > **Change Management Tools** >
 **User Provisioning Change Request List**.
+

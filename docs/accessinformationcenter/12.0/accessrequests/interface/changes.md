@@ -29,3 +29,4 @@ See the [Data Grid Features](/docs/accessinformationcenter/12.0/admin/navigate/d
 
 
 Click **OK** to close the window.
+

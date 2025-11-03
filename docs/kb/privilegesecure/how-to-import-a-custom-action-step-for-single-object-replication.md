@@ -46,3 +46,4 @@ It can be necessary in certain Active Directory environments to force replicatio
 
 6. In Netwrix Privilege Secure, navigate to **Activities**, select an Activity, and click the green plus sign in either the **Pre-Session** or **Post-Session**. Note that the **Run AD Replication for User** activity step is now available.  
    ![Untitled3.png](images/ka04u000000HdDb_0EM4u000005f40R.png)
+

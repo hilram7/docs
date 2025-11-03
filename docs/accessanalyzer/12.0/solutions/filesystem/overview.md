@@ -145,3 +145,4 @@ When targeting Nasuni Edge Appliances, it is necessary to add a job from the Ins
 and share data from the Nasuni environment. This job should be added to the 0.Collection Job Group
 and should be renamed (0-FS_Nasuni) to run immediately after the 0-Create Schema Job. See the
 [0-FS_Nasuni Job](/docs/accessanalyzer/12.0/solutions/filesystem/collection/0-fs_nasuni.md) topic for additional information.
+

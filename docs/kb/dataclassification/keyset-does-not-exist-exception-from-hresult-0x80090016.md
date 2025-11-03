@@ -60,3 +60,4 @@ You can regenerate these machine keys without reinstalling IIS completely. To do
 4. Keys should be recreated in the `C:\ProgramData\Microsoft\Crypto\RSA\MachineKeys\` folder. Now the IIS App pool user can be changed.
 
 These steps, along with more information, can be found here as well: https://techcommunity.microsoft.com/t5/iis-support-blog/keyset-does-not-exist-exception-from-hresult-0x8009000d-or-or/ba-p/342955
+

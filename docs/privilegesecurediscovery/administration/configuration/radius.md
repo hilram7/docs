@@ -46,3 +46,4 @@ While Privilege Secure is awaiting authentication with RADIUS you will see the b
 ![mceclip6.webp](/images/privilegesecure/4.2/discovery/admin/configuration/360052024333_mceclip6.webp)
 
 Authenticate with your RADIUS 2FA method and you will be logged into Privilege Secure.
+

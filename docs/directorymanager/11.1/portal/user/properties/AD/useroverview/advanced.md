@@ -56,3 +56,4 @@ object/email specified in the Recipient box.
 - When no recipient is set and this check box is cleared, emails are only sent to the mailbox.
 - However, when an email/object is specified in the Recipient box and this check box is cleared,
   emails will not be sent to the mailbox but only to the recipient.
+

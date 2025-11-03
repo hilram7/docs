@@ -133,3 +133,4 @@ Data protection can be ensured through:
 
 - [Connection](/docs/identitymanager/saas/integration-guide/toolkit/xml-configuration/connectors/connection/index.md) able to store
   Home Folder's `Login` and `Password`.
+

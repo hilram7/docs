@@ -115,3 +115,4 @@ Protect agent/server communication by proceeding as follows:
     > ```xml
     > <OpenIdClient Identifier="Job" HashedSecret="K7gNU3sdo+OL0wNhqoVWhr3g6s1xYv72ol/pe/Unols=" DisplayName_L1="Permissions for jobs" Profile="Administrator" />
     > ```
+

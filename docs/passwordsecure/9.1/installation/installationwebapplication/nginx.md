@@ -48,3 +48,4 @@ for the entry `server { }`. The configuration for the Server Manager is then add
 server is restarted using the command systemctl restart nginx.
 
 The Web Application is now ready to use and can be directly started.
+

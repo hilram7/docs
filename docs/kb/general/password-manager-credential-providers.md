@@ -53,3 +53,4 @@ This credential provider is called Netwrix Password Manager Credential Provider 
 ## Important deployment notes
 
 An important note is that when you deploy a link, if there is another 3rd party credential provider, or a Credential Provider Filter put into the system, there might be conflicts, and this may lead to issues with the logon screen when no actual logon providers are present. That is why we recommend installing the link only to brand new machines without any software that puts its own credential providers (like fingerprint scanners, etc).
+

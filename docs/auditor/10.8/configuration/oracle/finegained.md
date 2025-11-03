@@ -28,3 +28,4 @@ Below is an example of Fine Grained audit policy that enables auditing of audit 
 
 Refer to Oracle documentation for additional information on
 [Working with Oracle Fine Grained Auditing](https://docs.oracle.com/cd/F28299_01/pt857pbr3/eng/pt/tadm/task_WorkingwithOracleFineGrainedAuditing-4f7f7a.html?pli=ul_d90e208_tadm#working-with-oracle-fine-grained-auditing).
+

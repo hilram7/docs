@@ -42,3 +42,4 @@ preconfigured for this job.
   under the job’s Results node
 - AIC Certificate Permissions Import – Creates an interim processing table in the database for use
   by downstream analysis and report generation
+

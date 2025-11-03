@@ -17,3 +17,4 @@ synchronization.
 | Fulfill                 | Usercube-Fulfill-ServiceNow.dll |
 | Has Incremental Mode    | True                            |
 | Publisher               | Identity Manager                |
+

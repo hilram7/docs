@@ -54,3 +54,4 @@ Enter **Export Object Attachments** in the **Search Salesforce** entry box on th
     ![Add Export Object Attachments to your menu bar in Classic view](/images/platgovsalesforce/tools/export_object_attach_record_tab_classic.webp)
 
 4. Click **Save**.
+

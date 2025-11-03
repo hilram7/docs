@@ -35,3 +35,4 @@ https://kb.netwrix.com/wp-content/uploads/2013/12/Remove.zip
 The script requires a list of servers in a text file as input.
 
 Example: `.Remove.ps1 -list D:Servers.txt`
+

@@ -32,3 +32,4 @@ It may happen when records contain language symbols different from Latin charact
 ---
 
 I n order to resolve this issue change the encoding in your email client or browser to Unicode (UTF-8).
+

@@ -26,3 +26,4 @@ Click Next to proceed. See also:
 - [Security](/docs/dataclassification/5.6.2/deployment/initialconfig/initial_config_users.md)
 - [Configure Health Alerting](/docs/dataclassification/5.6.2/deployment/initialconfig/initial_config_health.md)
 - [Review Your Configuration](/docs/dataclassification/5.6.2/deployment/initialconfig/initial_config_summary.md)
+

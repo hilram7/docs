@@ -67,3 +67,4 @@ The Client Secret expires after 72 hours. The access token expires after 1 hour 
 can request a refresh token. See the
 [Use the Client Credentials to Grant a Refesh Token](/docs/accessanalyzer/12.0/admin/settings/access/restapi/refreshtoken.md) topic for additional
 information.
+

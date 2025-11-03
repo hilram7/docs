@@ -37,3 +37,4 @@ Mandatory Ports/firewall rules
 - Port 11018 for real-time updating (outgoing)
 - (Optional) Port 11019 for using Password Secure as Identity Provider (SAML) (outgoing)
 - (Optional) Port 11015 for Entra ID SCIM provisioning (outgoing)
+

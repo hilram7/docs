@@ -13,3 +13,4 @@ on the Input page. See the [Change Detection: Input](/docs/accessanalyzer/12.0/a
 ![Change Detection Data Analysis Module wizard Unique Key page](/images/accessanalyzer/12.0/admin/analysis/changedetection/uniquekey.webp)
 
 Select one or more fields to form a unique key for the selected table and its columns.
+

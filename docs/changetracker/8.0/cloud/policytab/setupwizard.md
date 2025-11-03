@@ -134,3 +134,4 @@ environments.
 PowerShell NETCore command prompt (PowerShell 7(x64) Start menu item, Run As Administrator):
 
 Install-Module -name Az -`scope` AllUsers
+

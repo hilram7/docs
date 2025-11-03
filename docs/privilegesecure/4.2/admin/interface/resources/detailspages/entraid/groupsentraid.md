@@ -23,3 +23,4 @@ The table has the following columns:
 - Group Name — Displays the name of the group
 
 The table columns can be resized and sorted in ascending or descending order.
+

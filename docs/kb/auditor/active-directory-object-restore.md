@@ -45,3 +45,4 @@ The account used for recovery and restore is the same account used for data coll
 ## Related Link
 
 - Object Restore for Active Directory
+

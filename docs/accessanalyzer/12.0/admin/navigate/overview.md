@@ -26,3 +26,4 @@ The primary sections of the Access Analyzer Console are:
 Access Analyzer Data Grids also have specific navigation options that enable users to filter, group,
 and search through data. See the [Data Grid Functionality](/docs/accessanalyzer/12.0/admin/navigate/datagrid.md) topic for additional
 information.
+

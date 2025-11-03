@@ -28,3 +28,4 @@ The Options page provides format options for returned data. It is a wizard page 
         - Delimiter – Symbol used to separate values in the cell
 
     - First value only – Only the first value is listed in the cell
+

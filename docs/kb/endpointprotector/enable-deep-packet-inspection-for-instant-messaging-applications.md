@@ -62,3 +62,4 @@ The Netwrix Endpoint Protector (EPP) Client can inspect text written in instant 
 4. Save the policy.
 
 ![Content Aware Policies configuration with instant messaging apps selected](images/ka0Qk000000DzDl_0EMQk00000BuWID.png)
+

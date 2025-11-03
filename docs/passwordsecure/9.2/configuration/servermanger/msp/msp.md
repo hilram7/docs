@@ -13,3 +13,4 @@ software.
 We are pleased that you have chosen Netwrix Password Secure for your password protection needs.
 
 We hope you enjoy discovering your new password manager!
+

@@ -83,3 +83,4 @@ Individual users can personalize all except the _Display Nested Ownership_ setti
     - To manage other settings, see the Miscellaneous table.
 
 5. Click **Save**.
+

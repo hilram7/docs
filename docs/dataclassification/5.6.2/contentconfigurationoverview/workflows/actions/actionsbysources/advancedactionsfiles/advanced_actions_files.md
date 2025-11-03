@@ -27,3 +27,4 @@ To configure actions for file systems using the Advanced interface:
    Action Type list.
 
 ![action_advanced_file_update_mip_thumb_0_0](/images/dataclassification/5.6.2/workflows/advanced_window/action_advanced_file_update_mip_thumb_0_0.webp)
+

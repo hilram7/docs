@@ -39,3 +39,4 @@ Your policy is created. The policy settings are opened, showing the first item o
 **Step 6 –** Click the context menu (beside the policy name and select **Make default**.
 
 ![Make the policy the default](/images/passwordpolicyenforcer/11.1/evaluation/evaldefault.webp)
+

@@ -60,3 +60,4 @@ By default, users can choose from several security types when creating a group i
     ![Visibility Role drop-down list in Edit Field dialog box](images/ka0Qk000000CsSr_0EMQk00000BP3pB.png)
 
 11. Click **OK** to close the dialog boxes then save your changes.
+

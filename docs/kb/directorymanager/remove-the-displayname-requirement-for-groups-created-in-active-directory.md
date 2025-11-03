@@ -61,3 +61,4 @@ This article describes a workaround that allows you to save changes to these gro
 7. Click all **OK** buttons to save your changes, then log in to your portal. You should now be able to save changes to a group even if the **displayName** attribute is not populated.
 
 8. To apply this change to Smart Groups, set the **Directory Object** to **SmartGroup** in step 3 then complete the remainder of the steps.
+

@@ -43,3 +43,4 @@ The details page has the following tabs:
 - [Sessions Tab for Website](/docs/privilegesecure/4.1/admin/interface/resources/detailspages/website/sessionswebsite.md)
 - [Access Policies Tab for Website](/docs/privilegesecure/4.1/admin/interface/resources/detailspages/website/accesspolicieswebsite.md)
 - [History Tab for Website](/docs/privilegesecure/4.1/admin/interface/resources/detailspages/website/historywebsite.md)
+

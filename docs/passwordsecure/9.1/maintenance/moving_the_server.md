@@ -104,3 +104,4 @@ Finally, the database is integrated onto the server via the database wizard.
 
 If the IP and/or host name for the server has changed, it is necessary to create/roll out new
 database profiles from the client.
+

@@ -70,3 +70,4 @@ http://technet.microsoft.com/en-us/library/cc778248(v=ws.10).aspx
 ## Notes about Chrome
 
 Chrome automatically maintains friendly errors, and disables them for error messages bigger than 512 bytes in size. It is recommended to use Internet Explorer to view the error code.
+

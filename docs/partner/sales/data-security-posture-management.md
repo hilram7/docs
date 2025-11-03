@@ -31,3 +31,4 @@ Key topics include:
 * A breakdown of the buying team.
 * High probability targets and discovery insights.
 * How to position the value of the solution.
+

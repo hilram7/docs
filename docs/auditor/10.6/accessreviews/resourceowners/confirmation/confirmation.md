@@ -35,3 +35,4 @@ until the assigned Primary owner replies.
 See the
 [Confirm Ownership Wizard](/docs/auditor/10.6/accessreviews/resourceowners/confirmation/confirm.md)
 topic for additional information.
+

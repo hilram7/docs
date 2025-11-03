@@ -47,3 +47,4 @@ the pages in the wizard, which change based on the operation selected on the Ope
 ![New Mailbox Action Wizard Welcome page](/images/accessanalyzer/11.6/admin/action/mailbox/welcome.webp)
 
 To proceed, click **Next** or use the Steps navigation pane to open another page in the wizard.
+

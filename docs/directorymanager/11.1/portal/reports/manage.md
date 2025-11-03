@@ -77,3 +77,4 @@ report you generated and click on the template that you used.
 The template page will list the generated report.
 
 Step 3 – Click the **Delete** button next to the report. It will permanently delete the report.
+

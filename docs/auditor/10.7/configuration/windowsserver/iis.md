@@ -23,3 +23,4 @@ To configure the Operational log size and retention method
 5. Set **Maximum log size** to 4 GB.
 6. Make sure **Do not overwrite events (Clear logs manually)** is cleared. If selected, change the
    retention method to **Overwrite events as needed (oldest events first)**.
+

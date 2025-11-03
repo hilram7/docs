@@ -41,3 +41,4 @@ Settings
 
 - The desktop notifications display various information, such as when data is entered
 - Start with Windows includes the Autofill Add-on in the autostart menu
+

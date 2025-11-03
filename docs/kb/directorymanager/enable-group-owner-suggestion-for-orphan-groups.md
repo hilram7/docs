@@ -52,3 +52,4 @@ There are two ways to address Orphan Groups:
 4. Click **Make Owner** to set the suggested user as the group's primary owner.  
 5. To view more options before setting an owner, click **Show more options** to see a list of suggested owners.  
 6. After making your selection, click **Save** to apply the changes.
+

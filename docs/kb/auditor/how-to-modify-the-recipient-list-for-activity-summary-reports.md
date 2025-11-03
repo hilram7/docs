@@ -33,3 +33,4 @@ To change the recipients for Change Summary reports, please do following:
 5. Click the **Notifications Tab**  
 6. Choose **Add Recipient** and enter any new recipients  
 7. Click the `x` next to their email to remove them from the list
+

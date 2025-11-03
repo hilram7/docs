@@ -14,3 +14,4 @@ Choose your preferred integration method:
 - [Microsoft Entra ID connection](/docs/passwordsecure/9.2/configuration/advancedview/clientmodule/organisationalstructure/directoryservices/entraidconnection/entra_id_connection.md)
 
 - [Active Directory link](/docs/passwordsecure/9.2/configuration/advancedview/clientmodule/organisationalstructure/directoryservices/activedirectorylink/active_directory_link.md)
+

@@ -74,3 +74,4 @@ the server’s interface to adjust security rules and respond to incidents as th
 - Remote Users – Remote employees access the network through secure channels via the
   firewall/gateway. Their activities are also monitored by Endpoint Protector to ensure consistent
   enforcement of policies.
+

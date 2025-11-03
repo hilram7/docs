@@ -45,3 +45,4 @@ https://myapps.microsoft.com
 
 Step 2 – Click the Directory Manager app that we created to work with the _Wizard_ portal for single
 sign-on; it will redirect you to your portal.
+

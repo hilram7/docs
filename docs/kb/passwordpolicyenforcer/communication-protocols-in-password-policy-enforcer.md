@@ -47,3 +47,4 @@ Refer to the following steps to set up PPE to use one of the available communica
 4. In the left pane, proceed to **Computer Configuration** > **Policies** > **Administrative Templates** > **Netwrix Password Policy Enforcer** > **Netwrix Password Policy Client**.
 5. Right-click the **Communication settings** setting and select **Edit**.
 6. Switch the **Type of communication** value to **RPC** and click **OK** to save changes.
+

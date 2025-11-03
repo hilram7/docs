@@ -69,3 +69,4 @@ You can customize the following for a portal:
 
 - [Display Type Categories](/docs/directorymanager/11.0/signin/applications/portal/categories/categories.md)
 - [Define Custom Display Types](/docs/directorymanager/11.0/signin/applications/portal/categories/custom.md)
+

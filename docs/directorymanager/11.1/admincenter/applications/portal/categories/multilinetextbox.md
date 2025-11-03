@@ -43,3 +43,4 @@ many rows as required while entering data.
    the _Enter_ key to add as many rows as required while entering data.
 8. Click **OK**.
 9. Click Save on the **Custom Display Types** page.
+

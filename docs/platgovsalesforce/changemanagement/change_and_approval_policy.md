@@ -63,3 +63,4 @@ as non-compliant. An alert is sent to the Object owners notifying them of the no
 6. **Change Reporting and Resolution**: Platform Governance for Salesforce provides predefined
    [reports](/docs/platgovsalesforce/changemanagement/change_management_reports.md) you can review as part of your regular Change Management
    Process.
+

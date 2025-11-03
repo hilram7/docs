@@ -18,3 +18,4 @@ cluster should also follow the same sizing for each node:
 | `<500`     | 250 GB                          |
 | 500 - 5000 | 500 GB                          |
 | `>5000`    | 1 TB                            |
+

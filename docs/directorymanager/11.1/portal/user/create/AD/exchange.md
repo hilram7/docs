@@ -19,3 +19,4 @@ The subscription list is displayed when Office 365 is configured as the messagin
 identity store.
 
 Step 4 – Click **Next**.
+

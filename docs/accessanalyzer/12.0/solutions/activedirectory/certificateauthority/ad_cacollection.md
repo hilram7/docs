@@ -55,3 +55,4 @@ The default analysis tasks are:
 - Certificate OIDs – Certificate templates split out with OIDs
 - Template Flags – Enumerates flags on certificate templates. Creates the
   SA_AD_CertificateConfiguration_Flags view accessible under the job’s Results node.
+

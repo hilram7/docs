@@ -131,3 +131,4 @@ For example:
 
 In the example above, if "`%samaccountname%`" normally evaluates to "jsmith" then the return value
 of the `substr()` function will be "mith"
+

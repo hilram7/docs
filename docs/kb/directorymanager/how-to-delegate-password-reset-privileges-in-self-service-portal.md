@@ -41,3 +41,4 @@ This article explains how to delegate the password reset function to users in th
 
 ## Impact on the Self-Service Portal
 In the Self-Service portal, the **Reset Password** node will be visible to the selected role and to roles with a higher priority value.
+

@@ -38,3 +38,4 @@ cmd /C %systemroot%\system32\inetsrv\appcmd list VDIR /text:VDIR.NAME
 
 The Agent will only trust a signed **Configuration Template** issued from its assigned Hub. Please
 contact [Netwrix Support](https://www.netwrix.com/support.html) for additional information.
+

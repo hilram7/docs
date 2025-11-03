@@ -100,3 +100,4 @@ Server backup and restore can be accomplished through the following interfaces:
     - Configure backup settings for domain controllers
     - Restore one or more domain controllers in a forest by following the steps in the
       [Create a Recovery Playbook](/docs/recoveryforactivedirectory/2.6/admin/forest/recover.md#create-a-recovery-playbook) topic
+

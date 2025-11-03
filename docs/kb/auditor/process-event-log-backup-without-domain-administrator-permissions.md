@@ -47,3 +47,4 @@ If you have many Domain Controllers, create a Group Policy to apply these settin
 12. Select **Update** in the **Action** drop-down menu, specify **Share name** (for example, EventLogs), specify the following folder in the **Folder Path** area: `C:\Windows\System32\winevt\Logs`, and press **OK**
 
 After replication, all your Domain Controllers will have the Event Logs shared folder with event logs in it and Netwrix Auditor will be able to process backups.
+

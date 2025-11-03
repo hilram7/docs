@@ -96,3 +96,4 @@ kept clean, efficient operation with the filter is ensured. It is important that
 trained in the correct handling of the filter tool as well as when creating the records. Workshops
 show the best success rate in this context. If you require further information, contact us under
 mail to: sales@passwordsafe.de.
+

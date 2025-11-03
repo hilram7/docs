@@ -106,3 +106,4 @@ information.
 See the
 [Permissions for SharePoint Online Auditing ](/docs/auditor/10.7/configuration/microsoft365/sharepointonline/permissions/permissions.md)topic
 for additional information.
+

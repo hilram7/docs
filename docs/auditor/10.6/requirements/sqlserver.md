@@ -303,3 +303,4 @@ to **SQL Server Logins**, expand the **Security** > **Logins** node, right-click
 If you need to migrate the Audit Database, see the
 [How to Migrate Netwrix Auditor Databases to Another SQL Server Instance](https://helpcenter.netwrix.com/bundle/z-kb-articles-salesforce/page/kA00g000000Pbd8CAC.html)
 knowledge base article.
+

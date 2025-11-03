@@ -50,3 +50,4 @@ Registry Action Module before proceeding.
 ![Registry Action Module Wizard Welcome page](/images/accessanalyzer/11.6/admin/action/registry/welcome.webp)
 
 To proceed, click Next or use the Steps navigation pane to open another page in the wizard.
+

@@ -30,3 +30,4 @@ This window has the following options:
 **Password Test Result - Does Not Pass**
 
 ![passwordtestfailed](/images/threatprevention/7.5/admin/policies/eventtype/window/passwordtestfailed.webp)
+

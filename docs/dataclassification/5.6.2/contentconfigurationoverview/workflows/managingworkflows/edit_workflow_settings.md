@@ -14,3 +14,4 @@ To edit the workflow settings, do the following:
    conditions and actions, as described in the Configuring Workflows Using Advanced Dialog section.
 
 ![add_workflows_rules_list_thumb_0_0](/images/dataclassification/5.6.2/workflows/add_workflows_rules_list_thumb_0_0.webp)
+

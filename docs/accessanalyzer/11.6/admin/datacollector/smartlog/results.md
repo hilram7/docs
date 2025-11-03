@@ -15,3 +15,4 @@ query.
 Click **Check all** to select all properties, **Uncheck all** to deselect all properties, or **Reset
 Defaults** to return to the default settings. Available properties vary based on the category
 selected.
+

@@ -65,3 +65,4 @@ The following example disables the counters that are usually visible on the dash
 | Preview optional                                 | **Type** String **Description** Documentation unavailable.                                                                                                                                                                        |
 | PrimaryColor optional                            | **Type** String **Description** HEX code of the color for the highlighted buttons.                                                                                                                                                |
 | SecondaryColor optional                          | **Type** String **Description** HEX code of the color for the background of the authentication screen.                                                                                                                            |
+

@@ -172,3 +172,4 @@ You can activate the connector again at any time using the same button.
 
 Once the connector has been created, you can start
 [configuring synchronization](/docs/identitymanager/6.1/user-guide/set-up/synchronization/index.md).
+

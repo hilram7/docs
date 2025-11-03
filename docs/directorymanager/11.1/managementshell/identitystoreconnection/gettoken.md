@@ -42,3 +42,4 @@ credentials in an environment variable.
 ```
 Get-Token -AuthenticationMode 2 -IdentityStoreId 2 -Credential $Cred
 ```
+

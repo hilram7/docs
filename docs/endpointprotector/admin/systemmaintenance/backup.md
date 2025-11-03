@@ -172,3 +172,4 @@ should be turned off. Its IP would then have to be reassigned to the new Applian
 deployed Endpoint Protector Clients to start communicating with the new Appliance.
 
 ![Importing and Restore (Migrate)](importingrestore.webp)
+

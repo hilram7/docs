@@ -179,3 +179,5 @@ Your screen should look identical to the one below.
 **Step 18 –** In the Settings window select**User and System processes**  and click **Finish**.
 
 ![844_27_image-20210705210753-27](/images/endpointpolicymanager/leastprivilege/securerun/844_27_image-20210705210753-27.webp)
+
+

@@ -146,3 +146,4 @@ NOTE: For your convenience, the scopes are listed as comma-delimited. Google spl
 5. IMPORTANT! **Configure scope** – add your shared and/or personal Google Drives to the list. You can use a wildcard (`*`) if you want to crawl all drives in your Google Drive.
 
 NOTE: By default, Netwrix Cloud Permission Analyzer collects Google Drive data once a day. If you modify your Google Drive configuration and save your changes, the product initiates data collection automatically.
+

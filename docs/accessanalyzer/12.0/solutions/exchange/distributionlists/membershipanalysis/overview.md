@@ -24,3 +24,4 @@ The jobs in the Membership Analysis job group are:
   groups
 - [EX_StaleGroups Job](/docs/accessanalyzer/12.0/solutions/exchange/distributionlists/membershipanalysis/ex_stalegroups.md) – Identifies potentially stale distribution groups based
   on the last domain logon of the members. These groups should be reviewed and cleaned up.
+

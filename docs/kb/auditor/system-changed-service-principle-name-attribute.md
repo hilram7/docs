@@ -51,3 +51,4 @@ Since the Service Principle Name attribute is changed only for system purpose, y
 ```
 
 For additional information on Service Principal Name attribute, refer to the following articles: [Service-Principal-Name Attribute](https://learn.microsoft.com/en-us/windows/win32/adschema/a-serviceprincipalname?redirectedfrom=MSDN), [Service Principal Names](https://learn.microsoft.com/en-us/windows/win32/ad/service-principal-names?redirectedfrom=MSDN) and [Service Principal Names (previous documentation)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-2000-server/cc961723(v=technet.10)?redirectedfrom=MSDN).
+

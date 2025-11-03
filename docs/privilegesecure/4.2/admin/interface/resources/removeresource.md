@@ -40,3 +40,4 @@ will not prevent the resource from being synced or added again.
 **Step 6 –** Click **Okay** to remove the selected resource(s).
 
 The resource has been removed from the Resource page.
+

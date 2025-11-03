@@ -74,3 +74,4 @@ The general workflow stages are as follows:
 - To enable historical data analysis, Netwrix Auditor can extract data from the repository and
   import it to the Audit database, where it becomes available for search queries and report
   generation.
+

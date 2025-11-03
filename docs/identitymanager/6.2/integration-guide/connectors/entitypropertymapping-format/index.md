@@ -155,3 +155,4 @@ The fulfillment will use the same format defined in the EntityTypeMapping throug
 declared in the ResourceType.
 
 ![Export and Fulfill Data transformation](/images/identitymanager/saas/integration-guide/connectors/entitypropertymapping-format/entitypropertymapping-format-flowchart.webp)
+

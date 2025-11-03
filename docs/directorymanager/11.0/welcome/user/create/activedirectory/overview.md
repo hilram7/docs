@@ -15,3 +15,4 @@ In an Active Directory identity stores, you can create the following types of us
 See Also
 
 - [User Management](/docs/directorymanager/11.0/welcome/user/overview.md)
+

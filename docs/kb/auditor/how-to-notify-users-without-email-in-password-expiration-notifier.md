@@ -38,3 +38,4 @@ To notify the user, PEN uses the `mail` LDAP attribute assigned to the target ac
 The specified email should now receive reports on expiring passwords.
 
 > **IMPORTANT:** In the described scenario, PEN uses the SMTP server specified in the **Notifications** tab to send notifications to external email addresses. The SMTP server must have a correctly configured relay service to send emails to external mailboxes.
+

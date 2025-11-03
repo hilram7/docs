@@ -17,3 +17,4 @@ Data from the selected categories will be removed from the Enterprise Auditor da
 - Audits
 - Sensitive Data
 - Orphaned Rows
+

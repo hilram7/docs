@@ -133,3 +133,4 @@ sudo docker exec -it $(sudo docker ps | grep mongo | cut -d' ' -f1) mongo Secure
 - Ensure quarterly meeting to review updates to Privilege Secure version and OS patches/updates.
 - Patches can be applied monthly. The Customer Success team can be contacted prior to updates to
   ensure no known issues.
+

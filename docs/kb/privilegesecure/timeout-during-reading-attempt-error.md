@@ -45,3 +45,4 @@ Adjust the timeout setting to prevent the synchronization from being interrupted
 2. Run the `NPS.DbCfg.exe` tool.
 3. Locate the **Command Timeout** line and increase the value to `3600`. The extended timeout should allow the Entra ID synchronization to complete.
 4. Click **Save** to save changes.
+

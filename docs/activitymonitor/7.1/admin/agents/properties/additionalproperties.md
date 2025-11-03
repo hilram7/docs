@@ -85,3 +85,4 @@ The Additional Properties tab for the Linux Agent has the following configuratio
 
 Click **OK** to commit the modifications. Click **Cancel** to discard the modifications. The Agent
 Properties window closes.
+

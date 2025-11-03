@@ -161,3 +161,4 @@ information.
 [Integration with Other Netwrix Products](/docs/threatmanager/3.0/install/integration/overview.md) topic for additional information.
 
 **Step 5 –** Delete the old, deprecated app token.
+

@@ -42,3 +42,4 @@ The default analysis task is:
 
 - Creates Samba Parameters table from scan results – Creates the SA_UX_Sharing_SambaParameters table
   accessible under the job’s Results node
+

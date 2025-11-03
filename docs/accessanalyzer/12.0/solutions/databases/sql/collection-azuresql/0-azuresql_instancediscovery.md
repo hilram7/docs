@@ -35,3 +35,4 @@ preconfigured for this job.
 The default analysis tasks is:
 
 - SQL Instances — Brings SA_SQL_Instances table to view
+

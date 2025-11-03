@@ -206,3 +206,5 @@ elevated, not just the installers for the actual applications themselves.
 I hope this clears up some things and helps you get started doing best practice with Least Privilege
 Manager.  
 Thanks so much.
+
+

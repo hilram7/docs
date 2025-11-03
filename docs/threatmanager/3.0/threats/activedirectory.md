@@ -116,3 +116,4 @@ An account is only vulnerable to Kerberoasting attacks if it has a service princ
 ## Zerologon Exploitation
 
 CVE-2020-1472 (a.k.a. "Zerologon") is an elevation of privilege vulnerability that allows an unauthenticated attacker to escalate their privileges to domain administrator by exploiting a flaw in the Netlogon Remote Protocol (MS-NRPC). To exploit this vulnerability, an attacker requires only the ability to communicate over the MS-NRPC protocol to a domain controller. 
+

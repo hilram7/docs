@@ -18,3 +18,4 @@ Exports data from a SAP ASE database.
 | Publisher               | Identity Manager                      |
 | ProviderClassFullName   | AdoNetCore.AseClient.AseClientFactory |
 | ProviderDllName         | AdoNetCore.AseClient.dll              |
+

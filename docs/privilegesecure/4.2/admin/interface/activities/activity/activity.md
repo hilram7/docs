@@ -54,3 +54,4 @@ options include:
   may be paired with a corresponding Pre-Session action.
 
 The new activity is added to the console and is shown in the Activities list.
+

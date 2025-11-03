@@ -89,3 +89,4 @@ access.
 A resource description can be supplied by either the Ownership Administrator or the assigned owner,
 and is visible during Resource Review creation. It is visible to the owner in the Owner portal, and
 it is to an Access Requester in the Your Access portal.
+

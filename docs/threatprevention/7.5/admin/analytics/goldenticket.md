@@ -140,3 +140,4 @@ The top data grid includes the following information for each incident:
 
 This data grid employs features for sorting, filtering, searching, and more. See the
 [ Data Grid Functionality](/docs/threatprevention/7.5/admin/navigation/datagrid.md) topic for additional information.
+

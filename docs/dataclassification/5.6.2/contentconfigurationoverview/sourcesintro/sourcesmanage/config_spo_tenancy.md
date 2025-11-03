@@ -34,3 +34,4 @@ step-by-step instructions in order to configure a whole tenancy for collection.
 5. Define the required Classification Template, as well as the Detection Period which defines how
    often we will detect new site collections
 6. Select Save.
+

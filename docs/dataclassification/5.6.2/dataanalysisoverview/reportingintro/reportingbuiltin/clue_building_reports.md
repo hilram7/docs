@@ -16,3 +16,4 @@ Review the list of the built-in clue building reports:
 - Clue Coverage—Provides a report on the usage of clues within classification tagging. Assists in
   highlighting clues that are not aiding the classification process, or clues that are too vague.
   Supports filtering by URL and source group.
+

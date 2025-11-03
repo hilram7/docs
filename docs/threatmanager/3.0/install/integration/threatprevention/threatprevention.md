@@ -24,3 +24,4 @@ policy. It is necessary for the policy to be configured to exclude domain contro
 
 Threat Prevention v7.2+ supports sending events to Threat Manager utilizing Protobuf, which allows
 for higher performance event delivery to Threat Manager.
+

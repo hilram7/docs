@@ -42,3 +42,4 @@ click **+ New**.
 **Step 6 –** On the General tab, add a name and then upload the package `EndpointProtector.pkg`.
 
 ![Uploading the new Package](newpackage.webp)
+

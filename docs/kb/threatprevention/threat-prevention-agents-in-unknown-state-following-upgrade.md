@@ -38,3 +38,4 @@ When installing the newer version of Netwrix Threat Prevention, the installer di
 2. Enable the Pre-7.3.5 port for the port used previously (default of `3739`) in the `SIEnterpriseManager.exe.config`.
 
 Further information on mixed version mode and the different configuration options can be found [here](https://support.stealthbits.com/hc/en-us/articles/4408149584020).
+

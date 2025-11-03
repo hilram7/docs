@@ -32,3 +32,4 @@ Remember to do the following:
 - Configure a Data Collecting Account as described in the
   [Permissions for SQL Server Auditing](/docs/1secure/configuration/sqlserver/permissions.md) topic.
 - Configure ports as described in the [SQL Server Ports](/docs/1secure/configuration/sqlserver/ports.md) topic.
+

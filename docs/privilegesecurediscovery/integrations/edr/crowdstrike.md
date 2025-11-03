@@ -84,3 +84,4 @@ CrowdStrike Falcon
 The connection can then be tested.
 
 ![Screen_Shot_2021-07-19_at_3.09.L13_PM.webp](/images/privilegesecure/4.2/discovery/integrations/edr/4404584855447_screen_shot_2021-07-19_at_3.09.13_pm.webp)
+

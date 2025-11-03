@@ -45,3 +45,4 @@ Select the Policy interface for related pages:
 - [Activities Page](/docs/privilegesecure/4.2/admin/interface/activities/activities.md) — Add or modify activities
 
     - [Activity Groups Page](/docs/privilegesecure/4.2/admin/interface/activities/activitygroups/activitygroups.md) — Add or modify activity groups
+

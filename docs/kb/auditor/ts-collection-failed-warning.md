@@ -47,3 +47,4 @@ To resolve this issue, you need to disable User Account Control (UAC) on the pro
    - Navigate to `C:WindowsADCR_Agent`
    - Find the file listed in the error (`%domain contoller name%.ts`) and delete it
    - Do not enable User Account Control (UAC) back.
+

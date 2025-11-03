@@ -80,3 +80,4 @@ existing policy, template or collection with the respective item from the XML f
 **Step 6 –** When the options are set as desired, click **Import**.
 
 Information from the XML file is imported into Threat Prevention as per the configured settings.
+

@@ -117,3 +117,4 @@ UPDATE DQS SET LicenseKey = NULL
 ```
 
 3. Restart the services.
+

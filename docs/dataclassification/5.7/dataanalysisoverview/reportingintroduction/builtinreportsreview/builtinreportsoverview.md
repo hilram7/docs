@@ -54,3 +54,4 @@ these are described below:
 - Term Links – Provides a list of links to a specified term (Metadata clues, Term Boosts and
   Required Term links) – useful when retiring taxonomy nodes to avoid invalid links to the term you
   wish to remove.
+

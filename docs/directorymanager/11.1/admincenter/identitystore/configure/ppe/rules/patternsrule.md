@@ -39,3 +39,4 @@ patterns weaken the password.
     - Detect key skip – Select this check box for skipped keys, such as qetuo.
     - Tolerance – Set tolerance for the number of characters in a keyboard pattern is allowed before
       the password is rejected.
+

@@ -22,3 +22,4 @@ and audit policy settings in this template** box and define the poll period then
 the Template. Any changes to the initial baseline will be alerted and reported.
 
 ![PolicyTemplateSecurityAuditPol](/images/changetracker/8.0/admin/settings/policytemplates/policytemplatesecurityauditpol.webp)
+

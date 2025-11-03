@@ -35,3 +35,4 @@ Authorities certificate store on connecting clients or servers such as Directory
 [SQL Certificate for Windows Authentication](/docs/directorymanager/11.1/requirements/sqlcertificate.md) topic for additional information.
 
 :::
+

@@ -73,3 +73,4 @@ If the workflow conditions are met, a request is generated and sent to the appro
 17. Click **OK** on the **Workflow Route** dialog box and then on the **Workflow** tab to finalize the configuration.
 
 Once these steps are complete, this configuration ensures that group creation requests submitted via Netwrix Directory Manager by User security role members are subject to approval before being finalized.
+

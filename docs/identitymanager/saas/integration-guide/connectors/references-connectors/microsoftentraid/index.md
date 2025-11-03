@@ -278,3 +278,4 @@ Data protection can be ensured through:
 - A
   [CyberArk's AAM Credential Providers ](/docs/identitymanager/saas/integration-guide/network-configuration/agent-configuration/cyberark-application-access-manager-credential-providers/index.md)
   Vault able to store Microsoft Entra ID's `ApplicationId` and `ApplicationKey`.
+

@@ -147,3 +147,4 @@ Right-click on a row in the data grid to open the right-click menu.
 - [Execute PS Script](/docs/threatprevention/7.4/admin/policies/configuration/recentevents/executepsscript.md)
   – Opens a Windows Explorer window to the scripts folder. Enables users to run a PowerShell script
   for the selected event/data row.
+

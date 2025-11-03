@@ -28,3 +28,4 @@ The queries for this job are:
 - Check LSA registry keys – Targets all domain controllers check LSA registry keys
     - See the [Registry Data Collector](/docs/accessanalyzer/12.0/admin/datacollector/registry.md) topic for
       additional information.
+

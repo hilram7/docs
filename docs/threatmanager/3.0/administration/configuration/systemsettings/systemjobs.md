@@ -97,3 +97,4 @@ The Health tab displays the following information:
 - Events in queue – Displays the number of events in queue for potential threat detection purposes
 - Last Heartbeat – Date timestamp for the last time the agent connection was checked
 - Next Run Time – Date timestamp for the next time the job will run
+

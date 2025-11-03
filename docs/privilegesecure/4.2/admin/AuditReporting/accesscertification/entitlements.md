@@ -120,3 +120,4 @@ save the changes to user access.
 When the changes have been committed, the export button is enabled. Export the table to CSV if
 desired. The status of the access certification task will change to Complete. Now that the access
 entitlements have been reviewed, the task cannot be deleted.
+

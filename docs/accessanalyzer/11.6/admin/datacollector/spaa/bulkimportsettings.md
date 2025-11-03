@@ -18,3 +18,4 @@ Subsequent hosts in job lists will get host IDs incremented by 1. The Host Ident
 offset to avoid overlapping IDs in collected data. If the **Set Host ID** checkbox is left
 unchecked, then Enterprise Auditor assigns values starting from 1 to every host. This feature is
 intended only for SQL Server Replication.
+

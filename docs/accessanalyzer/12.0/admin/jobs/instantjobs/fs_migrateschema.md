@@ -62,3 +62,4 @@ The default analysis tasks are:
 - 17.Migrate FSAC RenameTargets – Migrates the SA_FSAC_RenameTargets table to leverage 64-bit IDs
 - 18.Migrate FSAC Exceptions – Migrates the SA_FSAC_Exceptions table to leverage 64-bit IDs
 - 19.Refresh Views – Updates viewable metadata
+

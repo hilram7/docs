@@ -38,3 +38,4 @@ Expand the Configuration menu in the Navigation pane for related pages:
 
     - [SIEM Server Page](/docs/privilegesecure/4.2/admin/configuration/siempages/siemserver.md) — Add or modify SIEM servers
     - [SIEM Templates Page](/docs/privilegesecure/4.2/admin/configuration/siempages/siemtemplates.md) — Add or modify SIEM templates
+

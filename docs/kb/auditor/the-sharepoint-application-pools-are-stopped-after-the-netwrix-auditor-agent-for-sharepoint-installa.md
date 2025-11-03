@@ -34,3 +34,4 @@ To start your SharePoint application pools, perform the following steps:
 2. Launch **Internet Information Services (IIS) Manager**.
 3. In **Internet Information Services (IIS) Manager**, expand your server and navigate to the **Application Pools** node.
 4. Select your SharePoint application pools and click **Start**.
+

@@ -407,3 +407,4 @@ Following is an example of a filter statement defined in the Include condition b
 
 This filter statement would only generate an event if an object's telephoneNumber attribute is changed and the new value starts with (555), rather than generating an event every time the telephone number is changed.
 ````
+

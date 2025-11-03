@@ -199,3 +199,4 @@ nor a [Connection](/docs/identitymanager/6.2/integration-guide/toolkit/xml-confi
 
 Still, data protection can be ensured through an
 [Connection](/docs/identitymanager/6.2/integration-guide/toolkit/xml-configuration/connectors/connection/index.md) safe.
+

@@ -85,3 +85,4 @@ If all rules are met, the Change Request is attached to the Change Log and the l
 **Resolution Description** in the Change Log is set to **Automatically cleared in existing Open Approved CR via related customization [**_Search Name_**]**. The _Search Name_ is inserted
 from the original Change Request.The search does not need to be present in any Open Approved Change
 Request.[ Example Search Change Use Case](/docs/platgovnetsuite/changemanagement/opportunisticclearance/example_search_changes_related_approved_change.md)
+

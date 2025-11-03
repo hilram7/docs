@@ -58,3 +58,4 @@ Make sure Integration API is enabled. To check it, navigate to Settings → Inte
 information.
 
 Make sure to provide a monitoring plan name and item name in activity records before importing data.
+

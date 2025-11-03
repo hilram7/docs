@@ -71,3 +71,4 @@ Specify the maximum log size and action settings for the affected event log:
 - https://docs.netwrix.com/docs/auditor/10_8 Server − Adjusting Event Log Size and Retention Settings · v10.6)
 - https://docs.netwrix.com/docs/auditor/10_8 − Sample Deployment Scenarios · v10.6)
 - https://docs.netwrix.com/docs/auditor/10_8 (Netwrix Auditor Operations and Health − Network Traffic Compression · v10.6)
+

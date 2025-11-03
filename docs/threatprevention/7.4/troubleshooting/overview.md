@@ -109,3 +109,4 @@ provide administrators with a method of filtering out authentication event data 
 and/or accounts. These options can be configured to ignore authentication traffic from sources known
 to be safe. This affects what gets sent to the Agent. It will have a direct impact on scalability
 for the organization’s environment.
+

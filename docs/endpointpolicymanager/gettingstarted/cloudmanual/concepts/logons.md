@@ -59,3 +59,5 @@ some details called out above. If you are trying out Endpoint Policy Manager Clo
 Endpoint Policy Manager Cloud, you should see the licenses available to you as soon as you log on.
 Verify you have the correct number of licenses and your expiration date looks correct. If something
 is wrong, please contact your Endpoint Policy Manager sales team member.
+
+

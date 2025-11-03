@@ -12,3 +12,4 @@ Microsoft 365 audit configuration will cover the following components:
 - [Microsoft Entra ID](/docs/auditor/10.7/configuration/microsoft365/microsoftentraid/overview.md)
 - [MS Teams](/docs/auditor/10.7/configuration/microsoft365/teams/overview.md)
 - [SharePoint Online](/docs/auditor/10.7/configuration/microsoft365/sharepointonline/overview.md)
+

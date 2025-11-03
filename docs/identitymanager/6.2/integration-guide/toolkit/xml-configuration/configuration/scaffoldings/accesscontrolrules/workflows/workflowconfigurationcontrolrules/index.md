@@ -29,3 +29,4 @@ Our example generates the following configuration:
 <AccessControlRule Identifier="Administrator_Workflow_CreateUpdateDelete" DisplayName_L1="Administrator_Workflow" DisplayName_L2="Administrator_Workflow" EntityType="Workflow" Profile="Administrator">  <Entry CanExecute="true" Permission="/Workflows/Workflow/Create" />  <Entry CanExecute="true" Permission="/Workflows/Workflow/Delete" />  <Entry CanExecute="true" Permission="/Workflows/Workflow/Update" /></AccessControlRule>
 
 ```
+

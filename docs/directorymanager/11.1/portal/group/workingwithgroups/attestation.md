@@ -151,3 +151,4 @@ Follow the steps to attest a group.
     Click **Attest Group** to attest and renew the group.
 
     On attestation, the group’s expiration policy is re-applied to it, starting from today.
+

@@ -35,3 +35,4 @@ logged out. When accessed again, the portal runs under the new configurations.
 - [Manage Log Settings](/docs/directorymanager/11.0/signin/applications/portal/server/log.md)
 - [Add Support for a Portal](/docs/directorymanager/11.0/signin/applications/portal/server/support.md)
 - [Manage Advanced Settings](/docs/directorymanager/11.0/signin/applications/portal/server/advanced.md)
+

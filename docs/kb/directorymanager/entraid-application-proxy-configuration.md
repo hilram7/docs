@@ -118,3 +118,4 @@ This article provides step-by-step instructions for configuring Entra Tenant App
 - [External Application URL for Directory Manager](https://GroupID10SSP-5l607h.msappproxy.net/GroupID/)
 - [Internal URL for Application Proxy](https://onenexx2:4443/)
 - [Issuer and Realm URL Example](https://groupid10ssp-5l607h.msappproxy.net/GroupID/)
+

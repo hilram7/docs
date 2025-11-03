@@ -32,3 +32,5 @@ To work around these issues, you can replace the FILE Info name with a wildcard,
 to the PRODUCT name "WinSCP" to account for the trailing spaces.
 
 ![884_3_image-20210816211638-3](/images/endpointpolicymanager/troubleshooting/leastprivilege/fileinfodeny/884_3_image-20210816211638-3.webp)
+
+

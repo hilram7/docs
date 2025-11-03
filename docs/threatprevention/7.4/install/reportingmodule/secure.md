@@ -142,3 +142,4 @@ Found cert with subject % and thumbprint 12345ABCDEF54AED1DB59C349CA4D514628DB4D
 ```
 
 The Netwrix Threat Manager Reporting Module Console is now secure.
+

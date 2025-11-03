@@ -187,3 +187,4 @@ a previously added service account with credentials for the resources.
 **Step 7 –** When service account is assigned, click **Add**. The Add Resources window closes.
 
 The new resource(s) have been onboarded and can be added to Access Policies.
+

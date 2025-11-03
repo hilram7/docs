@@ -69,3 +69,4 @@ allow the Netwrix team to copy the image;
 :::note
 Netwrix will copy the Endpoint Protector Virtual Machine to your storage account and notify you when the process is over.
 :::
+

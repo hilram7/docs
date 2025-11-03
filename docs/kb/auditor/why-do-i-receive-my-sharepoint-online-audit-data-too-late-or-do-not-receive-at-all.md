@@ -34,3 +34,4 @@ Due to Microsoft Management Activity API limitations, Netwrix Auditor may experi
 - In case of Microsoft maintenance works, audit data may be unavailable for a few days. For more information, refer to the following Microsoft article: https://support.office.com/en-us/article/Search-the-audit-log-in-the-Office-365-Security-Compliance-Center-0d4d0f35-390b-4518-800e-0c7ec95e946c?ui=en-US&rs=en-US&ad=US
 
 Also, Microsoft automatically removes events that are older than 7 days—Netwrix Auditor will be unable to collect them. To ensure your audit data is always complete, make sure the **Monitoring Plan** is always active.
+

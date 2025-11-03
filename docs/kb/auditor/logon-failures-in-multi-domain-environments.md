@@ -56,3 +56,4 @@ In multi-domain environments, Active Directory Auditing collectors may connect t
 
 - You can also setup a trust between the server domain and the affected domain with a single service account to collect the data. For additional information on a single dedicated service account used for data collection and reporting purposes, refer to the following article: Active Directory — Overview https://docs.netwrix.com/docs/auditor/10_8/configuration/activedirectory/permissions).  
   For additional information on restrictions in a multi-domain environment, refer to the following article: Server and Client — Domains and Trusts https://docs.netwrix.com/docs/auditor/10_8).
+

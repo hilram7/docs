@@ -57,3 +57,4 @@ Follow these steps to disable the server header in Netwrix Access Analyzer:
 
 - Banner Grabbing ⸱ NIST 🔗  
   https://csrc.nist.gov/glossary/term/banner_grabbing
+

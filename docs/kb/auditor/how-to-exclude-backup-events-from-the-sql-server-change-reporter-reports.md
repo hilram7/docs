@@ -26,3 +26,4 @@ To exclude Backup events from the Netwrix Auditor for SQL Servers reports, perfo
 1. Open the program installation folder (`C:\Program Files (x86)\Netwrix Auditor\SQL Server Auditing` by default).
 2. Open the `omitobjlist.txt` file for editing.
 3. Add the line called `Backup` (without quotes) at the end of the file and save it.
+

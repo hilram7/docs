@@ -127,3 +127,4 @@ Admin password when prompted:
 **Step 4 –** Exit the command prompt.
 
 The remote Scheduler Service is now registered with Privilege Secure.
+

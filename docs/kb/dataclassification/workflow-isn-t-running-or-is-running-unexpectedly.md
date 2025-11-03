@@ -47,3 +47,4 @@ This typically means that the document has a classification that isn't expected 
 1. Check the workflow rule conditions. Pay attention to the parameters. Learn more about rule configuration and description of classification rules: https://docs.netwrix.com/docs/dataclassification/5_7 (Configure a Workflow using Advanced dialog ⸱ v5.7)
 
 2. Check the document's classifications. If there is a classification that is not intended, then reference the following documentation for troubleshooting steps: [Classification Troubleshooting](/docs/kb/dataclassification/classification-troubleshooting.md)
+

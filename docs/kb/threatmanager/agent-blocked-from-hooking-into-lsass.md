@@ -56,3 +56,4 @@ To resolve this issue, follow the steps provided in the first resolution. If the
 - https://docs.netwrix.com/docs/threatprevention/7_5 (Netwrix Threat Manager v7.3 - SI Agent Safe Mode)
 - https://docs.netwrix.com/docs/threatprevention/7_5 (Netwrix Threat Manager v7.3 - Set Options Window)
 - https://docs.netwrix.com/docs/threatprevention/7_5 (Netwrix Threat Manager v7.3 - Update Agent Settings)
+

@@ -46,3 +46,4 @@ Follow these steps to finalize the Access Analyzer upgrade:
 
 6. If you are using Windows authentication to connect to the SQL database, configure the **Netwrix Access Analyzer Web Server** service to log on as a service account with **db_owner** permissions for the Access Analyzer database.
 7. Have a user with the appropriate permissions log in to the **Published Reports** site to confirm operability.
+

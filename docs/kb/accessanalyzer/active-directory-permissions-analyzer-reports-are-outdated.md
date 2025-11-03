@@ -74,3 +74,4 @@ To do so you can follow the steps below.
 Now you can run the Active Directory Permissions Analyzer Job Group to repopulate for the active Domains.
 
 This will recreate the needed ADPA Tables and Views needed for the Reports.
+

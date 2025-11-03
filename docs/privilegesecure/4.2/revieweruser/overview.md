@@ -78,3 +78,4 @@ credentials.
 ![Dashboard Interface](/images/privilegesecure/4.2/accessmanagement/enduser/activedashboarduser.webp)
 
 Privilege Secure is ready to use.
+

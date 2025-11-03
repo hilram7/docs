@@ -54,3 +54,4 @@ The details page has the following tabs:
 - [Computers Tab for Domain](/docs/privilegesecure/4.2/admin/interface/resources/detailspages/domain/computersdomain/computersdomain.md)
 - [History Tab for Domain](/docs/privilegesecure/4.2/admin/interface/resources/detailspages/domain/historydomain.md)
 - [Sync Errors Tab for Domain](/docs/privilegesecure/4.2/admin/interface/resources/detailspages/domain/syncerrorsdomain.md)
+

@@ -72,3 +72,4 @@ When adding a v1 database credential a database connection string was required. 
 Connection strings are now required when defining a proxied device for a database connection. This allows you to use the same database credential for multiple database connections. It also means there is only one credential to update when its password expires.
 
 For more information on v2 database credentials, see the [v8.1 release notes](https://community.netwrix.com/t/minor-version-8-1-released/2829)
+

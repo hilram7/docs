@@ -44,3 +44,4 @@ This issue may be due to insufficient licenses, incorrect client-server configur
    - Restart the computer if the EPP Client was recently deployed.
    - If restarting does not resolve the issue, reinstall the Netwrix Endpoint Protector Client on that machine.
    - If the issue persists, proceed to **Netwrix Endpoint Protector Server (EPP) > System Configuration > System Licensing > View Licenses** and use **Release Licenses** for the affected machines or all machines. This will prompt the EPP Server to reconnect with clients, reassign licenses, and generate a new set of certificates for them.
+

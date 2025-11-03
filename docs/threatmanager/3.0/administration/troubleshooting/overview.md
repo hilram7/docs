@@ -11,3 +11,4 @@ additional information:
 
 - [Log Files](/docs/threatmanager/3.0/administration/troubleshooting/log.md)
 - [Updating Passwords](/docs/threatmanager/3.0/administration/troubleshooting/updatepasswords.md)
+

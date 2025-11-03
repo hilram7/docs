@@ -126,3 +126,4 @@ information of your master account. In GroupID portal, click **Users** in the le
 
 - [Enroll Your Identity Store Account](/docs/directorymanager/11.0/welcome/secondfactorauthentication/enrollaccount.md)
 - [Second Factor Authentication](/docs/directorymanager/11.0/welcome/secondfactorauthentication/secondfactorauthentication.md)
+

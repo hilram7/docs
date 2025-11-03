@@ -101,3 +101,4 @@ Refer to Box documentation for information on user account permissions.
 ![box_tagging_thumb_0_0](/images/dataclassification/5.7/admin/sources/box/box_tagging_thumb_0_0.webp)
 
 Finally, click **Save**.
+

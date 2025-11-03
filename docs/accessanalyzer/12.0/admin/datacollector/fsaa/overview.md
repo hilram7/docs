@@ -54,3 +54,4 @@ The wizard contains the following pages, which change based up on the query cate
 - [FSAA: SDD Criteria Settings](/docs/accessanalyzer/12.0/admin/datacollector/fsaa/sddcriteria.md)
 - [FSAA: Bulk Import Settings](/docs/accessanalyzer/12.0/admin/datacollector/fsaa/bulkimport.md)
 - [FSAA: FSAA Update Service Setting](/docs/accessanalyzer/12.0/admin/datacollector/fsaa/updateservicesettings.md)
+

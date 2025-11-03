@@ -106,3 +106,4 @@ End Select
 - [Script](/docs/directorymanager/11.0/welcome/synchronize/dtmscript/dtmscript.md)
 - [Visual Basic .NET for GroupID](/docs/directorymanager/11.0/welcome/synchronize/dtmscript/visualbasicnetbasic.md)
 - [Sample Container Scripts](/docs/directorymanager/11.0/welcome/synchronize/dtmscript/samplecontainerscript.md)
+

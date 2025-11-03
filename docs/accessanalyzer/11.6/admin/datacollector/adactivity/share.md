@@ -24,3 +24,4 @@ be located on a Domain Controller share:
 
 - Include Sub-Directories – Select to include sub-directories on the targeted share. Use this option
   if there are multiple archives in the same location.
+

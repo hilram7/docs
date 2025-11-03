@@ -17,3 +17,4 @@ Scan options for collecting Microsoft Entra ID information include:
 - Collect sign-in activity with scan
     - This option is required to collect the LastLogonTimestamp attribute of user objects
 - Collect directory audit events
+

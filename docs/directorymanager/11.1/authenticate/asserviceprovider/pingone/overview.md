@@ -20,3 +20,4 @@ Here are the steps to configure single sign-on in Directory Manager using PingOn
 
 That done, you can sign into Directory Manager using PingOne. See the
 [Sign In Using PingOne](/docs/directorymanager/11.1/authenticate/asserviceprovider/pingone/signin.md) topic for additional information.
+

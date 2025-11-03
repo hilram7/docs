@@ -118,3 +118,4 @@ data into Threat Manager:
 - [Netwrix Access Analyzer (formerly Enterprise Auditor) Integration](/docs/threatmanager/3.0/install/integration/accessanalyzer.md)
   – Configure Netwrix Access Analyzer (formerly Enterprise Auditor) to send Sensitive Data to Threat
   Manager
+

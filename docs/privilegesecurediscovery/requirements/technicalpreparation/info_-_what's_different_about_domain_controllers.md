@@ -37,3 +37,4 @@ DOMAIN\Example-Hostname: wrong_host
 
 - Use domain admin accounts to ONLY administer the domain controller and NOTHING else.
 - Keep domain admins to a very tightly controlled group.
+

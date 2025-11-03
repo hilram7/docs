@@ -61,3 +61,4 @@ The following settings are also required in both cases:
 | Detection Period | Specify how often the source should be checked for changes. Default period is 1 day.                                                                                                                                                                                                                                                                                              |
 
 Having specified all the necessary settings, click the **Save** button.
+

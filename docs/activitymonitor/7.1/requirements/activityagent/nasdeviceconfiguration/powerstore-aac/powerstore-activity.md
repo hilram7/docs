@@ -78,3 +78,4 @@ agent will be deployed, the following steps are not needed.
 
 - Ensure the Dell CEE registry key has enabled set to 1 and has an EndPoint set to StealthAUDIT.
 - Ensure the Dell CAVA service and the Dell CEE Monitor service are running.
+

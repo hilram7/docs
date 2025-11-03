@@ -78,3 +78,4 @@ monitoring plan name, server name,*The WMI Classes data provider failed to get i
 
 - https://docs.netwrix.com/docs/auditor/10_8/configuration/windowsserver/overview
 - https://docs.netwrix.com/docs/auditor/10_8/configuration/windowsserver/overview
+

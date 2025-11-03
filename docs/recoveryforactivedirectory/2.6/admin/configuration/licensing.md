@@ -36,3 +36,4 @@ click **Open**. The file explorer closes and you return to the console.
 
 The license key has been successfully imported. The organization’s license information is displayed
 on the Licensing page.
+

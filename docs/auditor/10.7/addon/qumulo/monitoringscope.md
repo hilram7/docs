@@ -32,3 +32,4 @@ Review a full list of all events Netwrix Auditor can collect on Qumulo Cluster.
 | snapshot_create_snapshot               | A snapshot was created.                                              |
 | snapshot_delete_snapshot               | A snapshot was deleted.                                              |
 | snapshot_modify_snapshot               | A snapshot was modified.                                             |
+

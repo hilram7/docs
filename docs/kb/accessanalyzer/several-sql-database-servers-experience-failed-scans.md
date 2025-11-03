@@ -49,3 +49,4 @@ While permissions requirements are outlined in existing documentation, for furth
 ## Related articles
 
 - https://docs.netwrix.com/docs/auditor/10_8/accessreviews Analyzer/Solutions/SQL_Solution.htm#permissions
+

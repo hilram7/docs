@@ -32,3 +32,4 @@ modified. Only custom roles can be copied, deleted, or modified.
 The details that display the main pane vary based on the type of role selected. See the
 [Default Role Details Page](/docs/privilegesecure/4.2/admin/interface/usersgroups/rolemanagement/rolemanagementdefaul/rolemanagementdefault.md) and the
 [Custom Role Details Page](/docs/privilegesecure/4.2/admin/interface/usersgroups/rolemanagement/rolemanagementcustom/rolemanagementcustom.md) topics for additional information.
+

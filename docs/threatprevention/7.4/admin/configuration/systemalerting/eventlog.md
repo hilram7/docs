@@ -27,3 +27,4 @@ notifications.
 **Step 6 –** Click **OK** to save the settings.
 
 The Windows Event Log now receives alert notifications for the checked events.
+

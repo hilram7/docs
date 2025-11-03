@@ -42,3 +42,4 @@ Preview** to display the columns selected within the Columns page. Click **Summa
 the Summary page and click **Finish** to exit the wizard.
 
 This analysis now reports the status of the SendMail action.
+

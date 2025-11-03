@@ -37,3 +37,4 @@ creates only a menu item for the entity type, under the menu item of its connect
 | OnDashboard default value: false | **Type** Boolean **Description** Generic column used to store information for internal use.                                                 |
 | OnNav default value: false       | **Type** Boolean **Description** For the Argument AddTask the property after define the place of the task to add with the TaskCompareWith.  |
 | OnTop default value: false       | **Type** Boolean **Description** For the Argument AddTask the property before define the place of the task to add with the TaskCompareWith. |
+

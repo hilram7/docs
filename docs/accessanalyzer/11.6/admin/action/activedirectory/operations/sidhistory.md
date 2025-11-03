@@ -33,3 +33,4 @@ Configure the action with the following options:
 
 - Reference link – Accesses a Microsoft web page called Using DsAddSidHistory containing important
   information on SID history
+

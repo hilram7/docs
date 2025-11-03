@@ -43,3 +43,4 @@ Netwrix Endpoint Protector allows a maximum of `10,000` entries to be displayed 
 4. Click **Start**. An archived CSV report with all results will be generated within a few minutes.
 
 As long as the eDiscovery logs are kept on the server, you can still perform actions, such as encrypting, decrypting, or deleting on target, on any identified items. To do this, go to the **Scan Results and Actions** page and use filters to locate the specific item.
+

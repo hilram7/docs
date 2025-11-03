@@ -52,3 +52,4 @@ DROP TABLE SA_SPAC_GroupMembershipChanges
 ```
 
 3. After releasing the constraints, rerun the **SP_DropTables** job.
+

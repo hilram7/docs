@@ -40,3 +40,4 @@ The following are additional requirements for the application server:
 - .NET Desktop Runtime 8.0.11
 - ASP.NET Core 8.0.11
 - PowerShell 5.1+ installed
+

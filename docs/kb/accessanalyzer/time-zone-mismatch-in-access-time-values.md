@@ -35,3 +35,4 @@ In the **Activity Details** report in Netwrix Access Information Center (AIC), t
 ## Answer
 
 Netwrix Access Analyzer collects access time data from the target server. To order the collected data, Netwrix Access Analyzer assigns access time values to events in the time zone of the target server. When you export the collected data via AIC, the access time gets converted to your local time zone.
+

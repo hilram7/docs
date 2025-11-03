@@ -110,3 +110,4 @@ Request.
 **Tracked, Blocking** generates a Compliant Change Log (CL-11672) if there is an approved Change
 Request. If a user attempts to save a change to a **Tracked, Blocking** object without an approved
 Change Request, an error is generated and the change is not saved.
+

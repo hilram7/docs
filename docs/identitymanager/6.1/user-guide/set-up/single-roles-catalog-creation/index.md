@@ -241,3 +241,4 @@ Once the role catalog is established, integrators can start
 
 The role catalog is also a prerequisite for
 [risk management](/docs/identitymanager/6.1/user-guide/optimize/risk-management/index.md).
+

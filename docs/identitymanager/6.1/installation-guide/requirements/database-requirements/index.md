@@ -127,3 +127,4 @@ must be set to 1 in the SQL database.
 Let's move on to the requirements for Usercube's server. See the
 [Server](/docs/identitymanager/6.1/installation-guide/requirements/server-requirements/index.md)
 topic for additional information.
+

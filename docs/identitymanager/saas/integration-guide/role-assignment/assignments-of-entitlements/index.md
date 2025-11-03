@@ -215,3 +215,4 @@ together with its nested scalar/navigation assignments, and it is described by t
   are blocked;
 - ConsolidatedWorkflowFoundState indicates whether one or more of the nested scalars/navigations are
   stated as non-conforming or pre-existing.
+

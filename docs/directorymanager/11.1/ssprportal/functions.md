@@ -70,3 +70,4 @@ Active Directory and another in Microsoft Entra ID. This has multiple benefits, 
 
 After signing into the portal, click the **Linked Accounts** tile. See the
 [Linked Accounts](/docs/directorymanager/11.1/portal/user/linkedaccounts.md) topic for additional information.
+

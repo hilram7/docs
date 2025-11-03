@@ -54,3 +54,4 @@ Activities available only at the individual host list nodes are:
   already been assigned to a job for execution)
 - [Delete List](/docs/accessanalyzer/12.0/admin/hostmanagement/actions/deletelist.md) – Delete the selected host list
 - [View Query](/docs/accessanalyzer/12.0/admin/hostmanagement/actions/viewquery.md) – Opens the Host Discovery Queries window
+

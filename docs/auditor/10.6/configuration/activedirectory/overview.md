@@ -179,3 +179,4 @@ you should:
   the
   [Adjust Active Directory Tombstone Lifetime (optional)](/docs/auditor/10.6/configuration/activedirectory/tombstone.md)
   topic for additional information.
+

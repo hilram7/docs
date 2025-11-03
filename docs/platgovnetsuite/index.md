@@ -98,3 +98,4 @@ master data are compliant. It can:
 - Log control violations for clearance.
 - Store relevant data as a CSV to create a snapshot for compliance or troubleshooting purposes.
 - Block unauthorized changes to critical records and fields (requires Advanced Change Management).
+

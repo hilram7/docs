@@ -104,3 +104,4 @@ This only affects the Windows app:
 
 - It is no longer possible to attach data to more than one organizational unit.
 - Passwords that are changed via the JavaScript API/SDKbuD are encrypted correctly.
+

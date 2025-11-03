@@ -31,3 +31,4 @@ PATH="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/u
 ```
 
 **Step 3 –** Open new SSH session and check PATH with: `echo $PATH`.
+

@@ -28,3 +28,5 @@ Supported versions of the MacOS client are:
 Mac OS 13 Ventura
 
 Mac OS 14 Sonoma
+
+

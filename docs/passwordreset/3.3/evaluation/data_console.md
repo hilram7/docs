@@ -24,3 +24,4 @@ only some of the events. Filters are very flexible and easy to create.
 
 The Users tab contains information about each user. You can export the data in the Audit Log and
 Users tabs from the File menu.
+

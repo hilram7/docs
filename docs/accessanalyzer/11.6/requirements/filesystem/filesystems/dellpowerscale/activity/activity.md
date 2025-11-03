@@ -114,3 +114,4 @@ Checklist Item 3: Configure Auditing on the Dell Isilon/PowerScale Cluster
 Checklist Item 4: Configure Dell CEE to Forward Events to the Activity Agent. See the
 [Validate Setup](/docs/accessanalyzer/11.6/requirements/filesystem/filesystems/dellpowerscale/activity/validate.md) topic for
 additional information.
+

@@ -63,3 +63,4 @@ Administrative Tools > **Services**.
 
 **Step 3 –** Right-click the service and on the **General** tab make sure that **Startup type** for
 this service is other than _Disabled_. The startup type can be either _Automatic_ or _Manual_.
+

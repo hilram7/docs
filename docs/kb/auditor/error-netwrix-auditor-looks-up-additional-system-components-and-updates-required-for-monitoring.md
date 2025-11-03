@@ -40,3 +40,4 @@ Verify that the Oracle Instant Client is installed in your environment. Refer to
 ## Related Articles
 
 - Software Requirements · v10.7
+

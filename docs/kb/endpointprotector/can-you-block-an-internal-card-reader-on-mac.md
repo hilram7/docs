@@ -28,3 +28,4 @@ Is it possible to block an internal card reader on Mac with Netwrix Endpoint Pro
 Yes, you can block internal card readers on Mac computers using Netwrix Endpoint Protector (EPP). The rights apply to the card reader itself, not to the inserted SD card. For example, if you set **Deny** rights to the internal card reader class, any inserted SD cards will be blocked.
 
 If user remediation is active, every SD card you insert into the internal card reader will be allowed.
+

@@ -20,3 +20,4 @@ The product tour may be re-started at any time via the user menu.
 ![usermenu](/images/privilegesecure/4.2/accessmanagement/enduser/usermenu.webp)
 
 See the [Navigation](/docs/privilegesecure/4.2/remoteaccessgateway/enduser/navigation.md) topic for additional information.
+

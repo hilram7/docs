@@ -37,3 +37,4 @@ The email client or environment used to preview the notification does not suppor
 Review the character encoding settings in your email client or affected environment − make sure the `UTF-8 (Unicode)` encoding is enabled.
 
 > **NOTE:** It is recommended to set up the explicit `UTF-8 (Unicode)` encoding support instead of available automatic detection methods.
+

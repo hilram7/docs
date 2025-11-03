@@ -57,3 +57,4 @@ The Identity Threat Detection & Response (ITDR) Solution – Demo the Basic Use 
 When you complete this course, you will understand the scenario and demonstration talking points for each use case.
 
 Estimated length: 25 minutes
+

@@ -30,3 +30,4 @@ Select documents' images processing mode:
 - Enhanced – upscale images further to allow more.
 
 Folders / Items can be excluded from processing via the Exchange Exclusions management screen.
+

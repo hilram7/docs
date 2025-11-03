@@ -117,3 +117,4 @@ You can also edit some fields inline:
 3. Click in the column to open a text box.
 
 ![Process Issue Reports](/images/platgovnetsuite/processes/process_issue_overview.webp)
+

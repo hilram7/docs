@@ -63,3 +63,4 @@ contains the following wizard pages:
 
 Hide the Welcome page the next time this data collected is accessed by selecting the **Do not
 display this page the next time** checkbox.
+

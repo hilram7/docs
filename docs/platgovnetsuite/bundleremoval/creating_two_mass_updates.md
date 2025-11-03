@@ -70,3 +70,4 @@ Customization to **To Be Investigated**. It identifies everything needing invest
 8. Click **Save**
 
 **Next Step:** [Creating a Custom List and Fields](/docs/platgovnetsuite/bundleremoval/creating_custom_list_and_fields.md)
+

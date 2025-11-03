@@ -32,3 +32,4 @@ The timestamp shown in the reports and Change Summaries for the SharePoint confi
 - Changes to web application security policies: anonymous access policy, user policy, security policy levels
 - Creation and deletion of site collections, changes to key site collection settings
 - Customizations: addition/removal and deployment of SharePoint solutions; addition/removal and activation/deactivation of farm-wide features
+

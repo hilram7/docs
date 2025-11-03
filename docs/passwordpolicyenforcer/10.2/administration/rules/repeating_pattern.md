@@ -25,3 +25,4 @@ can weaken the password.
   in bold type). Password Policy Enforcer will reject this password if the tolerance is four (or
   lower), and accept it if the tolerance is five (or higher).
 - Click the **Messages** tab to customize the Password Policy Client rule inserts.
+

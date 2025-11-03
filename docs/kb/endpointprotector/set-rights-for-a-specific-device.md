@@ -49,3 +49,4 @@ Yes, this is possible. Follow the steps below to set or remove rights for a spec
 
 ## Related Links
 - How to Add Specific Devices to the Allow List: /docs/kb/endpointprotector/[update]-_how_to_add_specific_devices_to_allow_list!
+

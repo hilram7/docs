@@ -22,3 +22,4 @@ The jobs and job groups in the Logon Rights job group are:
 - [SG_LocalPolicies Job](/docs/accessanalyzer/11.6/solutions/windows/privilegedaccounts/logonrights/sg_localpolicies.md)
   – This job identifies privileged accounts across the audited environments, based on the number of
   local security policies assigned
+

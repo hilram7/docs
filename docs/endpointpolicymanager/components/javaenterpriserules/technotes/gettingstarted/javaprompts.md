@@ -162,3 +162,5 @@ Like this:
 ![558_15_ppjrm-img-14](/images/endpointpolicymanager/troubleshooting/javaenterpriserules/558_15_ppjrm-img-14.webp)
 
 Result: The Java applet is ALLOWED.
+
+

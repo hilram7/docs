@@ -35,3 +35,4 @@ To remove the text, perform the following:
 4. Save the changes.
 
 The footer will no longer be shown in the real-time alert emails.
+

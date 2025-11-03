@@ -51,3 +51,4 @@ To remove a bundle:
 
 The process should be completed in your sandbox environment to see how it affects your other
 environments (production).
+

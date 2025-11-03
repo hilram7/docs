@@ -75,3 +75,4 @@ This article describes how to troubleshoot a failed job execution in Netwrix Aud
   - SQL DC - `%sainstalldir%jobs\SA_CommonData\SQLDC`
   - Smartlog Applet - `%sainstalldir%jobs\SA_CommonData\SmartLog`
   - FSAA Applet - `C:\Program Files(x86)\STEALTHbits\StealthAUDIT\FSAA\HOST`
+

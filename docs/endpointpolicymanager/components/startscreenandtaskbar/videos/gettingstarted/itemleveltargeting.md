@@ -65,3 +65,5 @@ when I have that application do that. It's incredibly flexible.
 I just wanted to give you a quick taste of how that would work. One policy to rule them all. You
 don't have to be stuck with one fixed policy. Just as simple as that. I hope this helps you out.
 We're looking to get you started soon with Endpoint Policy Manager Start Screen Manager.
+
+

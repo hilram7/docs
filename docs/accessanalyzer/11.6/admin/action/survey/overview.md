@@ -51,3 +51,4 @@ contains links to the pages in the wizard.
 ![Survey Action Module Wizard Welcome page](/images/accessanalyzer/11.6/admin/action/survey/welcome.webp)
 
 To proceed, click **Next** or use the Steps navigation pane to open another page in the wizard.
+

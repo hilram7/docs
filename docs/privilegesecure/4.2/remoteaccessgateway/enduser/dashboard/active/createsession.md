@@ -60,3 +60,4 @@ When the status Available is shown, the remote session is ready. Click the Conne
 the session, or log in through a client.
 
 See the [Sessions Interface](/docs/privilegesecure/4.2/remoteaccessgateway/enduser/dashboard/sessions.md) topic for additional information.
+

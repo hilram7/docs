@@ -31,3 +31,4 @@ state 27 which is the workfow state `Prolonged` linked with the grace period.
  <AccessControlRule Profile="GracePeriodManager" EntityType="AssignedCompositeRole" Identifier="Manager_GracePeriod_CompositeRole" DisplayName_L1="Manager - Review Grace Period">    <Filter Binding="WorkflowState" Value="27"/>    <Entry CanExecute="true" Permission="/Custom/ProvisioningPolicy/ReviewRoles/Directory_User"/> </AccessControlRule> <AccessControlRule Profile="GracePeriodManager" EntityType="AssignedSingleRole" Identifier="Manager_GracePeriod_SingleRole" DisplayName_L1="Manager - Review Grace Period">    <Filter Binding="WorkflowState" Value="27"/>    <Entry CanExecute="true" Permission="/Custom/ProvisioningPolicy/ReviewRoles/Directory_User"/> </AccessControlRule>
 
 ```
+

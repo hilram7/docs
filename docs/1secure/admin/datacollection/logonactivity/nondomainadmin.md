@@ -33,3 +33,4 @@ Do the following:
 
 [Assigning Permission To Read the Registry Key](/docs/1secure/admin/datacollection/activedirectoryauditing/permissionsregistrykeys.md) how
 to do it using Registry Editor.
+

@@ -36,3 +36,4 @@ The access request has been declined and the requester sent an email notificatio
 The request is visible on the Access Request History Page. See the
 [Access Request History](/docs/accessinformationcenter/11.6/owneroverview/owners/requesthistory.md)
 topic for additional information.
+

@@ -42,3 +42,4 @@ The following analysis tasks are selected by default:
   contains the dynamic host list
 - Create Views – Creates the FSDFS_NamespacesTraversalView visible through the Results node that
   contains expansion of all the scanned namespaces
+

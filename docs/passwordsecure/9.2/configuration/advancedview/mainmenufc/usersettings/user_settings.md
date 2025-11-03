@@ -77,3 +77,4 @@ combine similar options and thus make them available to the users.
 The [User rights](/docs/passwordsecure/9.2/configuration/advancedview/mainmenufc/userrights/user_rights.md) define who has the required permissions to change
 which security levels. As with all rights, this is achieved either through global inheritance, the
 role, or as a right granted directly to the user.
+

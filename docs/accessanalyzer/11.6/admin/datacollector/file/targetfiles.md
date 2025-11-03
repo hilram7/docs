@@ -134,3 +134,4 @@ category is selected. Select an option to activate the filter and narrow the que
 
     - Enter the number in the first text box and then select the size (**Bytes**, **Kb**, **Mb**, or
       **Gb**) from the dropdown menu
+

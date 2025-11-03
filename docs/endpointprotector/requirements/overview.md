@@ -20,3 +20,4 @@ Deployed as a Virtual Appliance, Endpoint Protector works out of the box for app
 endpoints. As a Hardware Appliance, different configurations are available, scaling up to 5,000
 endpoints from a single appliance. All out-of-the-box versions of Endpoint Protector use MySQL as a
 database.
+

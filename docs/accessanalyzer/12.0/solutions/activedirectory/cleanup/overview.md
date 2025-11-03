@@ -37,3 +37,4 @@ The job groups in the Cleanup Job Group are:
 - [AD_CleanupProgress Job](/docs/accessanalyzer/12.0/solutions/activedirectory/cleanup/ad_cleanupprogress.md) – Tracks Active Directory computer, group, and
   user exceptions over time. This information can be used to provide a high-level picture of an
   organization's Active Directory cleanup effort.
+

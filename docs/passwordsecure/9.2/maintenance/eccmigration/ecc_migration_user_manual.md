@@ -23,3 +23,4 @@ the message **„Userdata migration finished”** appears.
 
 NOTE: The migration can only be carried out with the Web Application and NativeClient. A migration
 just using the Extension, Autofill Add-on or the Mobile App is not possible.
+

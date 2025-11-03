@@ -18,3 +18,4 @@ Be aware that the integration of an IGA tool is an iterative process. Thus, afte
 the[How to Start](/docs/identitymanager/6.2/user-guide/global-process/howto-start/index.md) process and creating the workforce directory, you can
 come back at any time and complete the directory that you started
 [Update Identity Data](/docs/identitymanager/6.2/user-guide/maintain/identity-data-modification/index.md).
+

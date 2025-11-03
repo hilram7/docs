@@ -37,3 +37,4 @@ How do I move the Netwrix Reporting databases to another drive?
 9) In **SQL Management Studio** **right click** the **Databases folder** and select **Attach**.  
 10) **Click Add** under **Databases to Attach** and select the location and **`MDF`** file for the database and hit okay (The **`LDF`** will be located automatically if in the same location).  
 11) Hit **okay** again on the **Attach databases** screen. Your database should now be attached once again and now residing in it's new location.
+

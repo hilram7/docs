@@ -24,3 +24,4 @@ Password Reset includes a 30-day evaluation license for up to 50 users. Please c
 Netwrix support if you would like to evaluate Netwrix Password Reset with more than 50 users.
 
 :::
+

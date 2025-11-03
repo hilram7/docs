@@ -37,3 +37,4 @@ has already been activated in the Server Manager.
 The XML file must look like [this](https://cdn.manula.com/user/3511/docs/dropbox.xml).
 
 - The application can now be executed via the Basic view.
+

@@ -63,3 +63,4 @@ Rollback and Restore Operations
 Now that the initial configuration of Recovery for Active Directory is complete and backups have
 been created, you can rollback and recover Active Directory objects, as well as restore domain
 controllers.
+

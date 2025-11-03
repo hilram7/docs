@@ -29,3 +29,4 @@ A basic knowledge of Identity and Access Management (IAM) and Identity Governanc
 
 Let's dive in with an
 [overview of IGA and Usercube](/docs/identitymanager/6.1/introduction-guide/overview/index.md).
+

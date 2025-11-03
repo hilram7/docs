@@ -72,3 +72,4 @@ will consist in:
 
 It will also show how to
 [test the Usercube Database connection](/docs/identitymanager/6.1/installation-guide/production-ready/server/index.md).
+

@@ -21,3 +21,4 @@ Follow the steps to import an action.
 **Step 3 –** Click Open.
 
 The action is displayed in the Actions list.
+

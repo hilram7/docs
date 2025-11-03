@@ -42,3 +42,4 @@ The Welcome page provides an overview of the analysis module.
 There are no configurable settings on the Welcome page. Click **Next** to begin configuring a custom
 table or view using two formatted data sources, or use the Steps navigation pane to open another
 page in the wizard.
+

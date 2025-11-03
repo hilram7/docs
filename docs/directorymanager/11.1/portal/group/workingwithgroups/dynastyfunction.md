@@ -116,3 +116,4 @@ Follow the steps to modify aloas of a Managerial dynasty.
     [Display Name Template](/docs/directorymanager/11.1/portal/group/properties/dynastyoptions.md) for a Managerial Dynasty.
 
 4. Click **Save**.
+

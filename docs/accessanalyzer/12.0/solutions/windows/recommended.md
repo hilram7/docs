@@ -37,3 +37,4 @@ or tables names will result in no data displayed within the reports.
 
 See the Recommended Configurations topic for each job group for additional information on frequency
 and job group settings.
+

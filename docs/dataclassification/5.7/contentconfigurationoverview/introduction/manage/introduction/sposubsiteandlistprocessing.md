@@ -56,3 +56,4 @@ Consider the following:
 - In the absence of a subsite level configuration the collector will automatically use the source
   level mappings (on a field by field basis).
 - Content fields cannot be configured at the subsite level.
+

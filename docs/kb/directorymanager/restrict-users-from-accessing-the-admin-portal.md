@@ -40,3 +40,4 @@ Yes, you can limit access to the Admin Portal/Center. To prevent end users from 
 6. Click **Save** 3 times to apply your changes.
 
 After completing these steps, users assigned to that security role will no longer be able to access the Admin Center.
+

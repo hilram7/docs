@@ -21,3 +21,4 @@ sidebar_position: 20
     [WorkflowEntityTypeSearchBar](/docs/identitymanager/6.1/integration-guide/toolkit/xml-configuration/configuration/scaffoldings/entitytypes/workflows/workflowentitytypesearchbar/index.md)
     Creates the search bar of the workflow entity of the starting entity.- ####
     [WorkflowPerformerNotification](/docs/identitymanager/6.1/integration-guide/toolkit/xml-configuration/configuration/scaffoldings/entitytypes/workflows/workflowperformernotification/index.md)
+

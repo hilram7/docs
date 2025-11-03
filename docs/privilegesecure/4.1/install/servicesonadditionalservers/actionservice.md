@@ -140,3 +140,4 @@ password when prompted:
 **Step 4 –** Exit the command prompt.
 
 The remote Action Service is now registered with Privilege Secure.
+

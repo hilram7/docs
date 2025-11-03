@@ -17,3 +17,4 @@ synchronization.
 | Fulfill                 | Usercube-Fulfill-ToEasyVistaTicket.dll and Usercube-EasyVistaTicket-UpdateFulfillmentState.dll |
 | Has Incremental Mode    | False                                                                                          |
 | Publisher               | Usercube                                                                                       |
+

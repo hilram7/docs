@@ -86,3 +86,4 @@ Where `[AdminSDHolder]` is the distinguished name of the AdminSDHolder container
 The DN of the AdminSDHolder container for the anixis.net domain is `CN=AdminSDHolder,CN=System,DC=anixis,DC=net`
 
 > **NOTE.** Changes to the AdminSDHolder container are not applied to accounts immediately. You may need to wait up to an hour for Windows to update the DACL for these accounts. You can also start the process manually. Search for `runProtectAdminGroupsTask` or `FixUpInheritance` in Microsoft's documentation for more information.
+

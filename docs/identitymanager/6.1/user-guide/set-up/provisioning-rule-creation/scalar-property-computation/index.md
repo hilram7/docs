@@ -202,3 +202,4 @@ In order to verify the process:
    (on the **Resource Reconciliation** screen) to help check scalar rules: if there are numerous
    properties to be reconciled following the same pattern, then there may be a rule that needs to be
    changed.
+

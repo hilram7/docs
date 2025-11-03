@@ -82,3 +82,4 @@ Defines the banner to be displayed informations. See Indicator for more details.
 | Color required          | **Type** String **Description** Defines the color of the item.                                          |
 | DisplayName_L1 optional | **Type** String **Description** Display name of the banner in language 1 (up to 16).                    |
 | Value optional          | **Type** String **Description** Defines the value with which the indicator binding will be compared to. |
+

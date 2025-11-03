@@ -50,3 +50,4 @@ different user roles within an identity stores, you may not have access to all p
 - [ Entitlement](/docs/directorymanager/11.0/welcome/entitlement/overview.md)
 - [Synchronize](/docs/directorymanager/11.0/welcome/synchronize/overview.md)
 - [Reports](/docs/directorymanager/11.0/welcome/dashboard/dashboard.md)
+

@@ -79,3 +79,4 @@ The following considerations refer to VMware infrastructure monitoring with Netw
   through VMware vCenter Single Sign-On.
 - Also, data on the logon attempts performed using SSH will not be collected.
 - For custom role creation event, initiator will be reported as _System_.
+

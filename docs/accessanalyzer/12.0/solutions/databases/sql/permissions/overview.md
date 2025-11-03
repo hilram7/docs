@@ -27,3 +27,4 @@ The jobs in the 3.Permissions Job Group are:
 - [SQL_ServerPermissions Job](/docs/accessanalyzer/12.0/solutions/databases/sql/permissions/sql_serverpermissions.md) – This job provides the list of SQL and
   Azure SQL server logins that have the PUBLIC roles assigned. In addition, it also provides the
   list of permissions assigned to the PUBLIC role as well
+

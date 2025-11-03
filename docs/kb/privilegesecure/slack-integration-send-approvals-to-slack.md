@@ -31,3 +31,4 @@ This article describes the process for setting up an Approval workflow in which 
 3. Set the local user's email address to the Slack channel's email address from step 1:  
    ![image.png](images/ka0Qk0000000zeb_0EMQk000001ozUL.png)  
 4. You may now add this local account as an additional approver in any approval workflow. It will not be used for approvals, but its email address value will allow the configured Slack channel to receive approval messages.
+

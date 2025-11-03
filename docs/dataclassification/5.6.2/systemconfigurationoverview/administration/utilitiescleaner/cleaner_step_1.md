@@ -22,3 +22,4 @@ Select the operation you want to perform:
 - Delete Index—Delete all content from both the search index and the NDC SQL database.
 
 ![cleaner_step_1](/images/dataclassification/5.6.2/utilities/cleaner_step_1.webp)
+

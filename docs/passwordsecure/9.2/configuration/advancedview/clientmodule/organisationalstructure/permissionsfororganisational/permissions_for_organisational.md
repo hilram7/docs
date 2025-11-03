@@ -60,3 +60,4 @@ IT manager – who possess all other rights to the organisational structure "IT"
 right to add records.
 
 **CAUTION:** The add right merely describes the right to create objects in an organisational unit.
+

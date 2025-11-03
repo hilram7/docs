@@ -66,7 +66,7 @@ It is important to get organized before the session starts. Follow these steps t
 is ready on your side:
 
 **Step 1 –** Use the Endpoint Policy Manager Customer Portal
-([http://www.policypak.com/customerportal](http://www.policypak.com/customerportal)) to download
+([https://www.policypak.com/customerportal](http://www.policypak.com/customerportal)) to download
 Everything.
 
 ![289_1_image-20240111131924-2](/images/endpointpolicymanager/gettingstarted/289_1_image-20240111131924-2.webp)
@@ -321,3 +321,4 @@ tool) and create Endpoint Policy Manager Least Privilege Manager rules that will
 
 Make sure both computers are joined to the domain and we can create GPOs and affect Computer2 with
 Endpoint Policy Manager directives.
+

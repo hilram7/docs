@@ -24,3 +24,4 @@ Review the list of the built-in classification reports:
   the settings of one term to be applied in the other one automatically.
 - Sensitive Documents — Provides a report of classifications of crawled content against sensitive
   taxonomies.
+

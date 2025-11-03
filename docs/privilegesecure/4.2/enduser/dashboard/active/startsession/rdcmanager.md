@@ -204,3 +204,4 @@ context menu.
 **Step 5 –** Click OK to save changes.
 
 The Remote Desktop Connection (RDP) Group Policy is configured to always ask for credentials.
+

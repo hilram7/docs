@@ -34,3 +34,4 @@ This example clears the configured SMTP server in AdStore9 identity store.
 ```
 Clear-SmtpServer -IdentityStoreName AdStore9
 ```
+

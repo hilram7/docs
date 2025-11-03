@@ -161,3 +161,4 @@ do. It will no longer be possible to reverse the actions afterwards!
 
 After **entering the displayed number** and **confirming with OK**, the process is **executed
 immediately** and the **Password Resets** are carried out and the **associated passwords changed**.
+

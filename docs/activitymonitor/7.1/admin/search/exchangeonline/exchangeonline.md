@@ -106,3 +106,4 @@ The DLP category scopes the query by the DLP policy.
 This section has the following filters:
 
 - Policy Name
+

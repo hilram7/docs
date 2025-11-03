@@ -136,3 +136,4 @@ Selection view, select this task so that notifications can be sent automatically
 execution of the SG_PowerShellCommands job.
 
 The Notify on suspicious commands analysis task is now configured to send notifications.
+

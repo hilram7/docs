@@ -108,3 +108,4 @@ See the [Assign Users a Profile](/docs/identitymanager/saas/user-guide/set-up/us
 ## Next Steps
 
 Once user profiles are configured, integrators can start configuring onboarding workflows. See the [Create the Workforce Repository](/docs/identitymanager/saas/user-guide/set-up/initial-identities-loading/index.md) topic for additional information.
+

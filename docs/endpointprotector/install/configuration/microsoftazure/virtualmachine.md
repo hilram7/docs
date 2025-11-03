@@ -46,3 +46,4 @@ the Endpoint Protector image.
 
 **Step 5 –** Open a web browser and connect to the Public IP address assigned to the Endpoint
 Protector image.
+

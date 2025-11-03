@@ -126,3 +126,4 @@ To host the Security service, Docker daemon should be configured to run Windows 
    Applications** page is displayed. Options on this page are discussed in the
    [Access your Applications](/docs/directorymanager/11.1/admincenter/general/accessapplications.md) topic. Any actions you perform
    will be carried out through the respective Security service.
+

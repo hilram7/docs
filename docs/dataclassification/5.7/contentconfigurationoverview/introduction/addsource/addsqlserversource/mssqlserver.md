@@ -22,3 +22,4 @@ To connect to a MS SQL server:
     - SQL - specify username and password of the MS SQL server.
 
 4. Select Save.
+

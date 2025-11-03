@@ -53,3 +53,4 @@ of the ways the audited group has been granted membership to the selected group.
 
 - Nested Level – Count of groups nested between the selected group and the audited object’s direct
   membership
+

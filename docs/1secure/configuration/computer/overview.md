@@ -100,3 +100,4 @@ Follow the instructions in the
 
 Set up protocols and ports as described in the
 [Protocols and Ports Required for Monitoring File Servers](/docs/1secure/configuration/computer/protocolsandports.md) section.
+

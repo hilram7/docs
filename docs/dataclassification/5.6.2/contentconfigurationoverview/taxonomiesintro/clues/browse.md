@@ -35,3 +35,4 @@ You can use the Browse function to:
 To restrict the browsing scope, you can either add a URL filter, or add a custom filter, as well as
 select to show document movements. These options are configured in the same way as for
 [Search Documents by Clue](/docs/dataclassification/5.6.2/contentconfigurationoverview/taxonomiesintro/clues/search.md).
+

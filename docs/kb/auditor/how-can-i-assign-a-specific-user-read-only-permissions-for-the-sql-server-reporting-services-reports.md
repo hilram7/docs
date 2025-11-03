@@ -38,3 +38,4 @@ To grant a user read-only permissions, perform the following steps:
 6. On the **User Mappings** screen, assign all tables related to Netwrix software the `db_datareader` role (for example `NetWrix_FS_Change_Reporter`, or `NetWrix_Event_Log_Manager` etc).
 
 **Note:** If you are still unable to access the **Report Manager** after following this KB, add your user account to the local administrators group on the SQL server.
+

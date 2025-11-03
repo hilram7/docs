@@ -19,3 +19,4 @@ The job(s) in the Sensitive Data Job Group are:
 - [Redshift_SensitiveDataPermissions Job](/docs/accessanalyzer/11.6/solutions/databases/redshift/sensitivedata/redshift_sensitivedatapermissions.md) -
   Designed to provide information on all types of permissions on database objects containing
   sensitive data across all the targeted PostgreSQL servers based on the selected scan criteria.
+

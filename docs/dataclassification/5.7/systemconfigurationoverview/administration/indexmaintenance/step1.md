@@ -25,3 +25,4 @@ This option is recommended after setting up DQS configuration.
 - Delete Index—Delete all content from both the search index and the NDC SQL database.
 
 ![cleaner_step_1](/images/dataclassification/5.7/admin/utilities/cleaner_step_1.webp)
+

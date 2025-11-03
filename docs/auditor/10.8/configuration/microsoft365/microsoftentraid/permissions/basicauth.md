@@ -98,3 +98,4 @@ account.
 Refer to the following Microsoft article:
 [Microsoft Entra built-in roles](https://docs.microsoft.com/en-us/azure/active-directory/users-groups-roles/directory-assign-admin-roles)
 for additional information on the Administrator role permissions.
+

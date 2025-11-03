@@ -44,3 +44,4 @@ B”. If the application server at “location A” fails, the server in the reg
 
 NOTE: Only peer-to-peer transaction replication is tested. If a different type of replication is
 used, it should be tested in advance.
+

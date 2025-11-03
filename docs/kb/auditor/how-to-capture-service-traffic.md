@@ -60,3 +60,4 @@ You can download Fiddler from the Telerik website: https://www.telerik.com/fiddl
 ```
 
 ![CaptureTrafficMachineConfig](https://kb.netwrix.com/wp-content/uploads/2019/12/CaptureTrafficMachineConfig.png)
+

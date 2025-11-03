@@ -12,3 +12,4 @@ sidebar_position: 60
     [WorkforceModule](/docs/identitymanager/6.1/integration-guide/toolkit/xml-configuration/configuration/scaffoldings/workforce/workforcemodule/index.md)
     Generates the workforce repository based on the data filled in the Workforce Core Solution
     module.
+

@@ -33,3 +33,4 @@ installed on the following SharePoint versions as targeted environments:
 If running Sensitive Data Discovery (SDD) scans, it will be necessary to increase the minimum amount
 of RAM. Each thread requires a minimum of 2 additional GB of RAM per host. For example, if the job
 is configured to scan 8 hosts at a time , then an extra 16 GB of RAM are required (8x2=16).
+

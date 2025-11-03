@@ -22,3 +22,4 @@ The Add-On supports monitoring of the following syslog events from CyberArk PAS:
 | 302      | User session ended in Privileged Session Manager                                         |
 | 308      | User used a password stored in Enterprise Password Vault                                 |
 | 411      | A window was activated by user in Privileged Session Manager                             |
+

@@ -69,3 +69,4 @@ not applicable
 
 ## KB Type
 How To
+

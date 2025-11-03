@@ -129,3 +129,4 @@ The Access Analyzer Console is now ready for custom configuration and use. There
 additional steps to complete in order to begin collecting data, such as configuring a Connection
 Profile and a Schedule Service account as well as discovering hosts and setting up host lists. See
 the [Getting Started](/docs/accessanalyzer/12.0/gettingstarted.md) topic for additional information.
+

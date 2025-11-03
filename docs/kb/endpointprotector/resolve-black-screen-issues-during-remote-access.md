@@ -42,3 +42,4 @@ Follow the steps below to resolve this issue:
    ![Disable Print screen blocking screenshot](./images/ka0Qk000000ES7h_0EMQk00000Cp0ez.png)
 
 3. Save the changes to the policy.
+

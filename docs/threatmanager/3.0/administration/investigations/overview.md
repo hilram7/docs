@@ -51,3 +51,4 @@ investigations by name.
 
 Type in the search box. As you type, a drop-down will populate with saved investigations containing
 matches.
+

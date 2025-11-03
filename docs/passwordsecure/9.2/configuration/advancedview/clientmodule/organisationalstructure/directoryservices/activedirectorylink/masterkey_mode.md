@@ -247,3 +247,4 @@ when simply deleting a user. The second step is to search for the user. Both tic
 
 After checking the summary, the process is concluded. The synchronization is completed and the user
 is deleted from the database.
+

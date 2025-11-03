@@ -30,3 +30,4 @@ matched the search string.
 Selecting the **Set all the child objects to inherit these settings** option forces inheritance of
 this setting to all sub-groups and jobs within the job group. When enabled, this option overrides
 any custom settings configured for the child objects.
+

@@ -45,3 +45,4 @@ Run a full **AD Inventory Scan** by disabling differential scanning for the **1-
 7. To determine whether the job was successful, verify the results in the `SA_ADInventory_UsersView`. Search for the deleted user to confirm whether it exists or is marked `IsDeleted`.
 8. If the deleted user does not exist or is not marked `IsDeleted`, then verify the permissions on the scan account. The permissions must have **List contents & read Property** on the **Deleted Objects** container.
 9. For more information, please see the following article: ADInventory Data Collector.
+

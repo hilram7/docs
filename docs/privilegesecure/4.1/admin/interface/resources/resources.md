@@ -95,3 +95,4 @@ The table has the following columns:
 - Last Scanned — Date timestamp for the last time the resource was scanned
 
 The table columns can be resized and sorted in ascending or descending order.
+

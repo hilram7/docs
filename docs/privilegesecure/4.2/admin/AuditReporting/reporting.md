@@ -193,3 +193,4 @@ The Subscriptions tab has the following configuration options:
 - CSV checkbox – If checked, a CSV of the report will be emailed to the subscribed user
 - PDF checkbox – If checked, a PDF of the report will be emailed to the subscribed user
 - Subscriptions table – Shows the subscribed users for the report, and their subscription schedule
+

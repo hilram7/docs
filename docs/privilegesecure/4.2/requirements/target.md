@@ -75,3 +75,4 @@ The following permissions are required for the service accounts:
 - For Microsoft SQL Server database management:
 
     - sysadmin privileges
+

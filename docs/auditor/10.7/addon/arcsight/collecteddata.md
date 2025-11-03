@@ -23,3 +23,4 @@ more than one Netwrix Auditor Server, add all of them in the search field.
 ![activityrecords](/images/auditor/10.7/addon/arcsight/activityrecords.webp)
 
 **Step 4 –** Review imported Activity Records.
+

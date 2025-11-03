@@ -169,3 +169,4 @@ This tab shows the settings that are required for the Forged Ticket threat.
 - Specific groups – Only detect threats if the specified groups have been injected into a user's
   Privilege Account Certificate (PAC). This setting is ignored when the Use all groups setting is
   enabled.
+

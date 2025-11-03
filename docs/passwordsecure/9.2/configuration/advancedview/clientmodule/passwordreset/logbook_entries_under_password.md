@@ -42,3 +42,4 @@ or not)
 | Logbook type           | Logbook record |
 | ---------------------- | -------------- |
 | Password Reset blocked | Password Reset |
+

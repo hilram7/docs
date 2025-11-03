@@ -36,3 +36,4 @@ account.
 **Step 2 –** Click **Save**.
 
 The credentials have been updated for ServiceNow authentication.
+

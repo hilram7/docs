@@ -192,3 +192,4 @@ view a list of the already created Credential Profiles, if any.
 **Step 4 –** Click Save. The Add Credentials window closes.
 
 The Credential Profile now has multiple credentials.
+

@@ -191,3 +191,4 @@ and the remaining free space on the target drive.
 To open the Long-Term Archive settings, click the corresponding link. Then you will be able to
 adjust the settings as necessary. See the [Long-Term Archive](/docs/auditor/10.8/admin/settings/longtermarchive.md)
 topic for additional information.
+

@@ -96,3 +96,4 @@ You can export Admin Center history to Microsoft Excel, CSV, and XML formats.
 
 - [History in GroupID](/docs/directorymanager/11.0/signin/concepts/history.md)
 - [Event Logging](/docs/directorymanager/11.0/signin/identitystore/view/eventlogging.md)
+

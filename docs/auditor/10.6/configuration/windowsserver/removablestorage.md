@@ -108,3 +108,4 @@ supported by Netwrix Auditor.
     | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
     | Directory → Root Directory | Path to the directory where event log is stored. Under the Root directory option, click Browse and select a new root directory. |
     | File → Log file name       | Name of the event log where the events will be stored.                                                                          |
+

@@ -48,3 +48,4 @@ Group Stamping AD_GroupStamping** > **Configure** node and select **Actions**.
 
 Select the checkbox next to The Stamp Groups Action Task and click **Execute Action** to execute the
 action task.
+

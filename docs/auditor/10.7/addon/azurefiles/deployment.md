@@ -89,3 +89,4 @@ Click **Next**.
 ![microsoftgraphapi](/images/auditor/10.7/addon/azurefiles/microsoftgraphapi.webp)
 
 **Step 7 –** Click **Run** and close the window. The service should start the data collection now.
+

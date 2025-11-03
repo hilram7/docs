@@ -35,3 +35,4 @@ When creating a new filter for **Event Log Manager**, you can select the log nam
 4. Paste that name to the **Event Log** field of the filter:
 
 ![image.png](images/ka04u000000HcPp_0EM4u000007qsVK.png)
+

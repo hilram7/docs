@@ -69,3 +69,4 @@ A Documentation article:
 
 - Has the following URL: [https://docs.netwrix.com
 - Is structured. You may find its position in the table of contents placed on the left pane.
+

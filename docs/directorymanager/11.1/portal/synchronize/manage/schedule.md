@@ -12,3 +12,4 @@ targets. When the schedule runs, the target jobs and job collections are execute
 
 To create a Synchronize schedule, see the
 [Synchronize Schedule](/docs/directorymanager/11.1/admincenter/schedule/synchronize.md) topic.
+

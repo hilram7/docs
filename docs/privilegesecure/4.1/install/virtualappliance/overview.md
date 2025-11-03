@@ -32,3 +32,4 @@ Secure enables administrators to use just-in-time accounts with just enough priv
   errors occur that could cause a service disruption to the organization, they are alerted and given
   options to pause and roll-back any changes that have been made. This makes IT manager's lives
   easier as it helps to avoid costly service failures.
+

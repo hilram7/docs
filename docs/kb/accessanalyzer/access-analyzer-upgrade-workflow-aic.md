@@ -66,3 +66,4 @@ Follow these steps to complete the AIC upgrade:
 2. Have a user with the correct permissions log in to the AIC to confirm operability.
 3. Verify the AIC configuration settings match those saved during the preparation phase.
 4. Verify that the built-in admin account for the AIC is either disabled or that the password has been changed.
+

@@ -24,3 +24,4 @@ To view unresolved control incidents:
 
 **Change Overview** shows what change was made and who made the change. The **Diff View** on the
 **Values** tab displays both the old and new values.
+

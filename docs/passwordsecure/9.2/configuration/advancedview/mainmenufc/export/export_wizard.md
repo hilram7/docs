@@ -56,3 +56,4 @@ this export are generally only granted to users/roles with higher positions in t
 subject is even more relevant from a security perspective: It is possible to export all passwords
 for which a user has the required permissions. Administrators could thus (intentionally or
 unintentionally) cause more damage per se.
+

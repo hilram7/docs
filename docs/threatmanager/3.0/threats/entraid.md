@@ -61,3 +61,4 @@ Sensitive Role Change is assigning a privilege role to an Microsoft Entra ID obj
 | Definition             | The sensitive role changes threat detects when a privileged role is assigned to an Microsoft Entra ID object. The privilege roles have a high level of access to Microsoft Entra ID objects. They can make unauthorized changes which can pose significant security risks. |
 | Example                | A user gives another user the "Global Administrator" role.                                                                                                                                                                                                                 |
 | Trigger                | When an Microsoft Entra ID object is granted a privileged role.                                                                                                                                                                                                            |
+

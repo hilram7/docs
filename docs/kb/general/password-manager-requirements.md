@@ -89,3 +89,4 @@ To enable these features on Windows Server 2012 and 2012R2, perform the followin
 8. Click **Next** and then click **Install**.
 
 [![User-added image](./images/ka04u00000116Op_0EM700000005OBu.png)](https://netwrix.secure.force.com/kb/servlet/rtaImage?eid=ka40g000000Xe0a&amp;feoid=00N700000032Pj2&amp;refid=0EM700000005OBu)
+

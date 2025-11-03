@@ -218,3 +218,4 @@ available on the **Related** tab on the policy.
    arrow to remove items from the selected list.
 6. Click **Save** when complete. A confirmation dialog is displayed. Click **OK** to confirm you
    want to add all of the customizations from the selected Salesforce types.
+

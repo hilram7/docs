@@ -29,3 +29,4 @@ additional information.
 
 To learn more about Integration API capabilities, refer to the
 [Integration API](/docs/auditor/10.6/api/overview.md).
+

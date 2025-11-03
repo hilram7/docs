@@ -32,3 +32,4 @@ window has the following tabs:
 - [Logic Tab](/docs/accessanalyzer/11.6/admin/analysis/businessrules/logic.md)
 - [Variables Tab](/docs/accessanalyzer/11.6/admin/analysis/businessrules/variables.md)
 - [Applies To Tab](/docs/accessanalyzer/11.6/admin/analysis/businessrules/appliesto.md)
+

@@ -20,3 +20,4 @@ Step 3 – On the **Choose Your Job Template** page, enter job collection detail
 to use a job group template or create the job group from scratch.
 
 Step 4 – Click **Next Step**.
+

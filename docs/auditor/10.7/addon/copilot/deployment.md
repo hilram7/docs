@@ -48,3 +48,4 @@ Click **Next**.
 ![tenantapp](/images/auditor/10.7/addon/copilot/tenantapp.webp)
 
 **Step 3 –** Click **Run** and close the window. The service should start the data collection now.
+

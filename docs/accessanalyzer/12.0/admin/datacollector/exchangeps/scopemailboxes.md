@@ -22,3 +22,4 @@ Available Mailboxes list. Select desired mailboxes from the Available Mailboxes 
 **Add**. The selected mailboxes are added in the Selected Mailboxes list. To remove undesired
 mailboxes from Selected Mailboxes, select them and click **Remove**. The Select All and Clear All
 buttons can be used for quick selection.
+

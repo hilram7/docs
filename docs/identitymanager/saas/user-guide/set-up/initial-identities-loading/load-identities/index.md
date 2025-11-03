@@ -187,3 +187,4 @@ In order to validate the process:
 
     See the [Generate Reports](/docs/identitymanager/saas/user-guide/administrate/reporting/index.md) topic for additional
     information.
+

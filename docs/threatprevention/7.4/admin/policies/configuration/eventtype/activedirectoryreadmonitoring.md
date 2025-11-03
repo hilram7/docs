@@ -207,3 +207,4 @@ for troubleshooting.
 The text displayed represents the rules created based on the policy’s selected filters. Each row is
 a selected filter. Notice the Word Wrap checkox. If checked, a filter statement may cover multiple
 rows so that all of it is visible.
+

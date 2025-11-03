@@ -18,3 +18,4 @@ The Sizing job group is comprised of:
   from targeted file servers
 - [FS_SmallestResources Job](/docs/accessanalyzer/12.0/solutions/filesystem/content/sizing/fs_smallestresources.md) – Designed to report on the smallest resources
   from targeted file servers
+

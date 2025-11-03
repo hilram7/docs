@@ -84,3 +84,4 @@ for records.
 This process ensures that a special tag is automatically issued when using a certain template group.
 Example cases can be found in the
 [Working with predefined rights](/docs/passwordsecure/9.1/configuration/advancedview/permissionconceptandprotective/predefiningrights/working_with_predefined_rights.md).
+

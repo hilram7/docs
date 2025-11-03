@@ -48,3 +48,4 @@ To address the issue:
    - Open **Control Panel** → **Internet Options**.
    - Go to the **Advanced** tab.
    - Under the Security group of settings, disable the **Check server certificate for revocation** checkbox.
+

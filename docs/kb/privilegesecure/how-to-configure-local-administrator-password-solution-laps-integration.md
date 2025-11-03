@@ -87,3 +87,4 @@ This article outlines how to integrate Netwrix Privilege Secure activities with 
    - Users added to the appropriate **Access Policies** can now provision the LAPS activity.
    - Provisioned sessions allow users to RDP to Windows resources managed by LAPS as the built-in Administrator account.
    - When a LAPS-integrated session ends, Netwrix Privilege Secure triggers a password rotation via LAPS, ensuring the built-in admin account for the accessed resource is secured.
+

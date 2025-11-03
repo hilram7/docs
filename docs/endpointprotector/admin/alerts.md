@@ -197,3 +197,4 @@ From this section, you can view the history of the Enforced Encryption Alerts. A
 longer needed for auditing purposes can later be deleted.
 
 ![Enforced Encryption Alert History ](eealerthistory.webp)
+

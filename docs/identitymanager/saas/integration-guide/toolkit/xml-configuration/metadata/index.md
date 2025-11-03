@@ -14,3 +14,4 @@ sidebar_position: 60
 - [Entity Type](/docs/identitymanager/saas/integration-guide/toolkit/xml-configuration/metadata/entitytype/index.md)
 - [Language](/docs/identitymanager/saas/integration-guide/toolkit/xml-configuration/metadata/language/index.md)
 - [Settings](/docs/identitymanager/saas/integration-guide/toolkit/xml-configuration/metadata/settings/index.md)
+

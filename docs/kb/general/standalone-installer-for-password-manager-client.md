@@ -29,3 +29,4 @@ For installation of the client via Group Policy, you can use the separate `prm_c
 It can be found in the program installation directory after installing a server part (by default `C:\Program Files (x86)\NetWrix Password Manager`).
 
 GP installation is described in the procedure 4 page 11 of the [Administrator's guide](https://www.netwrix.com/download/documents/NetWrix_Password_Manager_Administrator_Guide.pdf).
+

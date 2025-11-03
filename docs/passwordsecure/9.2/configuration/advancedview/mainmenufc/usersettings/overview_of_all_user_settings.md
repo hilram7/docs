@@ -167,3 +167,4 @@ selected version are correspondingly marked in the list.
 
 This makes it easier for administrators to correctly configure new options before they release the
 update for all employees.
+

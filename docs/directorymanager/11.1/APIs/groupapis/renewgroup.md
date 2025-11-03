@@ -33,3 +33,4 @@ It renews a group, identity of which is provided in the endpoint URL.
     "status": 0
 }
 ```
+

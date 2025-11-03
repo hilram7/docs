@@ -112,3 +112,4 @@ Complete the following fields:
 See the
 [Permissions for Active Directory Auditing](/docs/auditor/10.6/configuration/activedirectory/permissions.md)
 topic for additional information.
+

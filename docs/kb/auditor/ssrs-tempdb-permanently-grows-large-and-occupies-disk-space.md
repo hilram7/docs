@@ -45,3 +45,4 @@ Grant the `db_owner` role to the SQL Server service account.
 ## Related articles
 
 - Requirements − Requirements for SQL Server to Store Audit Data · v10.6
+

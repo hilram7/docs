@@ -23,3 +23,4 @@ The following event types are available for LDAP:
 - [LDAP Lockdown Event Type](/docs/threatprevention/7.4/admin/policies/configuration/eventtype/ldaplockdown.md)
 - [LDAP Monitoring Event Type](/docs/threatprevention/7.4/admin/policies/configuration/eventtype/ldapmonitoring/ldapmonitoring.md)
 - [LDAP Bind Monitoring Event Type](/docs/threatprevention/7.4/admin/policies/configuration/eventtype/ldapbindmonitoring.md)
+

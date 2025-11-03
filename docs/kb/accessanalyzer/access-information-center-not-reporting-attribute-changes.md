@@ -46,3 +46,4 @@ Ensure that differential scans for AD Inventory are enabled and running. This wi
 ## Related Article
 
 - https://docs.netwrix.com/docs/auditor/10_8
+

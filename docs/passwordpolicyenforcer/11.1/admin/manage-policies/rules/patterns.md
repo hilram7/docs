@@ -49,3 +49,4 @@ Select **Detect key skip** for skipped keys, such as **qetuo**.
 
 Set **Tolerance** for the number of characters in a keyboard pattern is allowed before the password
 is rejected.
+

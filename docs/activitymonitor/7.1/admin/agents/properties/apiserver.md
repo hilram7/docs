@@ -64,3 +64,4 @@ The options below the API Application Access window are:
 
 Click **OK** to commit the modifications. Click **Cancel** to discard the modifications. The Agent
 Properties window closes.
+

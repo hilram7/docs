@@ -287,3 +287,4 @@ Microsoft Entra ID tenant to the membership of a group in your domain.
 
 An object for the guest user is created in Microsoft Entra ID, with type as ‘guest user’. This user
 has the same rights and permissions as any other group member.
+

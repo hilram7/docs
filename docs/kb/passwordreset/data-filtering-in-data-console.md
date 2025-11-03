@@ -109,3 +109,4 @@ Users are automatically deleted from Netwrix Password Reset's database approxima
 3. Press the `DELETE` key, and then click **OK**.
 
 > **NOTE.** You can still view a user's event history in the Audit Log tab after they are deleted from the Users tab.
+

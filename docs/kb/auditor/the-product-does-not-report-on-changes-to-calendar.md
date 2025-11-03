@@ -32,3 +32,4 @@ If you still want to monitor the **Calendar** folder, do the following:
 1. Navigate to the Netwrix Non-Owner Mailbox Access Reporter for Exchange installation directory.
 2. Open the `mailboxestoexclude.txt` file and delete the `*/calendar*` line.
 3. Save the changes.
+

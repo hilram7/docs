@@ -48,3 +48,4 @@ Before making this change, the **Find** dialog box allows searches for *Users*, 
 After updating the settings to allow only **Users**, the **Find** dialog box will display only the *User* object type in searches:
 
 ![Find dialog box showing only User object type](images/ka0Qk000000CzVx_0EMQk00000BYFHd.png)
+

@@ -112,3 +112,4 @@ In case the add-on and Auditor are installed on the same server, no special sett
 
 Netwrix Auditor add-on for CyberArk is compatible with CyberArk Privileged Access Security (PAS)
 10.10 and with Netwrix Auditor 9.8 and later.
+

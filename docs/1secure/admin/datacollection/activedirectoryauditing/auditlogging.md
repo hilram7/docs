@@ -49,3 +49,4 @@ Programs → Exchange Management Shell**.
         `<Path_To_SetAALExcludedCmdlets_File>.\SetAALExcludedCmdlets.ps1`
 
     Make sure your policies allow script execution.
+

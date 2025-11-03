@@ -16,3 +16,4 @@ this is configured, the Domain Backup Configuration interface is not displayed a
 
 Click the **here** link to launch the Add Domain Configuration wizard. Then follow the steps in the
 [Domains Page](/docs/recoveryforactivedirectory/2.6/admin/configuration/domain.md) topic to add a domain and its backup configurations.
+

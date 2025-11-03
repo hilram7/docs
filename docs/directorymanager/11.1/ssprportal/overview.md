@@ -44,3 +44,4 @@ select a function.
   be redirected to the GroupID Authenticate page. See the [Log in](/docs/directorymanager/11.1/portal/login.md#log-in) topic
   for signing into the portal. On signing in, the main portal page is displayed. See the
   [Navigation](/docs/directorymanager/11.1/ssprportal/navigation.md) topic for additional information.
+

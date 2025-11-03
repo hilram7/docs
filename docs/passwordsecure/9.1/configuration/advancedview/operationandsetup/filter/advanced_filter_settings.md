@@ -114,3 +114,4 @@ In order to effectively use negations, it is important that “and links” are 
 enabled. Otherwise operations with negations cannot be modelled mathematically.
 
 :::
+

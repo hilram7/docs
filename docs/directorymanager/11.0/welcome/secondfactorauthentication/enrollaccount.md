@@ -93,3 +93,4 @@ What do you want to do?
 
 - [Second Factor Authentication](/docs/directorymanager/11.0/welcome/secondfactorauthentication/secondfactorauthentication.md)
 - [Authenticate Your Identity Store Account](/docs/directorymanager/11.0/welcome/secondfactorauthentication/authenticateaccount.md)
+

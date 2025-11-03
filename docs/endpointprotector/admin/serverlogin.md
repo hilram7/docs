@@ -40,3 +40,4 @@ Before deploying any agents, each module’s policy should be reviewed. If agent
 delivered to systems, a review of the configuration(s) can be accomplished by verifying active
 policy mappings. To clarify, once a policy is built or edited, it would be ‘mapped’ to a defined
 target or group of targets. This will be discussed later in the sections for each module.
+

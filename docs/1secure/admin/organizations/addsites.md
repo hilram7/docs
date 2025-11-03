@@ -90,3 +90,4 @@ Follow the steps to view the site for the organization.
   organization
 
 **Step 3 –** You can edit or delete the site by clicking the **Edit** or **Bin** icon.
+

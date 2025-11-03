@@ -146,3 +146,4 @@ In an open Change Log:
 3. Open **System Notes**
 
 ![systemsnotes](/images/platgovnetsuite/change_management/systemsnotes.webp)
+

@@ -40,3 +40,4 @@ Then you come to the actual configuration.
 
 NOTE: Please note that a **Relay State** is required. This value can be created in the **Configure
 Identity Provider Details View**.
+

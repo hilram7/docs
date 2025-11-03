@@ -65,3 +65,4 @@ Review the installation of the File System Proxy service and verify that there i
 
 - https://docs.netwrix.com/docs/accessanalyzer/12_0 (File System Proxy as a Service Overview — Uninstall Proxy Service Process · v11.6)
 - https://docs.netwrix.com/docs/accessanalyzer/12_0 (File System Proxy as a Service Overview — File System Proxy Service Installation · v11.6)
+

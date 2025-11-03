@@ -96,3 +96,5 @@ opened for each URL.
 
 Notice that since there was no rule for www.abc.com, the overriding Default Browser rule took effect
 and launched Internet Explorer.
+
+

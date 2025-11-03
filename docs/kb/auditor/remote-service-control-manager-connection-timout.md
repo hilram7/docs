@@ -33,3 +33,4 @@ Default connection timeout is 30 seconds, and in order to increase this value pl
 1. Run `regedit`, and navigate to the following key: `HKEY_LOCAL_MACHINESOFTWAREWow6432NodeNetWrixAD Change Reporter`
 2. Create a new DWORD key with the following name: `SvcMaxWaitTime`
 3. Set decimal value in seconds more than 30 e.g. `60` or `120`
+

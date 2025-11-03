@@ -83,3 +83,4 @@ the Agent installed. One of two status messages display:
 **Step 7 –** When the task is successfully completed, click **Finish** to close the window.
 
 The Agent's status is displayed as Active.
+

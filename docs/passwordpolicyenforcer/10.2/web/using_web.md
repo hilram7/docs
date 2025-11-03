@@ -77,3 +77,4 @@ Validation and critical error messages are stored in the HTML templates. You can
 messages by editing the templates. See the
 [Editing HTML Templates](/docs/passwordpolicyenforcer/10.2/web/editing_html_templates.md)
 topic for additional information.
+

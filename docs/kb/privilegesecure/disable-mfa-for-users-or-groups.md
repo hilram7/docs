@@ -38,3 +38,4 @@ This article outlines how to disable Multi-factor Authentication (MFA) for indiv
    ![User-added image](./images/ka04u000000HdEsAAK_2.png)
 
 3. Click **Not Required**, which will immediately disable the MFA requirement for the user or all users that are a member of the group.
+

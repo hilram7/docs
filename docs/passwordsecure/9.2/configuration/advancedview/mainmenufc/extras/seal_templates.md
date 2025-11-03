@@ -32,3 +32,4 @@ same way as the seal assistant.
 ![installation_with_parameters_102](/images/passwordsecure/9.2/configuration/advanced_view/mainmenu/extras/seal_templates/installation_with_parameters_102.webp)
 
 Once templates have been added, they can be immediately used for the creation of new seals.
+

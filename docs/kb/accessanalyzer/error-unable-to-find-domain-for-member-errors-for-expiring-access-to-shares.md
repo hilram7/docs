@@ -45,3 +45,4 @@ Set the `ExpirationState` to `2` in the `SA_AIC_ResourceAccessRequests` table fo
 ```sql
 Update dbo.SA_AIC_ResourceAccessRequests SET ExpirationState = 2 where UserSID = '{usersid}'
 ```
+

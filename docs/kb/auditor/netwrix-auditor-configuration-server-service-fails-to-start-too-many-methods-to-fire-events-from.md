@@ -95,3 +95,4 @@ In case the aforementioned steps did not help, refer to the following steps to t
 ![Configuration restored](images/ka04u00000117L8_0EM4u000008LCwE.png)
 
 > **NOTE:** If the issue reoccurs after some time, contact [Netwrix Technical Support](https://www.netwrix.com/open_a_ticket.html).
+

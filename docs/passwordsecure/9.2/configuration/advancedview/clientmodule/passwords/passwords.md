@@ -113,3 +113,4 @@ first session.
 
 NOTE: The password module is based on the module of the same name in the Web Application. Both
 modules have a different scope and design. However, they are almost identical to use.
+

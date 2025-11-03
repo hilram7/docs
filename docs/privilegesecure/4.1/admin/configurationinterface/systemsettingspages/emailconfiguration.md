@@ -22,3 +22,4 @@ features:
 **Example Email**
 
 ![Emailed link](/images/privilegesecure/4.1/accessmanagement/admin/configuration/page/emailedlink.webp)
+

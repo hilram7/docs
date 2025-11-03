@@ -19,3 +19,4 @@ The following functions are currently available in the **roles module:**
 
 The Web Application module **roles** is based on the client module of the same name. Both modules
 have a different scope and design but are almost identical to use.
+

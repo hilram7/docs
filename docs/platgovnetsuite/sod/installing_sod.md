@@ -32,3 +32,4 @@ Note the SoD Bundle ID has been updated due to NetSuite changes.
 6. Review the
    [Default SoD Custom Record Types and Permission Lists](/docs/platgovnetsuite/installation/setting_permissions.md)
    table and add any permissions needed to your Custom Roles.
+

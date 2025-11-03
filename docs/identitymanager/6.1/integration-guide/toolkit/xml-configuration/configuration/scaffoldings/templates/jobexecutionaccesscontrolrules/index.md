@@ -49,3 +49,4 @@ Our example generates the following configuration:
 <JobViewAccessControlRules Id="6" Profile="Administrator" /><RunJobAdministrationAccessControlRules Id="10" Profile="Administrator" /><RunJobNotificationAccessControlRules Id="11" Profile="Administrator" /><RunJobRepairAdministrationAccessControlRules Id="12" Profile="Administrator" /><RunJobRepairNotificationAccessControlRules Id="13" Profile="Administrator" />
 
 ```
+

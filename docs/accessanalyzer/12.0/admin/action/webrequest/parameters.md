@@ -68,3 +68,4 @@ Create custom attributes using the following options:
 
     - Split on – Split the data on the character specified in the text box. The default is comma
       `,`.
+

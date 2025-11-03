@@ -36,3 +36,4 @@ This option only applies to Tag collection and Sensitive data collection. Files 
 still be scanned for permissions regardless of whether this option is checked or not.
 
 :::
+

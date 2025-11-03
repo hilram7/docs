@@ -79,3 +79,4 @@ commit the modifications. Click **Cancel** to discard the modifications.
 The Service Account is Managed by Privilege Secure when the account has been configured to be
 managed by the application. See the [Credentials Page](/docs/privilegesecure/4.2/admin/interface/credentials/credentials.md) topic for
 additional information.
+

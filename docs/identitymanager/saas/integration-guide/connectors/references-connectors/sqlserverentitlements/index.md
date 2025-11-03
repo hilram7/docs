@@ -174,3 +174,4 @@ Data protection can be ensured through:
 
 [](/docs/identitymanager/saas/integration-guide/network-configuration/agent-configuration/cyberark-application-access-manager-credential-providers/index.md)[Connection](/docs/identitymanager/saas/integration-guide/toolkit/xml-configuration/connectors/connection/index.md)
 is not available for this connector.
+

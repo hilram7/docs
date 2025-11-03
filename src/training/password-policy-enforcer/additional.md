@@ -6,3 +6,4 @@ The following courses are available for self-enrollment through the Learning Lib
 
 * What's New in <NPPE /> v11.0
 * Cyber Security Boot Camp: Build a Strong Password Policy to Protect Your AD
+

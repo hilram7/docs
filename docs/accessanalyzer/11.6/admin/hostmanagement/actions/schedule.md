@@ -28,3 +28,4 @@ The details of the scheduled Inventory query are available in the **Schedules** 
 next run date and time. See the
 [Schedules](/docs/accessanalyzer/11.6/admin/schedule/overview.md)
 topic for additional information.
+

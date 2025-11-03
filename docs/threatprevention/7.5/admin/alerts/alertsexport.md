@@ -27,3 +27,4 @@ Alerts Export window is displayed.
 
 **Step 4 –** Click **OK**; the Save As window opens. Specify the file name and location, then click
 **Save**.
+

@@ -22,3 +22,4 @@ Value** for the userAccountControl attribute to open the User Account Control Wi
 This window displays a list of UAC flags for additional scoping. Select specific userAccountControl
 flags using the **Attribute Set** and/or **Attribute Clear** checkboxes. When the selected attribute
 is either added or removed in Active Directory, an event is created.
+

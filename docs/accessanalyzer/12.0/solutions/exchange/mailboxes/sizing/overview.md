@@ -26,3 +26,4 @@ The jobs in the Sizing job group are:
   and Stale Mailboxes
 - [EX_StoreSizes Job](/docs/accessanalyzer/12.0/solutions/exchange/mailboxes/sizing/ex_storesizes.md) – Provides analysis and reporting around Database Sizing
   based on Mailbox Sizes
+

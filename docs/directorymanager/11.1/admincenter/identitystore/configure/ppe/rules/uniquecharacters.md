@@ -16,3 +16,4 @@ The Unique Characters rule is case sensitive, so "LoOpHole" contains seven uniqu
 - Enable the **Unique characters** button to enable the Unique Characters rule.
 - Must contain `<_number_>` or more unique characters – Select the minimum number of unique
   characters in the number drop-down list the passwords must contain.
+

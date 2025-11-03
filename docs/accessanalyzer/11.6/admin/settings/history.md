@@ -101,3 +101,4 @@ Period setting. Each log is named in the following format:
 
 - Open/Latest Log Name – `[Jobname]_Log.tsv`
 - Older/Zipped Log Name – `[Jobname]_Log_[Date]_[Time].zip`
+

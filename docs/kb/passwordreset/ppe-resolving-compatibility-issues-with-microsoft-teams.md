@@ -46,3 +46,4 @@ You can download the updated ANIXIS clients from:
 - [APR 3.23 client](https://www.anixis.com/ftp/apr/aprclt323.zip)
 
 Install the updated clients over the top of the existing version using whatever deployment method was used for the original installation. If Group Policy was used, then add the new version to the existing GPO. There is no need to remove the old version from the GPO.
+

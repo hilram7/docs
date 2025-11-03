@@ -50,3 +50,4 @@ as Segregation of Duties (SoD) or High Privilege. Risks can be used to identify 
 assignments that should be reviewed first during a certification campaign.
 
 See the [Risk Management](/docs/identitymanager/6.2/integration-guide/governance/risks/index.md) topic to learn how to configure risks.
+

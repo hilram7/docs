@@ -43,3 +43,4 @@ The possible cause for the issue is that some OUs no longer exist in a domain.
 ## Resolution
 
 Review your Inactive Users monitoring plan settings and check the OU where accounts belong to. The error indicates that the monitored OU does not exist and should be removed from the Netwrix Password Reset's filters.
+

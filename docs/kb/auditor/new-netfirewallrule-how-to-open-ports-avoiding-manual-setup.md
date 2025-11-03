@@ -137,3 +137,4 @@ netsh advfirewall firewall add rule name = NASQLAllowInTCP1024-65535 dir = in pr
 - A full list of protocols and ports required for Netwrix Auditor for SQL Server ⸱ v10.6
 - [New-NetFirewallRule Syntax and Examples ⸱ Microsoft &#129125;](https://learn.microsoft.com/en-us/powershell/module/netsecurity/new-netfirewallrule?view=windowsserver2022-ps)
 - [Using netsh advfirewall Firewall Instead of netsh firewall to Control Windows Firewall Behavior ⸱ Microsoft &#129125;](https://learn.microsoft.com/en-us/troubleshoot/windows-server/networking/netsh-advfirewall-firewall-control-firewall-behavior)
+

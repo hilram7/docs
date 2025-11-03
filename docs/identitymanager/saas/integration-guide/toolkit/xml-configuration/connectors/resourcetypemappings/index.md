@@ -57,3 +57,4 @@ Here is a list of ResourceType Mapings:
 
     The set of parameters to map the properties of Share Point in Identity Manager, for provisioning
     purposes.
+

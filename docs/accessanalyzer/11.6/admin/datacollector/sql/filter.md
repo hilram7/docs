@@ -158,3 +158,4 @@ Use the following format to add a custom filter for a server:
 - Db2:
 
     [Db2LUW Server Name]/[Host or IP Address]/[DastabaseName]/[TableName]
+

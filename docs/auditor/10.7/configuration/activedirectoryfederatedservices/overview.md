@@ -147,3 +147,4 @@ Configuration information can be collected for the following objects:
 - Authentication Method names
 - Relying Party Trusts settings
 - Scope Descriptions
+

@@ -76,3 +76,4 @@ The following signs are used to define risk level intervals and threshold values
 \* -here the _Overall number of servers_ means the number of Windows servers for which data
 collection was a success. That said, this count may vary across the risks. In such a case, it is
 recommended to examine Netwrix Auditor health log and omit lists.
+

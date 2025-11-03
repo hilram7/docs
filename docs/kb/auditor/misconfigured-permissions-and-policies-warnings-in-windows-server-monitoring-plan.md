@@ -107,3 +107,4 @@ Review the resolutions to ensure the settings are configured correctly in your t
 - Windows Server − Configure Local Audit Policies · v10.6: https://docs.netwrix.com/docs/auditor/10_8
 - Windows Server − Configure Advanced Audit Policies · v10.6: https://docs.netwrix.com/docs/auditor/10_8
 - Windows Server − Adjusting Event Log Size and Retention Settings · v10.6: https://docs.netwrix.com/docs/auditor/10_8
+

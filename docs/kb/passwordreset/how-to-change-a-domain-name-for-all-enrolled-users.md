@@ -51,3 +51,4 @@ SqlCeCmd40.exe -d "Data Source=apr.sdf" -q "UPDATE Usr SET DomainName = 'NewDoma
 ```
 
 where `NewDomain` is the name of your new domain and `OldDomain` is the old name arrordingly.
+

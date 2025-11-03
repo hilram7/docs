@@ -36,3 +36,4 @@ The following controls are available in the top right corner of the Sessions int
 
 Clicking on the **Sessions** tab will display a list of all available sessions and allow the user to
 switch between sessions.
+

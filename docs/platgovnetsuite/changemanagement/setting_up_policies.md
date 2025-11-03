@@ -275,3 +275,4 @@ process. Refer to the NetSuite help for more information on Mass Update.
 6. Check the box and select your new **Policy**.
 7. **Save** and run the Mass Update.
 8. Save your **Change Approval Policy**.
+

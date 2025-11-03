@@ -59,3 +59,4 @@ This action disconnects the user from the host and disables login rights for the
   action will be run as the credentials of the Action Service.
 - Users – Select the users for whom to disable remote desktop access. If not specified, those user
   who triggered the threat will be used.
+

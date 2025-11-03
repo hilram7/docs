@@ -70,3 +70,4 @@ Otherwise, click **Cancel** if no changes were intended.
 ![Host Discovery Log under Host Discovery node](/images/accessanalyzer/12.0/admin/settings/hostdiscoverylog.webp)
 
 The Host Discovery Log is located under the **Host Discovery** node.
+

@@ -16,3 +16,4 @@ Manages Google Workspace entities.
 | Fulfill                 | Usercube-Fulfill-GoogleWorkspace.dll |
 | Has Incremental Mode    | False                                |
 | Publisher               | Usercube                             |
+

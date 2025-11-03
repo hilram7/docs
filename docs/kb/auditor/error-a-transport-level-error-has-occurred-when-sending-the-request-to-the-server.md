@@ -43,3 +43,4 @@ Changed database context to 'NetWrix_Windows_Server_Change_Reporter'.
 ```
 
 3. Click the **Assign** link and specify the users who can access the database.
+

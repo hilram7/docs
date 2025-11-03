@@ -34,3 +34,4 @@ The following sample plugins are provided with the product (complete with code):
 Click the Detect New Plugins button to search the plugins folder for new plugins.
 
 Click the Enable link to enable selected plugins.
+

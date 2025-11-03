@@ -30,3 +30,4 @@ buttons. The table below describes the available options.
 | FilePercentFragmentation      | Percent of used disk space that shows fragmentation                                                                 |
 | FreeSpacePercentFragmentation | Percentage of free space on the disk that shows fragmentation                                                       |
 | TotalPercentFragmentation     | Percentage of total disk space that shows fragmentation                                                             |
+

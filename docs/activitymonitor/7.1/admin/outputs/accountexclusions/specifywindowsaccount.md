@@ -27,3 +27,4 @@ resolved.
 
 The Specify account or group window closes, and the account is added to the field where the window
 was opened.
+

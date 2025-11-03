@@ -162,3 +162,4 @@ Follow the steps to obtain the tenant name.
 **Step 2 –** In the Tenant Information menu, locate the **Primary domain** field and copy its value.
 
 **Step 3 –** Store the tenant to a safe location.
+

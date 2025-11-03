@@ -42,3 +42,4 @@ knowledge_article_id: kA00g000000PbceCAC
 11. On the **Processing Settings** step, select the desirable Index Processing mode: **No Index**, **Keyword**, or **Compound Term**.
 
 ![](https://kb.netwrix.com/wp-content/uploads/2020/03/NDC_Processing_2.png)
+

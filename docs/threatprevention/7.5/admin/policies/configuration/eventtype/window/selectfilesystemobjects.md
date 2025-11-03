@@ -33,3 +33,4 @@ The paths entered can be file or folder names.
 
 - For example, type c:\HR\NewHireProcess.doc for a NAS device with 192.168.16.188 as IP address, and
   it appears in the paths list as c:\HR\NewHireProcess.doc (\192.168.16.188).
+

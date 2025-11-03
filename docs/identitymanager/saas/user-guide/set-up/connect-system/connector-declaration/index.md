@@ -66,3 +66,4 @@ In order to verify the process, check that the connector has been added to the c
 the right name and identifier.
 
 ![Test Connector](/images/identitymanager/saas/user-guide/set-up/connect-system/connector-declaration/connectorcreation_test_v602.webp)
+

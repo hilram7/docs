@@ -59,3 +59,4 @@ information:
 - Exclusions – A green check mark indicates that one or more exclusions are present for this threat
   type. A gray x indicates that no exclusions are present for this threat. See the
   [Fine Tune a Threat](/docs/threatmanager/3.0/administration/configuration/threatdetection/threatconfiguration.md) topic for additional information.
+

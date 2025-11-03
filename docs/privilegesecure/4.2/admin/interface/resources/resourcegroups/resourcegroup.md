@@ -49,3 +49,4 @@ Follow the steps to add resource groups to the console.
   additional information.
 
 The new resource group is added to the console and is shown in the Resource Groups list.
+

@@ -48,3 +48,4 @@ Netwrix Directory Manager allows you to add users to Active Directory groups as 
 ![Editing membership type and period for a group member in Directory Manager](images/ka0Qk000000FGZ7_0EMQk00000C65MH.png)
 
 4. Save the changes.
+

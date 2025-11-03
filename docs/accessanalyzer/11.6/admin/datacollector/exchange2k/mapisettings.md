@@ -35,3 +35,4 @@ Enter a server to Test Connection Setting:
 - Test connection setting – Click to test the connection to the Exchange server
 
 The box at the bottom of the page displays information regarding the test connection in progress.
+

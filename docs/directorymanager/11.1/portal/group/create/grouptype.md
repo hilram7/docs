@@ -15,3 +15,4 @@ Select the type of group you want to create and click **Next**. Options are:
 - [Create a Dynasty using the Organizational/Geographical/Custom template](/docs/directorymanager/11.1/portal/group/dynasty/AD/createdynasty.md#create-a-dynasty-using-the-organizationalgeographicalcustom-template)
 - [Create a Dynasty using the Managerial template](/docs/directorymanager/11.1/portal/group/dynasty/AD/createdynasty.md#create-a-dynasty-using-the-managerial-template)
 - [Create Teams](/docs/directorymanager/11.1/portal/group/create.md) (for Microsoft Entra ID only)
+

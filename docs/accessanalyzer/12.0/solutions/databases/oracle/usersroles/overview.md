@@ -25,3 +25,4 @@ The jobs in the 1.Users and Roles Job Group are:
 - [Oracle_Users Job](/docs/accessanalyzer/12.0/solutions/databases/oracle/usersroles/oracle_users.md) – This job group is designed to provide insight into all the
   attributes associated with all the users in the Oracle database across all targeted Oracle
   database servers
+

@@ -23,3 +23,4 @@ The Directory Scope page has the following options:
 - Remove – Removes an OU from the query scope
 - Scope – List of OUs to be scanned
 - Sub tree – Sub-OUs included in the scan if checked
+

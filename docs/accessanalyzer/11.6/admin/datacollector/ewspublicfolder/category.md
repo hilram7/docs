@@ -28,3 +28,4 @@ Select which type of EWS public folder information to retrieve from the followin
 
     - PublicFolderSearchFolders – Search for folders containing messages
     - PublicFolderSearchMessages – Search for messages
+

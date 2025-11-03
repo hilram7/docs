@@ -28,3 +28,4 @@ Upon completion, sellers will be able to:
 * Learn the targets for ITDR solutions
 * Uncover customer pain points that Netwrix ITDR directly addresses, such as unmanaged privileged accounts, excessive permissions, and lack of real-time threat detection.
 * Deliver the <Company /> ITDR value proposition with confidence, demonstrating how it enables proactive threat detection, automated response, and identity risk reduction.
+

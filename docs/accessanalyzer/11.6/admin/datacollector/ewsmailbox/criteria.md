@@ -44,3 +44,4 @@ Criteria and User Criteria nodes are visible in the table.
     user-defined criteria. See the
     [Sensitive Data Criteria Editor](/docs/accessanalyzer/11.6/sensitivedatadiscovery/criteriaeditor/overview.md)
     topic for additional information.
+

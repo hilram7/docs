@@ -49,3 +49,4 @@ To address the issue, you can either:
 7. Scroll up, find the **notification_policy** node and click **Show/Hide**.
 8. Expand the **DELETE /notification_policies/** node, insert the notification's policy UUID and click **Try it out** to remove the notification policy.
 9. Scroll down back to the **DELETE /partner_servers/** node, the UUID of the partner server should still be there, click **Try it out** to remove the partner server.
+

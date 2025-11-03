@@ -174,3 +174,4 @@ systemctl start $SERVICE_NAME
 echo "Service '$SERVICE_NAME' started successfully."
 
 ```
+

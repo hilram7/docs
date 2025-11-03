@@ -45,3 +45,4 @@ indicates the current column and sort order being used for the results.
 Click on a **Log Name** link to open the log.
 
 ![Example Environment Compare Log](/images/platgovsalesforce/reports/deploy_compare_env_log.webp)
+

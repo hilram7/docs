@@ -52,3 +52,4 @@ The Box Solution has the following job groups and jobs:
   inactive access rights that can be revoked
 - [Box_GroupMembership Job](/docs/accessanalyzer/12.0/solutions/box/box_groupmembership.md) – Expands group membership in an organization's
   Box environment
+

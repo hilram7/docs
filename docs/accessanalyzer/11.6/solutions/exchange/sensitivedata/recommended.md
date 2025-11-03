@@ -69,3 +69,4 @@ No other queries should be modified.
 **Step 2 –** Set a Connection Profile on the jobs which run data collection.
 
 **Step 3 –** Schedule the 7. Sensitive Data job group to run as desired.
+

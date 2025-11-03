@@ -33,3 +33,4 @@ The Database Settings page displays the following settings for SQL Server:
 - Port — Port number of the server proxy
 - Database — The database the resource is using
 - Service Status — Displays the current status of the database service
+

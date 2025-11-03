@@ -27,3 +27,4 @@ An additional feature is to add Honey Accounts to be monitored.
 
 Authentication activity by a honey account will generate an INTERCEPT: Honey Accounts Offense. See
 the [INTERCEPT Offenses in QRadar](/docs/threatprevention/7.5/siemdashboard/qradar/offenses.md) topic for additional information.
+

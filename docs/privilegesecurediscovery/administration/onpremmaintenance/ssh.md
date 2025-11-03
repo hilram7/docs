@@ -47,3 +47,4 @@ be downloaded here
 **ACCESS TO ANOTHER NODE IN THE CLUSTER:**
 
 To access a different node in SecureONE repeat step #2 with the other nodes IP address.
+

@@ -26,3 +26,4 @@ The table has the following columns:
 - Assigned — Indicates whether the role has been assigned
 
 The table columns can be resized and sorted in ascending or descending order.
+

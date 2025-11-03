@@ -34,3 +34,4 @@ On Netwrix Auditor Versions 9.0 and Newer, Inactive Users Tracker is installed a
 3. Paste the contents of original `C:\ProgramData\Netwrix Auditor\Inactive Users Tracker` folder to the `C:\ProgramData\Netwrix Auditor\Inactive Users Tracker` folder on the new server
 4. Reconfigure Inactive Users Tracker using the screenshots you captured
 5. Apply your Netwrix Auditor License to the new instance of Netwrix Auditor.
+

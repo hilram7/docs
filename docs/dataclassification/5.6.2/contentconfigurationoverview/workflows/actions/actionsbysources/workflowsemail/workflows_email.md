@@ -37,3 +37,4 @@ To modify action settings for the certain workflow, select the workflow and use 
 window, as described in the
 [Modify Email Alert action settings](/docs/dataclassification/5.6.2/contentconfigurationoverview/workflows/actions/actionsbysources/workflowsemail/advanced_window_email.md)
 section.
+

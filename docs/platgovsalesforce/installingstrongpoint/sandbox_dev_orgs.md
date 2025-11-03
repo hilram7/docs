@@ -37,3 +37,4 @@ From the Netwrix Dashboard: click **Configuration and Stats** in the **Resources
 
 The initial setting is selected on the [Scanner](/docs/platgovsalesforce/installingstrongpoint/setting_up_initial_scan.md) page of the **Install
 Wizard** when installing the sandbox.
+

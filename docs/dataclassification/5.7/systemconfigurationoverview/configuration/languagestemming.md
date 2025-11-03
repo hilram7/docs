@@ -152,3 +152,4 @@ option (set StemmingMode=1 in the Config table) will cause the following words t
 - accellerator
 - acellerates
 - etc
+

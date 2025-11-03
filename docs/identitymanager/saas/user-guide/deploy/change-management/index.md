@@ -126,3 +126,4 @@ materials such as a step-by-step procedure video or flyer.
 
 In order to verify the process, change managers can rely on implemented indicators, in the same way
 as for any project management situation.
+

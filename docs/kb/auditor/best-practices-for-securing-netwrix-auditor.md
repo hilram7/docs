@@ -87,3 +87,4 @@ To prevent data loss due to unexpected archive corruption, malicious actions, ra
 - [Netwrix Service Monitor](https://www.netwrix.com/windows_services_monitoring_freeware.html)
 - [Transparent Data Encryption (TDE) ⸱ Microsoft &#129125;](https://learn.microsoft.com/en-us/sql/relational-databases/security/encryption/transparent-data-encryption?view=sql-server-ver16)
 - [BitLocker Overview ⸱ Microsoft &#129125;](https://learn.microsoft.com/en-us/windows/security/operating-system-security/data-protection/bitlocker/)
+

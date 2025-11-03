@@ -85,3 +85,4 @@ This API renews multiple groups, identities of which are provided in the request
     "status": 0
 }
 ```
+

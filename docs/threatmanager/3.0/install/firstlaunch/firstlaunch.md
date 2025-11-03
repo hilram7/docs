@@ -65,3 +65,4 @@ of codes to access for account recovery, if needed.
 
 Once MFA is configured for this account, the Threat Manager Console opens. See the
 [Getting Started with Threat Manager](/docs/threatmanager/3.0/gettingstarted.md) topic for next steps.
+

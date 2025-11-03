@@ -17,3 +17,4 @@ with the delta API.
 | Fulfill                 | Usercube-Fulfill-AzureAD.dll |
 | Has Incremental Mode    | True                         |
 | Publisher               | Usercube                     |
+

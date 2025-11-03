@@ -267,3 +267,4 @@ For this, two new scheduled jobs have been added:
 
 - Entitlement Scope
 - Entitlement Temporary Permissions
+

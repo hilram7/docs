@@ -35,3 +35,4 @@ You can find console logon and logoff events in the Netwrix Access Analyzer even
 ```
 
 Review `Event ID 1000` and `Event ID 1003` to learn more about accounts accessing the Netwrix Access Analyzer console.
+

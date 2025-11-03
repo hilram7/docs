@@ -32,3 +32,4 @@ Report::
 3. Click in the column to open a text box.
 
 ![Clearing an incident with inline editing](/images/platgovnetsuite/financial_controls/agent_clear_incident_inline.webp)
+

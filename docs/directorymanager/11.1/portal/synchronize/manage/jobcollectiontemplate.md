@@ -150,3 +150,4 @@ Step 4 – Two more boxes get displayed next to **Attributes** box upon selectin
 Step 5 – Click **Apply Filter**.
 
 All the job collection templates that match the specified criterion are displayed.
+

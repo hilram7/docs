@@ -15,3 +15,4 @@ On the
 [Request History Page](/docs/accessinformationcenter/11.6/youraccessportal/requesthistory/requesthistory.md)
 of the Your Access portal, you can see that the icon in the Expired column has changed and it's
 tooltip indicates that the access has expired.
+

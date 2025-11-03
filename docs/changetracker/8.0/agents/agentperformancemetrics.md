@@ -148,3 +148,4 @@ agent startup.
 For Linux Systems, the system monitors the entire /etc directory for FIM; Over 30 files for file
 contents tracking; Processes & Services Monitoring; over 90 commands being and capturing results
 from our process output tracker; and a compliance report was run at agent start up.
+

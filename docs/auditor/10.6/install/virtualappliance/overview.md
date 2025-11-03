@@ -121,3 +121,4 @@ You can also add Netwrix Auditor Virtual Appliance to the Content Library of you
 AWS SDDC and then deploy this Virtual Appliance to the cloud-based ESXi host, following the steps
 described in this guide. In this deployment scenario, Netwrix Auditor will be able to work with
 other VMs running on that ESXi host.
+

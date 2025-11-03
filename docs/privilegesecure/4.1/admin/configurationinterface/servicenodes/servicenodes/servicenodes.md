@@ -32,3 +32,4 @@ The following service types are managed on the Service Nodes page.
 - [Proxy Service](/docs/privilegesecure/4.1/admin/configurationinterface/servicenodes/servicenodes/proxy.md)
 - [Scheduler Service](/docs/privilegesecure/4.1/admin/configurationinterface/servicenodes/servicenodes/scheduler.md)
 - [SIEM Service](/docs/privilegesecure/4.1/admin/configurationinterface/servicenodes/servicenodes/siem.md)
+

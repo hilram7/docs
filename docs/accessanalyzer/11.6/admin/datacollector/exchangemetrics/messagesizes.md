@@ -30,3 +30,4 @@ For example, a **Start** value of **1** and an **End** value of **2** returns me
 Once the frame is configured, click **Add**. The configured message size frame will appear in the
 list. Multiple frames can be configured. Select a frame and click **Replace** to modify an existing
 frame. Use **Remove** to delete an existing frame.
+

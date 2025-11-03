@@ -47,3 +47,4 @@ $SecretAccessKey = "your AWS secret access key"
 | SecretAccessKey | Provide an AWS secret access key that works with your access key ID.                                                                                                                                                                                                                                                           |
 
 **Step 4 –** Save the script.
+

@@ -20,3 +20,4 @@ This learning path grants <Company /> certification as a Sales Professional for 
 This course will provide an overview of <NPGN />, formerly Netwrix Strongpoint for NetSuite — how it works and how partners like you can benefit.
 
 Estimated length: 1 hour
+

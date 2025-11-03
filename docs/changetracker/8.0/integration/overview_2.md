@@ -100,3 +100,4 @@ Under the Reports tab, it is now possible to configure and run the appropriate c
 against the group that contains the ESXi devices.
 
 ![esxicompliancereport](/images/changetracker/8.0/integration/vmware/esxicompliancereport.webp)
+

@@ -148,3 +148,4 @@ Deletes a resource.
 | Code | Description                        | Reference |
 | ---- | ---------------------------------- | --------- |
 | 200  | The result of the resource delete. |           |
+

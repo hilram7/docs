@@ -23,3 +23,5 @@ The common use cases for needing to manage a customized token are:
 - Drag-and-drop issues between applications. For ore information, see the
   [I elevated an application, but drag and drop between the elevated and other non-elevated applications isn't working anymore. What can I try?](/docs/endpointpolicymanager/components/endpointprivilegemanager/knowledgebase/tipsforadminapproval/dragdrop.md)
   topic.
+
+

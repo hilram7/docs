@@ -31,3 +31,4 @@ The fields will change depending on the selected frequency.
 **Step 4 –** Click **Save** to create the new schedule.
 
 The new schedule is added to the Schedule Policy list.
+

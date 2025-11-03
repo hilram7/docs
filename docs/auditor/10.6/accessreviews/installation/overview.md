@@ -65,3 +65,4 @@ Supported browsers for the Access Reviews Console include:
 ## Screen Resolution Requirement
 
 Supported screen resolution of 1368 x 768 or greater.
+

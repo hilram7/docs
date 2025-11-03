@@ -77,3 +77,4 @@ topic for additional information.
 In the Sampling server section, enter the Exchange server in the textbox to be used to test the
 connection settings. Click **Test sampling server** to ensure there is access to the server. The box
 at the bottom of the page displays information regarding the test connection in progress.
+

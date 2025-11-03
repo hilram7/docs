@@ -21,3 +21,4 @@ client side, the source code is checked and the quality of the cryptographic pro
 this way, the security of Netwrix Password Secure and the data stored in it is tested in advance in
 order to be able to offer our customers effective protection and minimize the risk of success of an
 attack.
+

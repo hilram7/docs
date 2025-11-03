@@ -70,3 +70,4 @@ display the saved item. Users can open this folder from the navigation pane to a
 investigation. They can run the investigation, schedule exports, or add subscriptions.
 
 See the [Investigation Options](/docs/threatprevention/7.5/reportingmodule/investigations/options/overview.md) topic for additional information.
+

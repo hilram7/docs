@@ -154,3 +154,4 @@ To learn more about product health, you can also navigate to the Health status t
 window. It will take you to the Health Status dashboard that contains information on the product
 activity and system health state. See the
 [Health Status Dashboard](/docs/auditor/10.7/admin/healthstatus/dashboard/overview.md) topic for additional information.
+

@@ -45,3 +45,4 @@ To create a template:
 2. Select Add to add a template.
 3. Before adding, create a site collection in SharePoint for referral.
 4. Specify the site collection and select Save.
+

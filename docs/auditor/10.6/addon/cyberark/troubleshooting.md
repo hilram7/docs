@@ -22,3 +22,4 @@ If you cannot see collected data in Auditor, check the following:
    API** is switched to **ON**. Check the communication port number – default is **9699**.
 2. If you configured a dedicated monitoring plan, make sure data source monitoring is enabled.
 3. Verify the parameters you provided in **Settings.xml** and **dbparam.ini**.
+

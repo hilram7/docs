@@ -107,3 +107,4 @@ Learn more in [Default Dynamic Port Range for TCP/IP Changed in Windows Vista an
 - [PortQry Command Line Port Scanner Version 2.0 ⸱ Microsoft](https://www.microsoft.com/en-us/download/details.aspx?id=17148)
 - [Using the PortQry Command Line Tool ⸱ Microsoft](https://learn.microsoft.com/en-us/troubleshoot/windows-server/networking/portqry-command-line-port-scanner-v2)
 - [Default Dynamic Port Range for TCP/IP Changed in Windows Vista and in Server 2008 ⸱ Microsoft](https://learn.microsoft.com/en-us/troubleshoot/windows-server/networking/default-dynamic-port-range-tcpip-chang)
+

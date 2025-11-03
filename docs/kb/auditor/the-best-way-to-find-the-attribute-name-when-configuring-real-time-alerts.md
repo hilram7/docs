@@ -46,3 +46,4 @@ Select * from dbo.PropChanges where PropName like 'User Account Locked Out'
 7. In the query results you will see two columns **PropName** and **PropNameInt**. All `PropName` values should be exactly what you queried for and the resulting `PropNameInt` is the attribute name you will use in your real time alert.
 
 For the above example the `PropNameInt` for `User Account Locked Out` is `lockoutTime`.
+

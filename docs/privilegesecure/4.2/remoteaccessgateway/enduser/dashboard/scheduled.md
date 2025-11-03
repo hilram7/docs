@@ -50,3 +50,4 @@ The table has the following columns:
   start time plus the maximum session duration set by the access policy Connection Profile
 
 The table columns can be resized and sorted in ascending or descending order.
+

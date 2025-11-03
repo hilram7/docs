@@ -54,3 +54,4 @@ Each menu item is a link to an entity's workflow displayed under the search bar 
 page of the entity's resource list.
 
 **See the [Create Menu Items](/docs/identitymanager/6.2/integration-guide/ui/create-menu-items/index.md)topic for additional information**
+

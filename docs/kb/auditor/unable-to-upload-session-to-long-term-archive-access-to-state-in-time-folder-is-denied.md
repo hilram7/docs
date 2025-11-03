@@ -53,3 +53,4 @@ NOTE: You can establish the affected Long-Term Archive service account by follow
    ```
 
 2. Grant the Long-Term Archive service account Local Administrators permissions in the Netwrix Auditor server.
+

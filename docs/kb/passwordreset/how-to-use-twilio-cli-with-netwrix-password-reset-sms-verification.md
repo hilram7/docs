@@ -50,3 +50,4 @@ The Twilio CLI allows to manage phone numbers, call Twilio APIs, and test webhoo
    2. **Parameter**: `/C ""C:\Program Files\Netwrix Password Reset\TwilioMSGSMS.cmd" [PHONE] [CODE]"`"
 
    > **TIP:** the default AD Attribute is set to MOBILE PHONE. You can change it by clicking on the AD Attribute link in the SMS settings.
+

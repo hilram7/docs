@@ -63,3 +63,4 @@ Cannot find the application.
 - Netwrix Auditor — Permissions for SharePoint Online Auditing − Granting Required Permissions ⸱ v10.6
 
 - Netwrix Auditor — Permissions for Teams Auditing − Grant Required Permissions ⸱ v10.6
+

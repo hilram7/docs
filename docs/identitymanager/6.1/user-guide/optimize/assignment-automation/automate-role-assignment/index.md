@@ -121,3 +121,4 @@ Then, you can:
 4. See the new permission in the user's **View Permissions** tab.
 
     ![View Permissions Tab](/images/identitymanager/6.1/user-guide/set-up/provisioning-rule-creation/resource-creation/viewpermissions_v602.webp)
+

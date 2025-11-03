@@ -72,3 +72,4 @@ Display the date and time when the group was updated based on the schedule set f
 **Create a Schedule**
 
 You can create a new schedule other than the ones on the list.
+

@@ -39,3 +39,4 @@ knowledge_article_id: kA00g000000H9drCAC
 
 - [Recovery Models (SQL Server) ⸱ Microsoft 🤝](https://learn.microsoft.com/en-us/sql/relational-databases/backup-restore/recovery-models-sql-server?view=sql-server-ver16)
 - Reports − State-in-Time Reports ⸱ v10.6
+

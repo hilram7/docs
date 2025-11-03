@@ -35,3 +35,4 @@ Follow the steps below to update passwords for a Credential Profile.
 **Step 5 –** Click Save.
 
 A new password has been updated for the Credential Profile.
+

@@ -31,3 +31,4 @@ The table has the following columns:
 - Created — Date timestamp when the account was added to the secret vault
 
 The table columns can be resized and sorted in ascending or descending order.
+

@@ -17,3 +17,4 @@ and Services Logs** > **Netwrix_Auditor_Integration log**.
 **Step 3 –** Review events.
 
 Now you can augment SIEM with data collected by Auditor.
+

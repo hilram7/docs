@@ -34,3 +34,4 @@ following preconfigured report:
 | Report     | Description                                   | Default Tags | Report Element                                                                                                                                                                                                |
 | ---------- | --------------------------------------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | S3 Buckets | This report summarizes AWS S3 Bucket content. | None         | This report is comprised of the following elements: <ul><li>Stacked Bar Chart – Displays top five buckets by size</li><li>Table – Shows buckets by size</li><li>Table – Provides details on buckets</li></ul> |
+

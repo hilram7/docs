@@ -44,3 +44,4 @@ To fix the issue, do the following:
 4. In NetWrix Account Lockout Examiner Console main menu bar, navigate to **File - Settings** and click **OK** to apply registry changes.
 
 ![User-added image](images/ka04u000000HcNK_0EM700000004wzw.png)
+

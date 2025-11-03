@@ -14,3 +14,4 @@ panes in all audit interfaces: Reports, Results, and Group Membership.
 
 The group being audited is identified at the top of the interface as part of the interface
 breadcrumb. See the [Group Reports](/docs/accessinformationcenter/12.0/resourceaudit/group/overview.md) topic for additional information.
+

@@ -36,3 +36,4 @@ The “Save SMTP settings” button becomes active only after a change has been 
 **Log forwarding configuration**
 
 Here you can define the settings which logs will be forwarded via mail
+

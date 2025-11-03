@@ -102,3 +102,4 @@ the Action Type selected in the previous step). Click **Next** to proceed with t
 
 Published reports can be viewed under the **[Job]** > **Results** node or through the Web Console.
 See the [Reporting](/docs/accessanalyzer/12.0/admin/report/overview.md) topic for additional information.
+

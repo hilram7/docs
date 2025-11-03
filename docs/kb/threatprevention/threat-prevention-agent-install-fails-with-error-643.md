@@ -69,3 +69,4 @@ Verify return code: 0 (ok)
 
 ## Resolution
 Contact your network/firewall team. This issue most commonly results from a firewall blocking communication on port `3741` from the host where the Agent is being installed to the Netwrix Threat Prevention host. It may also be caused by SSL inspection between the Netwrix Threat Prevention host and the host where the Agent is being installed.
+

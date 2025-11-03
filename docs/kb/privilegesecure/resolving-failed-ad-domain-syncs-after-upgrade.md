@@ -34,3 +34,4 @@ To resolve failed Active Directory syncs after an upgrade, reconfigure your Acti
 2. Click inside the password field, and retype the account's password. This will ensure that the stored password in the Netwrix Privilege Secure database is correct.
 3. To verify, navigate to your AD domain under the **Resources** menu, and use the **Test** button. The reconfigured service account should now be functioning.
 4. You should now be able to run manual or scheduled Active Directory syncs as normal.
+

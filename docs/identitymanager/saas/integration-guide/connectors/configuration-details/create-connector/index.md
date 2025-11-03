@@ -131,3 +131,4 @@ In order to access the connector, a user must have the right permissions.
 
 Permissions within Identity Manager are configured through [Access Control Rule](/docs/identitymanager/saas/integration-guide/toolkit/xml-configuration/access-control/accesscontrolrule/index.md).
 ````
+

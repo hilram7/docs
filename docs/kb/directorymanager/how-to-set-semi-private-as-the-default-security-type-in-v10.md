@@ -57,3 +57,4 @@ By default, users can select from multiple security types when creating a group 
    ![Visibility Role drop-down list in Edit Field dialog box](images/ka0Qk000000CsRF_0EMQk00000BP20H.png)
 
 9. Click **OK** to close the dialog boxes and save your changes.
+

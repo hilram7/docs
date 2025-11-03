@@ -625,3 +625,4 @@ The results can also be viewed on the UI:
 ![Microsoft Exchange Display Entity Type](/images/identitymanager/saas/integration-guide/connectors/how-tos/powershell-fulfill/microsoftexchange_fulfill_display_entity_type_5.1.7.webp)
 
 ![Microsoft Exchange Display Table](/images/identitymanager/saas/integration-guide/connectors/how-tos/powershell-fulfill/microsoftexchange_fulfill_display_table_5.1.7.webp)
+

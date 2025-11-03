@@ -17,3 +17,4 @@ classes are added to the filter from where you clicked the **Add** (+) button to
 
 Select the desired classes and click **OK**. The selection is displayed in the appropriate box of
 the AD Classes filter.
+

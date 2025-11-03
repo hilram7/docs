@@ -72,3 +72,4 @@ where `yourservername` is the name of your SMTP server in the FQDN format and `9
 
 - Configuration — User Activity — User Activity Ports — v10.6
 - [Manually Update User Activity Core Service](/docs/kb/auditor/manually-update-user-activity-core-service.md)
+

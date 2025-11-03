@@ -25,3 +25,4 @@ This report is comprised of the following columns:
 - Access – Whether the trustee was granted access to execute the operation: **Allowed** or
   **Denied**
 - Path – Original location where the operation occurred
+

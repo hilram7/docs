@@ -53,3 +53,4 @@ To exclude the "_corp/Administrator_" user from being audited, use the following
 # Example:
 # Corp\Administrator
 ```
+

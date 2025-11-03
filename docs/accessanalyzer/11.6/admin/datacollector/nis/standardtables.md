@@ -26,3 +26,4 @@ Collector:
 | Views                   | Details                               |
 | ----------------------- | ------------------------------------- |
 | SA_NIS_GroupMembersView | Contains group membership information |
+

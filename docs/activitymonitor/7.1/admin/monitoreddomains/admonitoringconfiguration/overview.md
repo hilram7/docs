@@ -21,3 +21,4 @@ events:
 - [Replication Tab](/docs/activitymonitor/7.1/admin/monitoreddomains/admonitoringconfiguration/replication.md)
 - [LSASS Guardian Tab](/docs/activitymonitor/7.1/admin/monitoreddomains/admonitoringconfiguration/lsassguardian.md)
 - [LDAP Monitor Tab](/docs/activitymonitor/7.1/admin/monitoreddomains/admonitoringconfiguration/ldapmonitor/ldapmonitor.md)
+

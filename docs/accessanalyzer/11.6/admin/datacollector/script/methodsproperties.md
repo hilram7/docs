@@ -30,3 +30,4 @@ The Query and Working Query objects support the following methods and properties
 | ResultRow : integer                            | Sets or retrieves the current row. For non-enumerated tasks, ResultRow will always be 0.                                                                                         |
 | ResultRows : integer                           | Sets or returns the count of rows. Use this to determine the number of rows returned after an enumerated task is executed. Set this property to create a multi-row return value. |
 | Message (index : integer, type : string)       | Sets or returns a message in the indicated position. Use MessageCount to determine the number of messages. These messages appear in the job MessageLog.                          |
+

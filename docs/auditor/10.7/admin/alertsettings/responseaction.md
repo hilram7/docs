@@ -148,3 +148,4 @@ Auditor\AuditCore\AuditArchive\AlertsToolLauncher\Csv_). Note that a CSV file wi
 the executable file is running – after the execution is completed, the CSV file will be deleted. So
 if you plan, for example, to obtain some data from that file for further processing, you may need to
 copy it to a permanent location in a timely manner, e.g., using a script.
+

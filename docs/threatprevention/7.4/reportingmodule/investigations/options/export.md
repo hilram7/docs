@@ -142,3 +142,4 @@ interface.
 See the
 [Subscriptions and Exports Page](/docs/threatprevention/7.4/reportingmodule/investigations/subscriptionsexports.md)
 topic for additional information.
+

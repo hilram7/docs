@@ -103,3 +103,4 @@ the filters set as follows:
 
 The report revealed that this user has access permissions for the master database. To discover how
 they were granted, click the link in the **Means granted** field.
+

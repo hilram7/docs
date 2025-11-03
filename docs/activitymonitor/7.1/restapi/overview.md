@@ -72,3 +72,4 @@ See the following topics for additional information about REST API:
 
 - [Security and Access Control](/docs/activitymonitor/7.1/restapi/security.md)
 - [Resources](/docs/activitymonitor/7.1/restapi/resources.md)
+

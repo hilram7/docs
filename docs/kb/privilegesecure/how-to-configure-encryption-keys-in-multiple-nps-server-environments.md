@@ -66,3 +66,4 @@ cd "X:\Program Files\Stealthbits\PAM\KeyTools"
 
 - [How to Use NPS.HaMgr.exe](https://helpcenter.netwrix.com/bundle/z-kb-articles-salesforce/page/kA04u0000000HfOCAU.html)
 - [Apply a New License](/docs/kb/privilegesecure/apply-a-new-license.md)
+

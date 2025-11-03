@@ -14,3 +14,4 @@ desired, specify a different device to be monitored for activity.
 ![Dell Tab](/images/activitymonitor/7.1/admin/monitoredhosts/properties/emctabemcvnxcelerra.webp)
 
 If changes are made to these configuration options, click **OK** to save the changes.
+

@@ -38,3 +38,4 @@ Get-Mailbox | %{$mailboxstring = ""; $mailboxstring += "%domain name%";$mailboxs
 `C:\Program Files (x86)\Netwrix Auditor\Non-owner Mailbox Access Reporter for Exchange`
 
 **NOTE:** If you create a new user with mailbox, you should add it to the existing `usermailboxesomitlist.txt` file located at the Non-owner Mailbox Access Reporter home folder using the following format: `domainusername=mailbox` (E.g.: `CORPjsmith=jsmith@corp.com`).
+

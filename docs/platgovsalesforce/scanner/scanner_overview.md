@@ -16,3 +16,4 @@ The Scanner menu is located on the Netwrix Dashboard page.
   daily scanning, instead of defaulting to all types.
 - [Field Level Security Scanner](/docs/platgovsalesforce/scanner/field_level_scanner.md) displays all fields using the selected
   Salesforce object.
+

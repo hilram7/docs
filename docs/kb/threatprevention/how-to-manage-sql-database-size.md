@@ -59,3 +59,4 @@ Archive DB management is the customer’s responsibility for controlling size. D
 ### Troubleshooting Unused DB Maintenance and Large DBs
 
 If the production DB becomes extensive quickly from lack of maintenance (such as many TB), moving or deleting events could face challenges or never complete. Configure the **Type** tab by prioritizing events: retain first for only a few days less than the oldest event. Check DB Maintenance alerts, so future runs do not exceed operational thresholds and finish within 6 hours.
+

@@ -23,3 +23,4 @@ suitable for environments with multiple customer databases. As a Managed Service
 back up your customer databases yourself using appropriate measures.
 
 The Status and Web Application modules are identical in both versions.
+

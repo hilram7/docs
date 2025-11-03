@@ -27,3 +27,4 @@ status after a sandbox refresh.
 7. Click on the Script **URL**.
 
     ![Click the Script URL](/images/platgovnetsuite/release_notes/script_deploy_url.webp)
+

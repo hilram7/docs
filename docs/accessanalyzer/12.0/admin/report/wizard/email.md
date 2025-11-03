@@ -60,3 +60,4 @@ configure:
     - A blank report can occur if there is an error in data collection or if the report is
       configured for data which might not always be present (for example, new computer objects
       created since last scan)
+

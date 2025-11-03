@@ -54,3 +54,4 @@ topic for additional information.
 **Upgrade Notes**
 
 - Versions 9.x and above do not support perpetual license keys.
+

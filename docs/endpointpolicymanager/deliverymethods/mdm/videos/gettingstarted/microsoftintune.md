@@ -199,3 +199,5 @@ then use your InTune to do the magic.
 Endpoint Policy Manager can help you immediately close the gap between what you need to do on your
 endpoints and what's capable with Microsoft Endpoint Manager. I hope this video helps you out. I'm
 looking forward to getting you started with Endpoint Policy Manager real soon. Thank you very much.
+
+

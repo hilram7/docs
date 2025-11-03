@@ -149,3 +149,4 @@ The configurable options are:
   exceeds a configured duration
 - Scheduled task is enabled – Selecting this checkbox will enable the scheduled task. Deselecting it
   will disable the scheduled task.
+

@@ -47,3 +47,4 @@ Step 5 – Now click on this icon in your browser to open the browser extension.
 ![nodatabaseprofile](/images/passwordsecure/9.1/enduser/nodatabaseprofile.webp)
 
 RECOMMENDED: If not done yet, bookmark this page to have it quickly at hand!
+

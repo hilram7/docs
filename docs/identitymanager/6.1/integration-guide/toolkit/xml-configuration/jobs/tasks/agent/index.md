@@ -27,3 +27,4 @@ sidebar_position: 10
     collection.- ####
     [PrepareSynchronizationTask](/docs/identitymanager/6.1/integration-guide/toolkit/xml-configuration/jobs/tasks/agent/preparesynchronizationtask/index.md)
     Cleanses exported CSV files.
+

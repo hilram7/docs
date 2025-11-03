@@ -316,3 +316,4 @@ The [Job] > Configure > Reports > [Report Configuration] node right-click menu i
 - Run Job – Executes the selected job
 - Add Instant Job – Opens the [Instant Job Wizard](/docs/accessanalyzer/12.0/admin/jobs/instantjobs/overview.md)
 - Create Job – Creates a new job at the same location as the selected job group or job (Ctrl+Alt+A)
+

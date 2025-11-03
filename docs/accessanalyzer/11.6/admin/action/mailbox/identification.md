@@ -42,3 +42,4 @@ Select which mailboxes to target using the following options:
     - Manually enter a user name and click **Add**. Repeat for additional users.
     - To restore anonymous permissions to folders, enter `anonymous` and click **Add**
     - To remove a user, select it and click **Remove**
+

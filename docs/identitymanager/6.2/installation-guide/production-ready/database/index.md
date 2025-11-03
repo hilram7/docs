@@ -70,3 +70,4 @@ The next step will consist in:
 
 It will also show how to test the Identity Manager Database connection. See the
 [Install the Server](/docs/identitymanager/6.2/installation-guide/production-ready/server/index.md) topic for additional information.
+

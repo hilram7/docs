@@ -17,3 +17,4 @@ Manager portal creates this group with users whose passwords will soon expire.
 You can [Modify Search Directory](allgroups.md#modify-search-directory) to search password expiry
 groups and add [Filter All Groups](allgroups.md#filter-all-groups)by clicking **Password Expiry
 Group Grid Filters**. All the password expiry groups matching the filters will be displayed.
+

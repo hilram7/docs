@@ -7,3 +7,4 @@ sidebar_position: 160
 # User Interface
 
 See how-to customize Identity Manager's User Interface.
+

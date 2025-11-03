@@ -62,3 +62,4 @@ EXEC [dbo].[DeleteEncryptedContent]
 
   1. Run **Report Server Configuration Manager** in your SQL server, and select **Encryption Keys** in the left pane, once authorized.
   2. Click **Backup**, and specify the file location and password for the backup key.
+

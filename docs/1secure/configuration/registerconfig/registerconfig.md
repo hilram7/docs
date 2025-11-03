@@ -319,3 +319,4 @@ this:
 
 Optionally, you can select **Download** to edit the manifest locally, and then use Upload to reapply
 it to your application.
+

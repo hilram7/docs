@@ -43,3 +43,4 @@ In order to reduce the number of such read attempts, you should configure the fo
 - **Turn off caching of thumbnail pictures**
 
 Note: You should be signed in as an administrator to perform this operation.
+

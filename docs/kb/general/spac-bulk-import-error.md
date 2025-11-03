@@ -37,3 +37,4 @@ The SPAC Bulk Import was unable to be completed due to a foreign key constraint 
 ## Resolution
 
 We removed all SPAA and SPAC tables since there's a 180-day retention period on SP activity. Once all tables were removed from the database we then reran the SPSEEK jobs and verified that the tables were repopulated on the database. We suggest allowing these scans to run and monitor the SPAC bulk import job. After monitoring the job it was confirmed that the SPAC Bulk Import job was successful.
+

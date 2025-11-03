@@ -66,3 +66,4 @@ SELECT cast(Round(((3*100.0)/4)) as decimal(5,1))
 
 ## Legacy Article ID
 2300
+

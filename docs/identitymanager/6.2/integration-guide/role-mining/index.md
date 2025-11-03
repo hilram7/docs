@@ -142,3 +142,4 @@ The simulation tool gives another point of view on the role model as it emphasiz
 ![Schema - Role Mining](/images/identitymanager/saas/integration-guide/role-mining/rolemining_simulationresults.webp)
 
 Identity Manager recommends simulating role mining before applying the results.
+

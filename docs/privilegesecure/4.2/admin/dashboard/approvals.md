@@ -45,3 +45,4 @@ The table has the following columns:
 - Ticket Number — Any ticket numbers that were entered when the session was created
 
 The table columns can be resized and sorted in ascending or descending order.
+

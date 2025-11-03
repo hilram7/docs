@@ -18,3 +18,4 @@ The jobs in the Sensitive Data job group are:
 - [Db2_SensitiveDataPermissions Job](/docs/accessanalyzer/12.0/solutions/databases/db2/sensitivedata/db2_sensitivedatapermissions.md) – Provides all types of
   permissions on database objects containing sensitive data across all the targeted Db2 database
   servers
+

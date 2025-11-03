@@ -154,3 +154,4 @@ Indeed, a filter can only be defined on up to 5 properties, see
         <Control DisplayName_L1="Full Name" DisplayName_L2="Nom complet" OutputType="LayoutRowset">            <Control Binding="LastName" IsRequired="true" />            <Control Binding="FirstName" IsRequired="true" />        </Control>    </Control></Form>
 
 ```
+

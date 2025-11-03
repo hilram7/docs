@@ -18,3 +18,4 @@ Analyzer and the target host:
 | 9876\*  | TCP      | Access Analyzer Console server          | ↔        | Access Analyzer SharePoint Agent server | Access Analyzer Agent Communication Channel                            |
 
 \*Configurable value in the SharePoint Access Auditor Data Collector Wizard.
+

@@ -91,3 +91,4 @@ default.
 **Step 3 –** Click **OK**.
 
 The user is denied rights to the deselected features.
+

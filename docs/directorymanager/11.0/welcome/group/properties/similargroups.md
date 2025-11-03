@@ -24,3 +24,4 @@ dialog box displays the common type and common members that both groups have.
 **See Also**
 
 - [Group Properties](/docs/directorymanager/11.0/welcome/group/properties/overview.md)
+

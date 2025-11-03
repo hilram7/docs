@@ -184,3 +184,4 @@ individual mailbox):
 |          | - (DN) Distinguished name. Example: `CN=MJones,CN=Users,DC=enterprisedc1,DC=enterprise,DC=local`         |
 |          | - User ID or User Principal Name. Example: `MJones@enterprise.onmicrosoft.com`                             |
 |          | If you are going to audit multiple individual mailboxes, run the cmdlet for each mailbox you need.         |
+

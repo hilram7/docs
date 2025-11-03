@@ -45,3 +45,4 @@ Netwrix collects data, including but not limited to Windows Security Event Logs 
 | Where        | Unknown                                                                                   |
 | Workstation  | —                                                                                         |
 | When         | This detail shows the time when the action was collected by the product rather than the time when it actually happened.
+

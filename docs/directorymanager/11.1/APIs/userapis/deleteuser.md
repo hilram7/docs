@@ -33,3 +33,4 @@ Using this API, you can delete a single user.
     "status": 0
 }
 ```
+

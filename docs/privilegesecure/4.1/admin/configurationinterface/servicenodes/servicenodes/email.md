@@ -46,3 +46,4 @@ The Email Queue table has the following features:
     - Sent – Timestamp of when the notification was sent
     - To Address – The email address of the recipient
     - Subject – The message text
+

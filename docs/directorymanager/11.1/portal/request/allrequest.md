@@ -128,3 +128,4 @@ Workflow requests matching the specified criteria are displayed.
 Step 12 – Click **Reset Filter** to remove the filters that you have added.
 
 All the workflow requests will be displayed below.
+

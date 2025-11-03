@@ -26,3 +26,4 @@ same.
 - [Access Certification](/docs/identitymanager/6.2/integration-guide/toolkit/xml-configuration/access-certification/index.md)
 - [Business Intelligence](/docs/identitymanager/6.2/integration-guide/toolkit/xml-configuration/business-intelligence/index.md)
 - [Workflows](/docs/identitymanager/6.2/integration-guide/toolkit/xml-configuration/workflows/index.md)
+

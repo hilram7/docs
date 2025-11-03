@@ -29,3 +29,4 @@ displayed:
 
 **NOTE:** Despite the command using a DELETE route, the actual deletion of API keys is
 intentionally **not** available via API routes.
+

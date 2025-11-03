@@ -52,3 +52,4 @@ Use this API to validate connection of a data source with the provider or with a
     "isResyncAble": true
 }
 ```
+

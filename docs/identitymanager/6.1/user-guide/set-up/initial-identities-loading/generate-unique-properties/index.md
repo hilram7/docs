@@ -117,3 +117,4 @@ Verify in the directory that the employee's sheet displays the expected values f
 unique properties.
 
 ![Home - Directory User](/images/identitymanager/6.1/user-guide/set-up/configure-workflows/home_directoryuser_v523.webp)
+

@@ -27,3 +27,4 @@ the trustee:
 - Delete – Right to delete files and subfolders
 - Manage – Equivalent to full control over files and subfolders
 - Allow – Granular rights allowed through the Share and NTFS permissions
+

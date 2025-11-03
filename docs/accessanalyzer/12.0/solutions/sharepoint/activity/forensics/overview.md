@@ -19,3 +19,4 @@ The jobs in the Forensics Job Group are:
   been performed on all monitored SharePoint sites over the past 30 days
 - [SP_SensitiveDataActivity Job](/docs/accessanalyzer/12.0/solutions/sharepoint/activity/forensics/sp_sensitivedataactivity.md) – Highlights user activity involving
   sensitive data and provides details on who is interacting with your environments sensitive content
+

@@ -24,3 +24,4 @@ Used to track the current configuration version.
 | Identifier default value: ConfigurationVersion | **Type** String **Description** Unique identifier of the setting.    |
 | Misc optional                                  | **Type** String **Description** Misc.                                |
 | Version optional                               | **Type** String **Description** Version of the configuration.        |
+

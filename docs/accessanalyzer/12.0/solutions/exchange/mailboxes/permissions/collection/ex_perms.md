@@ -22,3 +22,4 @@ The following query is included in the EX_Perms job.
     - By default set to search all mailboxes. It can be scoped.
     - See the [EWSMailbox Data Collector](/docs/accessanalyzer/12.0/admin/datacollector/ewsmailbox/overview.md)
       topic for additional information
+

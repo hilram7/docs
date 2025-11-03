@@ -82,3 +82,4 @@ updates. After you create the copy, you must add all of the appropriate category
     ![Assigning permissions.](/images/platgovnetsuite/installing_strongpoint/engineeringexample2.webp)
 
 **Next Step:** [ Setting Role Permissions](/docs/platgovnetsuite/installation/setting_permissions.md)
+

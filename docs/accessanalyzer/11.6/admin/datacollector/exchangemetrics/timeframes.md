@@ -35,3 +35,4 @@ selected returns messages delivered in 1 to 2 minutes.
 Once the frame is configured, click **Add**. The configured message time frame will appear in the
 list. Multiple time frames can be configured. Select a frame and click **Replace** to modify an
 existing frame. Use **Remove** to delete an existing frame.
+

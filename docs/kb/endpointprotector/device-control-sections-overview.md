@@ -46,3 +46,4 @@ The Device Control module in Netwrix Endpoint Protector is organized into severa
    - If the computer belongs to a group, it will inherit that group’s settings.
 
 8. **Custom Classes:** Create new classes of devices for easier management. This feature is especially useful for devices from the same vendor or product (same VID and/or PID).
+

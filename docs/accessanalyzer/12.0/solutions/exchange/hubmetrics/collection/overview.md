@@ -31,3 +31,4 @@ The jobs in the 0.Collection Job Group are:
     not configured in the query, then most likely data collection does not return.
 
     :::
+

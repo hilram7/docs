@@ -42,3 +42,4 @@ After the installation, you can login directly to the Server Manager.
 
 NOTE: The initial password for the first login is “admin”. It should be changed directly after the
 logon.
+

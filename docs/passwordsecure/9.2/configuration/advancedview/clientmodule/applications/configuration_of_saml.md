@@ -59,3 +59,4 @@ NOTE: Setup and configuration instructions for
 [SAML Application for Dropbox](/docs/passwordsecure/9.2/configuration/advancedview/clientmodule/applications/exampleapplications/saml_application_for_dropbox.md) and
 [SAML application for Postman](/docs/passwordsecure/9.2/configuration/advancedview/clientmodule/applications/exampleapplications/saml_application_for_postman.md)can be
 found in the corresponding chapters.
+

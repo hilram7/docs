@@ -71,3 +71,4 @@ when logging in to the new version of Privilege Secure.
 **Step 3 –** Open the Privilege Secure Console and log in.
 
 The latest version of Privilege Secure is now installed.
+

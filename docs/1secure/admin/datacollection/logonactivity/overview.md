@@ -19,3 +19,4 @@ required:
   the Domain Admins group or non-administrative account. See
   [Configure Non-Administrative Account to Collect Logon Activity ](/docs/1secure/admin/datacollection/logonactivity/nondomainadmin.md)for more
   information;
+

@@ -19,3 +19,4 @@ Open **Netwrix Dashboard** > **Scanners** > **Daily Scan Configuration**
    them to the **Selected** pane. You can use the up/down arrows to reorder the selected types.
    Select and use the left arrow to remove a type from the **Selected** pane.
 4. Click **Save** to save the configuration.
+

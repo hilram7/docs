@@ -104,3 +104,4 @@ Hence, extra care should be taken while specifying them.
 There are several types of secured options: a simple field or multiple key-value fields.
 
 See the [Configure Secured Options](/docs/identitymanager/6.2/integration-guide/connectors/configuration-details/configure-secured-options/index.md) topic for additional information.
+

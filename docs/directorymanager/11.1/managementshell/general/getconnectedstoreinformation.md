@@ -28,3 +28,4 @@ Elasticsearch, and messaging servers configured in the connected identity store.
 ```
 Get-ConnectedStoreInformation
 ```
+

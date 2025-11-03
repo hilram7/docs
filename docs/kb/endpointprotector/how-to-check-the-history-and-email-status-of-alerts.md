@@ -35,3 +35,4 @@ This article explains how to check the alert history, log details, and the statu
    ![Actions column with View option highlighted](images/ka0Qk000000Dzth_0EMQk00000CJ1Co.png)
 4. The **Log Details** and **Alert Details** will be displayed, along with the **E-mail Status**. Here, you can see if the email was sent successfully from the Netwrix Endpoint Protector Server.  
    ![Log Details and E-mail Status section showing email delivery status](images/ka0Qk000000Dzth_0EMQk00000CJA4n.png)
+

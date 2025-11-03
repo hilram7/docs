@@ -85,3 +85,4 @@ file will then be displayed. Now simply click on Restore to restore the backup t
 database.
 
 ![Database restore](/images/passwordsecure/9.1/configuration/server_manager/main_menu/backup_settings/backup_management/installation_with_parameters_261-en.webp)
+

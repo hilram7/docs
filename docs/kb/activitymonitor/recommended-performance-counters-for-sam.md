@@ -318,3 +318,4 @@ On each SAM Agent server:
 Download the sample script:
 
 https://downloads.stealthbits.com/access/files/KB_Attachments/SAM.PerfCollect.ps1
+

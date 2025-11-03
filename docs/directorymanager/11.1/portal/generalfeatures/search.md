@@ -138,3 +138,4 @@ information.
 To move through search results, use the page numbers given at the bottom of the listing. You can
 also control the number of results per page by modifying the **Search results per page** setting on
 the User Settings panel.
+

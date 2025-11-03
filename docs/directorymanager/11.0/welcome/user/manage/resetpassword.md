@@ -31,3 +31,4 @@ The new password must meet the complexity requirements specified for the identit
 
 - [Access Portal](/docs/directorymanager/11.0/welcome/login.md)
 - [Dashboard](/docs/directorymanager/11.0/welcome/dashboard.md)
+

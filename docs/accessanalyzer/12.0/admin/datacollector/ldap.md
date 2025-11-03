@@ -153,3 +153,4 @@ The button bar provides several options for configuring the query.
 | ![Select Highlighted Attributes button](/images/accessanalyzer/12.0/admin/datacollector/addattributes.webp)                    | Select Highlighted Attributes               | Adds the highlighted attributes to the list.                              |
 | ![Delete the Highlighted Selected Attributes button](/images/accessanalyzer/12.0/admin/datacollector/deleteattributes.webp)    | Delete the Highlighted Selected Attributes  | Deletes the highlighted attributes from the list.                         |
 | ![Find the Root Path in the Directory Objects button](/images/accessanalyzer/12.0/admin/datacollector/rootpath.webp)           | Find the Root Path in the Directory Objects | Returns the root path to the selected root.                               |
+

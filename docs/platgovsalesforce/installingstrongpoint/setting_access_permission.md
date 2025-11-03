@@ -26,3 +26,4 @@ access to other users:
    ![enablepermissionsets](/images/platgovsalesforce/installing_strongpoint/enablepermissionsets.webp)
 
 The user is ready to view and use Platform Governance for Salesforce.
+

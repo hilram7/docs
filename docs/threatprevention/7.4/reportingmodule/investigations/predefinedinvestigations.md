@@ -97,3 +97,4 @@ By default, this folder contains the following saved investigations:
 
 
 You can save additional investigations to this folder.
+

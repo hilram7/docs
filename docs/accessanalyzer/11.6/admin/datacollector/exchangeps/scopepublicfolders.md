@@ -44,3 +44,4 @@ Enterprise Auditor database.
 The **Search** feature filters this list. Select the table that houses the list of public folders
 for which this query will be scoped. The Field containing EntryIDs list is populated with columns
 from the selected table. Select the appropriate column from the list.
+

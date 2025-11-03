@@ -228,3 +228,4 @@ configurable host properties are:
 - [Unix IDs Tab](/docs/activitymonitor/8.0/admin/monitoredhosts/properties/unixids.md)
 
 See the [Host Properties Window](/docs/activitymonitor/8.0/admin/monitoredhosts/properties/overview.md) topic for additional information.
+

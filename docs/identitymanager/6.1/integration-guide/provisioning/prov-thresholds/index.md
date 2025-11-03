@@ -38,3 +38,4 @@ would be the first to stop the generation of provisioning orders.
 
 Distinct
 [thresholds are configurable for synchronization](/docs/identitymanager/6.1/integration-guide/synchronization/synchro-thresholds/index.md).
+

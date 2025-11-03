@@ -18,3 +18,4 @@ Use the following options to configure the action:
 
     - User must change password at next logon – Select this checkbox to require the user to change
       the password at the next logon
+

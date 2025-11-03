@@ -55,3 +55,5 @@ Use **Strict equality** check mode.
 For other Adobe packages (or any other software vendors) you must adjust the path to your .MSP file
 within your **Arguments** field. MSIEXEC.EXE should be elevated at all times while you are elevating
 .MSP file installation.
+
+

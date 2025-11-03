@@ -39,3 +39,4 @@ Our example generates the following configuration:
 **<PolicySimulationControlRules Id="7" Profile="Administrator" /><RoleAndSimulationControlRules Id="9" Profile="Administrator" />**
 
 ```
+

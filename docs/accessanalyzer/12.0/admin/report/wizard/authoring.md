@@ -67,3 +67,4 @@ report.
 **Step 3 –** Click **OK**.
 
 The selected tags are now shown in the Tags field as a comma separated list.
+

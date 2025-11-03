@@ -104,3 +104,4 @@ by different icons, enabling you to distinguish between them.
 **Delete**.
 
 The custom report is deleted from the system.
+

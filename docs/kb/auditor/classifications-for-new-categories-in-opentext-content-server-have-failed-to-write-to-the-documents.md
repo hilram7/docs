@@ -42,3 +42,4 @@ The **Classifier** service relies on data populated by the **Collector** service
    - OR
    - Select a folder and click **Re-Index**
 5. When you click **Re-Index**, select the scope **Selected Item(s) and All Descendants** to update an entire folder.
+

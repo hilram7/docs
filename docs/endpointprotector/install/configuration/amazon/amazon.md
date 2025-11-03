@@ -23,3 +23,4 @@ representative, notifying you when the Endpoint Protector Amazon Machine Image h
 your account.
 
 ![Obtaining Amazon Machine Image (AMI)](obtainingami.webp)
+

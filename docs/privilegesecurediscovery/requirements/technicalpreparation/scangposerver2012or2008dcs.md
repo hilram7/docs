@@ -94,3 +94,4 @@ If the policy was added to domain controller(s) by mistake, to remove this setti
 - Delete this registry key from all affected domain controllers:
 
     - HKLM\SYSTEM\CurrentControlSet\Control\Lsa\restrictremotesam
+

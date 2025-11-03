@@ -60,3 +60,4 @@ Again, consider that for the large-size and extra-large environments, it is stro
 configure a cluster of several NDC Servers and apply DQS mode to these clustered servers. See
 [Configuring NDC Servers Cluster and Load Balancing with DQS Mode](/docs/dataclassification/5.6.2/deployment/deploymentplan/ndcserverclient/distributed_query_server_mode.md)
 for details.
+

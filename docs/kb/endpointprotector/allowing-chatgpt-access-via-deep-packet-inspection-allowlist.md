@@ -37,3 +37,4 @@ This article explains how to configure Endpoint Protector to allow access to Cha
 5. Expand the **Policy Allowlist** section.
 6. Navigate to **Deep Packet Inspection** and select the dictionary you created.
 7. Save the policy.
+

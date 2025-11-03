@@ -19,3 +19,4 @@ Open the **My Roles Notes** tab to see details about your roles. This list can a
 exported.
 
 ![Open the My Roles Notes tab for details on your roles](/images/platgovnetsuite/uar/uar_owner/my_roles_notes.webp)
+

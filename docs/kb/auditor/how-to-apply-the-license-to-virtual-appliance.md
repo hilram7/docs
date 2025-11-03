@@ -57,3 +57,4 @@ Conversion Example for Windows Server 2019 Standard:
 | `slmgr.vbs /ato` | forced activation |
 
 XXXXX-XXXXX-XXXX-XXXXX-XXXXX - is a VL key.
+

@@ -52,3 +52,4 @@ To restart the Netwrix Auditor Application Deployment Service:
 4. Check that the restart is successful:
    - Go to a monitoring plan that was mentioned in the error message and confirm that its status has changed to **Ready**.
    - Ensure that activity records are being collected again.
+

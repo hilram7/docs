@@ -22,3 +22,4 @@ The add-on is now installed and the icon is added to the browser.
 
 NOTE: It is also possible to find the Add-on link in the Web Application page footer, if it is not
 installed yet.
+

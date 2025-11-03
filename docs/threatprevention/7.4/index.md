@@ -35,3 +35,4 @@ Organizations can benefit from Threat Prevention in many ways, such as:
 - Block the riskiest actions
 - Accelerate investigation and harden security
 - Tighten security and compliance practices
+

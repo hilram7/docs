@@ -85,3 +85,4 @@ To verify an update was applied to the Netwrix Endpoint Protector server, follow
 ![The button to open the view of all updates](./images/ka0Qk0000004M3Z_0EMQk000005fbTl.png)
 
 ![The list of all updates](./images/ka0Qk0000004M3Z_0EMQk000005fbWz.png)
+

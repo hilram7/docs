@@ -60,3 +60,4 @@ group_ and _Create Smart Group_ are being assigned.
 ```
 Set-IdentityStoreRole -RoleName DemoRole2 -IdentityStoreName AdStore9 -PermissionOperation Grant -Permissions 'Manage any group', 'create smart group'
 ```
+

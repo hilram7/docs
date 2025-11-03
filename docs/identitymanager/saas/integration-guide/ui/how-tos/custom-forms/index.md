@@ -78,3 +78,4 @@ display, you must change the
 
 The record filter not only changes the display options of the record, but also changes the display
 of the rights associated with this record.
+

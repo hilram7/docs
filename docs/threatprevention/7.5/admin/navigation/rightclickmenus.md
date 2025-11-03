@@ -130,3 +130,4 @@ It contains the following selections:
 | Filter Editor       | Opens the Filter Editor window (see the [Filter Data](/docs/threatprevention/7.5/admin/navigation/datagrid.md#filter-data) topic)     |
 | Show / Hide Find Panel     | Shows or hides the Find Panel, which is the search feature (see the [Search Data](/docs/threatprevention/7.5/admin/navigation/datagrid.md#search-data) topic)          |
 | Hide / Show Auto Filter Row     | Hides or shows the Auto Filter Row between the column headers and the first row of event data       |
+

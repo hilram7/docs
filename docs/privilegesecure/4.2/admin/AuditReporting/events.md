@@ -26,3 +26,4 @@ The Events page has the following features:
     - Access Policy – Name of the Access Policy
     - Event Message – Description of the event
     - Session ID – Unique identifier for the session
+

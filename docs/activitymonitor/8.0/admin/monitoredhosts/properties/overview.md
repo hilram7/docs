@@ -32,3 +32,4 @@ on the type of host selected:
 - [Tweak Options Tab](/docs/activitymonitor/8.0/admin/monitoredhosts/properties/tweakoptions.md) — SQL Server hosts only
 - [Unix IDs Tab](/docs/activitymonitor/8.0/admin/monitoredhosts/properties/unixids.md) — NetApp devices, Dell devices, and Nasuni Edge Appliances only
 - [Windows Tab](/docs/activitymonitor/8.0/admin/monitoredhosts/properties/windows.md) — Windows hosts only
+

@@ -69,3 +69,4 @@ It is possible to export data by specifying the attribute names to fetch, for ea
 | --oauth-url optional             | **Type** String **Description** The server's url when using OAuth2 authentication.                                                                                                                    |
 | --oauth-token optional           | **Type** String **Description** Specifies the OAuth token to connect to the application.                                                                                                              |
 | --scim-syntax optional           | **Type** Enum **Description** Specifies the syntax used for requests body. Has to be one of those values: Salesforce (default value) or CyberArk                                                      |
+

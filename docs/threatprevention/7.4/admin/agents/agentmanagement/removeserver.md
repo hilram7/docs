@@ -23,3 +23,4 @@ Follow the steps to remove a server from the list on the Agents Interface.
 **Step 2 –** Right-click a server and select **Remove Server from List** on the menu.
 
 The server is removed from the list.
+

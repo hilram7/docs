@@ -92,3 +92,4 @@ with the owner permission from the record.
 
 **CAUTION:** The owner permission does not protect a record from being deleted. Any user who has
 deletion permission can delete the record!
+

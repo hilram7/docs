@@ -187,3 +187,4 @@ Learn more on [Create a Provisioning Rule](/docs/identitymanager/saas/user-guide
 Learn more on [Automate Role Assignments](/docs/identitymanager/saas/user-guide/optimize/assignment-automation/automate-role-assignment/index.md) rules.
 
 Learn more on the rules of [Categorize Resource ](/docs/identitymanager/saas/user-guide/set-up/categorization/index.md).
+

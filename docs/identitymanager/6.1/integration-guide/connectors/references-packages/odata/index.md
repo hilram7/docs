@@ -15,3 +15,4 @@ Manages OData entities.
 | Export                  | Usercube-Export-OData.dll |
 | Has Incremental Mode    | False                     |
 | Publisher               | Usercube                  |
+

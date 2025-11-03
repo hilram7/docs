@@ -344,3 +344,4 @@ sc stop SBTLoggingSvc
 **sc start SBFileMonAgentSvc**
 
 Once the services have been restarted, the Activity Monitor performance counters are unregistered.
+

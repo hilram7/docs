@@ -24,3 +24,4 @@ Once the changes are complete, validate the Change Request and mark it **Complet
    **Completed**.
 
     ![change_request_bar_approved_completed](/images/platgovnetsuite/change_management/change_request_bar_approved_completed.webp)
+

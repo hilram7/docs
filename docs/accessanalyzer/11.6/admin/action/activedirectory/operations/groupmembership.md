@@ -37,3 +37,4 @@ Use the following options to configure the action:
 
 - ChangeType Column – The value to use from the source table to specify if the object is added or
   removed. The contents of the ChangeType column should be a 0 for Add or a 1 for Remove.
+

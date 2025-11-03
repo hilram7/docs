@@ -70,3 +70,4 @@ Password must:
 - Rejected : contain at least 7 characters
 
 - Accepted : not be similar to your logon name
+

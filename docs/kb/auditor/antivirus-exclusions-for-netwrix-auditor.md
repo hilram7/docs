@@ -64,3 +64,4 @@ It is strongly recommended that you add the following paths to the list of exclu
 - `C:\Program Files\Netwrix\Access Information Center\AccessInformationCenter.Service.Exe`
 
 > **TIP:** Refer to your antivirus documentation for details on how to exclude certain paths from scanning
+

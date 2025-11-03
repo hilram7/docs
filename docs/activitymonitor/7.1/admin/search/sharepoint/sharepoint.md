@@ -163,3 +163,4 @@ This section has the following filters:
   UpdatePersonalWebParts, ManageWeb, FullMask, UseClientIntegration, UseRemoteAPIs, ManageAlerts,
   CreateAlerts, EditMyUserInfo, EnumeratePermissions, ApproveItems, OpenItems, ViewVersions,
   DeleteVersions, CreateGroups
+

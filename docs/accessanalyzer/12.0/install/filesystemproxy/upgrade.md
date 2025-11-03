@@ -69,3 +69,4 @@ Features**). Uninstall the previous version of Access Analyzer File System Scann
 [File System Proxy Service Installation](/docs/accessanalyzer/12.0/install/filesystemproxy/wizard.md) topic for instructions.
 
 The File System Solution can now use the proxy architecture for the latest version of the solution.
+

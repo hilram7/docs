@@ -36,3 +36,4 @@ workstations. You can configure advanced audit policies for the same purpose too
 5. Run the following command to update group policy:
 
     `gpupdate /force`
+

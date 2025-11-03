@@ -73,3 +73,4 @@ You can also implement the **Enforce password history** policy to avoid making c
 
 - Desktop-Profile attribute ⸱ Microsoft: https://learn.microsoft.com/en-us/windows/win32/adschema/a-desktopprofile
 - Enforce password history ⸱ Microsoft: https://learn.microsoft.com/en-us/windows/security/threat-protection/security-policy-settings/enforce-password-history
+

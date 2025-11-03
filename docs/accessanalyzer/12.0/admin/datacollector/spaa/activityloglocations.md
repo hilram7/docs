@@ -48,3 +48,4 @@ In any UNC paths, `%HOST%` will be replaced with the host name.
 See the Getting Started with SharePoint & SharePoint Online Activity Monitor topic in the
 [Netwrix Activity Monitor Documentation](https://helpcenter.netwrix.com/category/activitymonitor)
 for additional information.
+

@@ -43,3 +43,4 @@ In the Netwrix Auditor health log, some error events mention issues with the com
    - [Enable Remote Registry Services for File Server](https://docs.netwrix.com/docs/auditor/10_8/configuration/fileservers/windows/remoteregistryservice)
 5. Add antivirus exclusions on the Netwrix and target servers for folders:
    - [Antivirus Exclusions for Netwrix Auditor](/docs/kb/auditor/antivirus-exclusions-for-netwrix-auditor.md)
+

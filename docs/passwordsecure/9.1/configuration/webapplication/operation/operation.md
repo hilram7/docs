@@ -83,3 +83,4 @@ The reading pane shows you details about the relevantly selected element.
 
 Various information about the record is displayed in the footer. For example, logbook entries or the
 history.
+

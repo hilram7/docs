@@ -99,3 +99,4 @@ Records collected in braces {} and a new Continuation mark.
 parameters with new Continuation marks until you receive a 200 OK response with no Activity Records
 inside the `ActivityRecordList`. It means you retrieved all Activity Records matching your search
 criteria.
+

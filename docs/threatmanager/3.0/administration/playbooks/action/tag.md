@@ -32,3 +32,4 @@ This action adds or removes a user from a blocking policy.
   be run under the credentials of the action. Select the credentials from the drop-down list.
 - Policy Name - The name of the Threat Prevention blocking policy.
 - Operation - Whether to add or remove the user from the blocking policy.
+

@@ -53,3 +53,4 @@ provider for any of these:
 - RADIUS – See the [RADIUS Authentication Provider](/docs/threatprevention/7.5/reportingmodule/configuration/integrations/authenticationprovider/radius.md) topic for additional information.
 - OpenID – See the [OpenID Authentication Provider](/docs/threatprevention/7.5/reportingmodule/configuration/integrations/authenticationprovider/openid.md) topic for additional information.
 - SAML – See the [SAML Authentication Provider](/docs/threatprevention/7.5/reportingmodule/configuration/integrations/authenticationprovider/saml.md) topic for additional information.
+

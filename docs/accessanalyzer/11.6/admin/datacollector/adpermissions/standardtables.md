@@ -40,3 +40,4 @@ the ADPermissions Data Collector:
 | SA_ADPerms_PermissionsChangesView | The view of changes to permissions applied to the objects      |
 | SA_ADPerms_PermissionsExtView     | The extended view of permissions applied to the objects        |
 | SA_ADPerms_PermissionsView        | The view of object permissions                                 |
+

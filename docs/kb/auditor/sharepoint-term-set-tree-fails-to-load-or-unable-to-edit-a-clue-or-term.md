@@ -58,3 +58,4 @@ You can confirm this via the **Term Store Manager** interface in **SharePoint** 
 ## Verify conceptClassifier Solution (SharePoint 2010 Only)
 
 When connecting to **SharePoint 2010 Term Sets** the **conceptClassifier** for **SharePoint farm solution** must be deployed.
+

@@ -73,3 +73,5 @@ icon.
 ![976_6_6](/images/endpointpolicymanager/cloud/eventcollection/976_6_6.webp)
 
 **Step 12 –** View the event data
+
+

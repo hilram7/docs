@@ -35,3 +35,4 @@ window.
 The access request has been declined and the requester sent an email notification informing them.
 The request is visible on the Access Request History Page. See the
 [Access Request History](/docs/accessinformationcenter/12.0/owneroverview/owners/requesthistory.md) topic for additional information.
+

@@ -16,3 +16,4 @@ Manages users and roles in SAP S/4 HANA.
 | Fulfill                 | Usercube-Fulfill-Sap.dll |
 | Has Incremental Mode    | False                    |
 | Publisher               | Usercube                 |
+

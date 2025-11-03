@@ -19,3 +19,4 @@ Use the following options to configure the action:
   This is also where the MAPI setting is selected.
 
     - Client Access Server – Enter the Domain Name in this field
+

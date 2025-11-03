@@ -26,3 +26,4 @@ unavailable while it is open. You can use the view to manually edit the host inv
   button is inactive while in edit mode.
 - Cancel – Abandons any changes. This button displays when **Edit** is clicked.
 - Close – Exits the Host Details View
+

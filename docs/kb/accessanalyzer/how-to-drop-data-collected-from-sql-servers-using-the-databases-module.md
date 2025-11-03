@@ -69,3 +69,4 @@ This article explains how to drop data collected from SQL Servers using the Data
    - Orphaned Rows
 5. On the Results page, enable all of the available properties.
 6. Run the job.
+

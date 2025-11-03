@@ -47,3 +47,4 @@ In case a domain was decommissioned or excluded from the monitoring scope, the N
 11. Run the job to drop the target domains.
 
 > **NOTE:** To update the AD reports results, re-run the reports.
+

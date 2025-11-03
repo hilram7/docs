@@ -22,3 +22,4 @@ The following options are available:
   from a Access Analyzer Console, it remains installed after the action is completed for other
   Access Analyzer consoles to perform actions using the same applet service. This setting removes
   the action’s applet service from that host.
+

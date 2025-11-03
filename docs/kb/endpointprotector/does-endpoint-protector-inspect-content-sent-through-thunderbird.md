@@ -32,3 +32,4 @@ Using the Content Aware Protection module, you can inspect content sent through 
 Thunderbird changed its add-on implementation policy after version `38.0`. As a result, you can only filter attachments in newer Thunderbird versions.
 
 > **NOTE:** To use the full content inspection features with Thunderbird, do not update beyond version `38.0`.
+

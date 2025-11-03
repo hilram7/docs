@@ -78,3 +78,4 @@ This article provides step-by-step instructions for migrating schedules and sync
 ## Related Links
 
 - [How to Upgrade Directory Manager](https://docs.netwrix.com/docs/directorymanager/11_1)
+

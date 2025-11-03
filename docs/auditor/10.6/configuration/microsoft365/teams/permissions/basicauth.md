@@ -72,3 +72,4 @@ A less privileged role has now been assigned to the account.
 See the
 [Permissions for Microsoft Entra ID Auditing](/docs/auditor/10.6/configuration/microsoft365/microsoftentraid/permissions/permissions.md#for-microsoft-entra-id-auditing)
 topic for additional information.
+

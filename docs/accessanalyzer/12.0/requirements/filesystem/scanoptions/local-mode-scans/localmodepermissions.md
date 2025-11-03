@@ -50,3 +50,4 @@ explained above. Also the firewall rules must be configured to allow for communi
 applicable servers.
 
 See the [Local Mode Port Requirements](/docs/accessanalyzer/12.0/requirements/filesystem/scanoptions/local-mode-scans/localmodeports.md) topic for firewall rule information.
+

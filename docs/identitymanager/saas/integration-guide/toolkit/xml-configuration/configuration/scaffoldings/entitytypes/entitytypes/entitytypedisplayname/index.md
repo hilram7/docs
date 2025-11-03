@@ -46,3 +46,4 @@ Our example generates the following configuration:
 <EntityPropertyExpression Identifier="Directory_Country_InternalDisplayName_L1" Binding="Directory_Country:DisplayName_enUS" EntityType="Directory_Country" Property="InternalDisplayName_L1" /><EntityPropertyExpression Identifier="Directory_Country_InternalDisplayName_L2" Binding="Directory_Country:DisplayName_frFR" EntityType="Directory_Country" Property="InternalDisplayName_L2" />
 
 ```
+

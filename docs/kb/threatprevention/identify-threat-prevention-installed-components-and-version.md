@@ -66,3 +66,4 @@ Threat Prevention Reporting | SIReports
 2. Once launched, the title of the Threat Prevention Console includes the currently installed version.
 
 Example: "Threat Prevention Administration Console V7.3.0.196""
+

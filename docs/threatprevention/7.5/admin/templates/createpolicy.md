@@ -53,3 +53,4 @@ activate the policy. Click **Save**.
 
 When the last step is completed, this policy is sent, real-time, to the individual Agents and
 becomes active.
+

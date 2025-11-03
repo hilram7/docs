@@ -38,3 +38,4 @@ This article explains how to respond to timeouts experienced during Remote Deskt
 - For sessions provisioned through DirectConnect via an RDP manager:
   1. When the RDP session is terminated, the Netwrix Privilege Secure session will be deprovisioned.
   2. You will need to relaunch a new DirectConnect session to continue your work.
+

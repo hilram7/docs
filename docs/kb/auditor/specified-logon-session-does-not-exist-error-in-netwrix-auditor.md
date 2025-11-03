@@ -46,3 +46,4 @@ Assign a new SSL certificate to Integration API. Refer to the following article 
 ### Related articles
 
 - Integration API − Security ⸱ v10.6: https://docs.netwrix.com/docs/auditor/10_8
+

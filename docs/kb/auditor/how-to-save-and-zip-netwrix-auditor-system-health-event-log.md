@@ -57,3 +57,4 @@ The exported System Health event log will appear on your Desktop.
 ### Sending Netwrix Auditor logs
 
 Your Technical Support Engineer may request you to attach Netwrix Auditor logs. Refer to the following article for additional information: https://kb.netwrix.com/4645 (How to Send Netwrix Auditor Logs).
+

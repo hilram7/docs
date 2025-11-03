@@ -69,3 +69,4 @@ With the New Object policy applied, role members can create new objects only in 
 
 - On the **Account** page of the **Create Contact** wizard, users can view and select only the specified OUs for new contact creation.  
   ![OU selection in Self-Service Create Contact wizard](images/ka0Qk000000EZFd_0EMQk00000BuMcD.png)
+

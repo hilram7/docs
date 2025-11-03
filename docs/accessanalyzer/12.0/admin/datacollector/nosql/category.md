@@ -33,3 +33,4 @@ The query categories are:
 
         - Remove NoSQL Storage Tables — All connection related and filter data will be removed for
           NoSQL databases
+

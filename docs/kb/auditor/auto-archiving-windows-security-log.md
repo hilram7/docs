@@ -56,3 +56,4 @@ With the automatic log backup enabled, you may want to adjust the retention sett
 6. This value defines the time period (in hours) after which security event logs archives will be automatically deleted from the domain controllers. By default, it is set to `50` (decimal). Modify this value, if necessary, and click **OK** to save the changes.
 
 **NOTE:** If the `CleanAutoBackupLogs` registry value is set to `0`, you will have to remove the old automatic backups manually, otherwise you may run out of space on your hard drive.
+

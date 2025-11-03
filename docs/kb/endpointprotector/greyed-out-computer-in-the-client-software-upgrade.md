@@ -39,3 +39,4 @@ This happens when the computer is already assigned to another active upgrade job
 1. Review the list of existing upgrade jobs in the client software upgrade interface and identify any jobs that include the affected computer.  
 2. Remove or complete any active or pending upgrade jobs that contain the computer.  
 3. Create a new upgrade job and verify that the computer is now available for selection.
+

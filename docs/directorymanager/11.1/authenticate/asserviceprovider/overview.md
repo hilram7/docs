@@ -13,3 +13,4 @@ You can configureDirectory Manager as a service provider with the following iden
 - Okta
 - PingOne
 - OneLogin
+

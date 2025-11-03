@@ -31,3 +31,4 @@ mechanism in the query configuration.
 See the Microsoft
 [Group Managed Service Accounts](https://learn.microsoft.com/en-us/windows-server/security/group-managed-service-accounts/group-managed-service-accounts-overview)
 article for additional information.
+

@@ -223,3 +223,4 @@ Access key ID and Secret access key which need to be input into Enterprise Audit
 You can now create the Connection Profile for the AWS Solution. See the
 [Amazon Web Services for User Credentials](/docs/accessanalyzer/11.6/admin/settings/connection/create/aws.md)
 topic for additional information.
+

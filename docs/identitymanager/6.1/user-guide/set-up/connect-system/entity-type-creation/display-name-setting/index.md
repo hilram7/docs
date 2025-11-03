@@ -84,3 +84,4 @@ You can find the **Reload** button either on the green warning, or on the connec
 
 Ensure that the created properties are saved by clicking on **Save & Close** > **Save** at the top
 right corner of the screen.
+

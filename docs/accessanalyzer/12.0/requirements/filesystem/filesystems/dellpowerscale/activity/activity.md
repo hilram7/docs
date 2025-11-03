@@ -144,3 +144,4 @@ Another way to check the privileges is to use the **OneFS Web UI** in the **OneF
 
 Checklist Item 4: Configure Dell CEE to Forward Events to the Activity Agent. See the
 [Validate Setup](/docs/accessanalyzer/12.0/requirements/filesystem/filesystems/dellpowerscale/activity/validate.md) topic for additional information.
+

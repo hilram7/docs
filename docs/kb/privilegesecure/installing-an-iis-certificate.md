@@ -75,3 +75,4 @@ After updating each config file, verify Netwrix Privilege Secure services are ru
 ![User-added image](./images/ka04u000001172V_0EM4u000004baat.png)
 
 If any services are red, Register Services by selecting your **username** in the top-right of the Netwrix Privilege Secure UI, click **Settings**, then click **Register Services**.
+

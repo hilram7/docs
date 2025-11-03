@@ -34,3 +34,4 @@ over the selected date range. It indicates what volume of operations occurred pe
 operation type is provided with a different color, as indicated by the legend. See the
 [Activity Report Results Pane Features](/docs/accessinformationcenter/12.0/resourceaudit/navigate/overview.md#activity-report-results-pane-features)
 topic for instructions on filtering the Trend graph.
+

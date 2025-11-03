@@ -21,3 +21,4 @@ The department in the organization that the user/mailbox works in.
 See Also
 
 - [User Properties](/docs/directorymanager/11.0/welcome/user/properties/overview.md)
+

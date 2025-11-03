@@ -45,3 +45,4 @@ Uploading artifacts to the ticket via the Netwrix Customer Portal is the most se
 >
 > 2. Click **Back to My Tickets** to view your ticket. If needed, this is where you can upload any additional files via the **Add attachments** Action button of the ticket interface.  
 >    ![](./images/ka0Qk000000Cs7t_0EMQk00000BMoHZ.png)
+

@@ -38,3 +38,4 @@ The jobs in the 2.Activity Job Group are:
   – This job is designed to analyze user activity based on the audited actions and identify any
   outliers based on a modified z-score. Modified z-scores of 3.5 or higher are considered to be
   possible outliers.
+

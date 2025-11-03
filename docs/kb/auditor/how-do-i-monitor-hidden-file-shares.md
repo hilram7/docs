@@ -29,3 +29,4 @@ If you would like to audit all hidden shares on the server, check the correspond
 ![image.png](images/ka04u000000HcNr_0EM4u000007qtQ1.png)
 
 **NOTE:** It is not recommended to specify the system drive (`\server\c$`) as an Item. This will force Netwrix to audit local folders including the system ones that produce a lot of noise and degrade the product performance.
+

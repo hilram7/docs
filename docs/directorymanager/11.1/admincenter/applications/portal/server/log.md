@@ -139,3 +139,4 @@ Windows logging is not available for a portal instance deployed in Docker.
 5. Click the **Logging** tab.
 6. In the **Windows Logging** area, select _Off_ in the **Log Events** drop-down list.
 7. Click **Save**.
+

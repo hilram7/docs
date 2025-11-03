@@ -18,3 +18,4 @@ Step 2 – Select the following check boxes to set the security options for the 
 - Account is disabled – To disable the account, so that the user cannot log-on with it.
 
 Step 3 – Click **Next**.
+

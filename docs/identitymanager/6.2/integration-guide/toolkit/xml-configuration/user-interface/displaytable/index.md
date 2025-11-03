@@ -110,3 +110,4 @@ Here is a list of properties of column child element.
 | SearchOperator default value: 0              | QueryComparisonOperator | Defines the search operator (Equal, NotEqual, Contain, StartWith).                                                                                                       |
 | SortBinding optional                         | Int64                   | Represents the sort binding path to a scalar property.                                                                                                                   |
 | Tile optional                                | Int64                   | Identifier of the tile.                                                                                                                                                  |
+

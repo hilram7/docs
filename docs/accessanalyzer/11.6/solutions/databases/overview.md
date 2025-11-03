@@ -58,3 +58,4 @@ In the above table:
 - \*Partially Supported, "Permission Audit" means the permissions as solely collected at the table
   level.
 - \*\*Partially Supported, "Permission Audit" means only the database size information is collected.
+

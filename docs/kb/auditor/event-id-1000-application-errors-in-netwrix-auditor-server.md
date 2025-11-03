@@ -86,3 +86,4 @@ The **Faulting module name** dynamic-link library file was corrupted. This could
 
 - [Antivirus Exclusions for Netwrix Auditor](/docs/kb/auditor/antivirus-exclusions-for-netwrix-auditor.md)
 - [How to Repair Netwrix Auditor Installation](/docs/kb/auditor/how-to-repair-netwrix-auditor-installation.md)
+

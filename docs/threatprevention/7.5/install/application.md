@@ -196,3 +196,4 @@ installation is complete, click **Finish**.
 
 The selected components have been installed, and the Threat Prevention Console icon is now on the
 desktop. See the [First Launch](/docs/threatprevention/7.5/install/firstlaunch/firstlaunch.md) topic for the next steps.
+

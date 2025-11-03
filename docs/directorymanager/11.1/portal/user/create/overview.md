@@ -18,3 +18,4 @@ Directory Manager supports the following identity providers for creating the use
 - Microsoft Entra ID
 - Generic LDAP
 - Google Workspace
+

@@ -53,3 +53,4 @@ attributes _jpegPhoto_, _Photo_, _thumbnailPhoto_, and _thumbnailLogo_) on the *
 Properties, Create Object**, and **Property Validation** pages in **Design Settings**, after which
 the image placeholder is displayed on the respective portal page. Users can use it to upload their
 photos.
+

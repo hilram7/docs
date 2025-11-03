@@ -13,3 +13,4 @@ Metadata), Clue Text and Score:
 ![cluesbulkimport](/images/dataclassification/5.6.2/taxonomies/cluesbulkimport.webp)
 
 The Bulk Insert link is available on the Clues tab below the main entry grid.
+

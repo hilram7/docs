@@ -188,3 +188,4 @@ The following field properties vary from field to field. You can:
 
 - [Design a Portal with Display Types](/docs/directorymanager/11.0/signin/applications/portal/displaytype/overview.md)
 - [Configure User Profile Validation](/docs/directorymanager/11.0/signin/identitystore/configure/profilevalidation.md)
+

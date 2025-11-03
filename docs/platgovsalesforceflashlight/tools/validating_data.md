@@ -44,3 +44,4 @@ To validate data with the Customization Quick Search:
 3. Click on the **Customization** and validate the data.
 
 ![custquicksearch_800x200](/images/platgovsalesforceflashlight/tools/custquicksearch_800x200.webp)
+

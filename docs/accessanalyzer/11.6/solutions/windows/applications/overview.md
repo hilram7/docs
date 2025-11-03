@@ -20,3 +20,4 @@ The jobs in the Applications job group are:
   – This job lists applications which are set to **Run** or **Run Once** on all targeted hosts
 - [SG_ScheduledTasks Job](/docs/accessanalyzer/11.6/solutions/windows/applications/sg_scheduledtasks.md)
   – This job lists scheduled task details on all targeted hosts
+

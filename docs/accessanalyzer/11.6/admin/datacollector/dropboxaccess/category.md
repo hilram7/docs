@@ -24,3 +24,4 @@ Data Collector contains the following query categories, sub-divided by auditing 
       Enterprise Auditor database and creates SQL views
 
 The selection made on the Category Selection Page determines the wizard pages available.
+

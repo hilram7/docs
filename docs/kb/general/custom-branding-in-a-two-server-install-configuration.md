@@ -31,3 +31,4 @@ When the Self-Service portal and the Admin portal are on two different web serve
 
 1. On the computer that hosts the Self-Service portal, navigate to ` %install drive%Program Files(x86)Netwrix Password ManagerWeb_SSImages ` and copy the logo into this folder to replace the existing `logo.gif`.
 2. Refresh the Self-Service portal. After refreshing the Self-Service portal, the new logo should show up.
+

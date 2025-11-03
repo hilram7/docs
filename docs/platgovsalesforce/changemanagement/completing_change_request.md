@@ -20,3 +20,4 @@ Once the changes are complete, validate the Change Request and mark it **Complet
    (**Netwrix Dashboard** > **Reports** > **Change Enablement**).
 6. When all changes are validated, click **Complete CR** on the Change Request status bar to mark it
    Completed.
+

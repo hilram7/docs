@@ -79,3 +79,4 @@ What do you want to do?
 
 - [Customize Search Forms](/docs/directorymanager/11.0/signin/applications/portal/displaytype/searchforms.md)
 - [Customize Search Results](/docs/directorymanager/11.0/signin/applications/portal/displaytype/searchresults.md)
+

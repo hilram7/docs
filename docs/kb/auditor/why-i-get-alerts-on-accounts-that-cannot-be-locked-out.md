@@ -37,3 +37,4 @@ If you configured alerts triggered by lockout events, Netwrix Auditor reacts to 
 Alerts contain also an account RID, that is a unique ID within Netwrix that ties it to the alert that was fired off which would allow you to look into it more thoroughly.
 
 You can then select an alert that fired off and click **Show activity record in a new window** to the bottom right, which will show you the details of the event.
+

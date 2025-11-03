@@ -61,3 +61,4 @@ EPPSetServer.exe -ip 192.168.43.113 -port 443 -dept "ITDEP"
 ```
 
 5. Run the script and then restart the Windows endpoint machine for the new details to be applied.
+

@@ -63,3 +63,4 @@ Yes, you are able to replace the logo and picture. This can be acheived by follo
 1. Open the landing page of the Directory Manager portal in incognito mode to verify that the logo and image have been updated.
 
 ![Directory Manager portal landing page with updated logo and image](images/ka0Qk000000De4T_0EMQk00000BNzAx.png)
+

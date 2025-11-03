@@ -33,3 +33,4 @@ produces the following pre-configured report.
 | Report            | Description                                                                            | Default Tags | Report Elements                                                                                                                                                                     |
 | ----------------- | -------------------------------------------------------------------------------------- | ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | File Quarantining | This report summarizes file quarantining which has occurred during the Cleanup process | None         | This report is comprised of two elements: <ul><li>Line Chart – Displays the historical summary of file quarantining</li><li>Table – provides details on file quarantining</li></ul> |
+

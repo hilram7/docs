@@ -125,3 +125,4 @@ configure a TLS certificate on your machine. Without a TLS certificate, YubiKey 
 will only work with the Firefox browser, as only Firefox allows WebAuthn without a TLS certificate.
 
 :::
+

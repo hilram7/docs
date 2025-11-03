@@ -36,3 +36,4 @@ To address the issue:
 2. Restart the **Netwrix Password Manager** service via `Services.msc`
 
 If this doesn't help, make sure that Password Manager service account has all [required rights](https://kb.netwrix.com/1868) and try rebooting the entire server
+

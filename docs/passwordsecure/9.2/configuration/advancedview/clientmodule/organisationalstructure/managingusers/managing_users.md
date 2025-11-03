@@ -84,3 +84,4 @@ Password -Documents -Forms -Rolls -Uses -Password Reset -System Tasks -Seal temp
 
 NOTE: All authorizations for a data record are taken into account, regardless of whether you are
 authorized by a role or the user.
+

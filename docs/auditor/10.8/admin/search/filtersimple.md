@@ -60,3 +60,4 @@ To export or import filters as regular expressions, use the **Tools** menu comma
 | ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Export | **Copy search** — copy the search filters that are currently applied to your search. This can be helpful if you want to share your search with a colleague (e.g., by pasting it in an email) or to modify a saved search query with your current filters. |
 | Import | **Paste search** — paste the search filters you copied before. These can be filters copied from a previous search or those someone shared with you.                                                                                                       |
+

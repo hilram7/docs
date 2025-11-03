@@ -24,3 +24,4 @@ Review the following recommendations to harden the solution security:
   Server, we recommend the same NTP source as your domain controllers are synced to.
 - Ensure Windows Updates are enabled and automatically installed with a plan to manually reboot
   created. Do not enable automatic reboot.
+

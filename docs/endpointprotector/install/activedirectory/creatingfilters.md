@@ -60,3 +60,4 @@ You can add the following queries to target certain oeprating systems and/or typ
   ProductType="2"
 - Windows Server 2019: SELECT \* FROM Win32_OperatingSystem WHERE BuildNumber >= 17763 AND
   (ProductType="3" OR ProductType="2")
+

@@ -16,3 +16,4 @@ Manages entries in an LDAP compliant directory.
 | Fulfill                 | Usercube-Fulfill-Ldap.dll |
 | Has Incremental Mode    | False                     |
 | Publisher               | Identity Manager          |
+

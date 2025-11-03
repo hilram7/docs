@@ -30,3 +30,4 @@ data was collected:
 
 - Time Window – Select a time window for each table in the analysis. The drop-down menu selections
   vary based on each table's history settings.
+

@@ -46,3 +46,4 @@ Learn more on
 [Perform Access Certification](/docs/identitymanager/6.2/user-guide/administrate/access-certification/index.md).
 
 Learn more on how to [Manage Risks](/docs/identitymanager/6.2/user-guide/optimize/risk-management/index.md).
+

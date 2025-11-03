@@ -77,3 +77,4 @@ investigation. They can run the investigation, schedule exports, or add subscrip
 See the
 [Investigation Options](/docs/threatprevention/7.4/reportingmodule/investigations/options/overview.md)
 topic for additional information.
+

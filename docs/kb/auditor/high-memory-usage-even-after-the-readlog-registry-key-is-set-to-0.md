@@ -47,3 +47,4 @@ First, try to perform additional tuning of the product via the registry. On the 
 6. *Create DWORD called `PF_Enabled` and set its value to `0` (do this if you are not interested in name of the process causing invalid logons)*
 7. Restart the NetWrix Account Lockout Examiner service via **Services.msc**
 
+

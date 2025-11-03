@@ -25,3 +25,4 @@ The Usage Statistics job group is comprised of:
   – Designed to report on stale shares from targeted file servers
 
     - Requires **Access Auditing** component data collection
+

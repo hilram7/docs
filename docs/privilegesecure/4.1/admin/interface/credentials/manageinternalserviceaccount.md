@@ -57,3 +57,4 @@ The selected account will now display the following options.
   clipboard. The window stays open for 20 seconds. See the
   [View Password Window](/docs/privilegesecure/4.1/admin/interface/credentials/viewpassword.md)
   topic for additional information.
+

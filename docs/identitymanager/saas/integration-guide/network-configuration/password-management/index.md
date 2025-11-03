@@ -53,3 +53,4 @@ be changed by the configuration).
 | LDAP               | YES        | YES    | YES   | YES    | **Required authentication mode:** Basic with SSL or Negotiate |
 | Microsoft Entra ID | YES        | NO     | YES   | NO     | -                                                             |
 | Service Now        | YES        | NO     | NO    | NO     | -                                                             |
+

@@ -71,3 +71,4 @@ Follow the steps below to resolve the issue:
 - Configuration — Windows Server — Adjusting Event Log Size and Retention Settings — v10.6: https://docs.netwrix.com/docs/auditor/10_8
 - Configuration — Active Directory Ports — v10.6: https://docs.netwrix.com/docs/auditor/10_8
 - Configuration — Active Directory: Manual Configuration — v10.6: https://docs.netwrix.com/docs/auditor/10_8
+

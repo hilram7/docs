@@ -235,3 +235,4 @@ You can still view a user's event history in the **Audit Log** tab after they ar
 from the **Users** tab.
 
 :::
+

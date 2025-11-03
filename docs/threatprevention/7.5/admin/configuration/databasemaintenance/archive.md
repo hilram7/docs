@@ -110,3 +110,4 @@ See the [Schedule Database Maintenance](/docs/threatprevention/7.5/admin/configu
 **Step 7 –** Click **Save** on the Database Maintenance window to save the changes.
 
 Database maintenance is now enabled for the archive database.
+

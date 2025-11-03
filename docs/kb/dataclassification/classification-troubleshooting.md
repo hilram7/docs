@@ -55,3 +55,4 @@ If it has the expected text and metadata, investigate why the expected classific
 7. If the document shows as classified in the calculations dialog but is not shown as classified in the page info dialog, then it's possible that the taxonomy clues have changed since the document was last classified.
 
    Select the document, select **Re-classify**, and then select **Reset Cache** > **Ok**. Then, observe whether the status of the document changes to **Reclassified**, and then recheck the page info **classifications** tab.
+

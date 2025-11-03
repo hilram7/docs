@@ -66,3 +66,4 @@ This example implies a Windows Server monitoring plan named **Windows_Server_MP*
 ## Related Link
 
 - Windows Server − Monitoring Custom Registry Keys
+

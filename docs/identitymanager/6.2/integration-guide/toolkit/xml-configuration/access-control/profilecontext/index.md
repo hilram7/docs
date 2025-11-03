@@ -33,3 +33,4 @@ lower or equal to -2.
 | IsAutomatic default value: false | **Type** Boolean **Description** Context automatically created by task Usercube-Set-InternalUserProfiles.                      |
 | ResourceType optional            | **Type** Int64 **Description** ResourceType in which the assignment is restricted.                                             |
 | SingleRole optional              | **Type** Int64 **Description** SingleRole in which the assignment is restricted.                                               |
+

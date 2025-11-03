@@ -200,3 +200,4 @@ section.
 
 Check that the field from the claims setting exist and has the value. If claims don’t exist, please
 check the claims configuration in Microsoft Entra ID.
+

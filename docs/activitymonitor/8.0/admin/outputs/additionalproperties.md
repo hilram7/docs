@@ -36,3 +36,4 @@ If a Threat Prevention Agent has been deployed to the same Windows proxy server 
 agent is deployed to monitor NAS devices, then the **Comment** column in the monitored hosts table
 identifies the host as being “Managed by Threat Prevention”, and that ‘monitored host’ configuration
 is not editable through the Activity Monitor Console. Simply add the host again for other outputs.
+

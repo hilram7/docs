@@ -21,3 +21,4 @@ The following functions are currently available in the **forms module**:
 
 NOTE: The Web Application module **forms** is based on the client module of the same name. Both
 modules have a different scope and design but are almost identical to use.
+

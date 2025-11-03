@@ -201,3 +201,4 @@ Run the **install.ps1** PowerShell script to register the add-on service. You wi
 to specify credentials for accessing Nutanix Prism Central. These credentials will be encrypted and
 used for secure communication. If you need to modify them later, run the
 Netwrix.IntegrationConfiguration.exe file from the add-on package.
+

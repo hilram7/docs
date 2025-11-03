@@ -32,3 +32,4 @@ For understanding all the scenarios, please see the following additional technot
 
 - [How are Terminal Services and/or Citrix connections licensed?](/docs/endpointpolicymanager/licensing/knowledgebase/vertualizationcitrix/terminalservices.md)
 - [Citrix & WVD Multi-session Windows Licensing Scenarios](https://www.policypak.com/purchasing/vdi-licensing-scenarios/)
+

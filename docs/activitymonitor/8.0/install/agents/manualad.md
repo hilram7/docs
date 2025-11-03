@@ -164,3 +164,4 @@ agents, but does not allow users in specified group to install, upgrade, or unin
 The console will automatically detect the agent as it is already installed.
 
 The Agent is now added to the Activity Monitor Console.
+

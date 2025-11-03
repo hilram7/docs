@@ -56,3 +56,4 @@ You should configure the following policies and leave the other policies as is:
 - **Account Logon Events** – **Success** and **Failure**
 - **Logon Events** – **Success** and **Failure**
 - **Privilege Use** – **No auditing**
+

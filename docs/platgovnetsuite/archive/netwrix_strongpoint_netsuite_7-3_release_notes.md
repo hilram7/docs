@@ -121,3 +121,4 @@ January 25, 2024
 
 - New filters are available. **Permission Reviews** now have a **Status** filter. Membership Reviews
   now have **Status** and **Supervisor** filters.
+

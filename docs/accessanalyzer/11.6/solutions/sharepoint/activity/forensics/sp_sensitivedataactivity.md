@@ -36,3 +36,4 @@ produces the following pre-configured report:
 | Report                  | Description                                        | Default Tags | Report Elements                                                                                                                                                      |
 | ----------------------- | -------------------------------------------------- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Sensitive Data Activity | This Report shows user activity on sensitive data. | None         | This report is comprised of two elements: <ul><li>Bar Chart – Displays sensitive data activity</li><li>Table – Provides details on sensitive data activity</li></ul> |
+

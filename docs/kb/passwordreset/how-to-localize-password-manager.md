@@ -47,3 +47,4 @@ To add a language, create a copy of `en.asp`, then rename it to `%language code%
 The language will be added to the list automatically.
 
 Also take a look at https://kb.netwrix.com/659 for more details about localization files.
+

@@ -57,3 +57,4 @@ Depending on the cause, implement the corresponding resolution to address the is
 - [Antivirus Exclusions for Netwrix Auditor](/docs/kb/auditor/antivirus-exclusions-for-netwrix-auditor.md)
 - Data Source Configuration − User Activity Ports · v10.6
 - Requirements − Software Requirements · v10.6
+

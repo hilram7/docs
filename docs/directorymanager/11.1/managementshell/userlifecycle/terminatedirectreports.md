@@ -40,3 +40,4 @@ is also specified in the command who will receive notification as per the define
 ```
 Terminate-DirectReports -DirectReports "Irfan","Naeem" -Manager "Raja"
 ```
+

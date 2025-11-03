@@ -25,3 +25,4 @@ The jobs in the OpenPortScan job group are:
   port on the targeted hosts
 - [RetrieveNetstat Job](/docs/accessanalyzer/11.6/solutions/windows/securityutilities/openportscan/retrievenetstat.md)
   – This job reveals all open ports along with the associated executable on  targeted systems
+

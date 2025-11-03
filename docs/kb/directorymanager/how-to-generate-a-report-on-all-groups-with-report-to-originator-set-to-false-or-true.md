@@ -89,3 +89,4 @@ Netwrix Directory Manager (formerly GroupID) allows you to generate reports on a
 14. The report is listed in the template's page. You can create multiple reports from the same template.
 15. To download the report, click **Download** and select the format (PDF, Excel, or HTML).
 16. You can also pin the report to the Dashboard by clicking **Pin Report**.
+

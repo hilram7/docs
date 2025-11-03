@@ -87,3 +87,4 @@ Once shared, control can be terminated at any time by the helpdesk admin or the 
 The live session may be viewed via the Netwrix Privilege Secure administrator dashboard or reviewed later as a recording at any time.
 
 ![User-added image](images/ka04u000000HcZw_0EM4u000004bWIl.png)
+

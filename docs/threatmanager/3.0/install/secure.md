@@ -178,3 +178,4 @@ Threat Manager console.
 **Step 5 –** Exit the command prompt.
 
 The Action Service is now re-registered with Threat Manager.
+

@@ -149,3 +149,4 @@ the following job groups and jobs:
 - [SP_Overview Job](/docs/accessanalyzer/12.0/solutions/sharepoint/sp_overview.md) – Provides an overview of the SharePoint environment, providing
   a high level view into what makes up your SharePoint environment and the types of security risks
   and toxic permissions found during scans
+

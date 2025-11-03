@@ -21,3 +21,4 @@ topic for additional information.
 | NetwrixAuditorPassword            | Current user credentials | Unless specified, the script runs with the current user credentials. Provide a different password if necessary.                                                                                                                                                                                                                                                                                      |
 
 ## In-Script Parameters
+

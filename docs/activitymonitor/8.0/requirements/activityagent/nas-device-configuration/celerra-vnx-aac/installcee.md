@@ -205,3 +205,4 @@ Once the `cepp.config` file has been configured, it is time to configure and ena
 the Activity Monitor. See the
 [Netwrix Activity Monitor Documentation](https://helpcenter.netwrix.com/category/activitymonitor)
 for additional information.
+

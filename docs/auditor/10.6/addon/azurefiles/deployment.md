@@ -91,3 +91,4 @@ Click **Next**.
 
 The collection start is managed by a scheduled task Netwrix Auditor Add-on for AzureShare, created
 by the add-on. To force collection, run the task manually.
+

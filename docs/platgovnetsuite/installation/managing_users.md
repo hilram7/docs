@@ -36,3 +36,4 @@ Users are managed through the **[**License Manager**](/docs/platgovnetsuite/inst
 6. Click **Save**.
 
 **Next Step:** [Setting Tab Access](/docs/platgovnetsuite/installation/setting_strongpoint_tab_access.md)
+

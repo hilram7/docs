@@ -25,3 +25,4 @@ dependent upon how the NetApp communication security option is configured:
 | ---------------------------------------- | -------- | ----- | ----------------------------------- |
 | Access Analyzer Console to NetApp Device | TCP      | 80    | HTTP NetApp communication security  |
 | Access Analyzer Console to NetApp Device | TCP      | 443   | HTTPS NetApp communication security |
+

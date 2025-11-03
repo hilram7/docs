@@ -89,3 +89,4 @@ See also:
 
 1. [Manage Earlier Audit Records After You Migrate to Unified Auditing](https://docs.oracle.com/database/121/UPGRD/afterup.htm#manage-earlier-audit-records-after-you-migrate-to-unified-auditing)
 2. [Remove the Unified Auditing Functionality](https://docs.oracle.com/database/121/UPGRD/afterup.htm#remove-the-unified-auditing-functionality)
+

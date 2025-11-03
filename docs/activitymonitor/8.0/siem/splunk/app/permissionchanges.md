@@ -18,3 +18,4 @@ The Permission Changes dashboard contains the following cards:
 - Latest Events – Tabular format of all permission change events recorded in the specified timeframe
 
 The specified timeframe is set by default to the Last 24 hours, or past day.
+

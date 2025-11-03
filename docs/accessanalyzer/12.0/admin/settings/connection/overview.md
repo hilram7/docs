@@ -76,3 +76,4 @@ buttons become enabled when modifications are made to the Connection global sett
 
 Whenever changes are made at the global level, click **Save** and then **OK** to confirm the
 changes. Otherwise, click **Cancel** if no changes were intended.
+

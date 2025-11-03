@@ -17,3 +17,4 @@ leveraging Netwrix Auditor Integration API. Download the latest add-on version i
 
 To learn more about input and output Activity Record structure, refer to
 [Activity Records](/docs/auditor/10.6/api/postdata/activityrecords.md).
+

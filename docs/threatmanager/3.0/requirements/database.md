@@ -41,3 +41,4 @@ The following considerations must be accommodated for:
   database.
 - Disk Defragmentation jobs should never be performed on the drive containing Threat Manager
   PostgreSQL database. This can cause operational issues with the PostgreSQL database.
+

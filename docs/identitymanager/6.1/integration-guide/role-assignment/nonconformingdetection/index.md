@@ -70,3 +70,4 @@ efficient. It is exactly like a closed-loop control system with a feedback loop:
 the form of modifications in a managed system that don't go through Usercube first, trigger a
 reaction. This reaction uses the role model to suggest a fix. This is the only way for the state of
 the entitlement landscape to tend towards the ideal standards described by the rules.
+

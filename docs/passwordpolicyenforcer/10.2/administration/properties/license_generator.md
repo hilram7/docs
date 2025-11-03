@@ -50,3 +50,4 @@ The License Generator tool has the following features:
   be able to copy the entire license and import it into the Password Policy Enforcer. See the
   [Management Console](/docs/passwordpolicyenforcer/10.2/administration/managementconsole/management_console.md)
   topic for additional information.
+

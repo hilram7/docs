@@ -52,3 +52,4 @@ OfflineClient), the browser extension, API, and the server as well as MSP.
 
 - Even if no URL is stored, the username and password can now be copied from the browser extension
   again.
+

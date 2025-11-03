@@ -22,3 +22,4 @@ Preconfigured Stealthbits File Activity Monitor Apps are:
 - QRadar - See the
   [Netwrix File Activity Monitor App for QRadar](/docs/activitymonitor/7.1/siem/qradar/overview.md)
   topic for additional information
+

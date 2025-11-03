@@ -42,3 +42,4 @@ Endpoint Protector uses color indicators to represent device rights and statuses
 - **Blue**: The device is set to TD 1, TD 2, TD 3, or TD 1+ (all Trusted Device levels).
 - **Turquoise**: The iPhone is set to Allow Charging.
 - **Grey**: The device was disconnected on macOS and Linux.
+

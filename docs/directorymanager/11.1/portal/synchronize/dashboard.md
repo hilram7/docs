@@ -57,3 +57,4 @@ The dashboard comprises of the following cards:
 | Scheduled Jobs         | Displays jobs that will run based on the time set for them. |
 | My Pinned Jobs         | Displays frequently used jobs.                              |
 | Pinned Job Collections | Displays frequently used job collections.                   |
+

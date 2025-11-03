@@ -150,3 +150,4 @@ Collector Wizard and click Finish to save the changes and close the wizard.
 
 Metadata Tag Information will now be included in the SA_FS_CleanupView table the next time the
 FS_CleanupAssessment job is run.
+

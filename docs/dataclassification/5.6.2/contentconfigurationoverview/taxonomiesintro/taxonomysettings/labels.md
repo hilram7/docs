@@ -40,3 +40,4 @@ synchronized down.
 
 The Help tab displays a list of clue type information, as well as allows you to run the product tour
 specific to the Taxonomies area.
+

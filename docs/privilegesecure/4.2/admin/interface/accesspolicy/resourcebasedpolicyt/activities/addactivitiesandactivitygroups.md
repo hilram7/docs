@@ -63,3 +63,4 @@ Available Activities list.
 
 The new activities and activity groups are added to the access policy and are shown in the
 [Activities Tab for Resource Based Access Policies](/docs/privilegesecure/4.2/admin/interface/accesspolicy/resourcebasedpolicyt/activities/activities.md).
+

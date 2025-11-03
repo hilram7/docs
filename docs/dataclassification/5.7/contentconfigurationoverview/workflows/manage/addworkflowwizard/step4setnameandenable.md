@@ -29,3 +29,4 @@ workflow (to start immediate processing). Do the following:
     ![workflow_list_thumb_0_0](/images/dataclassification/5.7/admin/workflows/workflow_list_thumb_0_0.webp)
 
 5. Navigate to Content → Sources and select Re-classify for the selected sources in the workflow.
+

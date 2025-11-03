@@ -54,3 +54,4 @@ Auditor 10.6version.
 
 .NET Framework 4.8+ is required for Netwrix Auditor v10.6+, including all target systems where
 agents are installed.
+

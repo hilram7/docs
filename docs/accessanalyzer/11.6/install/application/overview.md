@@ -88,3 +88,4 @@ license key is required. To update the Enterprise Auditor license key without in
 version of the Enterprise Auditor Console, see the
 [Update License Key](/docs/accessanalyzer/11.6/install/application/updatelicense.md)
 topic for instructions.
+

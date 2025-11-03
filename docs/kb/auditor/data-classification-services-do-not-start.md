@@ -66,3 +66,4 @@ If the `ServicesPipeTimeout` entry does not exist you should first create it:
 
 1. On the Edit menu hover over **New** and then select `DWORD` `Value`.  
 2. Type `ServicesPipeTimeout` and then press **ENTER**.
+

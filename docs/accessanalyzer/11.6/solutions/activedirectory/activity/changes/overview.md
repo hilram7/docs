@@ -25,3 +25,4 @@ Schedule these jobs to run with the 0.Collection job group.
   membership
 - [AD_UserModifications Job](/docs/accessanalyzer/11.6/solutions/activedirectory/activity/changes/ad_usermodifications.md)
   – Reports on activity relating to changes made on user objects
+

@@ -273,3 +273,4 @@ importing of AD activity data into the Access Information Center.
 
 The **AD_ActivityCollection** Job is now configured to import both AD events and authentication
 events into the Netwrix Access Information Center.
+

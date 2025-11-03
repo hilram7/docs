@@ -44,3 +44,4 @@ can be used to select which data is displayed. The same **events** as for the fo
 
 The column editor can be used to arrange and display the data in the table according to their
 importance.
+

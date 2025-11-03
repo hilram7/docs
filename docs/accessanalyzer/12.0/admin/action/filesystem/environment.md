@@ -23,3 +23,4 @@ The environment variables from the local system load by default.
 The connection status displays next to the Host field. To browse for another host, click the
 ellipsis (**…**) to open the Browse for Computer window. Once a host name appears in the field,
 click the check mark button to attempt to connect to the selected host.
+

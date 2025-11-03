@@ -49,3 +49,4 @@ To resolve the issue, make sure the following ports are opened:
 > for Windows XP/2003: `1024-5000`
 
 - Alternatively, you can configure a custom Dynamic RPC ports range on the managed server, for example you can configure ports `50000-50200` and open these ports in your Firewall. For detailed instructions, please refer to the following Microsoft KB article: http://support.microsoft.com/kb/154596
+

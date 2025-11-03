@@ -56,3 +56,4 @@ After the upgrade, you might notice warnings in the Health log. These warnings o
 ## Related articles
 
 - [How to Configure Netwrix Auditor in Failover Mode](/docs/kb/auditor/how-to-configure-netwrix-auditor-in-failover-mode.md)
+

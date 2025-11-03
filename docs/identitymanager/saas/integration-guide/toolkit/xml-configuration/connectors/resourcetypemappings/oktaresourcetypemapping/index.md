@@ -15,3 +15,4 @@ Any resource type mapping must be configured with the same identifier as the rel
 | Connection required           | String | Identifier of the corresponding connection.                                   |
 | DefaultObjectClass optional   | String | Default object class used by the provisioner, for example users, groups, etc. |
 | PasswordResetSetting optional | String | Identifier of the corresponding password reset setting.                       |
+

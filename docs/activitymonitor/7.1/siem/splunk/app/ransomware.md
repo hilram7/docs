@@ -19,3 +19,4 @@ The Ransomware dashboard contains the following cards:
 - Outliers by Count of File/Folder Updates Details – Breakdown of outliers by users involved in each
   outlier and percent of events by user
 - Outlier Events – Tabular format of all file system change events related to outliers
+

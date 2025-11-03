@@ -34,3 +34,4 @@ The required credentials for the Local Windows Account are:
 
 - Password – Type the password
 - Confirm – Re-type the password
+

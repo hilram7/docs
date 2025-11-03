@@ -68,3 +68,4 @@ Verify that sufficient permissions have been granted and Windows User Account Co
 
 - Configure Netwrix Auditor Service Accounts − Configure SSRS Account · v10.6  
   https://docs.netwrix.com/docs/auditor/10_8/requirements/sqlserverreportingservice
+

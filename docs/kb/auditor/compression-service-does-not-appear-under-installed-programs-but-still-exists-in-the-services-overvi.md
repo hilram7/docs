@@ -47,3 +47,4 @@ You can manually delete the Service and its components. For that:
 
    where the `<service_name>` is the full name of the service you copied on the step 2.
 4. After that, navigate to the file path you copied earlier and delete all the files.
+

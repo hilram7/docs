@@ -16,3 +16,4 @@ specified. It is a wizard page for the category of:
 The default settings work for most environments. Use this page to **Add**, **Edit**, or **Remove**
 ID Mappings. Multiple entries are allowed. For each range of User ID or Group ID entered, the offset
 is added to the ID and the resulting SID is the format with `%d` replaced by the ID.
+

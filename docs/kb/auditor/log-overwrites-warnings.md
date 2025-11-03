@@ -111,3 +111,4 @@ IMPORTANT: Before you change `Maximum log size` and enable the **Archive events 
 - `CleanAutoBackupLogs` set to `X` (if you want the archives to be removed when all events in them are older than `X` hours, for example: `24` hours).
 
 ![Event Log Manager Registry Settings](images/ka04u000000HcXR_0EM700000004vPs.png)
+

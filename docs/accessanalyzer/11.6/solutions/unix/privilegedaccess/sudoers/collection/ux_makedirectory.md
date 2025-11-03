@@ -21,3 +21,4 @@ The query is preconfigured for this job. Never modify the query.
 ![Queries for the UX_MakeDirectory Job](/images/accessanalyzer/11.6/solutions/unix/privilegedaccess/sudoers/collection/makedirectoryquery.webp)
 
 - MakeDirectory – Makes a directory for the sudoers.pl file on the target host
+

@@ -27,3 +27,4 @@ with all associated passwords. This is noted in the logbook with an entry "block
 **CAUTION:** Due to the complexity of the process, it is strongly recommended that Password Reset is
 configured **in combination with certified partners**. The desired simplification of work processes
 using the above-mentioned automated functions is accompanied by numerous risks.
+

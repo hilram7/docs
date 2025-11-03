@@ -16,3 +16,4 @@ Here is how to uninstall the Flashlight bundle from your account:
     ![uninstall_flashlight_800x226](/images/platgovnetsuiteflashlight/getting_started/uninstall_flashlight_800x226.webp)
 
 4. Follow the standard procedure in NetSuite to remove the bundle.
+

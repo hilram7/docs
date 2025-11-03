@@ -46,3 +46,4 @@ The following job comprises the .NIS Inventory job group:
 
 - [NIS Scan Job](/docs/accessanalyzer/12.0/solutions/nisinventory/nis_scan.md) – Provides essential user and group membership details to built-in
   solution sets
+

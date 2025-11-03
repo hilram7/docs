@@ -44,3 +44,4 @@ Instead of commenting, the line can also be deleted.
 **Note**: When you upgrade Netwrix Auditor to a new version, it would restore that parameter in the omit list, so you will have to comment/delete it again.
 
 **Tip**: When saving changes to the omit list, you may receive "Access is Denied" error. In order to proceed, either open the text editor as Administrator or save the file to the desktop and drag'n'drop to the original folder, which would trigger the admin prompt."
+

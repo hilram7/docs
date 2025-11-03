@@ -67,3 +67,4 @@ While this guide describes the configuration steps to audit PostgreSQL standard 
 1. Go to **Jobs** -> **Databases** -> **PostgreSQL** -> **Settings** -> **Connection**. Select the **PostgreSQL** connection profile. Click to set all child objects to inherit the setting. Click **Save** and **OK**.
 2. Go to **Jobs** -> **Databases** -> **PostgreSQL** -> **Settings** -> **Host List Assignment**. Uncheck the **Use Default Setting** checkbox and select the **PostgreSQL Instances** host list and click **Save**.
 3. For AWS RDS and Aurora instances, right click each job in the PostgreSQL -> **0.Collection folder** and open the properties window. Ensure the checkbox **Skip Hosts that do not respond to PING** is unchecked in the **Performance** tab.
+

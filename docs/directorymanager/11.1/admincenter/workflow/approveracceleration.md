@@ -191,3 +191,4 @@ Rules for the default approver are:
    move to User B and ascend User B’s managerial line accordingly.
 5. If an administrator re-routes a workflow request to another user (User B) from the Directory
    Manager portal, the request acceleration chain will follow User B’s managerial line.
+

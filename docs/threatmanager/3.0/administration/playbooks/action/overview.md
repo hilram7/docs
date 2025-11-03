@@ -29,3 +29,4 @@ Threat Manager has the following preconfigured actions:
 - [Third-Party Applications Target Actions](/docs/threatmanager/3.0/administration/playbooks/action/thirdparty.md)
 - [Windows File System Target Actions](/docs/threatmanager/3.0/administration/playbooks/action/windowsfileserver.md)
 - [Windows Server Target Actions](/docs/threatmanager/3.0/administration/playbooks/action/windowsserver.md)
+

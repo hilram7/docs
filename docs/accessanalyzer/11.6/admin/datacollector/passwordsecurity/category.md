@@ -18,3 +18,4 @@ The Password Security Data Collection contains the following type of scan:
   options, see
   the[PasswordSecurity: Options](/docs/accessanalyzer/11.6/admin/datacollector/passwordsecurity/options.md)
   topic.
+

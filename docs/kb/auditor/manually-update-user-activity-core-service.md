@@ -119,3 +119,4 @@ User Activity Core Service is designed to be deployed automatically when adding 
 
 - [How to Find Out My Netwrix Auditor Version](/docs/kb/auditor/how-to-find-out-my-netwrix-auditor-version.md)
 - [Uninstall Netwrix Product](https://www.netwrix.com/download/products/KnowledgeBase/Uninstall-NetwrixProduct.ps1)
+

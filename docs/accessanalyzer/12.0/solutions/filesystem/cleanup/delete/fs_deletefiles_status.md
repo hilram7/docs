@@ -34,3 +34,4 @@ produces the following pre-configured report.
 | Report         | Description                                                                          | Default Tags | Report Elements                                                                                                                                                               |
 | -------------- | ------------------------------------------------------------------------------------ | ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | File Deletions | This report summarizes file deletions which have occurred during the Cleanup process | None         | This report is comprised of two elements: <ul><li>Line Chart – Displays the historical summary of file deletions</li><li>Table – provides details on file deletions</li></ul> |
+

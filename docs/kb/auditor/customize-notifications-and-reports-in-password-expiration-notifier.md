@@ -123,3 +123,4 @@ You can disable header and footer in Netwrix Password Reset emails. Refer to the
 
 - [Hide and Disable Header and Footer in Netwrix Password Reset Emails](/docs/kb/auditor/hide-and-disable-header-and-footer-in-password-expiration-notifier-emails.md)
 - [All attributes ⸱ Microsoft 🡺](https://learn.microsoft.com/en-us/windows/win32/adschema/attributes-all)
+

@@ -132,3 +132,4 @@ If your firewall performs Stateful Packet Inspection, then only create a rule fo
 request datagram as the firewall automatically recognizes and allows the response datagram.
 
 :::
+

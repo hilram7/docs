@@ -28,3 +28,4 @@ Details** page for that user and click **Lock Account**. See the
 topic for additional information.
 
 The session is terminated.
+

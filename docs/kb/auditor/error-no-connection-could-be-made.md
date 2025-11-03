@@ -37,3 +37,4 @@ This usually happens when the versions of the product web portal and the adminis
 
 1. Make sure that the versions of the web portal and the administrative console match.
 2. If they do not match, or to ensure you have the latest fixes, download and install the latest versions of both the console and the web portal from here: [http://www.netwrix.com/account_lockout_examiner.html](https://www.netwrix.com/account_lockout_examiner.html)
+

@@ -40,3 +40,4 @@ The default analysis tasks are:
 
 - Update Database Sizing — Updates the database sizing table with the data from the standalone
   database sizing table
+

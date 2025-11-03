@@ -282,3 +282,4 @@ Check the format of both the application metadata and the external system.
 > For example, if you find that a given date doesn't comply with what you set, then maybe the format
 > in the External System section wasn't correctly selected, thus inducing a conversion error during
 > the export computation.
+

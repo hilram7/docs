@@ -270,3 +270,4 @@ account with the following permissions in order to collect all of the data:
     - `[dbo].proc_SecGetPrincipalByLogin`
     - `[dbo].proc_SecGetPrincipalDisplayInformation20`
     - `[dbo].proc_SecGetRoleBindingsForAllPrincipals`
+

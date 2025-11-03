@@ -64,3 +64,4 @@ There are two options for ownership confirmation:
   owner.
 
 Click **OK** to save any changes or Cancel to close the window without saving changes.
+

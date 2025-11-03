@@ -109,3 +109,5 @@ LocalMachine$certificateStore.Open('ReadWrite')$certificateStore.Add($pathInterm
 Certification Authorities folder
 
 ![575_11_05_549x169](/images/endpointpolicymanager/leastprivilege/securerun/575_11_05_549x169.webp)
+
+

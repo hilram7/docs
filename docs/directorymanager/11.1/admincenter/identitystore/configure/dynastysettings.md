@@ -136,3 +136,4 @@ owner of the parent Dynasty and the manager of a child Dynasty are collectively 
 that child Dynasty.
 
 :::
+

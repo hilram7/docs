@@ -16,3 +16,4 @@ Generate JSON files for each provisioning order. These JSON can then be used by 
 | Fulfill                 | Usercube-Fulfill-ToFile.dll    |
 | Has Incremental Mode    | False                          |
 | Publisher               | Identity Manager               |
+

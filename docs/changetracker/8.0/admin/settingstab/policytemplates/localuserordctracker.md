@@ -29,3 +29,4 @@ local user account settings in this template** box and define the poll period th
 the Template. Any changes to the initial baseline will be alerted and reported.
 
 ![PolicyTemplatesAccountsTracker](/images/changetracker/8.0/admin/settings/policytemplates/policytemplatesaccountstracker.webp)
+

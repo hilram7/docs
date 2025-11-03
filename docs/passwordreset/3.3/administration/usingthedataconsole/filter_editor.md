@@ -37,3 +37,4 @@ these columns. For example, the filter in the image below shows all users with a
 record.
 
 ![using_the_data_console_10](/images/passwordpolicyenforcer/11.0/passwordreset/administration/using_the_data_console_10.webp)
+

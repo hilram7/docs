@@ -41,3 +41,4 @@ If you change the hostname for the Netwrix Directory Manager (formerly GroupID) 
 4. In the **Portal URL** box, select the portal URL you want to use.  
    ![Selecting the Portal URL in Directory Manager 11](images/ka0Qk000000EMbl_0EMQk00000Ba65N.png)
 5. Click **Update Workflow** and save your changes. The email notifications for this workflow will now include the specified portal URL. Repeat these steps for each workflow as needed.
+

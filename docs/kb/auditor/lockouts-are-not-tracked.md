@@ -41,3 +41,4 @@ First, make sure the Windows security log on your DC is reachable: connect via *
 If the above doesn't help, try to change the value of the `UseWMI` registry key to `0`.
 
 [![User-added image](images/ka04u000000HcWD_0EM700000004wzc.png)](https://netwrix.secure.force.com/kb/servlet/rtaImage?eid=ka40g000000kAcl&feoid=00N700000032Pj2&refid=0EM700000004wzc)
+

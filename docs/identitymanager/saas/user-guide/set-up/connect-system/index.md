@@ -144,3 +144,4 @@ You can activate the connector again at any time using the same button.
 ## Next Steps
 
 Once the connector has been created, you can start to [Synchronize Data](/docs/identitymanager/saas/user-guide/set-up/synchronization/index.md).
+

@@ -26,3 +26,4 @@ under the Exceptions node for a domain when that exception type has been identif
 The Exceptions report for each exception type level displays filtered exception information. See the
 [Exceptions by Type Report](/docs/accessinformationcenter/11.6/resourceaudit/activedirectory/exceptions/exceptionsbytype.md)
 topic for additional information.
+

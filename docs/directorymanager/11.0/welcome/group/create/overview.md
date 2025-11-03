@@ -38,3 +38,4 @@ Using GroupID portal, you can create:
 - [Create Active Directory Groups](/docs/directorymanager/11.0/welcome/group/create/group/group.md)
 - [Create Microsoft Entra ID Groups](/docs/directorymanager/11.0/welcome/group/create/group/group_1.md)
 - [Dynasty](/docs/directorymanager/11.0/welcome/group/dynasty/overview.md)
+

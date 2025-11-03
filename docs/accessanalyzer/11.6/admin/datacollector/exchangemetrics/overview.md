@@ -61,3 +61,4 @@ which contains the following wizard pages:
 
 The Welcome page can be hidden by checking the **Do not display this page the next time** box when
 the wizard is open and configuration settings are saved.
+

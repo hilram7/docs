@@ -78,3 +78,4 @@ The image below represents the same search filters as they are shown in the Sear
 Simple mode.
 
 ![advancedexample](/images/auditor/10.6/admin/search/advancedexample.webp)
+

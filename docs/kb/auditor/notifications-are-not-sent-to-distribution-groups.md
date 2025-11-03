@@ -65,3 +65,4 @@ There are two solutions:
    ```
 
    where ` %group% ` is like `dynamic.group@example.com`
+

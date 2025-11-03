@@ -46,3 +46,4 @@ topic for setting credentials in an environment variable.
 ```
 Remove-Group -identity "OU=Event Management,OU=Recruiting,DC=HR,DC=Imanami,DC=US" -Credential $Cred
 ```
+

@@ -91,3 +91,4 @@ __Step 5 –__ For input Activity Records, the data source is set to Netwrix API
 
 ![apiactivitydetails](/images/auditor/10.6/api/apiactivitydetails.webp)
 ````
+

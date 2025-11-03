@@ -32,3 +32,4 @@ For each option enabled, set the rules:
   "new**passwd**" contain six consecutive matching characters (shown in bold type). Password Policy
   Enforcer rejects the new password if the tolerance is five (or lower), and accepts it if the
   tolerance is six (or higher).
+

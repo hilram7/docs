@@ -67,3 +67,4 @@ For additional information on configuring your data collecting account, refer to
 ## Related articles
 
 - https://docs.netwrix.com/docs/auditor/10_8 (Monitoring Plans — Data Collecting Account ⸱ v10.6)
+

@@ -51,3 +51,4 @@ Netwrix Auditor Logon Activity Audit Service is corrupted or cannot be found.
 - Installation — Upgrade to the Latest Version ⸱ v10.6
 
 - [How to Repair Netwrix Auditor Installation](/docs/kb/auditor/how-to-repair-netwrix-auditor-installation.md)
+

@@ -104,3 +104,4 @@ after clicking **Run Cleaner** button on the **Settings > Core > Collector** tab
 
 To review system health and check your configuration, use the product dashboards.
 [See Operations and Health Dashboards for more information.](/docs/dataclassification/5.7/dashboards.md)
+

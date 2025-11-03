@@ -32,3 +32,4 @@ User right
 - Manage tags
 
 **CAUTION:** It is only possible to delete tags if there are no more data associated with them
+

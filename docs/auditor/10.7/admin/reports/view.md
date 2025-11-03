@@ -83,3 +83,4 @@ The report below displays changes for all audited systems made by the CORP\Admin
 ROOTDC2 domain controller for a month sorted by the action type.
 
 ![allchangesserverfiltered](/images/auditor/10.7/admin/reports/allchangesserverfiltered.webp)
+

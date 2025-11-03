@@ -109,3 +109,4 @@ NOTE: If the Web Application is used, the module: `proxy_wstunnel` must be insta
 Apache. With IIS the `WebSocket Protocol` becomes necessary. Further information can be found in the
 chapter [Webserver](/docs/passwordsecure/9.2/installation/requirements/webserver/webserver.md). This applies to version 8.5.0.14896
 or newer.
+

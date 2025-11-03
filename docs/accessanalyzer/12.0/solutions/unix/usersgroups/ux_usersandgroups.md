@@ -59,3 +59,4 @@ The default analysis tasks are:
   accessible under the job’s Results node
 - Creates UX_GroupMembers – Creates the UX_GroupMembers table accessible under the job’s Results
   node
+

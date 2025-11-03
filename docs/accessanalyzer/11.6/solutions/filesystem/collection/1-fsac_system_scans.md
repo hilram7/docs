@@ -83,3 +83,4 @@ for additional information.
 were made. Then click **OK** to close the Query Properties window.
 
 If changes were made, the 1-FSAC System Scans job is now customized.
+

@@ -39,3 +39,4 @@ Avoiding reading it entirely seems to be impossible because Netwrix Auditor has 
    `*.thumbnailPhoto`
 
 4. Save your edits.
+

@@ -42,3 +42,4 @@ source=.;Database=Usercube;Integrated Security=SSPI;Min Pool Size=10;encrypt=fal
 | --- | --- |
 | --database-connection-string   required | __Type__    String   __Description__ Connection string of the database. |
 ```
+

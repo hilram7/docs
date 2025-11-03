@@ -24,3 +24,4 @@ parameter is set to _"Automatic"_ and click **Start**.
 pre-Windows Server 2012 versions) or the _"Running"_ (on Windows Server 2012 and above) status.
 
 **NOTE:** The Remote Registry should be enabled on the target server.
+

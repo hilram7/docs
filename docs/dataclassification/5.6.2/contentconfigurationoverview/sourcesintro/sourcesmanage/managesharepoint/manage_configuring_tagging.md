@@ -48,3 +48,4 @@ To configure tagging using the wizard
 4. Confirm the selection.
 5. Finally, having configured the desired tagging, you should re-classify the appropriate content —
    for the tags to be written back to SharePoint.
+

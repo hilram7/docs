@@ -62,3 +62,4 @@ nslookup
    5. Select the **WINS** tab, and select **Enable NetBIOS over TCP/IP**. Click **OK** to save changes.
 
 > **NOTE:** If the domain still fails to get audited after completing all the steps provided, you can also specify the domainc controller name as `domain.tld\user` or `user@domain.tld` in Netwrix Auditor.
+

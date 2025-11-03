@@ -59,3 +59,4 @@ provider for any of these:
 - SAML – See the
   [SAML Authentication Provider](/docs/threatprevention/7.4/reportingmodule/configuration/integrations/page/saml.md)
   topic for additional information.
+

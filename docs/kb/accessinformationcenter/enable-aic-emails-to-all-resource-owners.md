@@ -44,3 +44,4 @@ All owners assigned to resources should now receive email notifications concerni
 - **Versions:** 8.0  
 - **Resolved In:** Netwrix Access Analyzer 8.0 HF 001  
 - **Legacy Article ID:** 2274
+

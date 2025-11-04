@@ -84,3 +84,4 @@ The User must re-authenticate, then when a pop-up is shown, theuser must type in
 ![A screenshot of a computer Description automatically generated](/images/endpointpolicymanager/leastprivilege/understanding_re_authentication_8.webp)
 
 
+

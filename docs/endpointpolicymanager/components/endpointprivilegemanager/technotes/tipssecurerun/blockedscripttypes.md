@@ -20,8 +20,6 @@ The official list is as follows and might increase without notice.
 :::note
 For .PS1, in order to enable Powershell at all, you need to make an express (ALLOW rule
 for powershell.exe). That rule can be found in
-[When Endpoint Policy Manager SecureRun(TM) is turned on, PowerShell won't run. How can I re-enable this?](/docs/endpointpolicymanager/components/endpointprivilegemanager/knowledgebase/tipssecurerun/enablepowershell.md)
+[When Endpoint Policy Manager SecureRun(TM) is turned on, PowerShell won't run. How can I re-enable this?](/docs/endpointpolicymanager/components/endpointprivilegemanager/technotes/tipssecurerun/enablepowershell.md)
 
 :::
-
-

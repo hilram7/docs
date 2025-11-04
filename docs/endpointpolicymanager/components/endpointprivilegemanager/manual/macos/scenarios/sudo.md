@@ -44,3 +44,4 @@ runs without password requirement.
 ![A screenshot of a computer Description automatically generated](/images/endpointpolicymanager/mac/scenarios/sudo_2.webp)
 
 
+

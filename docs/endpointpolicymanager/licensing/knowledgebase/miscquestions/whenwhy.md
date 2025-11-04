@@ -41,7 +41,7 @@ Here are some examples:
    [Block PowerShell in General, Open up for specific items](/docs/endpointpolicymanager/components/endpointprivilegemanager/videolearningcenter/bestpractices/powershellblock.md)
 6. You can use Endpoint Policy Manager Least Privilege Manager to reduce the admin rights on
    specific processes or applications, like IE and
-   others:[Can I use Endpoint Privilege Manager to LOWER / remove admin rights from Administrators from an application or process, like Internet Explorer?](/docs/endpointpolicymanager/components/endpointprivilegemanager/knowledgebase/tipsforadminapproval/reduceadminrights.md)
+   others:[Can I use Endpoint Privilege Manager to LOWER / remove admin rights from Administrators from an application or process, like Internet Explorer?](/docs/endpointpolicymanager/components/endpointprivilegemanager/technotes/tipsforadminapproval/reduceadminrights.md)
 7. You can use Endpoint Policy Manager Scripts Manager to perform specific logon scripts for
    specific servers using Triggers:
    [Endpoint Policy Manager Scripts and Triggers: Get to understand login script trigger with GP and MDM systems !](/docs/endpointpolicymanager/components/scriptstriggers/videolearningcenter/triggersexamples/scripttriggers.md)
@@ -54,4 +54,3 @@ Here are some examples:
    [Endpoint Policy Manager Admin Templates Manager: Switched Policies (without Loopback)](/docs/endpointpolicymanager/components/admintemplatesmanager/videolearningcenter/admintemplatesmanager/switchedpolicies.md)
 
 There are other uses, but those are the ones that most customers use.
-

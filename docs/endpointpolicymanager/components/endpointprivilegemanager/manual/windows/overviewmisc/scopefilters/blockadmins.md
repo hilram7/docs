@@ -47,3 +47,4 @@ the user or computer side.
 ![A screenshot of a computer Description automatically generated](/images/endpointpolicymanager/leastprivilege/scopefilters/scenario_3_running_or_elevating_2.webp)
 
 
+

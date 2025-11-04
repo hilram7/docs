@@ -43,3 +43,4 @@ function will not work as expected.
 After the policy applies, the COM item will have its UAC prompt overcome.
 
 
+

@@ -28,3 +28,4 @@ can be done before or after filtering.
 ![A screenshot of a loginDescription automatically generated](/images/endpointpolicymanager/leastprivilege/mac/1329_13_50b225886bba8747a9460411f4662cc9.webp)
 
 
+

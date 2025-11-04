@@ -32,3 +32,4 @@ be prompted for Device Manager and the Disk Defragmenter, as shown here.
 ![A screenshot of a computer Description automatically generated](/images/endpointpolicymanager/leastprivilege/elevate/elevating_control_panel_applets_4.webp)
 
 
+

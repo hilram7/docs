@@ -52,3 +52,4 @@ information on Global Settings Policy.
 When the user does this, the application launches, bypassing the UAC prompt.
 
 
+

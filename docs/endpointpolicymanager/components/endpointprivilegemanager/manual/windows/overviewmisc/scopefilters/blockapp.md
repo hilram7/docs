@@ -28,3 +28,4 @@ When you do, PowerShell is blocked for Standard and System.
 ![A screenshot of a computer Description automatically generated](/images/endpointpolicymanager/leastprivilege/scopefilters/scenario_2_specific_rule_to_2.webp)
 
 
+

@@ -42,3 +42,4 @@ A result of changing the Admin Approval Dialog with the changed settings looks l
 ![A screenshot of a computer Description automatically generated](/images/endpointpolicymanager/leastprivilege/branding_and_customization_2.webp)
 
 
+

@@ -10,7 +10,7 @@ sidebar_position: 50
 
 For detailed steps on how to elevate the Windows Defender Firewall snap-in, replacing Services.msc
 with WF.msc, see
-[How do I elevate MMC snap ins without granting administrative rights?](/docs/endpointpolicymanager/components/endpointprivilegemanager/knowledgebase/tipsappsscenarios/mmcsnapin.md)
+[How do I elevate MMC snap ins without granting administrative rights?](/docs/endpointpolicymanager/components/endpointprivilegemanager/technotes/tipsappsscenarios/mmcsnapin.md)
 
 ## Option 2:
 
@@ -38,5 +38,3 @@ message.
 **Step 6 –** Click **Finish** to save the policy.
 
 ![577_6_image-20230927114305-7_599x423](/images/endpointpolicymanager/leastprivilege/elevate/577_6_image-20230927114305-7_599x423.webp)
-
-

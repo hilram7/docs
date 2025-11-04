@@ -47,3 +47,4 @@ Once the policy is deployed, you will have removed all non-privileged users from
 group of all targeted desktops.
 
 
+

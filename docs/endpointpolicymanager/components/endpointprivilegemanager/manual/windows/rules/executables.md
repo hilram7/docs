@@ -128,3 +128,4 @@ GPupdate. Once the GPO applies, Process Monitor will run without a UAC prompt, a
 ![elevating_executables_9](/images/endpointpolicymanager/leastprivilege/elevate/elevating_executables_9.webp)
 
 
+

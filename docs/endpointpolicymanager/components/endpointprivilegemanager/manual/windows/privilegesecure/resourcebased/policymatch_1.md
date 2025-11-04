@@ -43,3 +43,4 @@ The result is that a new Domain Admin account is created for this one session an
 ![resource_based_policy_match_4](/images/endpointpolicymanager/integration/privilegesecure/resourcebased/resource_based_policy_match_4.webp)
 
 
+

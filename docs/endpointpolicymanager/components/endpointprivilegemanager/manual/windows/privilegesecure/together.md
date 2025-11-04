@@ -50,3 +50,4 @@ Policy**.
 ![getting_started_netwrix_privilege_1](/images/endpointpolicymanager/integration/privilegesecure/gettingstarted/getting_started_netwrix_privilege_1.webp)
 
 
+

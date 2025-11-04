@@ -49,3 +49,4 @@ Groups’ macOS group like what’s seen here.
 ![A screenshot of a computer Description automatically generated](/images/endpointpolicymanager/mac/how_to_install_the_endpointpolicymanager_7.webp)
 
 
+

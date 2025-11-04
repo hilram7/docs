@@ -23,3 +23,4 @@ Manager client is changing the context to that user.
 ![credential_release_results_2](/images/endpointpolicymanager/integration/privilegesecure/credentialbased/credential_release_results_2.webp)
 
 
+

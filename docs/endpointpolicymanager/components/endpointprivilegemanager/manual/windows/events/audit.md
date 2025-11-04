@@ -45,3 +45,4 @@ The result is a policy which performs the action (Elevate or Allow and Log).
 ![A screenshot of a computer Description automatically generated](/images/endpointpolicymanager/leastprivilege/events/createpolicy/creating_policy_from_audit_4.webp)
 
 
+

@@ -41,3 +41,4 @@ run from the specified .exe, regardless of the user.
 ![A screenshot of a computer Description automatically generated](/images/endpointpolicymanager/leastprivilege/scopefilters/scenario_4_elevating_a_service.webp)
 
 
+

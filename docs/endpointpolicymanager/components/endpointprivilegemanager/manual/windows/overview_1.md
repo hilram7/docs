@@ -109,3 +109,4 @@ If requested by support, logs are automatically wrapped up and can be sent to Ne
 the PPLOGS.EXE command on any endpoint where the client-side extension is installed.
 
 
+

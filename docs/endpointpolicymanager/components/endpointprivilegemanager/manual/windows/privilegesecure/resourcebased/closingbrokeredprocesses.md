@@ -14,3 +14,4 @@ Additionally, if the **Enable Video Recording (Netwrix Privilege Secure**) optio
 video session recording is sent to the server for processing.
 
 
+

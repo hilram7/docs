@@ -83,6 +83,4 @@ We've combined known command-line args in that XML guidance, as shown in below s
 
 But if you're receiving a different command-line prompt then check the following KB for more help:
 
-[How are wildcards supported when used with Path and Command-line arguments in Least Privilege Manager?](/docs/endpointpolicymanager/components/endpointprivilegemanager/knowledgebase/troubleshooting/wildcards.md)
-
-
+[How are wildcards supported when used with Path and Command-line arguments in Least Privilege Manager?](/docs/endpointpolicymanager/components/endpointprivilegemanager/technotes/troubleshooting/wildcards.md)

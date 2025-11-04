@@ -43,3 +43,4 @@ copy items from your store to their locations and then perform automatic elevati
 ![A screenshot of a computer Description automatically generated](/images/endpointpolicymanager/leastprivilege/understanding_securecopy_5.webp)
 
 
+

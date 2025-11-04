@@ -85,3 +85,4 @@ included in the log information.
 ![A screenshot of a computer Description automatically generated](/images/endpointpolicymanager/leastprivilege/rules/apply/self_elevation_rules_8.webp)
 
 
+

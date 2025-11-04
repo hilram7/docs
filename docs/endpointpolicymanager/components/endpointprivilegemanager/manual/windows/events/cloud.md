@@ -45,5 +45,3 @@ for a list of Endpoint Policy Manager Event IDs.
 conditions if needed.
 
 ![creating_policy_from_policypak_5](/images/endpointpolicymanager/leastprivilege/events/createpolicy/creating_policy_from_endpointpolicymanager_5.webp)
-
-

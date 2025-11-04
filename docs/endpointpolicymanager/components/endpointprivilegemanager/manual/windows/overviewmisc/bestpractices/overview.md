@@ -24,3 +24,4 @@ rule. This is because both of these items have digital signatures.
 With that in mind, let’s go over some “What not to dos” before we continue on with Best Practices.
 
 
+

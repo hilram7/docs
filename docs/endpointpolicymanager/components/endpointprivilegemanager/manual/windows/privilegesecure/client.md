@@ -56,3 +56,4 @@ Again, the idea is that you are already paying for an Netwrix Privilege Secure l
 Netwrix Privilege Secure is involved in the policy, those policies work on the endpoint for free.
 
 
+

@@ -58,5 +58,3 @@ chooses a reason code, as seen here, that is what is recorded within the event o
 An example of Event 613 can be seen here.
 
 ![A screenshot of a computer Description automatically generated](/images/endpointpolicymanager/leastprivilege/events/operational_events_1.webp)
-
-

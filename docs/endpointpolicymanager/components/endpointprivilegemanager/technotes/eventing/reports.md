@@ -163,5 +163,3 @@ You can click on the interactive link in the **Date** column to see event detail
 
 
 ![1325_22](/images/endpointpolicymanager/integration/auditor/1325_22.webp)
-
-

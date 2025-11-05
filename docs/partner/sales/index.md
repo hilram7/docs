@@ -9,7 +9,7 @@ description: "Learn about the Netwrix Sales Professional ceritifcation options"
 The following learning paths provide Partner certification for Sales Professionals:
 
 * Netwrix 1Secure Editions
-    * [Netwrix 1Secure Data Security Posture Management MSPs Sales Professional](./1secure-dspm.md)
+    * [Netwrix 1Secure Sales Professional](./1secure-dspm.md)
 * Data Security Posture Management Solution
     * [Netwrix Endpoint Protector Sales Professional](./endpoint-protector.md)
     * [Netwrix Data Security Posture Management Solution Sales Professional](./data-security-posture-management.md)

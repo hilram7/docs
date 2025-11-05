@@ -16,6 +16,7 @@ The following learning paths provide Partner certification for Sales Professiona
 * Directory Management Solution
     * [Netwrix Directory Management Solution Sales Professional](./directory-management.md)
 * Endpoint Management Solution
+    * [Netwrix Change Tracker Sales Professional](./change-tracker.md)
     * [Netwrix Endpoint Policy Manager Sales Professional](./endpoint-policy-manager.md)
     * [Netwrix Endpoint Protector Sales Professional](./endpoint-protector.md)
     * [Netwrix Endpoint Management Solution Sales Professional](endpoint-management.md)

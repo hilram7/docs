@@ -6,7 +6,8 @@ keywords:
   - Content Delivery Network
   - website loading issues
 sidebar_label: Resolve Website Loading Issues
-tags: [troubleshooting-and-errors]
+tags:
+  - troubleshooting-and-errors
 title: "Resolve Website Loading Issues When DPI Is Enabled"
 knowledge_article_id: kA0Qk0000002B33KAE
 products:

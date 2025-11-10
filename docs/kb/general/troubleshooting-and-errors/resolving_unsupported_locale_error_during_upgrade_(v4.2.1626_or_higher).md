@@ -6,7 +6,8 @@ keywords:
   - Privilege Secure
   - PostgreSQL upgrade
 sidebar_label: Resolving Unsupported Locale Error
-tags: [troubleshooting-and-errors]
+tags:
+  - troubleshooting-and-errors
 title: "Resolving Unsupported Locale Error During Upgrade (v4.2.1626 or Higher)"
 knowledge_article_id: kA0Qk0000002LunKAE
 products:
@@ -27,6 +28,6 @@ This indicates that an unsupported locale is configured, which creates an issue 
 
 ## Instructions
 
-The **Privilege Secure** installer executes the `initdb` command as part of the migration to Postgres 16. In order for this command to succeed, the user who is executing `initdb` must have regional settings enabled that correspond to a locale supported by Postgres 16. 
+The **Privilege Secure** installer executes the `initdb` command as part of the migration to Postgres 16. In order for this command to succeed, the user who is executing `initdb` must have regional settings enabled that correspond to a locale supported by Postgres 16.
 
 To resolve this issue, ensure that during the upgrade, you are logged in as a user whose locale settings are “English (United States)” (en-US). Then proceed with the upgrade as usual.

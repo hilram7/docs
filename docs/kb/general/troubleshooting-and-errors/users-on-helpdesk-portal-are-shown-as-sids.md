@@ -15,7 +15,8 @@ keywords:
 products:
   - general
 sidebar_label: Users on Helpdesk portal are shown as SIDs
-tags: [troubleshooting-and-errors]
+tags:
+  - troubleshooting-and-errors
 title: "Users on Helpdesk portal are shown as SIDs"
 knowledge_article_id: kA00g000000H9bJCAS
 ---

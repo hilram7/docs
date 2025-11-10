@@ -15,7 +15,8 @@ keywords:
 products:
   - general
 sidebar_label: Resolving IIS hosted pages loading blank when requ
-tags: [troubleshooting-and-errors]
+tags:
+  - troubleshooting-and-errors
 title: "Resolving IIS hosted pages loading blank when requested filtering in IIS is enabled"
 knowledge_article_id: kA04u0000000IztCAE
 ---

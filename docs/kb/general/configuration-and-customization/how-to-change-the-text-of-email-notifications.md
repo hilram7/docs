@@ -15,7 +15,8 @@ keywords:
 products:
   - general
 sidebar_label: How to change the text of email notifications
-tags: [configuration-and-customization]
+tags:
+  - configuration-and-customization
 title: "How to change the text of email notifications"
 knowledge_article_id: kA00g000000H9TICA0
 ---

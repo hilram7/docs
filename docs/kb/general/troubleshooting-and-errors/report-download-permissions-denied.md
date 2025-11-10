@@ -15,7 +15,8 @@ keywords:
 products:
   - general
 sidebar_label: Report download Permissions denied
-tags: [troubleshooting-and-errors]
+tags:
+  - troubleshooting-and-errors
 title: "Report download Permissions denied"
 knowledge_article_id: kA00g000000H9aWCAS
 ---

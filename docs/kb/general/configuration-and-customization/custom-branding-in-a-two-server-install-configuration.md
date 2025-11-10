@@ -16,7 +16,8 @@ keywords:
 products:
   - general
 sidebar_label: Custom Branding in a two server install configurat
-tags: [configuration-and-customization]
+tags:
+  - configuration-and-customization
 title: "Custom Branding in a two server install configuration"
 knowledge_article_id: kA00g000000H9aRCAS
 ---

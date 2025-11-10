@@ -6,7 +6,8 @@ keywords:
   - mailbox access
   - diagnostics logging
 sidebar_label: Non-owner Mailbox Access
-tags: [troubleshooting-and-errors]
+tags:
+  - troubleshooting-and-errors
 title: "Non-owner Mailbox Access Attempts Not Reflected in Reports"
 knowledge_article_id: kA00g000000H9SQCA0
 products:

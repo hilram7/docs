@@ -6,7 +6,8 @@ keywords:
   - programming languages
   - code snippets
 sidebar_label: Source Code Detection Issues
-tags: [troubleshooting-and-errors]
+tags:
+  - troubleshooting-and-errors
 title: "Source Code Is Not Detected"
 knowledge_article_id: kA0Qk0000002B6bKAE
 products:

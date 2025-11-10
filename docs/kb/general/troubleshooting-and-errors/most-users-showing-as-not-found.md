@@ -16,7 +16,8 @@ keywords:
 products:
   - general
 sidebar_label: Most users showing as Not found
-tags: [troubleshooting-and-errors]
+tags:
+  - troubleshooting-and-errors
 title: "Most users showing as Not found"
 knowledge_article_id: kA00g000000H9bOCAS
 ---

@@ -15,7 +15,8 @@ keywords:
 products:
   - general
 sidebar_label: SPAC Bulk Import Error
-tags: [troubleshooting-and-errors]
+tags:
+  - troubleshooting-and-errors
 title: "SPAC Bulk Import Error"
 knowledge_article_id: kA0Qk0000001PxFKAU
 ---
@@ -32,7 +33,7 @@ ERROR  SHAREPOINTACCESS  Netwrix.StealthAUDIT.DataCollectors.Tasks.Task.
 
 ## Cause
 
-The SPAC Bulk Import was unable to be completed due to a foreign key constraint merge between the SP_SPAC_GroupMembershipChanges table and the SA_SPAC_ActiviyEvents table. 
+The SPAC Bulk Import was unable to be completed due to a foreign key constraint merge between the SP_SPAC_GroupMembershipChanges table and the SA_SPAC_ActiviyEvents table.
 
 ## Resolution
 

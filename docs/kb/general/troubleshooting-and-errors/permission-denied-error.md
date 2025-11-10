@@ -15,7 +15,8 @@ keywords:
 products:
   - general
 sidebar_label: Permission Denied Error
-tags: [troubleshooting-and-errors]
+tags:
+  - troubleshooting-and-errors
 title: "Permission Denied Error"
 knowledge_article_id: kA00g000000H9XlCAK
 ---

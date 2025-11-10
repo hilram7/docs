@@ -6,7 +6,8 @@ keywords:
   - Microsoft Exchange
   - Information Store service
 sidebar_label: Exchange Mailbox Warning Resolution
-tags: [troubleshooting-and-errors]
+tags:
+ - troubleshooting-and-errors
 title: "Error: “Collect 'Exchange_Mailbox' Information Warning on Server”"
 knowledge_article_id: kA00g000000H9SMCA0
 products:

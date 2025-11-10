@@ -15,7 +15,8 @@ keywords:
 products:
   - general
 sidebar_label: HelpDesk operators cannot remove accounts
-tags: [troubleshooting-and-errors]
+tags:
+  - troubleshooting-and-errors
 title: "HelpDesk operators cannot remove accounts"
 knowledge_article_id: kA00g000000H9XzCAK
 ---

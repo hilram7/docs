@@ -8,7 +8,8 @@ keywords:
 products:
   - general
 sidebar_label: Resolving Issues with .ad Domain Resources
-tags: [troubleshooting-and-errors]
+tags:
+  - troubleshooting-and-errors
 title: Resolving Issues Where ".ad" Domain Resource Changes are Not Being Saved (IIS Config)
 knowledge_article_id: kA04u00000110fGCAQ
 ---
@@ -27,7 +28,7 @@ This issue occurs because the ".ad" domain suffix is being filtered by IIS.
 
 1. To remediate this, first open **IIS Manager** (`inetmgr`) on the **Privilege Secure** server.
 2. In the left-hand tree, select the **Privilege Secure** server's node. The **file name extensions** tab should be visible.
-   
+
    ![File Name Extensions Tab](./images/servlet_image_2583da6d156d.png)
 
 3. Select the **.ad** extension and in the right-hand pane, select **Remove**.

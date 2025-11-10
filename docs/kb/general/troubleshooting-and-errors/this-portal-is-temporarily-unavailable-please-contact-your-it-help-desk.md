@@ -16,7 +16,8 @@ keywords:
 products:
   - general
 sidebar_label: 'This portal is temporarily unavailable, please con'
-tags: [troubleshooting-and-errors]
+tags:
+  - troubleshooting-and-errors
 title: 'This portal is temporarily unavailable, please con'
 knowledge_article_id: kA00g000000H9ZECA0
 ---
@@ -47,10 +48,10 @@ This configuration is done on the **Administrative portal**, in **Settings - Use
 
 To resolve this, enable at least one option for the Self-Service portal.
 
-1. Navigate to the **Administrative portal**, and go to **Settings**  
+1. Navigate to the **Administrative portal**, and go to **Settings**
    ![User-added](images/servlet_image_6d5dba18caac.png)
 
-2. Then select the **User options** tab and enable options you need  
+2. Then select the **User options** tab and enable options you need
    ![User-added](images/servlet_image_6d5dba18caac.png)
 
 3. Click **Apply**

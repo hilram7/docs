@@ -18,7 +18,7 @@ based upon the user's circumstances, and ensures those settings on the computer.
 Video: To see a video of VMware Horizon Workspace ThinApp applications' settings managed by Endpoint
 Policy Manager, watch this video.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OkN8tc9L8aI?si=yGSd_Rm5LJjNLKHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OkN8tc9L8aI?si=yGSd_Rm5LJjNLKHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Endpoint Policy Manager and VMware Horizon Workspace Applications and ThinApp Entitled Packages
 

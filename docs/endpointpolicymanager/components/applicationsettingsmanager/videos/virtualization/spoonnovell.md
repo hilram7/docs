@@ -28,7 +28,7 @@ Application Virtualization customers.)
 What you'll see is how to dynamically manage and lock down your virtualized applications using Group
 Policy and Netwrix Endpoint Policy Manager (formerly PolicyPak):
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/p8ismZANLqc?si=IgQK06roMSdj-xRi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p8ismZANLqc?si=IgQK06roMSdj-xRi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 So, neither Spoon.Net nor Novell ZENworks Application Virtualization can redeploy, adjust, lockdown
 or guarantee application or operating system settings.

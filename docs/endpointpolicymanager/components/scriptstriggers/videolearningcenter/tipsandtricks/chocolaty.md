@@ -11,7 +11,7 @@ Netwrix Endpoint Policy Manager (formerly PolicyPak), and... bingo. You're done.
 just about any pre-packaged software from Choco's repository. And use Endpoint Policy Manager
 Scripts to install or un-install. Couldn't be simpler.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/A2ksO8eQS5M?si=wO2E0UXxdmJmbfKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A2ksO8eQS5M?si=wO2E0UXxdmJmbfKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Hi, this is Jeremy Moskowitz and in this video, we're going to talk about automating remote
 installation of software from Chocolaty.org using Endpoint Policy Manager. Now what I'm about to

@@ -8,7 +8,7 @@ sidebar_position: 30
 How to apply custom default application associations to Windows 10 using Netwrix Endpoint Policy
 Manager (formerly PolicyPak) Scripts Manager.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/55bFMLRQdlE" title="Policy Scripts Manager - How to Set Custom Default File Associations in Windows 10" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="1"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/55bFMLRQdlE" title="Policy Scripts Manager - How to Set Custom Default File Associations in Windows 10" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Hi, this is David in Endpoint Policy Manager tech support. In this video I'm going to show you how
 to apply custom default application file associations using Endpoint Policy Manager Scripts Manager.

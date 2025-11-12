@@ -11,7 +11,7 @@ can automatically join a Endpoint Policy Manager Cloud group, and finally automa
 policies within that group. It's awesome and works with any MDM service (or RMM service, actually),
 in addition to Autopilot.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QwdIlz0VjZM" title="Endpoint Policy Manager Cloud + MDM Services: Install Cloud Client + automatically join PPC Groups and get policy." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="1"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QwdIlz0VjZM" title="Endpoint Policy Manager Cloud + MDM Services: Install Cloud Client + automatically join PPC Groups and get policy." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Hi, this is Jeremy Moskowitz. In this video I'm going to show you how you can deliver the PolicyPak
 Cloud Client and automatically the PolicyPak Cloud Client-Side Extension using your MDM service like

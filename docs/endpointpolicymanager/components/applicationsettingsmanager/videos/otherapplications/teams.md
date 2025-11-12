@@ -9,7 +9,7 @@ Want to manage the settings WITHIN Microsoft Teams? Like Auto-start application,
 On close keep the application running, Register Teams as chat app, and other various settings? Then
 use Netwrix Endpoint Policy Manager (formerly PolicyPak) Application Settings Manager .... like this!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/namIG4Br1Kw" title="Endpoint Policy Manager Application Settings Manager: Managing Teams Settings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="1"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/namIG4Br1Kw" title="Endpoint Policy Manager Application Settings Manager: Managing Teams Settings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Hi, this is Jeremy Moskowitz and in this video, we're going to learn how to use PolicyPak
 Application Settings Manager to dictate some key settings for Microsoft Teams. This is the default

@@ -9,7 +9,7 @@ How can you populate Java's Site List Exceptions using Group Policy and also loc
 cannot make changes? Watch this video. Netwrix Endpoint Policy Manager (formerly PolicyPak) works
 with ALL versions of Java right out of the box.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B9o5QCKEIVA?si=co_e7DT5jmI3DapS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B9o5QCKEIVA?si=co_e7DT5jmI3DapS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Endpoint Policy Manager: Manage and Lock down Java Site List Exceptions
 

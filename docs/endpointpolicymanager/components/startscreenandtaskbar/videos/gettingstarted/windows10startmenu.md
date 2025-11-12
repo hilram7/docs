@@ -8,7 +8,7 @@ sidebar_position: 20
 The Windows 10 Start Menu is a beast to configure. Instead of leaving the Start Menu to users, YOU
 be in charge. See this video to get the basics down in minutes !
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/05p9hGDMxGE" title="Endpoint Policy Manager Start Screen Manager: Own the Win10 Start Menu" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="1"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/05p9hGDMxGE" title="Endpoint Policy Manager Start Screen Manager: Own the Win10 Start Menu" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### PolicyPak Start Screen Manager: Own the Win10 Start Menu
 

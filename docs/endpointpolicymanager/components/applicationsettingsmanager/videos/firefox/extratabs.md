@@ -9,7 +9,7 @@ When Firefox runs the first time, it shows extra tabs. But using Netwrix Endpoin
 (formerly PolicyPak) you can remove these extra tabs on both Windows 7 and Windows 10. This video
 shows you how.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dmlqk1NDzLs?si=Jppctaoy5yME6H8Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dmlqk1NDzLs?si=Jppctaoy5yME6H8Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Endpoint Policy Manager: Remove Firefox's Extra Tabs at First Launch
 

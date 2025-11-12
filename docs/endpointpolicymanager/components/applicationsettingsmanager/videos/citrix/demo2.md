@@ -8,7 +8,7 @@ sidebar_position: 40
 For more helpful content, visit [www.policypak.com](https://www.policypak.com/) or join the Citrix
 User Group Community at [https://www.mycugc.org/](https://www.mycugc.org/)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WcmzBCoZavo?si=0cbuN4FMuJ67ddjq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WcmzBCoZavo?si=0cbuN4FMuJ67ddjq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### CUGC Connect: Endpoint Policy Manager plus Citrix Demo – You Gotta Try This
 

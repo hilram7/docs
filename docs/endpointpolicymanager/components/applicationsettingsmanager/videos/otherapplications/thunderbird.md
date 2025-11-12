@@ -13,7 +13,7 @@ Netwrix Endpoint Policy Manager (formerly PolicyPak), you've got no enterprise-w
 settings and lock down Thunderbird. Watch this video to get a handle on the problem and where
 Endpoint Policy Manager can ease the pain.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nEIoUqY0wvE" title="Endpoint Policy Manager: Manage Thunderbird using Group Policy or your own management utility" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="1"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nEIoUqY0wvE" title="Endpoint Policy Manager: Manage Thunderbird using Group Policy or your own management utility" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Manage Thunderbird using Group Policy and PolicyPak Video Transcript
 

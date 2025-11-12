@@ -8,7 +8,7 @@ sidebar_position: 10
 Don't provide TOO MANY rights with PP Least Priv manager. This video goes over some best practices
 on what to do and what NOT to do with PPLPM and user-self installs with MSIs and EXEs.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6Mhggaly8Z8?si=N5ckfWG5sK6QDags" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6Mhggaly8Z8?si=N5ckfWG5sK6QDags" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### PPLPM: Best Practices for Elevating User-Based Installs
 

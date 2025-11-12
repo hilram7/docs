@@ -7,7 +7,7 @@ sidebar_position: 10
 
 PolicyPak: Manual editing Item Level Targeting to affect local Admins and other local accounts
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KTKunCi0uY0?si=jB0UqQPxv0-ld1X8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KTKunCi0uY0?si=jB0UqQPxv0-ld1X8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Endpoint Policy Manager: Manual editing Item Level Targeting to affect local Admins and other local accounts
 

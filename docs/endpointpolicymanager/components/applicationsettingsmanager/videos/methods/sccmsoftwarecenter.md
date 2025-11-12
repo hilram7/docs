@@ -5,7 +5,7 @@ sidebar_position: 20
 ---
 # Perform Desktop Lockdown using Microsoft SCCM and Endpoint Policy Manager
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fO5g-i0a2zA?si=LWjmUvnWUjQ71Gt-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fO5g-i0a2zA?si=LWjmUvnWUjQ71Gt-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Hi, this is Whitney with PolicyPak Software, and in this video. I am talking specifically to SCCM
 folks. If you're an SCCM shop, then you've got a great way to deliver your application, but that

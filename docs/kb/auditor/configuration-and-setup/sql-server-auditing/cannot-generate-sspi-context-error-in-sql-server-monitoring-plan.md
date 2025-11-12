@@ -114,3 +114,4 @@ Synchronize the time on both SQL and Netwrix Auditor servers to eliminate clock 
 
 
 
+

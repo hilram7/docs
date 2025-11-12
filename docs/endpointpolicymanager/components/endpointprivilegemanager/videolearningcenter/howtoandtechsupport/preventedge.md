@@ -8,7 +8,7 @@ sidebar_position: 60
 Don't remove EDGE from your image. Instead, just block Edge from running. Using Netwrix Endpoint
 Policy Manager (formerly PolicyPak). See this video for how to.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ni7G7YPF28Y" title="Endpoint Policy Manager Least Priv Manager: Prevent Edge from Launching" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="1"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ni7G7YPF28Y" title="Endpoint Policy Manager Least Priv Manager: Prevent Edge from Launching" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Endpoint Policy Manager Least Priv Manager- Prevent Edge from Launching
 

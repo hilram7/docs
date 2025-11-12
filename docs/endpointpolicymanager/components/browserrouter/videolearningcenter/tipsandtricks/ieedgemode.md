@@ -11,7 +11,7 @@ which versions of Windows / Internet Explorer will permit this function, and whi
 learn about the "65 second rule". Definitely "walk before you run" with IE in Edge mode and PPBR by
 watching this video.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yXL35FnSpqg" title="Endpoint Policy Manager Browser Router: Internet Explorer in Edge mode" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="1"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yXL35FnSpqg" title="Endpoint Policy Manager Browser Router: Internet Explorer in Edge mode" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Hi, this is Jeremy Moskowitz. In this video, we're going to talk about how to do Internet Explorer
 in Edge mode using Endpoint Policy Manager Browser Router. There's a lot of details in this video.

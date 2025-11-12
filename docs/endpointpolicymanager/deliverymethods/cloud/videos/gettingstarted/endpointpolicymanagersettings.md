@@ -9,7 +9,7 @@ Its easy to do MANY things with Netwrix Endpoint Policy Manager (formerly Policy
 in-cloud editors. Here's how to use them, how to find more details PER COMPONENT, and also how to
 export on-prem items and use them inside PP Cloud.
 
-<iframe width="1700" height="956" src="https://www.youtube.com/embed/9YPT1JylmxU" title="Endpoint Policy Manager Cloud: Quickstart with Endpoint Policy Manager Settings (in-cloud editors and exporting from on-prem)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="1"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9YPT1JylmxU" title="Endpoint Policy Manager Cloud: Quickstart with Endpoint Policy Manager Settings (in-cloud editors and exporting from on-prem)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Hi, this is Jeremy Moskowitz. In a previous video you saw me use PolicyPak Cloud in-cloud editors to
 do Microsoft real Group Policy settings with our create and link a new policy. You saw me use our

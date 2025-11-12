@@ -9,7 +9,7 @@ Use the in-cloud editors to manage Netwrix Endpoint Policy Manager (formerly Pol
 settings. This couldn't be easier. Set the password, account settings, and other security settings
 for your Windows machines, domain joined and non-domain joined.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UsglBSa-oRg" title="Endpoint Policy Manager Cloud and Security Settings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="1"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UsglBSa-oRg" title="Endpoint Policy Manager Cloud and Security Settings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Endpoint Policy Manager Cloud and Security Settings
 

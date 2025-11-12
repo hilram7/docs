@@ -10,7 +10,7 @@ Netwrix Endpoint Policy Manager (formerly PolicyPak)
 enables you to select multiple criteria for the action type. Watch this video to learn how it's
 done.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/V_Dl8_fr3HQ" title="Endpoint Privilege Manager: More security with Combo Rules" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="1"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V_Dl8_fr3HQ" title="Endpoint Privilege Manager: More security with Combo Rules" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### PPLPM: More security with Combo Rules
 

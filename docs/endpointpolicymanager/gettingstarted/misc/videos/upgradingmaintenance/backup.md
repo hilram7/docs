@@ -10,7 +10,7 @@ Backing up your Netwrix Endpoint Policy Manager (formerly PolicyPak) GPOs is eas
 existing GPO backup and restore you already know and love. What’s more, you can export your Endpoint
 Policy Manager configuration and share them with friends or other administrators.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lrudKeb-BBw?si=mybm8aSnJJgyjbs5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lrudKeb-BBw?si=mybm8aSnJJgyjbs5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### PolicyPak:Backup and Restore and Export and Import video transcript
 

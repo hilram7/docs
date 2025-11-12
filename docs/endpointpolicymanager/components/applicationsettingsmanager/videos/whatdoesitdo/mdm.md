@@ -8,7 +8,7 @@ sidebar_position: 40
 Learn how you can use Application Manager in your MDM environment to manage a myriad of settings for
 commonly used applications such as Acrobat Reader and Firefox.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TAU2CareRu4" title="Managing Application Settings on your MDM enrolled machines" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="1"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TAU2CareRu4" title="Managing Application Settings on your MDM enrolled machines" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Hi, this is Whitney with PolicyPak Software. In a previous video, we looked at how to create
 policies that will allow us to manage applications, even if they aren't ADMX enabled by using the

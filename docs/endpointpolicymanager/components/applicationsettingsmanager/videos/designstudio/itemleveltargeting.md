@@ -12,7 +12,7 @@ normal "Item Level Targeting"
 ([https://www.policypak.com/pp-blog/item-level-targeting](https://www.policypak.com/pp-blog/item-level-targeting))filters,
 see our Video on that function (for day to day Endpoint Policy Manager administration.)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xJH4MJxMhOo" title="Endpoint Policy Manager: Using Item Level Targeting with Applications Manager" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="1"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xJH4MJxMhOo" title="Endpoint Policy Manager: Using Item Level Targeting with Applications Manager" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Endpoint Policy Manager: Predefined ILTs (Internal Filters) Video Transcript
 

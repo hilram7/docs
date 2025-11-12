@@ -9,7 +9,7 @@ Use Netwrix Endpoint Policy Manager (formerly PolicyPak) GP Compliance Reporter'
 Standalone" mode to request (interrogate) Group Policy Settings from endpoints. With this method,
 the PPGPCR server is not used. All new PPGPCR customers should start here.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tpsjcPEJDn8" title="PPGPCR: Standalone Quickstart" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="1"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tpsjcPEJDn8" title="PPGPCR: Standalone Quickstart" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### PPGPCR Standalone Quickstart
 

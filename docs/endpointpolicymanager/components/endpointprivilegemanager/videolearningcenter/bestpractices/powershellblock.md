@@ -9,7 +9,7 @@ Powershell on desktops? Terrible idea. Except when you need it. Check out this v
 kill PowerShell (generally) but open it up to allow specific. PS1 scripts to run as you need them
 to. With Netwrix Endpoint Policy Manager (formerly PolicyPak) Least Privilege Manager, it's easy !
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xzgr1gqekGU?si=ELymDEYKrta-auwo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xzgr1gqekGU?si=ELymDEYKrta-auwo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Hi. This is Jeremy Moskowitz. In this video, I'm going to show you how you can put the full
 smackdown on PowerShell and also open up PowerShell for very specific scenarios.

@@ -14,7 +14,7 @@ place. Endpoint Policy Manager sets and enforces expectations for your users' ap
 they get the same experience, every time they launch it. Keep your IrfanView configuration settings
 enforced and streamlined with Endpoint Policy Manager. Check out this video to see how it is done.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/evQsOAGTczo?si=fNHA4XYTEPoph7mC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/evQsOAGTczo?si=fNHA4XYTEPoph7mC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Lockdown IrfanView with Group Policy video transcript
 

@@ -10,7 +10,7 @@ that, and it's a simple drag and drop to get started. Let users install iTunes o
 like.. using PP
 [https://www.policypak.com/products/endpointpolicymanager-least-privilege-manager.html](https://www.policypak.com/products/endpointpolicymanager-least-privilege-manager.html).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vo2TF48DLX4" title="PPLPM: Installing applications-and-Preconfigured-Rules" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="1"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vo2TF48DLX4" title="PPLPM: Installing applications-and-Preconfigured-Rules" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### PPLPM: Installing applications-and-Preconfigured-Rules Hi. This is Jeremy Moskowitz. In this video, I'm going to show you how you can use Netwrix Endpoint Policy Manager (formerly PolicyPak) Least Privilege Manager to let users that are standard users install their own applications. By way of example, here's "iTunes." They may need to install iTunes. That's too bad for them because there's the UAC prompt and they get rejected.
 

@@ -12,7 +12,7 @@ demonstration, see how Netwrix Endpoint Policy Manager (formerly PolicyPak) enab
 environments to truly receive Group Policy settings for any Xenapp application, plus lock those
 applications down so users cannot work around your important IT and security settings.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_qXQ7nz1Ws?si=J90BNUSpxWKuLlNB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_qXQ7nz1Ws?si=J90BNUSpxWKuLlNB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### PolicyPak enhances XenApp with Group Policy video transcript
 

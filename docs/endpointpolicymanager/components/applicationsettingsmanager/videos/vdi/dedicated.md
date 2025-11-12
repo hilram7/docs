@@ -18,7 +18,7 @@ That's where Netwrix Endpoint Policy Manager (formerly PolicyPak) comes in.
 In this demonstration see Endpoint Policy Manager working inside your dedicated VDI sessions
 ensuring that your application settings are set dynamically and always ensured.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FoAH2LRZpBw?si=t2hnjADcFsx8_OnL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FoAH2LRZpBw?si=t2hnjADcFsx8_OnL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Endpoint Policy Manager and VMware Horizon View – Dedicated VDI
 

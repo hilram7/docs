@@ -10,7 +10,7 @@ PolicyPak) Cloud. Use our wizard-driven UI to take GPO contents for Group Policy
 GPPreferences and/or Endpoint Policy Manager settings and quickly upload them. When you want the
 FASTEST onramp from GPO to the Cloud... this is it !
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hovqVVeekU8" title="Endpoint Policy Manager Cloud: Instantly import existing real GPOs to Endpoint Policy Manager Cloud" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="1"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hovqVVeekU8" title="Endpoint Policy Manager Cloud: Instantly import existing real GPOs to Endpoint Policy Manager Cloud" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Hi, this is Jeremy Moskowitz. In this video I want to show you how you can take an existing GPO or
 multiple GPOs and quickly import them into PolicyPak Cloud. Here's a GPO that's called DEMO GPO.

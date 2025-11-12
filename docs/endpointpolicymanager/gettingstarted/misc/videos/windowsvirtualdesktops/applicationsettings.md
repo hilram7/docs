@@ -10,7 +10,7 @@ WVD is "all about the apps" which is great. Now how do you manage them? We have 
 our website, but this one shows how quickly and easily you can manage your WVD apps using Netwrix
 Endpoint Policy Manager (formerly PolicyPak).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JBBOS6oImFw" title="Endpoint Policy Manager + WVD: Manage Applications Settings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="1"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JBBOS6oImFw" title="Endpoint Policy Manager + WVD: Manage Applications Settings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Hi. This is Jeremy Moskowitz, former 15-year Group Policy MVP and Founder of PolicyPak Software. In
 this video, we're going to learn how you can take your Windows Virtual Desktop applications and

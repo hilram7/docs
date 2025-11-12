@@ -10,7 +10,7 @@ Configure websites to use the version of Java you choose, or block Java websites
 – this demo uses SCCM, KACE, Altiris, whatever method you like (instead of Group Policy.) Making a
 Java Deployment Rule Set for your Enterprise has never been easier or more flexible.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RKUbyiAHIos" title="Endpoint Policy Manager Java Rules Manager: Use SCCM, KACE, etc to specify different websites for different Java" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="1"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RKUbyiAHIos" title="Endpoint Policy Manager Java Rules Manager: Use SCCM, KACE, etc to specify different websites for different Java" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Endpoint Policy Manager Java Rules Manager: Use SCCM, KACE, etc to specify different websites for different Java
 

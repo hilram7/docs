@@ -11,7 +11,7 @@ managing applications themselves, the GPPrefs Registry extension doesn't go far 
 video, you will learn about GPPreferences' **Nuke** mode, as well as what happens when the computer
 goes offline, and you expect settings to be maintained.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bhyMjyIxRqg?si=Ux3eF75dKOg0wSgM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bhyMjyIxRqg?si=Ux3eF75dKOg0wSgM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### GPPrefs Registry: Nuke mode, and why users can avoid your GPprefs settings video transcript
 

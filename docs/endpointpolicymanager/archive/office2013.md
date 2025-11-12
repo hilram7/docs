@@ -12,7 +12,7 @@ they get the same experience, every time they launch it, especially for an ubiqu
 such as this. Keep your Microsoft Office 2013 configuration settings delivered, enforced and
 automatically remediated with Endpoint Policy Manager. Check out this video to see how it's done.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/b7MBQBnRn-c?si=9j-EvONdRtaEL2Qz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b7MBQBnRn-c?si=9j-EvONdRtaEL2Qz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Lockdown Microsoft Office Suite 2013 Video Transcript
 

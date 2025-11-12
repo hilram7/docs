@@ -9,7 +9,7 @@ Open the right browser for the website, then dictate what version of Java to run
 combo made in heaven. See how to do it with Netwrix Endpoint Policy Manager (formerly PolicyPak) MDM
 and your MDM service.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VWQq_Yt9fLg" title="Manage Java with Java Rules Manager and your MDM service" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VWQq_Yt9fLg" title="Manage Java with Java Rules Manager and your MDM service" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="1"></iframe>
 
 Hi, this is Whitney with PolicyPak Software. If you have a situation where you need to run an old
 version of Java on some legacy webpage but you want to make sure to use the latest version

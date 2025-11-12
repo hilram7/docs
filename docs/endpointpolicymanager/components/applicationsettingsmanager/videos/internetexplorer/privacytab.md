@@ -7,7 +7,7 @@ sidebar_position: 60
 
 Netwrix Endpoint Policy Manager (formerly PolicyPak): Manage IE Privacy tab
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mBZ1GJTIYjs?si=6b-h5EdOO_c2hPm8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mBZ1GJTIYjs?si=6b-h5EdOO_c2hPm8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Endpoint Policy Manager: Manage IE Privacy tab
 

@@ -9,7 +9,7 @@ In this video, you'll learn the steps you need to do in order to set up event fo
 and by using your existing infrastructure, you can collect interesting events which come out of
 Netwrix Endpoint Policy Manager (formerly PolicyPak).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K8AWtkHwUi8" title="Endpoint Policy Manager: Using Windows Event Forward to search for interesting events (PPLPM or anything else)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K8AWtkHwUi8" title="Endpoint Policy Manager: Using Windows Event Forward to search for interesting events (PPLPM or anything else)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="1"></iframe>
 
 ### Endpoint Policy Manager: Using Windows Event Forward to search for interesting events
 

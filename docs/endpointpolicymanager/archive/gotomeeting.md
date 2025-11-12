@@ -12,7 +12,7 @@ so that they get the right experience, every time they launch it. Keep your GoTo
 configuration settings enforced with Endpoint Policy Manager. Check out this video to see how it is
 done.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rPy2hribT6M?si=CFwLG3_V3PdbsDN-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rPy2hribT6M?si=CFwLG3_V3PdbsDN-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Manage Goto Meetings
 

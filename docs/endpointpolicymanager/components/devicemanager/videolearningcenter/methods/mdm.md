@@ -9,7 +9,7 @@ Got Intune or another MDM service, and users plugging in USB sticks... walking o
 data, or worse, introducing malware? Specify exactly WHO can use WHAT USB sticks ... so you don't
 have to fight fires everywhere around data and ransomware.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JR3r_i7scrg" title="Endpoint Policy Device Manager: Block and Allow USB and CD-ROMs with your MDM solution" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JR3r_i7scrg" title="Endpoint Policy Device Manager: Block and Allow USB and CD-ROMs with your MDM solution" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="1"></iframe>
 
 Hi, this is Jeremy Moskowitz. In this video, I'm going to show you how you can use Netwrix Endpoint
 Policy Manager (formerly PolicyPak) Device Manager to enable and restrict USB sticks using your MDM

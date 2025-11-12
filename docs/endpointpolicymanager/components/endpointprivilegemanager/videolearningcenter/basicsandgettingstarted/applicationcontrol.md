@@ -11,7 +11,7 @@ does this in a few clicks. You're in charge to specify what executables, scripts
 other types of files will run, or not. Block PowerShell and Command Prompt (CMD), and a whole lot
 more.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hy7Nnd_GeJk" title="Endpoint Policy Manager Application Control with PP Least Privilege Manager" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hy7Nnd_GeJk" title="Endpoint Policy Manager Application Control with PP Least Privilege Manager" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="1"></iframe>
 
 
 ### Endpoint Policy Manager Application Control with PP Least Privilege Manager

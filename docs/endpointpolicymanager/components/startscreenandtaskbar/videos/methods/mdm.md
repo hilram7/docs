@@ -9,7 +9,7 @@ The Windows 10 Start Menu is a beast to configure, and once configured, it's not
 Instead of leaving the Start Menu to users, YOU be in charge. See this video to get the basics down
 in minutes, then deploy your settings using the MDM service of your choice!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2PJdBeDKdFg" title="Endpoint Policy Manager MDM: Manage the Windows 10 Start Screen Like a Boss" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2PJdBeDKdFg" title="Endpoint Policy Manager MDM: Manage the Windows 10 Start Screen Like a Boss" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="1"></iframe>
 
 ### PolicyPak MDM: Manage the Windows 10 Start Screen Like a Boss
 

@@ -9,7 +9,7 @@ If you want to prevent WannaCry and other malware, it's pretty easy. Just preven
 all scripts using Netwrix Endpoint Policy Manager (formerly PolicyPak). But then how do you PERMIT
 other scripts and also ELEVATE yet other scripts? In this video you'll find out in no time.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dL7RKd6RvQo?si=JK0GR2OomDd9EMh3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dL7RKd6RvQo?si=JK0GR2OomDd9EMh3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### PolicyPak: Elevate scripts and Java JAR files
 

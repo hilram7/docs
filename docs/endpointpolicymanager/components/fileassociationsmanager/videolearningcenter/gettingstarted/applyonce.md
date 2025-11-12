@@ -9,7 +9,7 @@ Want to lay down one set of File Associations for some apps, but leave others to
 change themselves? Use Endpoint Policy Manager File Associations Manager to "apply once" and let
 those settings drift after you set them with the tips in this video.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KkiHMOv97Ms" title="Endpoint Policy Manager File Associations Manager: Apply once (and drift)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KkiHMOv97Ms" title="Endpoint Policy Manager File Associations Manager: Apply once (and drift)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="1"></iframe>
 
 Hi, this is Jeremy Moskowitz. In this video, I'm going to show you how you can use Endpoint Policy
 Manager File Associations Manager to set up your user or computer side file associations and do it

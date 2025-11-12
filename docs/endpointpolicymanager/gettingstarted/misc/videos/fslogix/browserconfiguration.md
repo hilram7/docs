@@ -10,7 +10,7 @@ FSLogix can hide/reveal applications, like browsers. Netwrix Endpoint Policy Man
 PolicyPak) can actually SET the settings, like homepage and security settings INSIDE your browsers
 and KEEP them secure. See how Endpoint Policy Manager + FSLogix can work together.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cgOtzgvnSlc" title="Endpoint Policy Manager + FSLogix: Setting browser configuration based upon which browser you actually have." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cgOtzgvnSlc" title="Endpoint Policy Manager + FSLogix: Setting browser configuration based upon which browser you actually have." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="1"></iframe>
 
 ### PolicyPak + FSLogix: Setting browser configuration based upon which browser you actually have.
 

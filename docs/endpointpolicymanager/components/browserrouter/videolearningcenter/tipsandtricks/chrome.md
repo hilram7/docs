@@ -8,7 +8,7 @@ sidebar_position: 50
 Using PP Browser router, you can do a magic trick. Have ALL traffic go thru Chrome, except a handful
 of websites (called Exceptions.) Here's how to do it.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8sBeL3s2lyI" title="PPBR: Route all sites to Chrome, with some exceptions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8sBeL3s2lyI" title="PPBR: Route all sites to Chrome, with some exceptions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="1"></iframe>
 
 ### PPBR: Route all sites to Chrome, with some exceptions
 

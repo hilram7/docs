@@ -5,7 +5,7 @@ sidebar_position: 20
 ---
 # Replace the Windows 10 PRO Professional Lock screen
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZNhMDhvmMWI" title="Endpoint Policy Manager Scripts: Replace the Windows 10 PRO Professional Lock screen" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZNhMDhvmMWI" title="Endpoint Policy Manager Scripts: Replace the Windows 10 PRO Professional Lock screen" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="1"></iframe>
 
 ### PolicyPak Scripts: Replace the Windows 10 PRO Professional Lock screen
 

@@ -9,7 +9,7 @@ Need to add or remove a certificate dynamically within Firefox? Netwrix Endpoint
 (formerly PolicyPak) makes it drop dead easy. Just point to the file and specify the store. Watch
 this video to see how it's done.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F31JfOmvKXI?si=jvMj08Zs8p_9KFdn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F31JfOmvKXI?si=jvMj08Zs8p_9KFdn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Endpoint Policy Manager: Manage Firefox Certificates
 

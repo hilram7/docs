@@ -9,7 +9,7 @@ Netwrix Endpoint Policy Manager (formerly PolicyPak) enables you to work with ot
 quickly. Just put the Paks into the central store, and everyone has a copy. Watch this video to see
 how it's done!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SPH1IrHpgDM" title="Endpoint Policy Manager: Working with Others and using the Central Store" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SPH1IrHpgDM" title="Endpoint Policy Manager: Working with Others and using the Central Store" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="1"></iframe>
 
 ### PolicyPak: Working with Others and using the Central Store video transcript
 

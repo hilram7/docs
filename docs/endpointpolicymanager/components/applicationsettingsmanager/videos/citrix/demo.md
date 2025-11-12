@@ -8,7 +8,7 @@ sidebar_position: 30
 If you need to manage applications, the desktop, Java, the Start Menu and more.. you have to see
 this action packed Netwrix Endpoint Policy Manager (formerly PolicyPak) + Citrix demo.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KEOkp-2pimI?si=WxMmP-bBjZVpJPDp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KEOkp-2pimI?si=WxMmP-bBjZVpJPDp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Endpoint Policy Manager on Citrix: You Gotta Try This
 

@@ -10,7 +10,7 @@ Here is how to take any version of Netwrix Endpoint Policy Manager (formerly Pol
 update it on all your client computers at the same time. You can use the built-in Group Policy
 software distribution mechanism of Group Policy.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GvgnnIbhXfY?si=ZhyU1JiQZAXz8kzq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GvgnnIbhXfY?si=ZhyU1JiQZAXz8kzq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### PolicyPak: Upgrading the CSE using GPSI Transcript
 

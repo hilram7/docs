@@ -8,7 +8,7 @@ sidebar_position: 40
 Upgrading from a previous version of Netwrix Endpoint Policy Manager (formerly PolicyPak) is easy.
 Here are the basic steps involved.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DvjjDh38_7Y" title="Endpoint Policy Manager: Upgrading from a previous version of PolicyPak" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DvjjDh38_7Y" title="Endpoint Policy Manager: Upgrading from a previous version of PolicyPak" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="1"></iframe>
 
 ### PolicyPak: Upgrading from a previous version of PolicyPak video transcript
 

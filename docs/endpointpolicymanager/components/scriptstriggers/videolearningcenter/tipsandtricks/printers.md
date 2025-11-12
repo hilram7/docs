@@ -10,7 +10,7 @@ PolicyPak) Scripts manager to do "loopback without loopback." In this demonstrat
 how to ADD a shared printer to every user who logs onto a machine... just like loopback. With
 Endpoint Policy Manager, its easy. Here you go !
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2B-cc1W2WTU" title="Shared Printers without Loopback: Use Endpoint Policy Manager Scripts and PowerShell to deploy and remove printers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2B-cc1W2WTU" title="Shared Printers without Loopback: Use Endpoint Policy Manager Scripts and PowerShell to deploy and remove printers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="1"></iframe>
 
 Hi, this is Jeremy Moskowitz, and in this video, I'm going to show you how you can deploy shared
 printers without loopback using Endpoint Policy Manager Scripts Manager. You're going to have to do

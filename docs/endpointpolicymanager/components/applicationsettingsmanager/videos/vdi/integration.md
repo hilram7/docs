@@ -30,7 +30,7 @@ Tip: After you watch the video, please download our free whitepaper "What Most I
 about
 VDI": [https://www.policypak.com/integration/solutions/why-vdi-admin-need-endpointpolicymanager.html](https://www.policypak.com/integration/solutions/why-vdi-admin-need-endpointpolicymanager.html)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ay1Llyn46Mg?si=vzWeY08Wu0xUnplS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ay1Llyn46Mg?si=vzWeY08Wu0xUnplS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 You might be wondering about how Windows Server 2012's personal "User Profile" fits in with Endpoint
 Policy Manager Application Manager.

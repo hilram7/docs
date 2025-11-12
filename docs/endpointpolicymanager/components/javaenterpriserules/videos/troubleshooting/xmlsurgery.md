@@ -9,7 +9,7 @@ What do you do if you want to tie a specific version of Java to a specific websi
 you want isn't in the MMC? It doesn't happen often, but if it does, just a little bit of XML surgery
 does the trick.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YMoI_0BR4qg" title="Endpoint Policy Manager Java Rules Manager: XML Surgery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YMoI_0BR4qg" title="Endpoint Policy Manager Java Rules Manager: XML Surgery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="1"></iframe>
 
 Hi, this is Whitney with PolicyPak Software. In this video we're going to do just a little bit of
 XML surgery to fix a small problem. It's not something that happens very often, but here's what to

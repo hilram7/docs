@@ -10,7 +10,7 @@ Do you want to deploy Netwrix Endpoint Policy Manager (formerly PolicyPak) setti
 idea of using Group Policy to do it? You're in luck–this video tells you how to create, export, and
 deploy Endpoint Policy Manager magic using your own desktop management system like SCCM or LanDesk!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n1ZZpUbbNd0" title="Deploy Endpoint Policy Manager Settings Using SCCM or Other Management System!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1700" height="956" src="https://www.youtube.com/embed/n1ZZpUbbNd0" title="Deploy Endpoint Policy Manager Settings Using SCCM or Other Management System!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="1"></iframe>
 
 ### Deploy PolicyPak Settings Using SCCM or Other Management System
 

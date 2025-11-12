@@ -8,7 +8,7 @@ sidebar_position: 30
 Invincea is great for Sandboxing the IE, FF, and Chrome browsers. But you can use Netwrix Endpoint
 Policy Manager (formerly PolicyPak) to manage all the in-browser settings. Here's a demonstration.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8pye7kyPfNs" title="Endpoint Policy Manager and Invincea Integration" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8pye7kyPfNs" title="Endpoint Policy Manager and Invincea Integration" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="1"></iframe>
 
 ### PolicyPak and Invincea Integration Demo
 

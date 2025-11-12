@@ -11,7 +11,7 @@ which will repackage, modify and "re-sell" Firefox —- each and every time an u
 also true they provide some ADM support with this modified software.  
 But there's a better way —- a much better way. See how we do it using this video.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xuWm4jch3qE?si=PSaGf6_nZvN7QsyN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xuWm4jch3qE?si=PSaGf6_nZvN7QsyN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Manage Firefox with Group Policy Video Transcript
 

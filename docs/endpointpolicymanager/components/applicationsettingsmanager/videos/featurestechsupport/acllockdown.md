@@ -12,7 +12,7 @@ This literally prevents users (or other applications) from modifying your settin
 "Steady State" to your application where users are simply not permitted to work around your settings
 (online or offline, running or not running.)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bSuxXH10vSA" title="Endpoint Policy Manager: ACL Lockdown for Registry Based Applications" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bSuxXH10vSA" title="Endpoint Policy Manager: ACL Lockdown for Registry Based Applications" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="1"></iframe>
 
 ### Endpoint Policy Manager: ACL Lockdown for Registry Based Applications video transcript
 

@@ -18,7 +18,7 @@ But you still have some big problems:
 Watch this video (exclusively for VMware ThinApp administrators) to see exactly how to manage
 ThinApp packages using Group Policy and Netwrix Endpoint Policy Manager (formerly PolicyPak):
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rNR-SriYen8?si=RxicLU3bl9Xy8iXb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rNR-SriYen8?si=RxicLU3bl9Xy8iXb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 So, if you needed to tweak a configuration file, edit the package's registry, or otherwise configure
 your ThinApp package, you've got a real problem.

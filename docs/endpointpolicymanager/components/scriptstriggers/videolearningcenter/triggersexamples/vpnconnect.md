@@ -9,7 +9,7 @@ Want to map a drive or perform any other login script when you connect via VPN? 
 Endpoint Policy Manager (formerly PolicyPak) Scripts & Triggers with this awesome way to handle this
 problem.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OH6J_qkM0Hk" title="Endpoint Policy Manager Scripts &amp; Triggers: Perform Scripts on VPN Connect and VPN Disconnect" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OH6J_qkM0Hk" title="Endpoint Policy Manager Scripts &amp; Triggers: Perform Scripts on VPN Connect and VPN Disconnect" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="1"></iframe>
 
 Hi, this is Jeremy Moskowitz, and in this video, I'm going to show you how you can use Endpoint
 Policy Manager Scripts and Triggers to map a drive or do any kind of log on script thing you want

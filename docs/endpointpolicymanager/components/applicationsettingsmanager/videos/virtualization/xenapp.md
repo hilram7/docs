@@ -12,7 +12,7 @@ lock users down so they can't work around your settings. See how Endpoint Policy
 Citrix XenApp streaming environments by providing true Group Policy support to any Citrix XenApp
 streamed application PLUS lock users down so they cannot work around your settings.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/k8GzrHk4snY?si=ubDOTF6bexwK_XHP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k8GzrHk4snY?si=ubDOTF6bexwK_XHP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Endpoint Policy Manager enhances Xenapp Streaming with Group Policy video transcript
 

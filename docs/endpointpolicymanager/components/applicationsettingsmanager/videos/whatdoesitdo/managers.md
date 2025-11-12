@@ -9,7 +9,7 @@ Why Netwrix Endpoint Policy Manager (formerly PolicyPak)? Easy. No Endpoint Poli
 Endpoint Management. No Desktop Security. No Data Leak Protection. No configuration of VDI machines.
 Watch this video see this easy to implement solution.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LcXS5Q5Modo" title="Endpoint Policy Manager: Short Demo for Managers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LcXS5Q5Modo" title="Endpoint Policy Manager: Short Demo for Managers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="1"></iframe>
 
 ### PolicyPak Overview Video for Managers video transcript
 

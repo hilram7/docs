@@ -8,7 +8,7 @@ sidebar_position: 30
 We know you hate Java, and want to get rid of it. This video shows you how you can block ALL Java,
 but then make exceptions as needed.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l__NsAakT1M" title="Java Rules Manager: Block ALL Java (with some exceptions)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l__NsAakT1M" title="Java Rules Manager: Block ALL Java (with some exceptions)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="1"></iframe>
 
 ### Java Rules Manager: Block ALL Java-with some exceptions
 

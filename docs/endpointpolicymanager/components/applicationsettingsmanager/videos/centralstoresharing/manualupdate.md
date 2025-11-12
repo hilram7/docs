@@ -5,7 +5,7 @@ sidebar_position: 10
 ---
 # How to manually update Paks
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_0gS-lvuJWk" title="Endpoint Policy Manager: How to manually update Paks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_0gS-lvuJWk" title="Endpoint Policy Manager: How to manually update Paks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="1"></iframe>
 
 Hi, this is Whitney with PolicyPak Software and in this video, we are going to talk about the idea
 of how to manually update your packs. If you are ever having trouble with a pack and you email us

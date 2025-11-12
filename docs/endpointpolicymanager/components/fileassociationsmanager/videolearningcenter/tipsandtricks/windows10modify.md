@@ -11,7 +11,7 @@ work great in Windows 7 with Group Policy, but not anymore. To change Windows 10
 you need Netwrix Endpoint Policy Manager (formerly PolicyPak) File Associations Manager, which can
 be seen in this demo.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nUCLWJ3VVNg" title="Endpoint Policy Manager File Associations Manager: Manage User and Computer File Associations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nUCLWJ3VVNg" title="Endpoint Policy Manager File Associations Manager: Manage User and Computer File Associations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="1"></iframe>
 
 ### Set, Change and Remove Windows 10 File Associations
 

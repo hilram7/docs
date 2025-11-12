@@ -8,7 +8,7 @@ sidebar_position: 40
 Automatically specify "who should get what" settings based upon conditions like security group,
 Laptop vs. Not laptop and so on.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Y9CIdIDhAZQ" title="Endpoint Policy Manager Start Screen Manager: Using Item Level Targeting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y9CIdIDhAZQ" title="Endpoint Policy Manager Start Screen Manager: Using Item Level Targeting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="1"></iframe>
 
 ### PolicyPak Start Screen Manager: Using Item Level Targeting
 

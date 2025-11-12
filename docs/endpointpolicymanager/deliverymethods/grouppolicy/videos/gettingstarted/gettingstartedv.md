@@ -9,7 +9,7 @@ This video gives you a basic rundown of what our components do, where to find th
 more in-depth information on our website. This is great if you're just getting started and want to
 get some brief information on all of our PolicyPak components.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5-C4szQA75o" title="PPGP Quick Rundown: Getting Started" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5-C4szQA75o" title="PPGP Quick Rundown: Getting Started" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="1"></iframe>
 
 ### PPGP Quick Rundown: Getting Started Video Transcript
 

@@ -10,7 +10,7 @@ start using Remote Work Delivery Manager to deploy that software! It's easy! Jus
 a cloud web service then let Netwrix Endpoint Policy Manager (formerly PolicyPak) do the rest of the
 work!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CftQhMqdeFY" title="Endpoint Policy Manager Remote Work Delivery Manager: Deploy software with Endpoint Policy Manager Cloud" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CftQhMqdeFY" title="Endpoint Policy Manager Remote Work Delivery Manager: Deploy software with Endpoint Policy Manager Cloud" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="1"></iframe>
 
 Hi, this is Jeremy Moskowitz and in this video, I'm going to show you how you can deploy software to
 your domain-joined or non-domain joined machines using Endpoint Policy Manager Cloud. To get started

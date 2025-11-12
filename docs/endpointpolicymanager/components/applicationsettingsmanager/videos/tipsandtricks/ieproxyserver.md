@@ -7,7 +7,7 @@ sidebar_position: 10
 
 IE Proxy server with Advanced settings
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GcRNnadBw08" title="Endpoint Policy Manager: Manage different proxy settings, even when offline" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GcRNnadBw08" title="Endpoint Policy Manager: Manage different proxy settings, even when offline" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="1"></iframe>
 
 ### PolicyPak: Managing IE Proxy server with Advanced settings
 

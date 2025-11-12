@@ -8,7 +8,7 @@ sidebar_position: 80
 If you need advice on how to convert Netwrix Endpoint Policy Manager (formerly PolicyPak) 2AppSet
 version to the 4AppSet (or more) version, here's the advice.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/s1V-uUD51aM" title="PPAM: Convert from 2 to 4 Paks for Firefox About:Config Paks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s1V-uUD51aM" title="PPAM: Convert from 2 to 4 Paks for Firefox About:Config Paks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="1"></iframe>
 
 ### PPAM – Convert from 2 to 4 Paks for Firefox About-Config Paks
 

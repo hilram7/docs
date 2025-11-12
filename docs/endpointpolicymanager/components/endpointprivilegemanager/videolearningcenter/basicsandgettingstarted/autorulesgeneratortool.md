@@ -9,7 +9,7 @@ Once PPLPM and SecureRun are on, users are blocked from running unwanted stuff. 
 create some rules automatically to ALLOW or ELEVATE applications and installations? Check out this
 free tool from Netwrix Endpoint Policy Manager (formerly PolicyPak) !
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jju3eIdqq08" title="PPLPM: Auto Rules Generator Utility" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jju3eIdqq08" title="PPLPM: Auto Rules Generator Utility" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="1"></iframe>
 
 ### PPLPM: Auto Rules Generator Utility
 

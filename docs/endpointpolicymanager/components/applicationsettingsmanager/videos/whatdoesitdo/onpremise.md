@@ -9,7 +9,7 @@ See how quickly you can get Netwrix Endpoint Policy Manager (formerly PolicyPak)
 Active Directory. This video mirrors the Endpoint Policy Manager On-Prem Quickstart Guide for
 Endpoint Policy Manager application manager to help you get up and running.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ztf995Ou-fk" title="Endpoint Policy Manager Group Policy Edition: Normal Quickstart (With Active Directory)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ztf995Ou-fk" title="Endpoint Policy Manager Group Policy Edition: Normal Quickstart (With Active Directory)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="1"></iframe>
 
 ### PolicyPak On-Prem QuickStart for PolicyPak Application Manager
 

@@ -21,7 +21,7 @@ Good news for you: We've got that problem totally handled.
 Watch this video (exclusively for App-V administrators) to see exactly how to manage App-V sequences
 using Group Policy using Netwrix Endpoint Policy Manager (formerly PolicyPak):
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9NPOcRjOrvs?si=tCaXFOOd7KjV7CrO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9NPOcRjOrvs?si=tCaXFOOd7KjV7CrO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 You're smart. You picked App-V to make application deployment easier.
 

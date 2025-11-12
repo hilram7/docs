@@ -12,7 +12,7 @@ use Item Level Targeting
 with Endpoint Policy Manager Java Rules quickly. Making a Java Deployment Rule Set for your
 Enterprise has never been easier or more flexible.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/A3Tf2zudnd8" title="Endpoint Policy Manager Java Rules Manager: Using item Level Targeting to Specify which version of Java to use" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A3Tf2zudnd8" title="Endpoint Policy Manager Java Rules Manager: Using item Level Targeting to Specify which version of Java to use" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="1"></iframe>
 
 ### Endpoint Policy Manager Java Rules Manager: Specify which version of Java for which computer
 

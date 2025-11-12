@@ -9,7 +9,7 @@ Want to see how to dictate which websites can allow or block pop-ups? How about 
 Camera or Microphone? Only Netwrix Endpoint Policy Manager (formerly PolicyPak) enables you to set
 these using Group Policy or the Cloud.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tf9jasissVE?si=WUhMnWS487VxBsOG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tf9jasissVE?si=WUhMnWS487VxBsOG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Endpoint Policy Manager: Manage Firefox Pop-Ups and Permissions using Group Policy
 

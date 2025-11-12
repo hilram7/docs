@@ -8,7 +8,7 @@ sidebar_position: 40
 After you create your Enterprise Mode site lists, you can decide how to handle Edge browser. Do you
 want websites to render in Edge or IE? This video shows you how to adjust for your conditions.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hJB0LOFtXSs" title="Endpoint Policy Manager and Edge ‘Special' policies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hJB0LOFtXSs" title="Endpoint Policy Manager and Edge ‘Special' policies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="1"></iframe>
 
 ### Endpoint Policy Manager and Edge ‘Special' policies
 

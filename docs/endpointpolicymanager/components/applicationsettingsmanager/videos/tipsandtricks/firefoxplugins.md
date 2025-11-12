@@ -8,7 +8,7 @@ sidebar_position: 40
 If you have plugins that you always want to allow, for a specific website, this is the how-to video
 for you.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fGhbeVQGPqI" title="Endpoint Policy Manager: Manage Firefox Plug-ins Per Website" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fGhbeVQGPqI" title="Endpoint Policy Manager: Manage Firefox Plug-ins Per Website" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="1"></iframe>
 
 ### PolicyPak: Manage Firefox Plug-ins Per Website
 

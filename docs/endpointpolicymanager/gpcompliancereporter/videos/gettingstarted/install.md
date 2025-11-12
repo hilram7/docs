@@ -8,7 +8,7 @@ sidebar_position: 10
 Learn how to quickly license PPGPCR Endpoints, and Server. Then install both and verify that
 everything is working.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/v8ONOg2ovzE" title="PPGPCR: Installing Compliance Reporter Server and Client" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v8ONOg2ovzE" title="PPGPCR: Installing Compliance Reporter Server and Client" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="1"></iframe>
 
 ## PPGPCR: Installing Compliance Reporter Server and Client
 

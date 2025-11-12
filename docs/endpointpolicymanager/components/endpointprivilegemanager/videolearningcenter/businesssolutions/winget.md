@@ -8,7 +8,7 @@ sidebar_position: 10
 Learn how you can use Application Manager in your MDM environment to manage a myriad of settings for
 commonly used applications such as Firefox and Java!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kgp0dKhHuew" title="Endpoint Policy Manager and WinGet: Overcome UAC prompts when standard users use Windows Package Manager" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kgp0dKhHuew" title="Endpoint Policy Manager and WinGet: Overcome UAC prompts when standard users use Windows Package Manager" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="1"></iframe>
 
 Hi, this is Jeremy Moskowitz. In this video, I'm going to show you how you can use Netwrix Endpoint
 Policy Manager (formerly PolicyPak) with winget. Winget is also known as the Windows Package Manager

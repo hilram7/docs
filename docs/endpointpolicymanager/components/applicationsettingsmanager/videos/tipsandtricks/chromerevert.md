@@ -8,7 +8,7 @@ sidebar_position: 50
 Reverting settings using theNetwrix Endpoint Policy Manager (formerly PolicyPak) Chrome Pak is a
 little special. Here's the video how-to.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nn6Tgbwo7xU" title="Endpoint Policy Manager: Chrome Revert Tips (Pre-CSE 1260)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nn6Tgbwo7xU" title="Endpoint Policy Manager: Chrome Revert Tips (Pre-CSE 1260)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="1"></iframe>
 
 ### PolicyPak: Chrome Revert Tips (Pre-CSE 1260)
 

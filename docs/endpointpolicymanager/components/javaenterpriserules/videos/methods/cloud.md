@@ -12,7 +12,7 @@ websites entirely
 – even for remote machines via the Cloud. Making a Java Deployment Rule Set for your Enterprise has
 never been easier or more flexible.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/85lzyp5oTmg" title="Use Endpoint Policy Manager Cloud to choose which version of Java for what website" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/85lzyp5oTmg" title="Use Endpoint Policy Manager Cloud to choose which version of Java for what website" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="1"></iframe>
 
 Hi, this is Whitney with PolicyPak software. Have you ever had the situation where you were using
 some older legacy web app that needs an older version of Java but everywhere else you wanted to run

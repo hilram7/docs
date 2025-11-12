@@ -10,7 +10,7 @@ features. Watch this video and learn how to use Netwrix Endpoint Policy Manager 
 to deliver REAL Group Policy settings and Endpoint Policy Manager's extra settings to all your
 MobileIron MDM joined Windows 10 machines.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/I3LNSCPlvms" title="Endpoint Policy Manager and MobileIron MDM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I3LNSCPlvms" title="Endpoint Policy Manager and MobileIron MDM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="1"></iframe>
 
 ### PolicyPak and MobileIron MDM
 

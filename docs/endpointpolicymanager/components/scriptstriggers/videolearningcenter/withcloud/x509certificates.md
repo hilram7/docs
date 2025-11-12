@@ -9,7 +9,7 @@ Use Netwrix Endpoint Policy Manager (formerly PolicyPak) Cloud and Scripts Manag
 import X.509 certificates to your endpoints, regardless of where they may reside, for use with
 Endpoint Policy Manager VPN Manager or any any other purpose you have.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yUj83ArFyZI" title="Endpoint Policy Manager Cloud Scripts Manager: Distribute and Import X.509 certificates" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yUj83ArFyZI" title="Endpoint Policy Manager Cloud Scripts Manager: Distribute and Import X.509 certificates" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="1"></iframe>
 
 Script:
 

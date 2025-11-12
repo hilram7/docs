@@ -9,7 +9,7 @@ If you have trouble reverting your Chrome settings using Netwrix Endpoint Policy
 PolicyPak) Application Manager, in build 1260 or later, there's an easy fix. This video shows you
 how.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/a3eILisEaBc" title="Endpoint Policy Manager: Fix Chrome Revert with PP CSE 1260 or later" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a3eILisEaBc" title="Endpoint Policy Manager: Fix Chrome Revert with PP CSE 1260 or later" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="1"></iframe>
 
 ### PolicyPak: Fix Chrome Revert with PP CSE 1260 or later
 

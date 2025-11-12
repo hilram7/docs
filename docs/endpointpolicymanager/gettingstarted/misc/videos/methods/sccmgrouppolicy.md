@@ -11,7 +11,7 @@ something else? Never fear, Netwrix Endpoint Policy Manager (formerly PolicyPak)
 day by allowing you to deploy Admin Templates, Preferences, and Security Settings to your endpoints
 by using SCCM, KACE, Altiris, or whatever desktop management system you're already in love with!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xwEdISFBM6Q" title="Deploy Real Group Policy using SCCM or Other Management System!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xwEdISFBM6Q" title="Deploy Real Group Policy using SCCM or Other Management System!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="1"></iframe>
 
 ### Deploy Real Group Policy using SCCM or Other Management System
 

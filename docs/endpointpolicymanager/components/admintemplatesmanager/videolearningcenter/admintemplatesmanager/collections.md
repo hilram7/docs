@@ -10,7 +10,7 @@ consolidate them into something more manageable? Your dreams have come true--Net
 Manager (formerly PolicyPak)'s Admin Templates Manager allows you to do exactly that, with the power
 of Item Level Targeting.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/i2EUI7wU0aY" title="Endpoint Policy Manager Admin Templates: Collections and Item Level Targeting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i2EUI7wU0aY" title="Endpoint Policy Manager Admin Templates: Collections and Item Level Targeting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="1"></iframe>
 
 Hi, this is Whitney with Endpoint Policy Manager Software. Have you ever looked at your list of GPOs
 and been driven to despair by the sheer number of them? Don't you wish you could somehow consolidate

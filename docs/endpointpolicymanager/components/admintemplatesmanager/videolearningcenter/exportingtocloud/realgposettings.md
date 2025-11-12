@@ -9,7 +9,7 @@ You've got GPOs, but you want to get them to work with Netwrix Endpoint Policy M
 PolicyPak) cloud or your own MDM service. Here's how to take real GPOs and get them working with
 whatever you already have.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UH5GAP42LDc" title="Endpoint Policy Export Manager: Export Real GPO settings for use with PP Cloud or any MDM Service." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UH5GAP42LDc" title="Endpoint Policy Export Manager: Export Real GPO settings for use with PP Cloud or any MDM Service." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="1"></iframe>
 
 Hi, this is Jeremy Moskowitz, and in this demonstration, I'm going to show you how you can take your
 existing Group Policy settings with Microsoft and export them for use with Endpoint Policy Manager

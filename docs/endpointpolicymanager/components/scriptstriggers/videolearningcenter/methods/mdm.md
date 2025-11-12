@@ -9,7 +9,7 @@ MDM services cannot deliver scripts and UN-deliver scripts. That's where Netwrix
 Manager (formerly PolicyPak) Scripts Manager AND your MDM service become awesome. Check out this
 video for an overview of WHY you need it and some examples of PP Scripts + MDM in use.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sosYsaPbWSo" title="Endpoint Policy Manager Scripts and YOUR MDM service: Un-real power" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sosYsaPbWSo" title="Endpoint Policy Manager Scripts and YOUR MDM service: Un-real power" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="1"></iframe>
 
 ### PolicyPak Scripts and YOUR MDM service-Un-real power
 

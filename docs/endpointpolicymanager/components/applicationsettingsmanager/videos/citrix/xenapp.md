@@ -16,7 +16,7 @@ Watch this video to see how you can use Group Policy and Netwrix Endpoint Policy
 PolicyPak) to ensure that users' XenApp application settings. Settings will be automatically
 deployed and fully locked down with the IT and business settings they need to have:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_qXQ7nz1Ws?si=PDj2_31_f9DDqbWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_qXQ7nz1Ws?si=PDj2_31_f9DDqbWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 XenApp is awesome. It enables "Application Anywhere" access. But that "Application Anywhere" access
 can come back to bite you if you're not doing all you can to manage those applications.

@@ -15,7 +15,7 @@ time they launch it. Oh, and Endpoint Policy Manager also supports IrfanView too
 many other applications. Keep your IrfanView configuration settings enforced and streamlined with
 Endpoint Policy Manager. Check out this video to see how it's done.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/evQsOAGTczo" title="Endpoint Policy Manager: Manage InfranView using Group Policy, SCCM or your own management utility" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/evQsOAGTczo" title="Endpoint Policy Manager: Manage InfranView using Group Policy, SCCM or your own management utility" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="1"></iframe>
 
 ### Lockdown IrfanView with Group Policy video transcript
 
